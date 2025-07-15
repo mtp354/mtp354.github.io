@@ -24,22 +24,22 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Matthew Prest"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Brooklyn, NY"
+  employer         : "CUNY & Columbia University"
   uri              : # URL
   email            : "matthewprestnz@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+  academia         : https://percprogram.academia.edu/MatthewPrest
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=fUk15YQAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3956-516X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Matthew-Prest-2?ev=hdr_xprf"
   scopus           : # URL
 
   # Repositories and software development
