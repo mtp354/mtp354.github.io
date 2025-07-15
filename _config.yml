@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Matthew Prest"
   pronouns         : "He/Him"  
-  bio              : "PhD Candidate in Physics at the City University of New York (CUNY) Graduate Center, specializing in experimental condensed matter physics. My research focuses on quantum materials and their applications in quantum computing and spintronics."
+  bio              : "PhD Candidate in Physics at the City University of New York, my research focuses on Quantum information Theory"
   location         : "Brooklyn, NY"
   employer         : "CUNY"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   dribbble         : # Username
   github           : "mtp354"
   kaggle           : "matthewprest" 
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : "31049886"  
 
   # Social media
   artstation       : # Username
@@ -56,12 +56,12 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : # Username
+  goodreads        : "Matthew Prest"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "matthew-prest"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
