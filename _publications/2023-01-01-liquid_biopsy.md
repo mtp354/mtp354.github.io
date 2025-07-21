@@ -3,7 +3,7 @@ title: "Cost-Effectiveness of Liquid Biopsy for Colorectal Cancer Screening in P
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-01-liquid_biopsy
-excerpt: 'I really '
+excerpt: 'I really enjoyed getting to work with such a great team on this paper, all of whom brought tremendous time and talent to the task. This was also a great opportunity to build up the cost-effectiveness and probabilistic sensitivity analysis side of my modelling skills. Getting to play a part in this sort of research where there is a real opportunity to shift healthcare policy and impact lives was deeply rewarding too.'
 date: 2023-01-01
 venue: 'JAMA Network Open'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'

@@ -3,12 +3,12 @@ title: "Quantifying the potential benefits of early detection for pancreatic can
 collection: publications
 category: manuscripts
 permalink: /publication/2023-11-16-pancreatic_counterfactual
-excerpt: 'This paper is about a '
+excerpt: 'Counterfactuals and causality, along with programming and methodologic similarities, are two features that overlap between my physics research and background and my statistical modelling work at Columbia. This project was a really cool idea, as counterfactual simulation should really be more widely adopting when thinking of anything related to policy.'
 date: 2023-11-16
 venue: 'Nature Scientific Reports'
 paperurl: 'http://mtp354.github.io/files/pancreatic_counterfactual.pdf'
-bibtexurl: 'http://mtp354.github.io/files/non_demolition.bib'
-citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+bibtexurl: 'http://mtp354.github.io/files/pancreatic_counterfactual.bib'
+citation: #
 ---
 
 The benefits of cancer early detection depend on various factors, including cancer type, screening method performance, stage at diagnosis, and subsequent treatment. Although numerous studies have evaluated the effectiveness of screening interventions for identifying cancer at earlier stages, there is no quantitative analysis that studies the optimal early detection time interval that results in the greatest mortality benefit; such data could serve as a target and benchmark for cancer early detection strategies. In this study, we focus on pancreatic ductal adenocarcinoma (PDAC), a cancer known for its lack of early symptoms. Consequently, it is most often detected at late stages when the 5-year survival rate is only 3{\%}. We developed a PDAC population model that simulates an individual patient's age and stage at diagnosis, while replicating overall US cancer incidence and mortality rates. The model includes ``cancer sojourn time,'' serving as a proxy for the speed of cancer progression, with shorter times indicating rapid progression and longer times indicating slower progression. In our PDAC model, our hypothesis was that earlier cancer detection, potentially through a hypothetical screening intervention in the counterfactual analysis, would yield reduced mortality as compared to a no-screening group. We found that the benefits of early detection, such as increased life-years gained, are greater when the sojourn time is shorter, reaching their maximum when identification is made 4--6 years prior to clinical diagnosis (e.g., when a symptomatic diagnosis is made). However, when early detection occurs even earlier, for example 6--10 years prior to clinical diagnosis, the benefits significantly diminish for shorter sojourn time cancers, and level off for longer sojourn time cancers. Our study clarifies the potential benefits of PDAC early detection that explicitly incorporates individual patient heterogeneity in cancer progression and identifies quantitative benchmarks for future interventions.

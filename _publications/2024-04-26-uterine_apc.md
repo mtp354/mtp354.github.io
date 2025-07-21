@@ -3,7 +3,7 @@ title: "Trends in uterine cancer incidence in the United States: The contributio
 collection: publications
 category: manuscripts
 permalink: /publication/2024-04-26-uterine_apc
-excerpt: 'This paper is about '
+excerpt: 'This paper was inspired by some of the work I saw at an earlier CISNET conference. It was a cool opportunity to employee information theory techniques toward new applications and to use new visualization tools to convey trends.'
 date: 2024-04-26
 venue: 'Gynecologic Oncology'
 paperurl: 'http://academicpages.github.io/files/uterine_apc.pdf'

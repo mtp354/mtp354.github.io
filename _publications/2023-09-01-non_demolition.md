@@ -3,7 +3,7 @@ title: "Optical and atomic decoherence in quantum nondemolition measurement indu
 collection: publications
 category: manuscripts
 permalink: /publication/2023-09-01-non_demolition
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This project served as my introduction to the Lindblad equation and decoherence more generally, which are often under addressed in a standard undergraduate physics curriculum. I learned a lot and it was a great project for sharpening my Mathematica skills. I am very grateful to my co-authors and my then advisor for this opportunity.'
 date: 2023-09-01
 venue: 'AVS Quantum Science'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
