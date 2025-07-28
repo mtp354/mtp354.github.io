@@ -9,4 +9,4 @@ redirect_from:
 
 About Me
 ======
-Here you'll find everything about my academic journey from my work in physics and data science, my teaching record and tutoring services as well as what I've been upto and what I've learned along the way. If you have any questions regarding my research, don't hesitate to reach out to me via email!
+Here you'll find everything about my academic journey from my work in physics and data science, my teaching record and tutoring services as well as what I've been doing and everything I've learned along the way. If you have any questions regarding my research or teaching, don't hesitate to reach out to me via email!
