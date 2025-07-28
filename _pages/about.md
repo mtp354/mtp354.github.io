@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My name is Matt, welcome to site!"
+title: "Matthew Prest"
 author_profile: true
 redirect_from: 
   - /about/
