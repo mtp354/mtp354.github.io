@@ -3,9 +3,9 @@ title: "Causal Discovery in Alzheimer's Disease Research"
 collection: talks
 type: "Talk"
 permalink: /talks/Alzheimers-Causal-Discovery
-venue: "Neuroscience Research Symposium"
+venue: "HIRE Columbia University Irving Medical Center"
 date: 2023-09-20
-location: "Boston, MA, USA"
+location: "New York, USA"
 slidesurl: "http://mtp354.github.io/files/Alzheimer's Causal Discovery Project.pdf"
 ---
 

@@ -3,9 +3,9 @@ title: "Quantum Zero-Knowledge Protocols"
 collection: talks
 type: "Talk"
 permalink: /talks/Quantum-Zero-Knowledge-Protocols
-venue: "Quantum Computing Symposium"
-date: 2023-11-10
-location: "San Francisco, CA, USA"
+venue: "CUNY Graduate Center"
+date: 2024-12-10
+location: "New York, USA"
 slidesurl: 'http://mtp354.github.io/files/Quantum Zero Knowledge.pdf'
 ---
 
