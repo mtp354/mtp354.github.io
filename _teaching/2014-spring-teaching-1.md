@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "General Physics I"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate lab"
+permalink: /teaching/2020-spring-teaching-1
+venue: "NYU, Physics"
+date: 2020-01-10
+location: "New York, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I was the Lab Teaching Instructor covering experiments on the following topics:
+1. Measurements and Uncertainty
+2. Motion Sensing
+3. Particles in Equilibrium
+4. Kinematics
+5. Newton's 2nd Law
+6. Work - Energy Relations
+7. Ballistic Pendulums
+8. Torque and Angular Momentum

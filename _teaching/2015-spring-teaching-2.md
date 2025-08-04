@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "General Physics II"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate lab"
+permalink: /teaching/2021-summer-teaching-1
+venue: "NYU, Physics"
+date: 2021-06-01
+location: "New York, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I was the Lab Teaching Instructor covering experiments on the following topics:
+1. Electrostatics
+2. Electric Field Mapping
+3. Voltage, Current, and Resistance
+4. Electron Charge to Mass Ratio
+5. Current Balances
+6. Electromagnetic Induction
+7. Diffraction and Interference
+8. Oscilloscopes and EKG Readings
