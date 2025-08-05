@@ -9,4 +9,4 @@ location: "Seattle, USA"
 slidesurl: 'http://mtp354.github.io/files/APC Methods.pdf'
 ---
 
-This talk covers advanced Age-Period-Cohort methods used in cancer epidemiology research. The presentation explores statistical approaches for analyzing temporal trends in cancer incidence and mortality data.
+This talk covers a new methodology we developed to assist model decision making through visualization and information-theoretic metrics. Many microsimulation models take into account multiple time based variables and choosing which approach best fits the underlying data was largely a process of guesswork. We aimed to put this procedure on more rigorous footing to better inform other CISNET groups.

@@ -9,4 +9,4 @@ location: "Bethesda, MD, USA"
 slidesurl: 'http://mtp354.github.io/files/CISNET Gastric Aug.pdf'
 ---
 
-This presentation covers gastric cancer modeling work conducted as part of the CISNET consortium, focusing on population-level cancer control interventions and their projected outcomes.
+This presentation encompassed the now complete, first generation gastric cancer microsimulation model. The goal of this talk was to demonstrate how well targets were being met and explain the decision-making that guided the model to its final structure.
