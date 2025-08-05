@@ -9,4 +9,4 @@ location: "Bethesda, MD, USA"
 slidesurl: 'http://mtp354.github.io/files/Complex Networks Project.pdf'
 ---
 
-This project was presented as a part of the CISNET Junior Investigator series. The goal of this work was to use neural networks to remedy known missing data issues in a series of SEER databases. The Multilayer Perceptron model was an excellent candidate for imputation over this dataset due to the high dimensionality of underlying data. Our results were later integrated into certain CISNET models.
+This project involved deploying complex network analyis metrics to a live dataset of global conflict events to explore the dynamics of formation and counterformation in conflict zones. I partitioned the data into friends/enemy networks based on allegiances at particular conflict events and explored scaling, betweeness, clustering and distance metrics to better understand how conflict propagates.
