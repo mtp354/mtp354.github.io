@@ -36,7 +36,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=fUk15YQAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3956-516X"
+  orcid            :
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Matthew-Prest-2?ev=hdr_xprf"
@@ -57,7 +57,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : "Matthew Prest"
+  goodreads        :
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
