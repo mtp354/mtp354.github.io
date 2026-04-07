@@ -9,6 +9,7 @@ redirect_from:
 
 About Me
 ======
+I'm Matt, I'm currently a PhD student studying quantum information theory and this is my personal website.
 Here you'll learn about my academic journey from my work in physics and data science, my teaching record and tutoring services and everything I've learned along the way. If you have any questions regarding my research or teaching, don't hesitate to reach out to me via email!
 
 Quantum Computing
