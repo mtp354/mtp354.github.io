@@ -65,3 +65,9 @@
     font-weight: 700;
   }
 }
+
+/* Disable unused header controls */
+.greedy-nav > button,
+.greedy-nav .hidden-links {
+  display: none !important;
+}
