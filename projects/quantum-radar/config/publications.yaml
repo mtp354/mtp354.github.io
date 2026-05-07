@@ -1,0 +1,43 @@
+arxiv:
+  category: quant-ph
+  max_results: 80
+  max_age_days: 14
+  keep_top_n: 12
+
+keywords:
+  - quantum computing
+  - fault tolerance
+  - error correction
+  - surface code
+  - logical qubit
+  - bosonic code
+  - neutral atom
+  - trapped ion
+  - superconducting qubit
+  - photonic quantum
+  - modular quantum
+  - quantum architecture
+  - quantum compiler
+  - quantum algorithm
+  - cryogenic control
+  - quantum network
+  - verification
+  - delegated quantum
+  - blind quantum
+  - mbqc
+  - quantum cryptography
+
+news:
+  max_age_days: 10
+  keep_top_n: 12
+  rss_queries:
+    - quantum computing
+    - fault tolerant quantum computing
+    - quantum error correction
+    - IBM Quantum
+    - Google Quantum AI
+    - IonQ
+    - Rigetti
+    - PsiQuantum
+    - Quantinuum
+    - neutral atom quantum computing

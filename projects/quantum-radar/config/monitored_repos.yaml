@@ -1,0 +1,16 @@
+repos:
+  - slug: mtp354/Broadcasting
+    branch: main
+    setup:
+      - python -m pip install -r requirements.txt
+    checks:
+      - python -m compileall .
+      - python -m pytest -q
+      - python -m pip check
+
+  - slug: mtp354/mtp354.github.io
+    branch: main
+    setup:
+      - python -m pip install -r requirements.txt
+    checks:
+      - python -m compileall .

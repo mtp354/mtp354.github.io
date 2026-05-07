@@ -176,7 +176,6 @@ exclude:
   - CHANGELOG
   - Capfile
   - config
-  - Dockerfile
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
@@ -185,6 +184,7 @@ exclude:
   - log
   - node_modules
   - package.json*
+  - projects
   - Rakefile
   - README
   - tmp
@@ -230,6 +230,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  resources:
+    output: true
+    permalink: /:collection/:path/
+  quantum_radar:
+    output: true
+    permalink: /quantum-radar/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -287,6 +293,34 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _resources
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+      comments: false
+      toc: true
+      toc_sticky: true
+      sidebar:
+        nav: "resources"
+  # _quantum_radar
+  - scope:
+      path: ""
+      type: quantum_radar
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      share: false
+      related: false
+      comments: false
+      toc: true
+      toc_sticky: true
 
 
 # Sass/SCSS

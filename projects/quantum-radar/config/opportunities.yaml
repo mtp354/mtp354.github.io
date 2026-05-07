@@ -1,0 +1,37 @@
+opportunities:
+  max_age_days: 45
+  keep_top_n: 20
+  rss_queries:
+    - quantum computing grant
+    - quantum technology grant
+    - quantum internship
+    - quantum computing internship
+    - quantum hackathon
+    - quantum summer school
+    - quantum summer camp
+    - quantum fellowship
+    - quantum computing workshop students
+    - quantum computing undergraduate research
+
+  type_keywords:
+    grants:
+      - grant
+      - funding
+      - fellowship
+      - proposal
+      - call for proposals
+    internships:
+      - internship
+      - intern
+      - co-op
+      - studentship
+    hackathons:
+      - hackathon
+      - challenge
+      - competition
+    summer_programs:
+      - summer school
+      - summer camp
+      - workshop
+      - bootcamp
+      - academy

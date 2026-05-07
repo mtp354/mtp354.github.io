@@ -12,13 +12,37 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   - title: "Tutoring"
     url: /portfolio/
-        
+
+  - title: "Quantum Radar"
+    url: /quantum-radar/
+
+  - title: "Resources"
+    url: /resources/
+
   - title: "Blog Posts"
     url: /year-archive/
+
+# Sidebar nav for the Resources mini-wiki.
+# Referenced via `sidebar: { nav: "resources" }` on resource entries.
+resources:
+  - title: "Resources Home"
+    url: /resources/
+  - title: "Categories"
+    children:
+      - title: "Software & Libraries"
+        url: /resources/software-libraries/
+      - title: "Hardware & Providers"
+        url: /resources/hardware-providers/
+      - title: "Algorithms & Theory"
+        url: /resources/algorithms-theory/
+      - title: "Conferences & Community"
+        url: /resources/conferences-community/
+      - title: "Papers & Reading Lists"
+        url: /resources/papers-reading/
