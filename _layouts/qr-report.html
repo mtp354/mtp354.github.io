@@ -1,0 +1,13 @@
+---
+layout: single
+---
+
+{% if page.plain_summary %}
+  {% include plain-summary.html text=page.plain_summary %}
+{% endif %}
+
+{{ content }}
+
+{% if page.report_type == 'publicly-traded' %}
+  <script src="{{ '/assets/js/qr-sparklines.js' | relative_url }}" defer></script>
+{% endif %}

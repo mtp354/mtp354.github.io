@@ -1,0 +1,32 @@
+{% comment %}
+Collapsible BibTeX block with copy-to-clipboard. Hidden by default;
+toggled by the Cite button rendered by publication-actions.html.
+
+Resolves BibTeX from one of (in order):
+  1. page.bibtex          — inline BibTeX string in front matter
+  2. page.bibtexurl       — URL to a .bib file (link only, no inline)
+{% endcomment %}
+{% if page.bibtex or page.bibtexurl %}
+<section id="cite-block-{{ page.url | slugify }}" class="cite-block" hidden>
+  <div class="cite-block__header">
+    <strong>BibTeX</strong>
+    {% if page.bibtex %}
+      <button type="button" class="cite-block__copy" data-cite-copy aria-label="Copy BibTeX to clipboard">
+        <i class="fa fa-copy" aria-hidden="true"></i> Copy
+      </button>
+    {% endif %}
+    {% if page.bibtexurl %}
+      <a class="cite-block__copy" href="{{ page.bibtexurl }}" download>
+        <i class="fa fa-download" aria-hidden="true"></i> Download .bib
+      </a>
+    {% endif %}
+  </div>
+  {% if page.bibtex %}
+    <pre class="cite-block__pre"><code data-cite-text>{{ page.bibtex | escape }}</code></pre>
+  {% endif %}
+  {% if page.citation %}
+    <p class="cite-block__plain"><em>Plain citation:</em> {{ page.citation }}</p>
+  {% endif %}
+</section>
+<script src="{{ base_path }}/assets/js/copy-bibtex.js" defer></script>
+{% endif %}

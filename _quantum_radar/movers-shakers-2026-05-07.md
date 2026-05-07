@@ -6,6 +6,7 @@ excerpt: "Hand-curated list of leading quantum companies, university labs, and p
 tags:
   - movers-shakers
   - quantum-radar
+plain_summary: "What this is. A small, hand-picked reference list of leading quantum companies, university groups, and individual researchers I find useful as anchor points when reading the field's news. Intentionally incomplete and opinionated — not a comprehensive directory."
 ---
 
 A small, opinionated reference list of the people, labs, and companies I find
@@ -83,8 +84,7 @@ second group is pulled from the established academic record.
 ## Companies
 
 A blend of pure-play hardware vendors, quantum software/cloud companies, and
-the dedicated quantum divisions of large industrial players. Coverage is
-deliberately heavier on Asia than typical Western lists.
+the dedicated quantum divisions of large industrial players. I tried to keep a broad geographic mix here.
 
 | Name | HQ | Focus | Link |
 |---|---|---|---|

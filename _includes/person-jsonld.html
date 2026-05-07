@@ -1,0 +1,16 @@
+{% if page.url == '/' or page.permalink == '/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ site.author.name | jsonify }},
+  {% if site.author.bio %}"description": {{ site.author.bio | jsonify }},{% endif %}
+  {% if site.author.location %}"address": {{ site.author.location | jsonify }},{% endif %}
+  {% if site.author.employer %}"affiliation": { "@type": "Organization", "name": {{ site.author.employer | jsonify }} },{% endif %}
+  "url": {{ site.url | append: site.baseurl | jsonify }},
+  "sameAs": [
+    {% if site.author.googlescholar %}{{ site.author.googlescholar | jsonify }}{% endif %}{% if site.author.orcid %},{{ site.author.orcid | jsonify }}{% endif %}{% if site.author.github %},{{ "https://github.com/" | append: site.author.github | jsonify }}{% endif %}{% if site.author.linkedin %},{{ "https://www.linkedin.com/in/" | append: site.author.linkedin | jsonify }}{% endif %}{% if site.author.researchgate %},{{ site.author.researchgate | jsonify }}{% endif %}{% if site.author.academia %},{{ site.author.academia | jsonify }}{% endif %}
+  ]
+}
+</script>
+{% endif %}

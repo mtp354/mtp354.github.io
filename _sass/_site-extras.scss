@@ -1,0 +1,289 @@
+/* =========================================================================
+   Site-specific extras layered on top of AcademicPages.
+   - Plain-language summary callout
+   - Publication action buttons + cite block
+   - Hero quick-link cards
+   - Tag cloud
+   - QR sparklines
+   - Cover image, reading-time pill, difficulty badge for blog posts
+   - Dark-mode overrides
+   ========================================================================= */
+
+/* Plain-language summary callout ----------------------------------------- */
+.plain-summary {
+  border-left: 4px solid #4a90e2;
+  background: #f3f8fd;
+  padding: 0.85em 1.1em;
+  margin: 1.2em 0 1.6em;
+  border-radius: 4px;
+}
+.plain-summary__label {
+  font-weight: 600;
+  font-size: 0.85em;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #2a5a92;
+  margin: 0 0 0.4em;
+}
+.plain-summary__body { margin: 0; font-size: 0.97em; }
+.plain-summary__body p:last-child { margin-bottom: 0; }
+
+/* Publication action buttons -------------------------------------------- */
+.pub-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin: 1em 0 1.4em;
+}
+.pub-actions__btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  padding: 0.45em 0.9em;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: #f8f8f8;
+  color: #333;
+  font-size: 0.92em;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+.pub-actions__btn:hover,
+.pub-actions__btn:focus-visible {
+  background: #eef4fa;
+  border-color: #4a90e2;
+  color: #1a4d80;
+  outline: none;
+}
+.pub-actions__btn--cite { font-family: inherit; }
+
+/* Cite block ------------------------------------------------------------- */
+.cite-block {
+  margin: 1em 0 1.6em;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background: #fafafa;
+  padding: 0.6em 0.9em;
+}
+.cite-block[hidden] { display: none; }
+.cite-block__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6em;
+  margin-bottom: 0.5em;
+}
+.cite-block__copy {
+  border: 1px solid #bbb;
+  background: #fff;
+  border-radius: 3px;
+  padding: 0.25em 0.65em;
+  font-size: 0.85em;
+  cursor: pointer;
+  text-decoration: none;
+  color: #333;
+}
+.cite-block__copy:hover { background: #eef4fa; }
+.cite-block__pre {
+  margin: 0;
+  padding: 0.6em 0.8em;
+  background: #ffffff;
+  border: 1px solid #e2e2e2;
+  border-radius: 3px;
+  overflow-x: auto;
+  font-size: 0.85em;
+  line-height: 1.4;
+}
+.cite-block__plain { font-size: 0.9em; margin: 0.6em 0 0; }
+
+/* Inline cite-button rendering inside archive list rows ------------------ */
+.archive__item-cite {
+  margin: 0.3em 0 0;
+  font-size: 0.85em;
+}
+.archive__item-cite-btn {
+  border: 1px solid #ccc;
+  background: #f8f8f8;
+  border-radius: 3px;
+  padding: 0.15em 0.55em;
+  font-size: 0.85em;
+  cursor: pointer;
+}
+.archive__item-cite-btn:hover { background: #eef4fa; border-color: #4a90e2; }
+
+/* Hero quick-link cards -------------------------------------------------- */
+.hero-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1em;
+  margin: 1.4em 0 1.8em;
+}
+.hero-card {
+  display: block;
+  padding: 1em 1.1em;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background: #fafafa;
+  color: inherit;
+  text-decoration: none;
+  transition: transform 0.12s, box-shadow 0.12s, border-color 0.12s;
+}
+.hero-card:hover,
+.hero-card:focus-visible {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+  border-color: #4a90e2;
+  outline: none;
+}
+.hero-card__icon {
+  display: inline-block;
+  font-size: 1.5em;
+  color: #4a90e2;
+  margin-bottom: 0.3em;
+}
+.hero-card__title {
+  display: block;
+  font-weight: 600;
+  font-size: 1.05em;
+  margin-bottom: 0.3em;
+}
+.hero-card__desc { display: block; font-size: 0.9em; color: #555; }
+
+/* Tag cloud -------------------------------------------------------------- */
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em 0.8em;
+  align-items: baseline;
+  line-height: 1.7;
+  margin: 1em 0 2em;
+}
+.tag-cloud__item {
+  text-decoration: none;
+  color: #2a5a92;
+  border-bottom: 1px dotted transparent;
+}
+.tag-cloud__item:hover { border-bottom-color: currentColor; }
+.tag-cloud__item sup { color: #888; font-weight: normal; margin-left: 0.1em; }
+.tag-cloud__item--sm { font-size: 0.85em; }
+.tag-cloud__item--md { font-size: 1.05em; }
+.tag-cloud__item--lg { font-size: 1.3em; font-weight: 600; }
+.tag-cloud__item--xl { font-size: 1.6em; font-weight: 700; }
+
+/* Quantum Radar sparklines + leaderboard --------------------------------- */
+.qr-spark { vertical-align: middle; }
+.qr-leaderboard { margin: 1em 0 1.5em; }
+.qr-leaderboard ol { padding-left: 1.4em; }
+.qr-leaderboard li { margin: 0.2em 0; }
+.qr-leaderboard__rank {
+  display: inline-block;
+  min-width: 1.6em;
+  font-variant-numeric: tabular-nums;
+  color: #888;
+}
+
+/* Blog cover image, reading time, difficulty badge ----------------------- */
+.archive__item-cover {
+  display: block;
+  margin-bottom: 0.6em;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.archive__item-cover img { display: block; width: 100%; height: auto; }
+.archive__item-meta-extra {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6em;
+  margin: 0.3em 0 0.4em;
+  font-size: 0.85em;
+  color: #666;
+}
+.archive__item-meta-extra .difficulty {
+  display: inline-block;
+  padding: 0.05em 0.55em;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 0.85em;
+}
+.difficulty-beginner     { background: #e6f4ea; color: #1a6d35; }
+.difficulty-intermediate { background: #fff3cd; color: #7a5b00; }
+.difficulty-advanced     { background: #fde2e2; color: #8a1f1f; }
+
+/* Theme toggle button --------------------------------------------------- */
+#theme-toggle {
+  background: transparent;
+  border: 1px solid transparent;
+  color: inherit;
+  font-size: 1.05em;
+  padding: 0.35em 0.55em;
+  margin-left: 0.3em;
+  cursor: pointer;
+  border-radius: 4px;
+}
+#theme-toggle:hover,
+#theme-toggle:focus-visible {
+  border-color: #ccc;
+  background: rgba(0,0,0,0.04);
+  outline: none;
+}
+
+/* ----------------------------------------------------------------------- */
+/* Dark-mode overrides — applied when <html data-theme="dark">            */
+/* ----------------------------------------------------------------------- */
+html[data-theme="dark"] {
+  background: #181a1f;
+  color: #d8dde3;
+
+  body { background: #181a1f; color: #d8dde3; }
+  a { color: #7eb8ff; }
+  a:hover { color: #a9d0ff; }
+
+  .masthead, .greedy-nav, .page__footer, .sidebar, .author__avatar, .author__content {
+    background: #1f2128 !important;
+    color: #d8dde3 !important;
+    border-color: #2c2f38 !important;
+  }
+  .greedy-nav a { color: #d8dde3; }
+  .greedy-nav .visible-links a:before { background: #7eb8ff; }
+
+  .page__title, .page__meta, .page__content, h1, h2, h3, h4, h5, h6 {
+    color: #e8ecf2;
+  }
+
+  .plain-summary { background: #1c2a3a; border-left-color: #7eb8ff; }
+  .plain-summary__label { color: #a9d0ff; }
+
+  .pub-actions__btn,
+  .archive__item-cite-btn {
+    background: #23262e;
+    border-color: #3a3e48;
+    color: #d8dde3;
+  }
+  .pub-actions__btn:hover,
+  .archive__item-cite-btn:hover { background: #2a3543; border-color: #7eb8ff; color: #d8dde3; }
+
+  .cite-block { background: #1f2128; border-color: #3a3e48; }
+  .cite-block__pre { background: #15171c; border-color: #2c2f38; color: #d8dde3; }
+  .cite-block__copy { background: #23262e; border-color: #3a3e48; color: #d8dde3; }
+
+  .hero-card { background: #1f2128; border-color: #2c2f38; }
+  .hero-card:hover { border-color: #7eb8ff; }
+  .hero-card__desc { color: #aab2bd; }
+  .hero-card__icon { color: #7eb8ff; }
+
+  .tag-cloud__item { color: #a9d0ff; }
+  .tag-cloud__item sup { color: #7c8493; }
+
+  table { color: #d8dde3; }
+  th, td { border-color: #3a3e48 !important; }
+  thead { background: #23262e !important; }
+  tbody tr:nth-child(2n) { background: #1d1f25 !important; }
+
+  pre, code { background: #15171c !important; color: #e6c07b; }
+  blockquote { border-left-color: #3a3e48; color: #aab2bd; }
+
+  .difficulty-beginner     { background: #1d3a26; color: #9bd9b1; }
+  .difficulty-intermediate { background: #3a3115; color: #ecd58a; }
+  .difficulty-advanced     { background: #3a1d1d; color: #f1a3a3; }
+}

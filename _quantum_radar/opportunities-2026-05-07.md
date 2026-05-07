@@ -6,6 +6,7 @@ excerpt: "Grants, internships, summer schools, and fellowships."
 tags:
   - opportunities
   - quantum-radar
+plain_summary: "What this is. A scraped-and-curated table of internships, grants, summer programs, hackathons, and fellowships in quantum computing that I personally watch. Deadlines and statuses are pulled automatically where possible; expect occasional staleness."
 ---
 
 _Generated: 2026-05-07 UTC_

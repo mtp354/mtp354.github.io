@@ -1,0 +1,26 @@
+{% comment %}
+Action-button row for a publication landing page.
+Renders a button only if the corresponding front-matter field is set.
+Recognized fields: paperurl, arxiv, doi, slidesurl, code, data, bibtexurl.
+{% endcomment %}
+{% assign has_actions = false %}
+{% if page.paperurl or page.arxiv or page.doi or page.slidesurl or page.code or page.data or page.bibtexurl %}
+  {% assign has_actions = true %}
+{% endif %}
+
+{% if has_actions %}
+<nav class="pub-actions" aria-label="Publication links">
+  {% if page.paperurl %}<a class="pub-actions__btn" href="{{ page.paperurl }}"><i class="fa fa-file-pdf" aria-hidden="true"></i> PDF</a>{% endif %}
+  {% if page.arxiv %}<a class="pub-actions__btn" href="{{ page.arxiv }}"><i class="fa fa-archive" aria-hidden="true"></i> arXiv</a>{% endif %}
+  {% if page.doi %}<a class="pub-actions__btn" href="https://doi.org/{{ page.doi | remove: 'https://doi.org/' }}"><i class="fa fa-link" aria-hidden="true"></i> DOI</a>{% endif %}
+  {% if page.slidesurl %}<a class="pub-actions__btn" href="{{ page.slidesurl }}"><i class="fa fa-chalkboard" aria-hidden="true"></i> Slides</a>{% endif %}
+  {% if page.code %}<a class="pub-actions__btn" href="{{ page.code }}"><i class="fa fa-code" aria-hidden="true"></i> Code</a>{% endif %}
+  {% if page.data %}<a class="pub-actions__btn" href="{{ page.data }}"><i class="fa fa-database" aria-hidden="true"></i> Data</a>{% endif %}
+  {% if page.bibtexurl or page.bibtex %}
+    <button class="pub-actions__btn pub-actions__btn--cite" type="button"
+            data-cite-toggle aria-expanded="false" aria-controls="cite-block-{{ page.url | slugify }}">
+      <i class="fa fa-quote-right" aria-hidden="true"></i> Cite
+    </button>
+  {% endif %}
+</nav>
+{% endif %}

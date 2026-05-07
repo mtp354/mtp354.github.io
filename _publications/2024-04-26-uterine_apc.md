@@ -9,6 +9,7 @@ venue: 'Gynecologic Oncology'
 paperurl: 'http://academicpages.github.io/files/uterine_apc.pdf'
 bibtexurl: 'http://mtp354.github.io/files/uterine_apc.bib'
 citation: #
+plain_summary: "Plain-language summary (draft — please review). Uterine cancer rates in the U.S. are rising, and not equally across groups. Using 28 years of registry data and an information-theory tool, we separated the trend into the contributions of age, calendar year, and birth-cohort. Age dominates, but a meaningful share comes from the birth cohort you happen to belong to — which points to long-acting risk factors changing across generations."
 ---
 Objective
 In the U.S., uterine cancer incidence is rising, with racial and ethnic minorities experiencing the largest increases. We performed age-period-cohort analyses using novel methods to examine the contribution of age at diagnosis (age), year of diagnosis (period), and birth cohort (cohort), to trends in uterine cancer incidence.

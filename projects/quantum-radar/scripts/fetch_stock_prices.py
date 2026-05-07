@@ -12,6 +12,7 @@ is not a meaningful proxy for the public-market quantum sector.
 from __future__ import annotations
 
 import datetime as _dt
+import json
 import sys
 from pathlib import Path
 
@@ -37,26 +38,28 @@ def _today() -> str:
     return _dt.datetime.now(_dt.timezone.utc).strftime("%Y-%m-%d")
 
 
-def _fetch_one(ticker: str) -> tuple[float | None, float | None]:
-    """Return (last_price, change_pct_vs_prev_close)."""
+def _fetch_one(ticker: str) -> tuple[float | None, float | None, list[float]]:
+    """Return (last_price, change_pct_vs_prev_close, last_30d_closes)."""
     try:
         t = yf.Ticker(ticker)
-        hist = t.history(period="5d", interval="1d", auto_adjust=False)
+        hist = t.history(period="2mo", interval="1d", auto_adjust=False)
         if hist is None or hist.empty:
-            return None, None
+            return None, None, []
         closes = hist["Close"].dropna()
         if closes.empty:
-            return None, None
+            return None, None, []
         last = float(closes.iloc[-1])
         if len(closes) >= 2:
             prev = float(closes.iloc[-2])
             pct = (last - prev) / prev * 100.0 if prev else None
         else:
             pct = None
-        return last, pct
+        # Trim to last 30 trading days for sparkline
+        spark = [round(float(x), 4) for x in closes.tail(30).tolist()]
+        return last, pct, spark
     except Exception as e:  # noqa: BLE001
         print(f"  ! {ticker}: {e}", file=sys.stderr)
-        return None, None
+        return None, None, []
 
 
 def _fmt_price(p: float | None) -> str:
@@ -72,15 +75,53 @@ def _fmt_pct(p: float | None) -> str:
 
 def main() -> int:
     date = _today()
-    rows_co: list[str] = []
-    rows_etf: list[str] = []
+    spark_data: dict[str, list[float]] = {}
+    movers: list[tuple[str, str, float]] = []  # (ticker, name, pct)
     for ticker, name, hq, focus, kind in TICKERS:
-        price, pct = _fetch_one(ticker)
+        price, pct, spark = _fetch_one(ticker)
+        if spark:
+            spark_data[ticker] = spark
+        if pct is not None:
+            movers.append((ticker, name, pct))
+        spark_cell = f'<span data-spark="{ticker}"></span>' if spark else "—"
         row = (
             f"| {ticker} | {name} | {hq} | {focus} | "
-            f"{_fmt_price(price)} | {_fmt_pct(pct)} |"
+            f"{_fmt_price(price)} | {_fmt_pct(pct)} | {spark_cell} |"
         )
         (rows_etf if kind == "etf" else rows_co).append(row)
+
+    # Leaderboard: top movers (absolute), then top gainers, then top losers.
+    movers_sorted = sorted(movers, key=lambda x: x[2], reverse=True)
+    gainers = movers_sorted[:5]
+    losers = sorted(movers, key=lambda x: x[2])[:5]
+
+    leaderboard_lines = [
+        "## Leaderboard (1-day move)",
+        "",
+        '<div class="qr-leaderboard">',
+        "",
+        "**Top gainers**",
+        "",
+        "<ol>",
+        *[
+            f'<li><strong>{name}</strong> ({tk}) — {_fmt_pct(p)}</li>'
+            for tk, name, p in gainers
+        ],
+        "</ol>",
+        "",
+        "**Top decliners**",
+        "",
+        "<ol>",
+        *[
+            f'<li><strong>{name}</strong> ({tk}) — {_fmt_pct(p)}</li>'
+            for tk, name, p in losers
+        ],
+        "</ol>",
+        "",
+        "</div>",
+        "",
+    ]'plain_summary: "What this is. Daily closing prices for the small set of publicly listed companies whose entire business is quantum (hardware, software, or quantum-enabled products), plus a couple of broad quantum-tech ETFs. Diversified mega-caps with quantum divisions are intentionally excluded. Informational only — not investment advice."',
+        
 
     body_lines = [
         f"_Generated: {date} UTC. Prices are last available daily close from "
@@ -93,8 +134,8 @@ def main() -> int:
         "Diversified mega-caps with quantum divisions (Google, IBM, "
         "Microsoft, Amazon, etc.) are intentionally excluded.",
         "",
-        "| Ticker | Company | HQ | Focus | Last close | Δ vs prev close |",
-        "|---|---|---|---|---|---|",
+        "| Ticker | Company | HQ | Focus | Last close | Δ vs prev close | 30d |",
+        "|---|---|---|---|---|---|---|",
         *rows_co,
         "",
         "## ETFs",
@@ -102,7 +143,14 @@ def main() -> int:
         "Broad-basket exchange-traded funds that track quantum-computing "
         "and adjacent quantum-tech holdings.",
         "",
-        "| Ticker | Fund | Listing | Focus | Last close | Δ vs prev close |",
+        "| Ticker | Fund | Listing | Focus | Last close | Δ vs prev close | 30d |",
+        "|---|---|---|---|---|---|---|",
+        *rows_etf,
+        "",
+        *leaderboard_lines,
+        '<script type="application/json" id="qr-spark-data">',
+        json.dumps(spark_data, separators=(",", ":")),
+        "</script>" | Fund | Listing | Focus | Last close | Δ vs prev close |",
         "|---|---|---|---|---|---|",
         *rows_etf,
         "",

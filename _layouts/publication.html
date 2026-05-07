@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <article class="page" itemscope itemtype="https://schema.org/ScholarlyArticle">
+    <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.venue %}<meta itemprop="publisher" content="{{ page.venue }}">{% endif %}
+
+    <div class="page__inner-wrap">
+      <header>
+        <h1 class="page__title" itemprop="name">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+        {% if page.authors %}
+          <p class="page__meta" itemprop="author"><i class="fa fa-users" aria-hidden="true"></i> {{ page.authors }}</p>
+        {% endif %}
+        {% if page.venue %}
+          <p class="page__meta">
+            <i class="fa fa-book" aria-hidden="true"></i>
+            <em>{{ page.venue }}</em>{% if page.date %}, {{ page.date | date: "%Y" }}{% endif %}
+          </p>
+        {% elsif page.date %}
+          <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i> {{ page.date | date: "%B %-d, %Y" }}</p>
+        {% endif %}
+      </header>
+
+      {% if page.plain_summary %}
+        {% include plain-summary.html text=page.plain_summary %}
+      {% endif %}
+
+      {% include publication-actions.html %}
+
+      <section class="page__content" itemprop="articleBody">
+        {{ content }}
+      </section>
+
+      {% include cite-block.html %}
+
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+      </footer>
+
+      {% if page.share %}{% include social-share.html %}{% endif %}
+      {% include post_pagination.html %}
+    </div>
+  </article>
+</div>
+
+{% include scholarly-jsonld.html %}

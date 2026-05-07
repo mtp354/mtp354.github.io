@@ -6,6 +6,7 @@ excerpt: "Daily close prices for publicly listed quantum-primary companies and b
 tags:
   - publicly-traded
   - quantum-radar
+plain_summary: "What this is. Daily closing prices for the small set of publicly listed companies whose entire business is quantum (hardware, software, or quantum-enabled products), plus a couple of broad quantum-tech ETFs. Diversified mega-caps with quantum divisions are intentionally excluded. Informational only — not investment advice."
 ---
 
 _Generated: 2026-05-07 UTC. Prices are last available daily close from Yahoo Finance and are informational only — not investment advice._

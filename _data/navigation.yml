@@ -14,17 +14,20 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "Tutoring"
     url: /portfolio/
 
   - title: "Quantum Radar"
     url: /quantum-radar/
 
+  - title: "Quantum 101"
+    url: /quantum-101/
+
   - title: "Resources"
     url: /resources/
+
+  - title: "Now"
+    url: /now/
 
   - title: "Blog Posts"
     url: /year-archive/

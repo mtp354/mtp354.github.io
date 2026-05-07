@@ -1,0 +1,48 @@
+name: Generate OG share images
+
+on:
+  push:
+    branches: [ main, master ]
+    paths:
+      - '_pages/**'
+      - '_publications/**'
+      - '_posts/**'
+      - '_quantum_radar/**'
+      - '_talks/**'
+      - '_resources/**'
+      - '.github/workflows/og-images.yml'
+      - 'projects/og-images/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Pillow
+        run: pip install Pillow PyYAML
+
+      - name: Generate OG images
+        run: python projects/og-images/generate.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/og/ || true
+          if git diff --cached --quiet; then
+            echo "No OG image changes."
+          else
+            git commit -m "chore(og): regenerate share images [skip ci]"
+            git push
+          fi

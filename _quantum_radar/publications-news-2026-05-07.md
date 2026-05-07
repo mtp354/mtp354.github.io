@@ -6,6 +6,7 @@ excerpt: "Quantum publications and news digest."
 tags:
   - publications-news
   - quantum-radar
+plain_summary: "What this is. A short digest of recent quantum-computing arXiv preprints and news headlines, refreshed every couple of days. Use it as a low-effort way to skim what's happening this week without committing to a full feed reader."
 ---
 
 _Generated: 2026-05-05 11:41 UTC_

@@ -1,0 +1,15 @@
+{% if page.collection == 'publications' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": {{ page.title | strip_html | strip_newlines | jsonify }},
+  {% if page.authors %}"author": {{ page.authors | split: "," | jsonify }},{% endif %}
+  {% if page.date %}"datePublished": {{ page.date | date_to_xmlschema | jsonify }},{% endif %}
+  {% if page.venue %}"publisher": { "@type": "Organization", "name": {{ page.venue | jsonify }} },{% endif %}
+  {% if page.doi %}"sameAs": "https://doi.org/{{ page.doi | remove: 'https://doi.org/' }}",{% endif %}
+  {% if page.excerpt %}"description": {{ page.excerpt | strip_html | strip_newlines | jsonify }},{% endif %}
+  "url": {{ page.url | absolute_url | jsonify }}
+}
+</script>
+{% endif %}

@@ -1,0 +1,22 @@
+---
+layout: null
+permalink: /publications.xml
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.title | xml_escape }} — Publications</title>
+  <link href="{{ '/publications.xml' | absolute_url }}" rel="self" />
+  <link href="{{ '/publications/' | absolute_url }}" />
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ '/publications.xml' | absolute_url }}</id>
+  {% for pub in site.publications reversed %}
+  <entry>
+    <title>{{ pub.title | strip_html | xml_escape }}</title>
+    <link href="{{ pub.url | absolute_url }}" />
+    <id>{{ pub.url | absolute_url }}</id>
+    {% if pub.date %}<updated>{{ pub.date | date_to_xmlschema }}</updated>{% endif %}
+    {% if pub.excerpt %}<summary>{{ pub.excerpt | strip_html | xml_escape }}</summary>{% endif %}
+    {% if pub.authors %}<author><name>{{ pub.authors | xml_escape }}</name></author>{% endif %}
+  </entry>
+  {% endfor %}
+</feed>

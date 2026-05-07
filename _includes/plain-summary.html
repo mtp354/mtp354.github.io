@@ -1,0 +1,8 @@
+{% comment %}
+Boxed plain-language summary callout. Pass `text` as the summary string.
+Used on publication pages and Quantum Radar reports.
+{% endcomment %}
+<aside class="plain-summary" aria-label="Plain-language summary">
+  <p class="plain-summary__label"><i class="fa fa-comment-dots" aria-hidden="true"></i> Plain-language summary</p>
+  <div class="plain-summary__body">{{ include.text | markdownify }}</div>
+</aside>

@@ -7,13 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-Here is a small, friendly list of the quantum computing tools, papers, and
-communities that I personally rely on and keep coming back to. It is
-intentionally lean — just the things I genuinely use — and inspired by the
-spirit of [AstroBetter](https://www.astrobetter.com/wiki/Wiki+Home).
+Welcome! This is a little corner of the site where I keep the quantum
+computing tools, papers, and communities I genuinely rely on. Think of it
+less as an exhaustive directory and more as a friend handing you the short
+list of "things I actually use." It is inspired by the spirit of
+[AstroBetter](https://www.astrobetter.com/wiki/Wiki+Home).
 
-If something here helps you (or is out of date), feel free to open an issue
-on the [site repo]({{ site.repository | prepend: 'https://github.com/' }}).
+I try to keep this lean and current. If something here helped you, or if a
+link is stale, please open an issue on the
+[site repo]({{ site.repository | prepend: 'https://github.com/' }}) — I
+appreciate the nudge.
 
 ## Quick Links
 
