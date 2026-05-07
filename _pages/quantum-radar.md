@@ -6,20 +6,23 @@ toc: true
 toc_sticky: true
 ---
 
-**Quantum Radar** is an in-repo automation that scans the quantum computing
-landscape on a schedule. It runs as a set of GitHub Actions inside this
-website's repository and publishes its output below.
+**Quantum Radar** is a small in-repo automation that I use to keep tabs on
+the quantum computing world while I work on other things. It runs as a set
+of GitHub Actions inside this website's repository and quietly publishes
+fresh pages here for me to skim later. I share it openly in case any of it
+is useful to you too.
 
-It produces four feeds:
+Here is what it currently tracks:
 
-- **Opportunities** — grants, hackathons, summer schools, internships, and
-  fellowships, every three days. Curated seed list plus freshly scraped items,
-  rendered as tables with deadlines.
-- **Publications & news** — quantum publications and news digest, every two
-  days.
-- **Repo health** — daily checks across my own monitored quantum repos.
-- **Quantum 100** — hand-curated list of leading quantum companies and
-  people, refreshed manually.
+- **Opportunities** — a curated list of grants, internships, summer schools,
+  hackathons, and fellowships I am watching, with deadlines pulled from each
+  program's page where possible. Refreshed every three days.
+- **Publications & news** — a quantum publications and news digest, every
+  two days.
+- **Movers & Shakers** — a hand-curated list of leading quantum companies,
+  influential university labs, and people doing notable work in the field.
+- **Publicly Traded Quantum** — primary publicly listed quantum companies
+  and a couple of broad quantum ETFs, with stock prices refreshed daily.
 
 The orchestrator code lives at
 [`projects/quantum-radar/`]({{ site.repository | prepend: 'https://github.com/' }}/tree/main/projects/quantum-radar)
@@ -29,8 +32,8 @@ in this same repo.
 
 {% include base_path %}
 
-{% assign report_types = "opportunities,publications-news,repo-health,quantum-100" | split: "," %}
-{% assign type_labels = "Opportunities,Publications & news,Repo health,Quantum 100" | split: "," %}
+{% assign report_types = "opportunities,publications-news,movers-shakers,publicly-traded" | split: "," %}
+{% assign type_labels = "Opportunities,Publications & news,Movers & Shakers,Publicly Traded Quantum" | split: "," %}
 
 {% for rt in report_types %}
   {% assign idx = forloop.index0 %}

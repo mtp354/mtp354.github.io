@@ -7,13 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-A small, curated wiki of tools, papers, communities, and references I find
-useful in quantum computing research. Inspired by
-[AstroBetter](https://www.astrobetter.com/wiki/Wiki+Home), but focused on QC
-and intentionally lean.
+Here is a small, friendly list of the quantum computing tools, papers, and
+communities that I personally rely on and keep coming back to. It is
+intentionally lean — just the things I genuinely use — and inspired by the
+spirit of [AstroBetter](https://www.astrobetter.com/wiki/Wiki+Home).
 
-Suggestions or corrections? Open an issue on the
-[site repo]({{ site.repository | prepend: 'https://github.com/' }}).
+If something here helps you (or is out of date), feel free to open an issue
+on the [site repo]({{ site.repository | prepend: 'https://github.com/' }}).
 
 ## Quick Links
 

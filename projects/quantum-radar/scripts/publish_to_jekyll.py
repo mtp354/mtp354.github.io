@@ -21,11 +21,6 @@ COLLECTION_DIR = SITE_ROOT / "_quantum_radar"
 
 
 REPORT_TYPES = {
-    "repo-health": {
-        "title": "Repo health",
-        "description": "Daily health check across monitored quantum repositories.",
-        "filename": "report.md",
-    },
     "publications-news": {
         "title": "Publications & news",
         "description": "Quantum publications and news digest.",

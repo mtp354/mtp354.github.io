@@ -77,10 +77,6 @@ def enrich_entry(entry: dict[str, Any]) -> bool:
     if not found:
         return False
     entry["deadline"] = found
-    note = entry.get("notes") or ""
-    tag = "[deadline auto-detected]"
-    if tag not in note:
-        entry["notes"] = (note + " " + tag).strip()
     return True
 
 

@@ -1,0 +1,46 @@
+name: Quantum Radar — Publicly Traded prices
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily at 22:30 UTC (after US market close).
+    - cron: "30 22 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  prices:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: projects/quantum-radar
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: projects/quantum-radar/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch stock prices
+        run: python scripts/fetch_stock_prices.py
+
+      - name: Commit updates
+        working-directory: ${{ github.workspace }}
+        run: |
+          if [ -z "$(git status --porcelain -- _quantum_radar)" ]; then
+            echo "No price changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _quantum_radar
+          git commit -m "chore(quantum-radar): refresh publicly-traded prices"
+          git push origin HEAD:${{ github.ref_name }}

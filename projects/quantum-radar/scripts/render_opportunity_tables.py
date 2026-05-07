@@ -79,10 +79,11 @@ def _rss_to_entry(item: dict[str, Any]) -> dict[str, Any] | None:
     return {
         "name": title,
         "organization": organization,
+        "location": "",
         "type": bucket,
         "deadline": None,
         "link": item.get("url", ""),
-        "notes": "auto-discovered",
+        "notes": "",
     }
 
 
@@ -106,8 +107,8 @@ def _merge(seed: dict[str, list[dict[str, Any]]], rss: list[dict[str, Any]]) -> 
 def _render_table(entries: list[dict[str, Any]]) -> str:
     if not entries:
         return "_No entries._\n"
-    header = "| Name | Organization | Type | Deadline | Status | Link | Notes |\n"
-    sep = "|---|---|---|---|---|---|---|\n"
+    header = "| Name | Organization | Location | Type | Deadline | Status | Link | Notes |\n"
+    sep = "|---|---|---|---|---|---|---|---|\n"
     rows = []
     # Open first, then Closed; within each group, soonest deadline first
     # (entries without a deadline sort to the end of the Open group).
@@ -118,6 +119,7 @@ def _render_table(entries: list[dict[str, Any]]) -> str:
     for e in sorted(entries, key=sort_key):
         name = md_escape_cell(e.get("name", ""))
         org = md_escape_cell(e.get("organization", ""))
+        location = md_escape_cell(e.get("location", ""))
         typ = md_escape_cell(e.get("type", ""))
         deadline = fmt_deadline(e.get("deadline"))
         status = "Open" if is_open(e.get("deadline")) else "Closed"
@@ -125,7 +127,7 @@ def _render_table(entries: list[dict[str, Any]]) -> str:
         link_md = f"[apply]({link})" if link else "—"
         notes = md_escape_cell(e.get("notes") or "")
         rows.append(
-            f"| {name} | {org} | {typ} | {deadline} | {status} | {link_md} | {notes} |"
+            f"| {name} | {org} | {location or '—'} | {typ} | {deadline} | {status} | {link_md} | {notes} |"
         )
     return header + sep + "\n".join(rows) + "\n"
 

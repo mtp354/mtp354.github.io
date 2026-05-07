@@ -4,6 +4,7 @@
 # Schema (one entry per item):
 #   name:          short title shown in the table
 #   organization:  hosting org (company / university / lab / agency)
+#   location:      city / region / country (free-form)
 #   type:          one of internships | grants | summer_programs | hackathons | fellowships
 #   deadline:      ISO date "YYYY-MM-DD", or null if unknown
 #   link:          canonical application URL
@@ -14,6 +15,7 @@
 internships:
   - name: "PhD Quantum Computing Intern (Summer 2026)"
     organization: "Visa"
+    location: "Palo Alto, CA, USA"
     type: internships
     deadline: null
     link: "https://jobs.smartrecruiters.com/Visa/744000081110134-staff-research-scientist-intern-phd-quantum-computing-summer-2026"
@@ -21,6 +23,7 @@ internships:
 
   - name: "Theory Intern"
     organization: "IBM"
+    location: "Yorktown Heights, NY, USA"
     type: internships
     deadline: null
     link: "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=60199"
@@ -28,6 +31,7 @@ internships:
 
   - name: "Quantum Intern - Zurich"
     organization: "IBM Research Zurich"
+    location: "Zurich, Switzerland"
     type: internships
     deadline: null
     link: "https://www.zurich.ibm.com/careers/2025_026.html"
@@ -35,6 +39,7 @@ internships:
 
   - name: "Qiskit Advocate Program"
     organization: "IBM"
+    location: "Yorktown Heights, NY, USA"
     type: internships
     deadline: null
     link: "https://www.ibm.com/quantum/blog/qiskit-advocate-program"
@@ -42,6 +47,7 @@ internships:
 
   - name: "Quantum Internship"
     organization: "QuEra Computing"
+    location: "Boston, MA, USA"
     type: internships
     deadline: "2025-12-15"
     link: "https://job-boards.greenhouse.io/queracomputinginc"
@@ -49,6 +55,7 @@ internships:
 
   - name: "Quantum Science Intern"
     organization: "Riverlane"
+    location: "Cambridge, UK"
     type: internships
     deadline: "2025-11-16"
     link: "https://apply.workable.com/riverlane/j/F2EC5C8A75/"
@@ -56,6 +63,7 @@ internships:
 
   - name: "Computer Science Intern"
     organization: "Quantinuum"
+    location: "Cambridge, UK / Broomfield, CO, USA"
     type: internships
     deadline: null
     link: "https://jobs.eu.lever.co/quantinuum/85845a1c-7225-48e9-b352-f350c260c4b3"
@@ -63,6 +71,7 @@ internships:
 
   - name: "PhD Intern - Quantum Computing"
     organization: "Pacific Northwest National Laboratory"
+    location: "Richland, WA, USA"
     type: internships
     deadline: "2025-11-20"
     link: "https://careers.pnnl.gov/jobs/11043"
@@ -70,6 +79,7 @@ internships:
 
   - name: "Quantum Architecture Intern"
     organization: "PsiQuantum"
+    location: "Palo Alto, CA, USA"
     type: internships
     deadline: null
     link: "https://www.psiquantum.com/apply?gh_jid=6536805003"
@@ -77,6 +87,7 @@ internships:
 
   - name: "Quantum Startup - Open Roles"
     organization: "Logiqal"
+    location: "United States"
     type: internships
     deadline: null
     link: "https://jobs.ashbyhq.com/logiqal/41a2cc1f-b131-4865-ac38-3f7ea1d6e0ab"
@@ -84,6 +95,7 @@ internships:
 
   - name: "Applied Scientist Intern (University Talent Acquisition)"
     organization: "Amazon"
+    location: "Seattle, WA, USA"
     type: internships
     deadline: null
     link: "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition"
@@ -91,6 +103,7 @@ internships:
 
   - name: "Quantum Research Scientist Intern - Device & Architecture Theory"
     organization: "AWS Center for Quantum Computing"
+    location: "Pasadena, CA, USA"
     type: internships
     deadline: null
     link: "https://www.amazon.jobs/en/jobs/3156249/quantum-research-scientist-intern-device-and-architecture-theory-aws-center-for-quantum-computing"
@@ -98,6 +111,7 @@ internships:
 
   - name: "Quantum Talent Community"
     organization: "IonQ"
+    location: "College Park, MD, USA"
     type: internships
     deadline: null
     link: "https://ionq.com/careers/5394784004"
@@ -105,6 +119,7 @@ internships:
 
   - name: "Quantum Roles - General Listing"
     organization: "D-Wave"
+    location: "Burnaby, BC, Canada"
     type: internships
     deadline: null
     link: "https://ats.rippling.com/d-wave-quantum/jobs"
@@ -112,6 +127,7 @@ internships:
 
   - name: "Student Opportunities"
     organization: "Google Quantum AI"
+    location: "Santa Barbara, CA, USA"
     type: internships
     deadline: null
     link: "https://quantumai.google/site-assets/downloads/qai-student-opportunities.pdf"
@@ -119,6 +135,7 @@ internships:
 
   - name: "Quantum Roles"
     organization: "NVIDIA"
+    location: "Santa Clara, CA, USA"
     type: internships
     deadline: null
     link: "https://www.nvidia.com/en-us/about-nvidia/careers/"
@@ -126,6 +143,7 @@ internships:
 
   - name: "Quantum Roles"
     organization: "Quantum Computing Inc. (QCI)"
+    location: "Hoboken, NJ, USA"
     type: internships
     deadline: null
     link: "https://quantumcomputinginc.com/company/careers"
@@ -133,6 +151,7 @@ internships:
 
   - name: "Atom Computing Intern"
     organization: "Atom Computing"
+    location: "Boulder, CO, USA"
     type: internships
     deadline: null
     link: "https://jobs.lever.co/atomcomputing/fe776c31-43f1-458b-98b6-ed201da0da6d"
@@ -140,6 +159,7 @@ internships:
 
   - name: "Quantum Engineer Intern"
     organization: "Rigetti"
+    location: "Berkeley, CA, USA"
     type: internships
     deadline: null
     link: "https://jobs.lever.co/rigetti/491f6092-a9ea-4411-9ab2-0b239785700b"
@@ -147,6 +167,7 @@ internships:
 
   - name: "Quantum Specialist - Innovation, Delivery & Transformation"
     organization: "Deloitte"
+    location: "United States"
     type: internships
     deadline: null
     link: "https://apply.deloitte.com/en_US/careers/JobDetail/Quantum-Specialist-Specialist-Master-Innovation-Delivery-Transformation/319197"
@@ -154,14 +175,17 @@ internships:
 
   - name: "Quantum Roles"
     organization: "Microsoft"
+    location: "Redmond, WA, USA"
     type: internships
     deadline: null
     link: "https://apply.careers.microsoft.com/careers/job/1970393556748783"
     notes: ""
 
+
 grants:
   - name: "DOE Office of Science Graduate Student Research (SCGSR) Program"
     organization: "U.S. Department of Energy"
+    location: "United States"
     type: grants
     deadline: "2026-05-06"
     link: "https://science.osti.gov/wdts/scgsr/How-to-Apply"
@@ -169,6 +193,7 @@ grants:
 
   - name: "Quantum Computing PhD Fellowship"
     organization: "Google Research"
+    location: "Global"
     type: grants
     deadline: null
     link: "https://research.google/programs-and-events/phd-fellowship/"
@@ -176,14 +201,17 @@ grants:
 
   - name: "Quantum Computing Summer School"
     organization: "Los Alamos National Laboratory"
+    location: "Los Alamos, NM, USA"
     type: grants
     deadline: null
     link: "https://academicjobsonline.org/ajo/jobs/31108"
     notes: "Funded summer program (paid)."
 
+
 summer_programs:
   - name: "Complex Systems Summer School"
     organization: "Santa Fe Institute"
+    location: "Santa Fe, NM, USA"
     type: summer_programs
     deadline: null
     link: "https://santafe.edu/engage/learn/programs/sfi-complex-systems-summer-school"
@@ -191,6 +219,7 @@ summer_programs:
 
   - name: "STRUCTURES Summer Program"
     organization: "Heidelberg University"
+    location: "Heidelberg, Germany"
     type: summer_programs
     deadline: null
     link: "https://www.structures.uni-heidelberg.de/news.php?showId=345"
@@ -198,6 +227,7 @@ summer_programs:
 
   - name: "SIAM Student Summer School 2026"
     organization: "Duke University"
+    location: "Durham, NC, USA"
     type: summer_programs
     deadline: "2026-03-01"
     link: "https://sites.duke.edu/siamss2026/"
@@ -205,6 +235,7 @@ summer_programs:
 
   - name: "Quantum Initiative Summer Programs"
     organization: "NC State University"
+    location: "Raleigh, NC, USA"
     type: summer_programs
     deadline: null
     link: "https://quantum.ncsu.edu/"
@@ -212,7 +243,10 @@ summer_programs:
 
   - name: "Cal-Bay Quantum School"
     organization: "UC Berkeley / Cal-Bay Consortium"
+    location: "Berkeley, CA, USA"
     type: summer_programs
     deadline: null
     link: "https://www.calbay-quantumschool.org/"
     notes: ""
+
+

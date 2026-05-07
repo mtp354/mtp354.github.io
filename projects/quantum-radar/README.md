@@ -4,14 +4,21 @@ In-tree automation for `/quantum-radar/` on the website. These scripts and
 configs live inside the website repo and are driven by the workflows under
 `.github/workflows/quantum-radar-*.yml`.
 
-Three unattended jobs:
+Four unattended jobs:
 
-1. **Daily repo health checks** across the repos listed in
-   `config/monitored_repos.yaml`.
-2. **Publications & news digests** every two days (`fetch_publications_news.py`).
-3. **Opportunities digests** every three days
-   (`fetch_opportunities.py` + `render_opportunity_tables.py`) — grants,
-   internships, hackathons, summer schools, fellowships.
+1. **Opportunities digests** every three days
+   (`fetch_opportunities.py` → `enrich_deadlines.py` →
+   `render_opportunity_tables.py`) — grants, internships, hackathons,
+   summer schools, fellowships, with deadlines scraped from each program's
+   page where possible.
+2. **Publications & news digests** every two days
+   (`fetch_publications_news.py`).
+3. **Movers & Shakers** — a hand-curated list of leading quantum companies,
+   influential university labs, and notable people in the field. Updated by
+   editing `_quantum_radar/movers-shakers-*.md` directly.
+4. **Publicly Traded Quantum** — daily refresh of stock prices for the main
+   publicly listed quantum-primary companies and a couple of broad quantum
+   ETFs (`fetch_stock_prices.py`).
 
 ## Layout
 
@@ -26,12 +33,6 @@ projects/quantum-radar/
 
 The fetchers publish Jekyll-friendly entries into the site collection at
 `_quantum_radar/`, which is what `_pages/quantum-radar.md` renders.
-
-## Setup
-
-If you want the repo-health workflow to scan **private** repositories, add a
-repo-scoped PAT as a repository secret named `MONITORED_REPOS_TOKEN`. Public
-repos work without it.
 
 ## Updating opportunities
 
