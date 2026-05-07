@@ -1,16 +1,13 @@
-repos:
-  - slug: mtp354/Broadcasting
-    branch: main
-    setup:
-      - python -m pip install -r requirements.txt
-    checks:
-      - python -m compileall .
-      - python -m pytest -q
-      - python -m pip check
+# Repos checked daily by the repo-health workflow.
+#
+# To monitor private repos, add a repo-scoped PAT as `MONITORED_REPOS_TOKEN`
+# in the repository's Actions secrets, then list the repo here.
 
+repos:
   - slug: mtp354/mtp354.github.io
     branch: main
-    setup:
-      - python -m pip install -r requirements.txt
+    setup: []
     checks:
-      - python -m compileall .
+      - python -m compileall projects/quantum-radar
+      - python -c "import yaml; yaml.safe_load(open('projects/quantum-radar/config/opportunities.yaml','r',encoding='utf-8'))"
+      - python -c "import yaml; yaml.safe_load(open('projects/quantum-radar/data/seed_opportunities.yaml','r',encoding='utf-8'))"

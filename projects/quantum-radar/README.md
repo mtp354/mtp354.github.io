@@ -1,57 +1,47 @@
-# quantum-radar-starter
+# Quantum Radar
 
-A GitHub Actions "orchestrator" repository for three unattended jobs:
+In-tree automation for `/quantum-radar/` on the website. These scripts and
+configs live inside the website repo and are driven by the workflows under
+`.github/workflows/quantum-radar-*.yml`.
 
-1. **Daily repo health checks** across one or more repositories you own.
-2. **Quantum publications + news digests** every 2 days.
-3. **Quantum opportunities digests** every 3 days (grants, hackathons, summer schools/camps, internships, fellowships).
+Three unattended jobs:
 
-The workflows are designed to run on GitHub's hosted runners, so they keep running even when your laptop is off.
+1. **Daily repo health checks** across the repos listed in
+   `config/monitored_repos.yaml`.
+2. **Publications & news digests** every two days (`fetch_publications_news.py`).
+3. **Opportunities digests** every three days
+   (`fetch_opportunities.py` + `render_opportunity_tables.py`) — grants,
+   internships, hackathons, summer schools, fellowships.
 
-## Repository layout
+## Layout
 
 ```text
-.
-├── .github/workflows/
-├── config/
-├── reports/
-├── scripts/
-└── state/
+projects/quantum-radar/
+├── config/        # YAML configs for each job
+├── data/          # Curated seed lists (e.g., seed_opportunities.yaml)
+├── reports/       # Raw markdown output written by the fetchers
+├── scripts/       # Python entry points called by the workflows
+└── state/         # Lightweight JSON dedupe state
 ```
 
-## Quick start
+The fetchers publish Jekyll-friendly entries into the site collection at
+`_quantum_radar/`, which is what `_pages/quantum-radar.md` renders.
 
-1. Create a new GitHub repo, for example `quantum-radar`.
-2. Copy these files into it.
-3. Edit:
-   - `config/monitored_repos.yaml`
-   - `config/publications.yaml`
-   - `config/opportunities.yaml`
-4. In GitHub, add a repository secret named `MONITORED_REPOS_TOKEN` if you want to scan **private** repositories.
-5. Push to your default branch.
-6. In the Actions tab, manually run each workflow once using **Run workflow**.
+## Setup
 
-## What gets written
+If you want the repo-health workflow to scan **private** repositories, add a
+repo-scoped PAT as a repository secret named `MONITORED_REPOS_TOKEN`. Public
+repos work without it.
 
-- `reports/repo-health/latest.md`
-- `reports/publications-news/latest.md`
-- `reports/opportunities/latest.md`
-- dated snapshots in matching subfolders
-- lightweight dedupe state in `state/*.json`
+## Updating opportunities
 
-## Notes
+`data/seed_opportunities.yaml` is the curated source of truth for
+opportunities. To refresh it from a spreadsheet export, drop the CSV at
+`data/seed_opportunities.csv` and run:
 
-- The repo-health workflow can open an issue in this repository when one of your checks fails.
-- The digests commit markdown files back into this repo so you get a persistent archive.
-- The search side is intentionally simple and low-maintenance. Start here, then tighten the filters after seeing 1–2 weeks of output.
+```bash
+python scripts/import_seed_csv.py
+```
 
-## Suggested first edits
-
-Replace the sample repositories in `config/monitored_repos.yaml` with your own repos and commands.
-
-Example checks you might use:
-- `python -m pytest -q`
-- `python -m compileall .`
-- `ruff check .`
-- `python -m pip check`
-- `jupyter nbconvert --execute --to notebook --inplace notebook.ipynb`
+The workflow merges these seed entries with freshly scraped items each
+time it runs.

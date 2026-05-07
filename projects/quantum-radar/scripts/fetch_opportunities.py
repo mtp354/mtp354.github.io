@@ -7,7 +7,6 @@ from typing import Any
 import feedparser
 
 from common import (
-    REPORTS,
     ROOT,
     dedupe_by_key,
     google_news_rss_url,
@@ -15,10 +14,8 @@ from common import (
     keyword_score,
     load_yaml,
     stable_id,
-    today_str,
     utc_now,
     write_json,
-    write_text,
 )
 
 
@@ -93,41 +90,7 @@ def main() -> int:
 
     scored = dedupe_by_key(sorted(scored, key=lambda x: (x["score"], x.get("published", "")), reverse=True), "url")[:keep_top_n]
 
-    grouped: dict[str, list[dict[str, Any]]] = {}
-    for item in scored:
-        grouped.setdefault(item["type"], []).append(item)
-
-    lines = [
-        "# Quantum opportunities digest",
-        "",
-        f"_Generated: {now.strftime('%Y-%m-%d %H:%M UTC')}_",
-        "",
-    ]
-    if not scored:
-        lines.append("No opportunities passed the current filters.")
-    else:
-        for bucket in ["grants", "internships", "hackathons", "summer_programs", "other"]:
-            entries = grouped.get(bucket, [])
-            if not entries:
-                continue
-            lines.append(f"## {bucket.replace('_', ' ').title()}")
-            lines.append("")
-            for i, item in enumerate(entries, start=1):
-                lines.append(f"{i}. [{item['title']}]({item['url']})")
-                if item.get("published"):
-                    lines.append(f"   - Published: {item['published'][:10]}")
-                lines.append(f"   - Query bucket: {item.get('query', 'n/a')}")
-                if item.get("matched_keywords"):
-                    lines.append(f"   - Matched: {', '.join(item['matched_keywords'][:6])}")
-                lines.append("")
-
-    text = "\n".join(lines).strip() + "\n"
-    latest = REPORTS / "opportunities" / "latest.md"
-    dated = REPORTS / "opportunities" / today_str() / "digest.md"
     state_path = ROOT / "state" / "opportunities.json"
-
-    write_text(latest, text)
-    write_text(dated, text)
     write_json(
         state_path,
         {
@@ -135,7 +98,7 @@ def main() -> int:
             "items": scored,
         },
     )
-    print(f"Saved {len(scored)} opportunity items.")
+    print(f"Saved {len(scored)} opportunity items to state. Rendering is handled by render_opportunity_tables.py.")
     return 0
 
 

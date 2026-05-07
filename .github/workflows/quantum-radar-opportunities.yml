@@ -28,21 +28,25 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Build digest
+      - name: Refresh RSS state
         run: python scripts/fetch_opportunities.py
 
-      - name: Publish to Jekyll collection
-        run: python scripts/publish_to_jekyll.py opportunities
+      - name: Enrich blank deadlines from linked pages
+        run: python scripts/enrich_deadlines.py
+        continue-on-error: true
+
+      - name: Render opportunity tables to Jekyll collection
+        run: python scripts/render_opportunity_tables.py
 
       - name: Commit updates
         working-directory: ${{ github.workspace }}
         run: |
-          if [ -z "$(git status --porcelain -- projects/quantum-radar/reports projects/quantum-radar/state _quantum_radar)" ]; then
+          if [ -z "$(git status --porcelain -- projects/quantum-radar/state projects/quantum-radar/data _quantum_radar)" ]; then
             echo "No report changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add projects/quantum-radar/reports projects/quantum-radar/state _quantum_radar
+          git add projects/quantum-radar/state projects/quantum-radar/data _quantum_radar
           git commit -m "chore(quantum-radar): update opportunities digest"
           git push origin HEAD:${{ github.ref_name }}

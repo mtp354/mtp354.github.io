@@ -4,3 +4,6 @@ __pycache__/
 tmp/
 reports/**/*.tmp
 *.pyc
+
+# Local-only personal notes (e.g. lab contact emails)
+data/private_notes.md

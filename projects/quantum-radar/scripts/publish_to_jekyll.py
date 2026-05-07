@@ -31,11 +31,9 @@ REPORT_TYPES = {
         "description": "Quantum publications and news digest.",
         "filename": "digest.md",
     },
-    "opportunities": {
-        "title": "Opportunities",
-        "description": "Grants, hackathons, schools, internships, and fellowships.",
-        "filename": "digest.md",
-    },
+    # Note: "opportunities" is intentionally NOT listed here. The opportunities
+    # report is rendered as tables by `render_opportunity_tables.py`, which
+    # writes its own collection entry directly.
 }
 
 
