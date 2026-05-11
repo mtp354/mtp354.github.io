@@ -14,7 +14,7 @@ information security.
 
 {% include hero-cards.html %}
 
-About Me
+What's Here?
 ======
 Hi, I'm Matt — welcome! This site is where I keep my work, notes, and the
 small set of resources I find genuinely useful day to day. Have a look
