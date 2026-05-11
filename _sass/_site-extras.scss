@@ -278,8 +278,15 @@ html[data-theme="dark"] {
     color: #d8dde3 !important;
     border-color: #2c2f38 !important;
   }
+  .masthead__menu-item,
+  .greedy-nav .visible-links,
+  .greedy-nav .hidden-links {
+    background-color: #1f2128 !important;
+  }
   .greedy-nav a { color: #d8dde3; }
   .greedy-nav .visible-links a:before { background: #7eb8ff; }
+  .greedy-nav .hidden-links a { color: #d8dde3; }
+  .greedy-nav .hidden-links a:hover { background: #2a3543; color: #fff; }
 
   .page__title, .page__meta, .page__content, h1, h2, h3, h4, h5, h6 {
     color: #e8ecf2;

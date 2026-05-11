@@ -54,7 +54,6 @@ def _fetch_one(ticker: str) -> tuple[float | None, float | None, list[float]]:
             pct = (last - prev) / prev * 100.0 if prev else None
         else:
             pct = None
-        # Trim to last 30 trading days for sparkline
         spark = [round(float(x), 4) for x in closes.tail(30).tolist()]
         return last, pct, spark
     except Exception as e:  # noqa: BLE001
@@ -75,8 +74,11 @@ def _fmt_pct(p: float | None) -> str:
 
 def main() -> int:
     date = _today()
+    rows_co: list[str] = []
+    rows_etf: list[str] = []
     spark_data: dict[str, list[float]] = {}
     movers: list[tuple[str, str, float]] = []  # (ticker, name, pct)
+
     for ticker, name, hq, focus, kind in TICKERS:
         price, pct, spark = _fetch_one(ticker)
         if spark:
@@ -90,9 +92,7 @@ def main() -> int:
         )
         (rows_etf if kind == "etf" else rows_co).append(row)
 
-    # Leaderboard: top movers (absolute), then top gainers, then top losers.
-    movers_sorted = sorted(movers, key=lambda x: x[2], reverse=True)
-    gainers = movers_sorted[:5]
+    gainers = sorted(movers, key=lambda x: x[2], reverse=True)[:5]
     losers = sorted(movers, key=lambda x: x[2])[:5]
 
     leaderboard_lines = [
@@ -120,8 +120,7 @@ def main() -> int:
         "",
         "</div>",
         "",
-    ]'plain_summary: "What this is. Daily closing prices for the small set of publicly listed companies whose entire business is quantum (hardware, software, or quantum-enabled products), plus a couple of broad quantum-tech ETFs. Diversified mega-caps with quantum divisions are intentionally excluded. Informational only — not investment advice."',
-        
+    ]
 
     body_lines = [
         f"_Generated: {date} UTC. Prices are last available daily close from "
@@ -150,9 +149,7 @@ def main() -> int:
         *leaderboard_lines,
         '<script type="application/json" id="qr-spark-data">',
         json.dumps(spark_data, separators=(",", ":")),
-        "</script>" | Fund | Listing | Focus | Last close | Δ vs prev close |",
-        "|---|---|---|---|---|---|",
-        *rows_etf,
+        "</script>",
         "",
     ]
 
@@ -165,6 +162,7 @@ def main() -> int:
         "tags:",
         "  - publicly-traded",
         "  - quantum-radar",
+        'plain_summary: "What this is. Daily closing prices for the small set of publicly listed companies whose entire business is quantum (hardware, software, or quantum-enabled products), plus a couple of broad quantum-tech ETFs. Diversified mega-caps with quantum divisions are intentionally excluded. Informational only — not investment advice."',
         "---",
         "",
     ]

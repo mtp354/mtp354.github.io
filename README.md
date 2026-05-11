@@ -1,79 +1,117 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# mtp354.github.io
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+Personal academic website of **Matthew Prest** (PhD candidate, CUNY) — published at <https://mtp354.github.io> and <https://matthewprestnz.com>.
 
-# Getting Started
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
-
-See more info at https://academicpages.github.io/
-
-## Running locally
-
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
-
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
-
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
-
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-# Maintenance
-
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+The site is built on the [Academic Pages](https://academicpages.github.io/) Jekyll theme (a fork of [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)) with a number of personal extensions: a Quantum Radar data project, a topical Resources hub, a dark-mode toggle, retro view counter, plain-language summaries on publications, BibTeX cite blocks, auto-generated OG share images, and Atom feeds for both publications and the Quantum Radar reports.
 
 ---
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+## Repository layout
+
+```
+_config.yml                 Site-wide Jekyll configuration
+Gemfile                     Ruby dependencies (bundler)
+package.json                Node helper scripts (e.g. OG image generator)
+CNAME                       Custom domain
+publications.xml            Atom feed for the publications collection
+quantum-radar.xml           Atom feed for Quantum Radar reports
+
+_data/                      Site data (authors, navigation, ui-text, cv.json)
+_includes/                  Liquid partials (head, masthead, footer, hero cards, …)
+_layouts/                   Page layouts (default, single, archive, splash,
+                            cv-layout, publication, talk, qr-report, …)
+_sass/                      SCSS sources (theme/_default.scss, theme/_dark.scss,
+                            _site-extras.scss for personal overrides)
+assets/css/                 Compiled CSS plus academicons & cv styles
+assets/js/                  dark-mode.js, theme.js, copy-bibtex.js,
+                            qr-sparklines.js, collapse.js, plugins, …
+
+_pages/                     Top-level pages: about, cv, publications, talks,
+                            teaching, portfolio, resources, quantum-radar,
+                            quantum-101, topics, now, 404, archives
+_posts/                     Blog posts (`YYYY-MM-DD-slug.md`)
+_publications/              Publication entries (one Markdown file per paper)
+_talks/                     Talk entries
+_resources/                 Curated learning-resource entries (Quantum 101 hub)
+_quantum_radar/             Auto-generated Quantum Radar report entries
+                            (opportunities, publications-news, publicly-traded,
+                             movers-shakers)
+
+files/                      PDFs and BibTeX files linked from publications
+images/                     Site images, favicons, and the web manifest
+projects/quantum-radar/     Python pipeline that produces the Quantum Radar reports
+projects/og-images/         Node script that auto-generates Open Graph share images
+
+.github/workflows/          GitHub Actions automations
+```
+
+---
+
+## Local development
+
+Requires Ruby (with `ruby-dev`), Bundler, and Node.
+
+```bash
+bundle install
+npm install
+bundle exec jekyll serve -l -H localhost
+```
+
+The site is then available at <http://localhost:4000>. See <https://academicpages.github.io/markdown/> for the upstream theme docs.
+
+---
+
+## Quantum Radar data project (`projects/quantum-radar/`)
+
+A small Python pipeline that aggregates quantum-tech opportunities, publications/news, and stock prices, then emits Markdown into `_quantum_radar/` for Jekyll to render at `/quantum-radar/`. Run locally with:
+
+```bash
+cd projects/quantum-radar
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+python scripts/fetch_opportunities.py
+python scripts/fetch_publications_news.py
+python scripts/fetch_stock_prices.py
+```
+
+Configuration lives under `projects/quantum-radar/config/`. Persistent state (deduplication, last-seen entries) is in `projects/quantum-radar/state/`.
+
+---
+
+## GitHub Actions
+
+| Workflow | Trigger | Purpose |
+|---|---|---|
+| `quantum-radar-opportunities.yml` | every 3 days | Refresh RSS → enrich deadlines → render opportunity tables |
+| `quantum-radar-publications-news.yml` | every 2 days | arXiv + Google News digest → publish to `_quantum_radar/` |
+| `quantum-radar-stocks.yml` | daily, post US close | Pull yfinance closes → write publicly-traded report |
+| `og-images.yml` | on push | Regenerate Open Graph share images |
+| `scrape_talks.yml` | manual / scheduled | Scrape new talks |
+
+GitHub Pages handles the actual site build/deploy.
+
+---
+
+## Authoring content
+
+- **Blog post** — add `_posts/YYYY-MM-DD-slug.md` with the `single` layout. `difficulty` front-matter (`beginner` / `intermediate` / `advanced`) renders a colored badge.
+- **Publication** — add `_publications/YYYY-MM-DD-slug.md`. Optional `plain_summary` is rendered as a callout, and a sibling `.bib` in `files/` enables the in-page BibTeX cite block.
+- **Talk** — add `_talks/YYYY-MM-DD-slug.md`.
+- **Resource entry** — add `_resources/<topic>.md` with the appropriate `category` front-matter; rendered through the Resources hub.
+- **Navigation** — edit `_data/navigation.yml`.
+- **Author/sidebar info** — edit `_data/authors.yml` and the `author:` block in `_config.yml`.
+
+---
+
+## Theming notes
+
+- Light theme variables: `_sass/theme/_default.scss`
+- Dark theme variables: `_sass/theme/_dark.scss`
+- Personal extensions and dark-mode overrides: `_sass/_site-extras.scss`
+- Toggle behaviour: `assets/js/dark-mode.js` (sets `data-theme` on `<html>`, persists to `localStorage`, respects `prefers-color-scheme`)
+
+---
+
+## Credits
+
+Theme: [Academic Pages](https://github.com/academicpages/academicpages.github.io) / [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose. Licensed under the MIT License — see [LICENSE](LICENSE).

@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import html
+import sys
+import time as _time
 import xml.etree.ElementTree as ET
 from datetime import timedelta
 from typing import Any
@@ -30,8 +32,23 @@ def fetch_arxiv(category: str, max_results: int) -> list[dict[str, Any]]:
         f"?search_query=cat:{category}&start=0&max_results={max_results}"
         "&sortBy=submittedDate&sortOrder=descending"
     )
-    resp = requests.get(url, timeout=30)
-    resp.raise_for_status()
+    headers = {"User-Agent": "mtp354-quantum-radar/1.0 (+https://matthewprestnz.com)"}
+    last_err: Exception | None = None
+    for attempt in range(3):
+        try:
+            resp = requests.get(url, headers=headers, timeout=60)
+            resp.raise_for_status()
+            break
+        except Exception as e:  # noqa: BLE001
+            last_err = e
+            if attempt == 2:
+                print(f"[fetch_arxiv] giving up after retries: {e}", file=sys.stderr)
+                return []
+            wait = 5 * (attempt + 1)
+            print(f"[fetch_arxiv] attempt {attempt + 1} failed ({e}); retrying in {wait}s", file=sys.stderr)
+            _time.sleep(wait)
+    else:
+        return []
 
     root = ET.fromstring(resp.text)
     ns = {"atom": "http://www.w3.org/2005/Atom"}
