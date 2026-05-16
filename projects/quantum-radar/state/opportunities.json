@@ -1,23 +1,6 @@
 {
-  "generated_at": "2026-05-13T14:19:31Z",
+  "generated_at": "2026-05-16T14:04:01Z",
   "items": [
-    {
-      "id": "c26f8975336d5647",
-      "matched_keywords": [
-        "grant",
-        "proposal",
-        "call for proposals",
-        "quantum",
-        "quantum technology"
-      ],
-      "published": "2026-04-14T06:36:27Z",
-      "query": "quantum technology grant",
-      "score": 13,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPVnlvc2NqWlJXUnlhTmlIY2pBSnNlM2hNdDZUTmxaNnFpVkpwUXVKU2RXcmVPRGo4OEtMckFVWHFIVjhVcnZONXNBb0lyNDNoa1dPUTVqX2NWSDA1MTZSNm0wWUZxZHFPRnlPNEdhTFdoa2FvQjVIV0I2Q0dvdTBVWFBhT3k4anlPUmc2QmtPYlpBd9IBlwFBVV95cUxPTVRyR1l6dGpjYVl1dldlZEVnbHJFeUhIWjVoQVMyakVxQlh3UHhzLTNQTFA2ckdIUnphMTdJWGVfanpsNkRERmY3RTY3bURJeHVLX04yY1pMR0l6TjYxTVE4NU85SmVhYXZtczJaTEk3NmFpNVFOd1F3YjM2ODN4RmdrMGwwVXdlbjlzWXdRQ3J0R252YnVj?oc=5\" target=\"_blank\">Call for Proposals: Alliance Quantum Grants (Canada)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fundsforNGOs</font>",
-      "title": "Call for Proposals: Alliance Quantum Grants (Canada) - fundsforNGOs",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVnlvc2NqWlJXUnlhTmlIY2pBSnNlM2hNdDZUTmxaNnFpVkpwUXVKU2RXcmVPRGo4OEtMckFVWHFIVjhVcnZONXNBb0lyNDNoa1dPUTVqX2NWSDA1MTZSNm0wWUZxZHFPRnlPNEdhTFdoa2FvQjVIV0I2Q0dvdTBVWFBhT3k4anlPUmc2QmtPYlpBd9IBlwFBVV95cUxPTVRyR1l6dGpjYVl1dldlZEVnbHJFeUhIWjVoQVMyakVxQlh3UHhzLTNQTFA2ckdIUnphMTdJWGVfanpsNkRERmY3RTY3bURJeHVLX04yY1pMR0l6TjYxTVE4NU85SmVhYXZtczJaTEk3NmFpNVFOd1F3YjM2ODN4RmdrMGwwVXdlbjlzWXdRQ3J0R252YnVj?oc=5"
-    },
     {
       "id": "629457304b596e83",
       "matched_keywords": [
@@ -100,6 +83,22 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVS1wMTJpTWktdTU2eFA3aUVRcC1KSERZTUFweHVnaHJ4emttZ1VONDRBaTI5UnU4QXVCQlBYeW1qMDQtYVg5QXJ4bXZTd2R0cVFqLUZ1MGQ2OGJVTF92OGZITGlOUWM4LVJ4a0o4LVpmNkdQV3J2NzFqbUVXckx2aEVoRk1KRDhzcEstWXplWWtsV24yRDhtV00wbDBXdzR3MWdKa1JuUGRvdC1zRDdnV3F0ZF91WUVoa1FB?oc=5"
     },
     {
+      "id": "f5be800ba0d57102",
+      "matched_keywords": [
+        "internship",
+        "intern",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-05-02T03:38:23Z",
+      "query": "quantum computing internship",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1kaDEyS1dJeXh3SGM4M002UElRS2RJMVE3NURQbUt5VldVNDUtMUl5ZE1XQTNlMXBycUNRNF81cXowSlMwblZrWU8zSXBWSlNPeEdTRkdSSGJzcXkxbnB6cWlJaEZPM3VNU1RCN0NtRDQ?oc=5\" target=\"_blank\">Young Nebraska Scientists offers summer opportunities for middle and high school students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newsroom.unl.edu</font>",
+      "title": "Young Nebraska Scientists offers summer opportunities for middle and high school students - newsroom.unl.edu",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kaDEyS1dJeXh3SGM4M002UElRS2RJMVE3NURQbUt5VldVNDUtMUl5ZE1XQTNlMXBycUNRNF81cXowSlMwblZrWU8zSXBWSlNPeEdTRkdSSGJzcXkxbnB6cWlJaEZPM3VNU1RCN0NtRDQ?oc=5"
+    },
+    {
       "id": "4733238eccbc7601",
       "matched_keywords": [
         "internship",
@@ -114,22 +113,6 @@
       "title": "Virtual Reality: ALCF’s Remote Interns Tackle Real-World Computing Projects - Department of Energy (.gov)",
       "type": "internships",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelY3Q0JKMHJJYnFpd2VmeEd0c000MzFUanRTd1A4SFByM3p4cTV2Um5LSFlXa1BvZ1NMVkIwTlhZQi1rYnZOc29PX2Q1dVZndjJQc0ZzRmE2dkZBUWIzcGhJdWttRWFaWmNRdUpJRDFpblJIUWstT0tnTEpOVk1VbXlzZlNsek52VUpici1XNWlYNmZlWGQyNTRick9IX2NGbzJsUkpZa3o?oc=5"
-    },
-    {
-      "id": "e537c63644840567",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum technology"
-      ],
-      "published": "2026-04-30T07:00:00Z",
-      "query": "quantum technology grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOdHRHeGtxZzBicC1ZVllTbGMwejNfUjFTUC1fM0NpTXU0N3FHYmo2VnRpdEN3WGthcElBcUFGSG5oOUtIYklpdGlBU1FtU0lwTUdTeDUtcUZwU3MtWGFrdXdTVktMQnNnU01zeWdieW9pUGtCSkRScnV1bUIxWm0zQk9JNGlaaGtjb0U3QV9oWktZZkRUd0xnU285cUJFOHk2ZEdlUXJwYl90QkRiOGxoVWFXLVNMUDVBUmxvQkZsbw?oc=5\" target=\"_blank\">Maryland Doubles Down on Quantum with IonQ HQ Funding and Startup Infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "Maryland Doubles Down on Quantum with IonQ HQ Funding and Startup Infrastructure - The Quantum Insider",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdHRHeGtxZzBicC1ZVllTbGMwejNfUjFTUC1fM0NpTXU0N3FHYmo2VnRpdEN3WGthcElBcUFGSG5oOUtIYklpdGlBU1FtU0lwTUdTeDUtcUZwU3MtWGFrdXdTVktMQnNnU01zeWdieW9pUGtCSkRScnV1bUIxWm0zQk9JNGlaaGtjb0U3QV9oWktZZkRUd0xnU285cUJFOHk2ZEdlUXJwYl90QkRiOGxoVWFXLVNMUDVBUmxvQkZsbw?oc=5"
     },
     {
       "id": "9826a47c9e6aabd9",
@@ -148,20 +131,36 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV3NPSmM0TUNEM0R6LWUyNEppdVpKVVhaamFRallFMTV2aVI1TTdEYmFRcUtmMVREZmkzczhGcHhJMGNldms5UHViSTZULURmbVJCWlRmQU11SERCZk13NUlGMHo4TEUtM0lIUlVEaGdFQy1ETWtkcWIxYkJ5T1hDdHVPaVd5eDROOGZhVVFLaw?oc=5"
     },
     {
-      "id": "83ba4ed8b6b0d373",
+      "id": "671ac2169d98e904",
       "matched_keywords": [
         "grant",
         "funding",
         "quantum",
         "quantum technology"
       ],
-      "published": "2026-04-13T07:00:00Z",
+      "published": "2026-04-21T07:00:00Z",
       "query": "quantum technology grant",
       "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQNE9SNkloTjBSYTFyV2VZZGt0ZFZQUlNMUEFLalhYdHpMRVJEV0pYVHVQWU9qdU5MeTBZeUloSXlzcVhhM2dKRk5tSGdKTFBsOENWUjJZdF9idlBhb1lsSEZTUGZBcXpkOHRGNklibXdZYkdTUXltOEZZSUZhdkhuX3lHZzM?oc=5\" target=\"_blank\">Bipartisan Bill Targets NSF Funding for Advancing Quantum Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ExecutiveGov</font>",
-      "title": "Bipartisan Bill Targets NSF Funding for Advancing Quantum Technology - ExecutiveGov",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPb0dJTVVyZUJ5dHN2ZnNub1owbmtoZHVSbXpXaUxzTGU4MWF5WG93RFZTSGJaWnBKaEhaVmFxN3FYMFJtRWZuYzM2ZTgxWDZlUkxYYkpNUmdXX2JrcHhsTjdySDRSOUhkVmdIY201SUxUb0p0amwwT2M0dWYwc0ppNDQyVkppMldsWUI1aG9IeHRyd2VLLVBweUh1eTY0eG1WemdwcEFuUzlTTGc1LWZSZWRYUFpYcFpPa1BvQzFGdTZsUDdhcTNKeFdudVE?oc=5\" target=\"_blank\">QMatter Raises $1.2 Million in Funding And Introduces Quantum Compression to Tackle Scaling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "QMatter Raises $1.2 Million in Funding And Introduces Quantum Compression to Tackle Scaling - The Quantum Insider",
       "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNE9SNkloTjBSYTFyV2VZZGt0ZFZQUlNMUEFLalhYdHpMRVJEV0pYVHVQWU9qdU5MeTBZeUloSXlzcVhhM2dKRk5tSGdKTFBsOENWUjJZdF9idlBhb1lsSEZTUGZBcXpkOHRGNklibXdZYkdTUXltOEZZSUZhdkhuX3lHZzM?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb0dJTVVyZUJ5dHN2ZnNub1owbmtoZHVSbXpXaUxzTGU4MWF5WG93RFZTSGJaWnBKaEhaVmFxN3FYMFJtRWZuYzM2ZTgxWDZlUkxYYkpNUmdXX2JrcHhsTjdySDRSOUhkVmdIY201SUxUb0p0amwwT2M0dWYwc0ppNDQyVkppMldsWUI1aG9IeHRyd2VLLVBweUh1eTY0eG1WemdwcEFuUzlTTGc1LWZSZWRYUFpYcFpPa1BvQzFGdTZsUDdhcTNKeFdudVE?oc=5"
+    },
+    {
+      "id": "cb221963f514fae8",
+      "matched_keywords": [
+        "internship",
+        "intern",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-04-16T07:00:00Z",
+      "query": "quantum computing internship",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ3ljS0dsckw3eHFGRWNiTEUtUTdaTUdVeU5PUHQxdHlQTlhmZ3hfTnlNX0luakhBUGtrbGpOcExWV0IwMkhJXzBZcGdrVmcwVXp4SzVIQk5TMUtUZ2U2QjZaZmxDM0JMX2VlMkdqbkk1MV9Ec3BodU1jUDVETm9Qb3JxYVlHbUo4RDNFM2xn?oc=5\" target=\"_blank\">IBM, U of I renew and expand Illinois institute focused on AI, quantum computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CBS News</font>",
+      "title": "IBM, U of I renew and expand Illinois institute focused on AI, quantum computing - CBS News",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ3ljS0dsckw3eHFGRWNiTEUtUTdaTUdVeU5PUHQxdHlQTlhmZ3hfTnlNX0luakhBUGtrbGpOcExWV0IwMkhJXzBZcGdrVmcwVXp4SzVIQk5TMUtUZ2U2QjZaZmxDM0JMX2VlMkdqbkk1MV9Ec3BodU1jUDVETm9Qb3JxYVlHbUo4RDNFM2xn?oc=5"
     },
     {
       "id": "56a5735c207cab11",
@@ -169,10 +168,10 @@
         "grant",
         "funding",
         "quantum",
-        "quantum technology"
+        "quantum computing"
       ],
       "published": "2026-04-13T07:00:00Z",
-      "query": "quantum technology grant",
+      "query": "quantum computing grant",
       "score": 9,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQVYzZmwwclV2WHhIWGlYOTVvNGZpSk5rQS1IU1h1TXVYb2VnSVhPTlVITVhRNU1lT25wMGNlUnp2Z1g2OWNNWVdnaXJxXzgtRlMtN2JsRkVFRkpmdG0zYkI0RDlpTFg5TjRzX1J3c29VQkI1OGlxS09jUjZ4QmJHRm1JX0ZGSm5yOGszM0lJSXI2aXIzNUxOMEtKdzdIS2U4cC1oTWhKMzNOQWJ0QlM3X0VObzRoVDlNUUZBejFCY1AtUjBod1U3TzhqRzk4M293MUlEQ2Z1TXBPRWNlUmdCNQ?oc=5\" target=\"_blank\">Bloq Selected for Funding Under India's National Quantum Mission to Accelerate Enterprise Quantum Adoption</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
       "title": "Bloq Selected for Funding Under India's National Quantum Mission to Accelerate Enterprise Quantum Adoption - The Quantum Insider",
@@ -292,34 +291,35 @@
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxa1ItZ0lOZVpRT1puQ3M2Vm1JbFBUdE5rNWprZ0dpSjFyTjU2ZzA3Z1l2WmJFcEM3NlU4WVRZQmlVdkNtV2hzVmxjWVNyQkZVbTVyUXJtMHBkaVdPeUh2aldYVDBBLUMx?oc=5"
     },
     {
+      "id": "8475ea5428bfb6aa",
+      "matched_keywords": [
+        "grant",
+        "funding",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-04-04T07:00:00Z",
+      "query": "quantum computing grant",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPUUE2UWtBY1RoRjdiS016X04tMTRQekJrYnhoWHY5eUlDUUFNY1dzOEUyanFDY2U1X3V6amdacHdrRVRKWG9BYWVNTXJjWWRMWTZhcENCRU5lX1VwbHhGd1lJdllDVlJSZmNVZjQtU21fXzlUYXprUUJJeGxpOHdacTRsSlZGelBhWGtyejRrS2wxM081djhlcGZPS0hCRy1YWndMekM4eDNKaUlWdktRRnVYYTYyMDBCUWfSAb8BQVVfeXFMTWJrNFJjVWhLQjNpOEVmTnhaYk1WMDI5aUZZM19ZdGZlU0hlal9xSE92ZlJzNktjbWJWRzVrTmpucXhjdEFwNGVLZW94Qzh6Z0FBM2dNTVotRlZTRGZoN2dSal9qQW1sMnhvWTVUUFd1YTdiT3R5U3Vzd2ktMWVydDBLa2JBeGJXX1U3cjU0V2lzRDI4ZThMblBpdEM3Z2tpa0F0YVRBcVh5bVJ3TmhKQUltRkt2aVlJSzVmU1h5NGc?oc=5\" target=\"_blank\">QVLS-iLabs Secures €23M ($26.5M USD) in Combined Funding for Second Phase of German Quantum Transfer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "QVLS-iLabs Secures €23M ($26.5M USD) in Combined Funding for Second Phase of German Quantum Transfer - Quantum Computing Report",
+      "type": "grants",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUUE2UWtBY1RoRjdiS016X04tMTRQekJrYnhoWHY5eUlDUUFNY1dzOEUyanFDY2U1X3V6amdacHdrRVRKWG9BYWVNTXJjWWRMWTZhcENCRU5lX1VwbHhGd1lJdllDVlJSZmNVZjQtU21fXzlUYXprUUJJeGxpOHdacTRsSlZGelBhWGtyejRrS2wxM081djhlcGZPS0hCRy1YWndMekM4eDNKaUlWdktRRnVYYTYyMDBCUWfSAb8BQVVfeXFMTWJrNFJjVWhLQjNpOEVmTnhaYk1WMDI5aUZZM19ZdGZlU0hlal9xSE92ZlJzNktjbWJWRzVrTmpucXhjdEFwNGVLZW94Qzh6Z0FBM2dNTVotRlZTRGZoN2dSal9qQW1sMnhvWTVUUFd1YTdiT3R5U3Vzd2ktMWVydDBLa2JBeGJXX1U3cjU0V2lzRDI4ZThMblBpdEM3Z2tpa0F0YVRBcVh5bVJ3TmhKQUltRkt2aVlJSzVmU1h5NGc?oc=5"
+    },
+    {
       "id": "329e523e81b0d4e1",
       "matched_keywords": [
         "workshop",
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-05-05T18:47:00Z",
+      "published": "2026-05-06T07:00:00Z",
       "query": "quantum computing workshop students",
       "score": 7,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUd6YWtGcFVMa25pcTlYYWQyWFJ6eXpUUDMyZVJlRjB4ODdMNlBqNHVkZlpWb19xc1RQYzMtNDJ0WlljNUVTQ1NYX0t0cVVRMUdSQ3ZCOHBZN0I5OE52djlTSUJlV21Taml3bkpTcFkxcDhWSHkzRThET2hqWGUwOXRkOEc3d19SS3p4WHFVeU1jVDVFUlFySkI4QTg5aTJobGQtcUNXY0NiMVRFalViVWRmbzJoaFUy0gG-AUFVX3lxTFBqVEg5UFZvRTFsYnJfWlZIT2NsRnlEQWo4T1pUT3FuVy1oTHFDT1hhWjN1VW9kdWtUTTBVUjRhWEZMNUpYek45R0lodUpFRTR3Rzhmc0x1UVd5V3J1dlBzRnFkRXFlZm5Fd21ja0x6M2FGTVJrb2diRVdyVkhFYWNNcXhhQlBRMzU4SVZSYTIwOGNtN1V2M3g4MkJwZ0pQT3VwcXhJZjF1ZW9qbkZvbHU2a1NPQnFzdFZBcUNickE?oc=5\" target=\"_blank\">SRM-AP hosts quantum computing workshop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
       "title": "SRM-AP hosts quantum computing workshop - The Times of India",
       "type": "summer_programs",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUd6YWtGcFVMa25pcTlYYWQyWFJ6eXpUUDMyZVJlRjB4ODdMNlBqNHVkZlpWb19xc1RQYzMtNDJ0WlljNUVTQ1NYX0t0cVVRMUdSQ3ZCOHBZN0I5OE52djlTSUJlV21Taml3bkpTcFkxcDhWSHkzRThET2hqWGUwOXRkOEc3d19SS3p4WHFVeU1jVDVFUlFySkI4QTg5aTJobGQtcUNXY0NiMVRFalViVWRmbzJoaFUy0gG-AUFVX3lxTFBqVEg5UFZvRTFsYnJfWlZIT2NsRnlEQWo4T1pUT3FuVy1oTHFDT1hhWjN1VW9kdWtUTTBVUjRhWEZMNUpYek45R0lodUpFRTR3Rzhmc0x1UVd5V3J1dlBzRnFkRXFlZm5Fd21ja0x6M2FGTVJrb2diRVdyVkhFYWNNcXhhQlBRMzU4SVZSYTIwOGNtN1V2M3g4MkJwZ0pQT3VwcXhJZjF1ZW9qbkZvbHU2a1NPQnFzdFZBcUNickE?oc=5"
-    },
-    {
-      "id": "e24d4ca8fad3b905",
-      "matched_keywords": [
-        "grant",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-04-30T16:35:37Z",
-      "query": "quantum computing grant",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNVp3TjZZZlBPMTZhN0VhTDZfcXpOUVJDVmhEblFfYURROFNGZ3NkWC1LWnhjcV9MVVQxT3M3Wmh2QkxDMmh4a0wtVkdQQW9BdEMzZWRrN0RBVTdiQzhJUjUzaDVTYnVfcm05MFVUQ253eXV1Y1l4Q3hwU0Jocm9VV2FyaFBKNWFlWTBaaGh4TWw3YzFFTk11ZDVORW1fS0dXaWRxeERQUGRyQ0lFVUlWeEltMjF2c2g1QzdwYTJTM2ZwNk1yOWcwaDcweFVFNW1RU19GbjZEbWt3SmtRcktTaEJXc3M3VnlzeWJKNA?oc=5\" target=\"_blank\">QuBriC Doctoral Network awarded with 4.7M grant by EU to eradicate errors in quantum computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Eindhoven University of Technology</font>",
-      "title": "QuBriC Doctoral Network awarded with 4.7M grant by EU to eradicate errors in quantum computers - Eindhoven University of Technology",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNVp3TjZZZlBPMTZhN0VhTDZfcXpOUVJDVmhEblFfYURROFNGZ3NkWC1LWnhjcV9MVVQxT3M3Wmh2QkxDMmh4a0wtVkdQQW9BdEMzZWRrN0RBVTdiQzhJUjUzaDVTYnVfcm05MFVUQ253eXV1Y1l4Q3hwU0Jocm9VV2FyaFBKNWFlWTBaaGh4TWw3YzFFTk11ZDVORW1fS0dXaWRxeERQUGRyQ0lFVUlWeEltMjF2c2g1QzdwYTJTM2ZwNk1yOWcwaDcweFVFNW1RU19GbjZEbWt3SmtRcktTaEJXc3M3VnlzeWJKNA?oc=5"
     }
   ]
 }
