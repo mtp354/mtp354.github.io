@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T12:23:29Z",
+  "generated_at": "2026-05-31T11:49:05Z",
   "news": [
     {
       "id": "073c94dc8c071255",
@@ -17,18 +17,88 @@
       "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQZDdVX2swNXBkUDVyWm1Uc2FTYlZjbENxOFFIRTBkcGlIQWhTRFI5X0llUlhHUTVQdG5GXzBYaFFnUW1aeTY5bnZDLUI3RHZZbHE2RnN5YVN2YXJaUFhDZ0tyenJSMndINGphM3pub1ZNRm9Zb3pWajRnLXFBeFhsaXVybnJmSjZRVE9kZ2FfUG9faVllaWhtaEtEc0xRc3hITWNRNHJfTTZLYjBKb05Pb21sSEppSXVhT1Vka1pwSVVGekliQ0lkcUt6aWJlUTU1djB2aklabWtBZ1k2cjJYOUlsTVVyQmxyb01VM21fRERrSjVHWWdNazVWTzV6V3FmWnk0dGhWWGlyc0pQOFlJb2FUaThINy1pd1hNRGxqdWdnM2ZXZlFkcGZZa1RFRVE2SFIzRThNQjh2OXpWX1E?oc=5"
     },
     {
-      "id": "7b2602918282cc21",
+      "id": "40470cee42a1f64e",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-05-29T10:57:05Z",
+      "published": "2026-05-30T19:58:29Z",
+      "query": "fault tolerant quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBqNEVWNmZ4bzdzRXROY1p6SWFlaFFObzcydGhBM1ZEajNMNG5xa3RFQ2lBbk9KVUl2VTBUN3VDS0hvTko2TzgzSUlfbktqVV92YnEweVZsdVN2ZmZfWkMwMFlkWHlBLWRaeDFlUmJEeE1Idzg?oc=5\" target=\"_blank\">Neutral Atoms Hit 600+ Volume For Megaquop-Scale Simulation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Neutral Atoms Hit 600+ Volume For Megaquop-Scale Simulation - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqNEVWNmZ4bzdzRXROY1p6SWFlaFFObzcydGhBM1ZEajNMNG5xa3RFQ2lBbk9KVUl2VTBUN3VDS0hvTko2TzgzSUlfbktqVV92YnEweVZsdVN2ZmZfWkMwMFlkWHlBLWRaeDFlUmJEeE1Idzg?oc=5"
+    },
+    {
+      "id": "7aa9cb3193a18005",
+      "matched_keywords": [
+        "quantum computing",
+        "error correction"
+      ],
+      "published": "2026-05-29T20:58:38Z",
+      "query": "fault tolerant quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFBQWkpqcUs3ZGVWb2hwUVZza0tzams5QlNfLUJIYmNIUmdFMHFSdjliLWUyZ2htTjNmVmthSkRxeEJySUhKb1hkSDN3R0dTZjMxOFNjTzJQRThaUG1tVVBfcFRZbU94X2NUUS1YLUF2NA?oc=5\" target=\"_blank\">Quantum Error Correction Explained 2026: 7 Essential Concepts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Quantum Error Correction Explained 2026: 7 Essential Concepts - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQWkpqcUs3ZGVWb2hwUVZza0tzams5QlNfLUJIYmNIUmdFMHFSdjliLWUyZ2htTjNmVmthSkRxeEJySUhKb1hkSDN3R0dTZjMxOFNjTzJQRThaUG1tVVBfcFRZbU94X2NUUS1YLUF2NA?oc=5"
+    },
+    {
+      "id": "49415a49e17aaec6",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-05-29T18:37:51Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmdqYkp2ZF9GQ2o0UWQ3MG04eGlQWkMzTVBhRmN2dENUeDBVVDF1OWZ0YmJhZ2tjWHFMa0tQd2ZaRGV0WkhCbnNIUGtlMnRUcmE3RDgzMkE5NlBjUUV3aUk5SkxGOXhPZTduS2lXOVAwZlRaU3hNdXZKX181cXVUWm9PeXQxWXI1eU5abXZhT0Y3SUZCdkh2cUpBZTBab3c3NjhnNXVSRjBwX3Z5Vk1DSFp5U0lYSWUxQXVCQw?oc=5\" target=\"_blank\">Single-Atom “Camera” Visualizes Light Intensity and Polarization Beyond Optical Microscope Limits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bioengineer.org</font>",
-      "title": "Single-Atom “Camera” Visualizes Light Intensity and Polarization Beyond Optical Microscope Limits - Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdmdqYkp2ZF9GQ2o0UWQ3MG04eGlQWkMzTVBhRmN2dENUeDBVVDF1OWZ0YmJhZ2tjWHFMa0tQd2ZaRGV0WkhCbnNIUGtlMnRUcmE3RDgzMkE5NlBjUUV3aUk5SkxGOXhPZTduS2lXOVAwZlRaU3hNdXZKX181cXVUWm9PeXQxWXI1eU5abXZhT0Y3SUZCdkh2cUpBZTBab3c3NjhnNXVSRjBwX3Z5Vk1DSFp5U0lYSWUxQXVCQw?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdW5yUXhhQ0xsZXI5dUUxNmYwUm9JTUJCQjdlRHdPZERqODFydXB5RzVWVXdBSk5oaXZqX3ZKSS1zN05YaEs3ZXpUaWJjX2daNlJoT1NxWk5WY2d0YVBQUEJlSXVPc3FKUGNYSmNwamV4ckhsNUxBa0tUX1VRMEtSMmlMdTJzZU9GNkVGTGo2QUNsSjJMc29ndFFTSVV2bVNBRHZ5SzVjWWE3UEtwUEVDREZUUFM4N3ZkWTlV0gHAAUFVX3lxTE5lMHlfdVp5R2JtR1hqQ0l4THh4dEFVWTFCajB0UHgweFVUdHhyeVZsbGFzdU1tdXVwU1Qxdk1TMFhIclRUS0lLU2tXdWg2d3dZbkpXMzVyNnBzWS14dEhMdjNNSXZJaWE0QVVKNUdTbFBOUWw4TDhOczNDZnVSWlNPdHVrZTBtOXFnajhSZ2duMXc4LTNJdFBBQnFtOFU3S1FJa2stTVFGcjVhQnZJRjEyRFVXdmpQMzdSb1pzMnNhYg?oc=5\" target=\"_blank\">Infleqtion Establishes UK Quantum Innovation Centre and Manufacturing Hub in Oxford</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "Infleqtion Establishes UK Quantum Innovation Centre and Manufacturing Hub in Oxford - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdW5yUXhhQ0xsZXI5dUUxNmYwUm9JTUJCQjdlRHdPZERqODFydXB5RzVWVXdBSk5oaXZqX3ZKSS1zN05YaEs3ZXpUaWJjX2daNlJoT1NxWk5WY2d0YVBQUEJlSXVPc3FKUGNYSmNwamV4ckhsNUxBa0tUX1VRMEtSMmlMdTJzZU9GNkVGTGo2QUNsSjJMc29ndFFTSVV2bVNBRHZ5SzVjWWE3UEtwUEVDREZUUFM4N3ZkWTlV0gHAAUFVX3lxTE5lMHlfdVp5R2JtR1hqQ0l4THh4dEFVWTFCajB0UHgweFVUdHhyeVZsbGFzdU1tdXVwU1Qxdk1TMFhIclRUS0lLU2tXdWg2d3dZbkpXMzVyNnBzWS14dEhMdjNNSXZJaWE0QVVKNUdTbFBOUWw4TDhOczNDZnVSWlNPdHVrZTBtOXFnajhSZ2duMXc4LTNJdFBBQnFtOFU3S1FJa2stTVFGcjVhQnZJRjEyRFVXdmpQMzdSb1pzMnNhYg?oc=5"
+    },
+    {
+      "id": "b4b40c6a68fa7e33",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-05-29T18:18:59Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQckphQmllTGxleHR6OWJoMzZDNWVxZTZ3QUVsYVh2c0s0cXRpWGcwRTlIblhTTVJEdWxpR0NmRW1PeThCZ0poWEZWcHNCdF9hMEROc3c3TzVib0o0WXlzM3FPOEVSZGJIQklUVU5EVVhPM0JKTmljNEFLNHp6NjE3YWp2V2FBV3VfRVdIbkR0aTFZc25RSkl3c29wZkdwdjVrNWlLVy1IS2pkaVBFdDM3Nm5FbUQyZkhXSDlreFNrVXVWT2Ixc2Rja1czWDRNOHQwNWhjcU9QdDJyY2F3a182bGpvWHN0TktSLWMwU9IB8gFBVV95cUxQLVZ2d1VybjRLQS1kMktyWFVsSmFsUlZ4UjBaRlFQNF9iNVBkbjNCRzAxcnFKeGVhdG1kS0c0ZWxWWXZ1SUR3M3FHZ0hBSWc3cnI1NDA2RHU2cGxQQ21JUk1Xd21MSG5mWnNGcWZGUkZRZTdjNWdSVUpWOWtDVWZrZUhveUNPMFpkWm1kcG5PQjNkdk9IVXBlNm9jTFJPSWxxRFJyQl9NZjM3OVFoQWYwR0NMY0N6LVFrOEdjRFJKbVc5cUtfcEhGTDZMd0I5akV2emtJT2F1SXl0SEN1Ty10QldrNG9pVXRrWG1QWDQtaUN6UQ?oc=5\" target=\"_blank\">Indian Institute of Science and Yaqumo Form Strategic Coalition to Deepen Indo-Japanese Neutral-Atom Quantum Hardware R&amp;D</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "Indian Institute of Science and Yaqumo Form Strategic Coalition to Deepen Indo-Japanese Neutral-Atom Quantum Hardware R&D - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQckphQmllTGxleHR6OWJoMzZDNWVxZTZ3QUVsYVh2c0s0cXRpWGcwRTlIblhTTVJEdWxpR0NmRW1PeThCZ0poWEZWcHNCdF9hMEROc3c3TzVib0o0WXlzM3FPOEVSZGJIQklUVU5EVVhPM0JKTmljNEFLNHp6NjE3YWp2V2FBV3VfRVdIbkR0aTFZc25RSkl3c29wZkdwdjVrNWlLVy1IS2pkaVBFdDM3Nm5FbUQyZkhXSDlreFNrVXVWT2Ixc2Rja1czWDRNOHQwNWhjcU9QdDJyY2F3a182bGpvWHN0TktSLWMwU9IB8gFBVV95cUxQLVZ2d1VybjRLQS1kMktyWFVsSmFsUlZ4UjBaRlFQNF9iNVBkbjNCRzAxcnFKeGVhdG1kS0c0ZWxWWXZ1SUR3M3FHZ0hBSWc3cnI1NDA2RHU2cGxQQ21JUk1Xd21MSG5mWnNGcWZGUkZRZTdjNWdSVUpWOWtDVWZrZUhveUNPMFpkWm1kcG5PQjNkdk9IVXBlNm9jTFJPSWxxRFJyQl9NZjM3OVFoQWYwR0NMY0N6LVFrOEdjRFJKbVc5cUtfcEhGTDZMd0I5akV2emtJT2F1SXl0SEN1Ty10QldrNG9pVXRrWG1QWDQtaUN6UQ?oc=5"
+    },
+    {
+      "id": "a29dfd33edef2249",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-05-29T18:04:27Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVl0OHdjQjg5WXZmeUF6NFNDYkVUM0lvR1R1TGZLczdVY1lQRTZSay1aXy00LXBKYnhWSUZnT1A4bk5tNm5JYlVUUlFrcUp5MXUxMVdkVThGeDBzMFAwcjA4bGVNbU93N2RSTGN4Z1ZoYnpWZ013emE0b1hBNUdOUTV2aXJQY1hhWTVod3cxcmd0RnI4Z3Y2NjB1Z09mR0w3aG1Lc0JOTkZZVWJkanBzeEgtVUotRXB5VkFaeVVUSEZlQS1yRjYtUdIByAFBVV95cUxOLVl0OHdjQjg5WXZmeUF6NFNDYkVUM0lvR1R1TGZLczdVY1lQRTZSay1aXy00LXBKYnhWSUZnT1A4bk5tNm5JYlVUUlFrcUp5MXUxMVdkVThGeDBzMFAwcjA4bGVNbU93N2RSTGN4Z1ZoYnpWZ013emE0b1hBNUdOUTV2aXJQY1hhWTVod3cxcmd0RnI4Z3Y2NjB1Z09mR0w3aG1Lc0JOTkZZVWJkanBzeEgtVUotRXB5VkFaeVVUSEZlQS1yRjYtUQ?oc=5\" target=\"_blank\">Quantonation Selects Neutral-Atom Hardware Developer Yaqumo for First Japanese Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "Quantonation Selects Neutral-Atom Hardware Developer Yaqumo for First Japanese Investment - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVl0OHdjQjg5WXZmeUF6NFNDYkVUM0lvR1R1TGZLczdVY1lQRTZSay1aXy00LXBKYnhWSUZnT1A4bk5tNm5JYlVUUlFrcUp5MXUxMVdkVThGeDBzMFAwcjA4bGVNbU93N2RSTGN4Z1ZoYnpWZ013emE0b1hBNUdOUTV2aXJQY1hhWTVod3cxcmd0RnI4Z3Y2NjB1Z09mR0w3aG1Lc0JOTkZZVWJkanBzeEgtVUotRXB5VkFaeVVUSEZlQS1yRjYtUdIByAFBVV95cUxOLVl0OHdjQjg5WXZmeUF6NFNDYkVUM0lvR1R1TGZLczdVY1lQRTZSay1aXy00LXBKYnhWSUZnT1A4bk5tNm5JYlVUUlFrcUp5MXUxMVdkVThGeDBzMFAwcjA4bGVNbU93N2RSTGN4Z1ZoYnpWZ013emE0b1hBNUdOUTV2aXJQY1hhWTVod3cxcmd0RnI4Z3Y2NjB1Z09mR0w3aG1Lc0JOTkZZVWJkanBzeEgtVUotRXB5VkFaeVVUSEZlQS1yRjYtUQ?oc=5"
+    },
+    {
+      "id": "5b79f29b1a3b8785",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-05-29T12:33:01Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRXlieTByZHJieTBzZFlZOEV6eE1oSEQ3OGxzSGhkcUtWazZMcl9YNGItZ3c5dUlLZkFJc1d2b2E5SEpodkpiTVlaZGdlMlkzd3lEQ0xfaGV4Y1V3SEhPa2h6S0dWNF9abnh4Um5jVUVnUTY2TmRxSXJrTHFpbjBsYjJKamdYYXJuOWFoM0RzMG5rM21DMjlLbVQydVR3d0xfVUhiUEp5VjRKZWpReG9lZVg2LWlmZ1hJRGhXcVp4N1dLN2VaRWotMjJHVjdxRUhCc3RxSkw3ZUE3UENabFpteUg3d05WZThxLUV0bFJySkdGTHRz?oc=5\" target=\"_blank\">Quantum X Labs launches 50+ physical-qubit neutral-atom quantum computer, targets thousands by H1 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
+      "title": "Quantum X Labs launches 50+ physical-qubit neutral-atom quantum computer, targets thousands by H1 2027 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRXlieTByZHJieTBzZFlZOEV6eE1oSEQ3OGxzSGhkcUtWazZMcl9YNGItZ3c5dUlLZkFJc1d2b2E5SEpodkpiTVlaZGdlMlkzd3lEQ0xfaGV4Y1V3SEhPa2h6S0dWNF9abnh4Um5jVUVnUTY2TmRxSXJrTHFpbjBsYjJKamdYYXJuOWFoM0RzMG5rM21DMjlLbVQydVR3d0xfVUhiUEp5VjRKZWpReG9lZVg2LWlmZ1hJRGhXcVp4N1dLN2VaRWotMjJHVjdxRUhCc3RxSkw3ZUE3UENabFpteUg3d05WZThxLUV0bFJySkdGTHRz?oc=5"
     },
     {
       "id": "90d60cd96c2c2c6f",
@@ -43,20 +113,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UMkhqOTBSVzJfRUNMT3dSS0sxZWt0Yl9CNEFNREJxWjA0MVJuVXI3WnhtMVNSZlFmQ2VUaERQdzR1TzVtMkdZbUFENmk4ZzlraHIwOVV5OTltWTll?oc=5\" target=\"_blank\">Using a single atom as a “camera” - visualization of light intensity and polarization beyond the resolution limit of optical microscopes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EurekAlert!</font>",
       "title": "Using a single atom as a “camera” - visualization of light intensity and polarization beyond the resolution limit of optical microscopes - EurekAlert!",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9UMkhqOTBSVzJfRUNMT3dSS0sxZWt0Yl9CNEFNREJxWjA0MVJuVXI3WnhtMVNSZlFmQ2VUaERQdzR1TzVtMkdZbUFENmk4ZzlraHIwOVV5OTltWTll?oc=5"
-    },
-    {
-      "id": "072979485a42815b",
-      "matched_keywords": [
-        "error correction",
-        "logical qubit"
-      ],
-      "published": "2026-05-28T22:09:01Z",
-      "query": "quantum error correction",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTFB2cDkwMkFnVmpIa3dCWUlvZWpyLVA1SGNmamV0RzMzVXIzNUthS3JQMWg0QUU3NElrNnk0cUVwcGxlUXYzdXVaVjNTUWdNUTBEczd4RTM3cG1OVm1HOFpFZVRvMkNBVC00cE9KQWRBaw?oc=5\" target=\"_blank\">FCC Lattice Code Encodes 130 Logical Qubits From 192 Physical</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "FCC Lattice Code Encodes 130 Logical Qubits From 192 Physical - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2cDkwMkFnVmpIa3dCWUlvZWpyLVA1SGNmamV0RzMzVXIzNUthS3JQMWg0QUU3NElrNnk0cUVwcGxlUXYzdXVaVjNTUWdNUTBEczd4RTM3cG1OVm1HOFpFZVRvMkNBVC00cE9KQWRBaw?oc=5"
     },
     {
       "id": "046d02a20850f86a",
@@ -113,62 +169,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWmc2UlI0d2ZMRUZWbmJpZ2p0bVZDdW1tdm1qRDFPN3hUbl8teVpSMXBVdHNzRWNWcHJpcHg4SWtaUllieHBWTFJpTjVkWnZnQVdkaF9Dd2lZV2xtRmRJdGQ3VEZyT1BIN1hodm1CekdZRlhNenkzUmVzcFlVWC1pTXRBUW9KMlVGVWRuZDNhRGJfTXV6Zi1wTkoxUkZjS2laWGU1bTVfZUcza3o5amtuUmRHNmx6WmRkWDRpZDd3Qkh6S1d2OGRydEhhV2dXSzNkMFpvMjJPUjRhb0ZmQnQtOUZIc3pCZw?oc=5\" target=\"_blank\">Quantum X Labs Launches 50+ Physical Qubits Neutral-Atom Quantum Computer, Targets Thousands Qubit Milestone by End of H1 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">marketscreener.com</font>",
       "title": "Quantum X Labs Launches 50+ Physical Qubits Neutral-Atom Quantum Computer, Targets Thousands Qubit Milestone by End of H1 2027 - marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWmc2UlI0d2ZMRUZWbmJpZ2p0bVZDdW1tdm1qRDFPN3hUbl8teVpSMXBVdHNzRWNWcHJpcHg4SWtaUllieHBWTFJpTjVkWnZnQVdkaF9Dd2lZV2xtRmRJdGQ3VEZyT1BIN1hodm1CekdZRlhNenkzUmVzcFlVWC1pTXRBUW9KMlVGVWRuZDNhRGJfTXV6Zi1wTkoxUkZjS2laWGU1bTVfZUcza3o5amtuUmRHNmx6WmRkWDRpZDd3Qkh6S1d2OGRydEhhV2dXSzNkMFpvMjJPUjRhb0ZmQnQtOUZIc3pCZw?oc=5"
-    },
-    {
-      "id": "0c880e3bf3a1fdee",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-05-28T12:32:00Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSU9hdnY3VElhLTdGNzREWUFJYlFuNHBFTE5iVlI5cVFBSTU3MDQ3c09DaFlQTTNYZHNYZU51ZmlRUUROeHBMcnVUeE55MGxZY1F4cmZCVEZESnRJTjd6QTcyTk1wbUFtOE9LN3IwY2Jka2NtT1Izck1VM3h6WjdZN2ItMy1hdXg1SWdGTnlUaEhsRldpUzNNclFSLXdpdFY1cXc3SllvOGtqM2hlVGM3SnRCdGZZUjBV?oc=5\" target=\"_blank\">A 50+ qubit leap: Quantum X Labs' bet on thousands by 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-      "title": "A 50+ qubit leap: Quantum X Labs' bet on thousands by 2027 - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSU9hdnY3VElhLTdGNzREWUFJYlFuNHBFTE5iVlI5cVFBSTU3MDQ3c09DaFlQTTNYZHNYZU51ZmlRUUROeHBMcnVUeE55MGxZY1F4cmZCVEZESnRJTjd6QTcyTk1wbUFtOE9LN3IwY2Jka2NtT1Izck1VM3h6WjdZN2ItMy1hdXg1SWdGTnlUaEhsRldpUzNNclFSLXdpdFY1cXc3SllvOGtqM2hlVGM3SnRCdGZZUjBV?oc=5"
-    },
-    {
-      "id": "d6d0f3e14fa65e10",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-05-28T08:04:16Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE0xZ1dqeXVrQ1pDTlZPa245NGJkRnllSkJ2WUNadFNfNXUyTE11bFk1eERNSmVkVzBFMU9iZ0ZTVjZKNEdiamQtX21rQ3QxYWYtT0xCaGd3WDZ6Q2Y2MmRtNmZrN25XUUdKVHRfR1l2cUwyaXR5MXJETUFkV3VqUzg?oc=5\" target=\"_blank\">Top Neutral Atom Quantum Computing Companies and Rydberg Array Vendor Guide</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Top Neutral Atom Quantum Computing Companies and Rydberg Array Vendor Guide - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xZ1dqeXVrQ1pDTlZPa245NGJkRnllSkJ2WUNadFNfNXUyTE11bFk1eERNSmVkVzBFMU9iZ0ZTVjZKNEdiamQtX21rQ3QxYWYtT0xCaGd3WDZ6Q2Y2MmRtNmZrN25XUUdKVHRfR1l2cUwyaXR5MXJETUFkV3VqUzg?oc=5"
-    },
-    {
-      "id": "44f3fd9e5fbc8067",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-05-27T13:59:00Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTnNvbUZFTHRXb1cyU0lmVlppRnRHVUpiTng4MWNOZnU1cmxtZzM2OEhhZkx0WnctZFRybkxsaDJuazRxZE5kZ3IyeDN5dFloekpRVlBLNDhmUWVwdk13S3JnSHNYNnVSTk5Ibk5DbXhHZFBQZ3BqTWkyZVpwZ0xsU3NaM1NYMFV2Q3FpYnJsOE9jckZxYWdZY0RrNFVXdFJhclBIeE42NmNPNzZOaDdCcXZ6NnR6aTJnWmRiQ3hSSFhKbUNNVE5IeVdraVE3a0tHb2htVDdBcjBTV2JHSExBU0l1ak01M011dG9rZ3ZBNm94enc?oc=5\" target=\"_blank\">Pasqal Achieves Quantum Advantage and Scalable Neutral Atom Quantum Computing with $2B Acquisition and $550M Funding 12348</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Minichart</font>",
-      "title": "Pasqal Achieves Quantum Advantage and Scalable Neutral Atom Quantum Computing with $2B Acquisition and $550M Funding 12348 - Minichart",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQTnNvbUZFTHRXb1cyU0lmVlppRnRHVUpiTng4MWNOZnU1cmxtZzM2OEhhZkx0WnctZFRybkxsaDJuazRxZE5kZ3IyeDN5dFloekpRVlBLNDhmUWVwdk13S3JnSHNYNnVSTk5Ibk5DbXhHZFBQZ3BqTWkyZVpwZ0xsU3NaM1NYMFV2Q3FpYnJsOE9jckZxYWdZY0RrNFVXdFJhclBIeE42NmNPNzZOaDdCcXZ6NnR6aTJnWmRiQ3hSSFhKbUNNVE5IeVdraVE3a0tHb2htVDdBcjBTV2JHSExBU0l1ak01M011dG9rZ3ZBNm94enc?oc=5"
-    },
-    {
-      "id": "d28e024fa8674f2e",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-05-27T06:00:00Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEtFN2x6YUJaam8xODlNSDhVLTU3MG5faDhBOEpFRktzTThPM2xOSDk0U3c3VmFnZjNRMFpvRWIwNjdOWGVzM0ZNbWhIR2dtOEYwXzVpTE1Wb2pmYVBLaEJic3ZOeXNpampRVkFuQnR3LWZjdkVoTlJudl9yWldCNGFPbm56c1ZfT21BT19QbFlBTURsZmxwZQ?oc=5\" target=\"_blank\">The Conversation Nobody Is Having About Quantum Computing -- and the Stock at the Center of It</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "title": "The Conversation Nobody Is Having About Quantum Computing -- and the Stock at the Center of It - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEtFN2x6YUJaam8xODlNSDhVLTU3MG5faDhBOEpFRktzTThPM2xOSDk0U3c3VmFnZjNRMFpvRWIwNjdOWGVzM0ZNbWhIR2dtOEYwXzVpTE1Wb2pmYVBLaEJic3ZOeXNpampRVkFuQnR3LWZjdkVoTlJudl9yWldCNGFPbm56c1ZfT21BT19QbFlBTURsZmxwZQ?oc=5"
     }
   ],
   "publications": [
