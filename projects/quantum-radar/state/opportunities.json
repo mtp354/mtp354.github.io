@@ -1,23 +1,6 @@
 {
-  "generated_at": "2026-05-31T14:11:02Z",
+  "generated_at": "2026-06-01T15:38:22Z",
   "items": [
-    {
-      "id": "48ecf4853de2cc71",
-      "matched_keywords": [
-        "grant",
-        "proposal",
-        "call for proposals",
-        "quantum",
-        "quantum technology"
-      ],
-      "published": "2026-05-11T07:00:00Z",
-      "query": "quantum technology grant",
-      "score": 13,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOY240di0wWEZYX1E0TXRXbEZ0OG15RVRqREtLTXFDVExxZ0JFemhSdjB6c3dwMUdMby1Cb1l5eGF3S2poS2V3eGxnZU1BWXR1N25yOW1hc3VHbWsxZHJ6aWFrNnRIRDl1bV9FbjhuaVdTamJSU3dzaFNHQ0swMUR2WGxsUFlYRjRIaTI1eTFCOHdqRUl1MHRIcNIBngFBVV95cUxPWkRwMWx3d0NEcXIyY2pGVUFKRjNYUE1VTGZqNnl6UC1OQU8tQi0wdEp2bWdhc3RhMmw4OFJ3bUUwQ1lHUXZYa0hCTHh5Y242Q0YwRndnbjVTa255LXpaRFZmY2FCclRGdHRxVUp2TERIUjg5ZER0NXowZkVYa3RyenFzd01QRDltUU5DYmRmTFQzd1pjaVFldzhPb0VIZw?oc=5\" target=\"_blank\">Call for Proposals: Q-Pragathi 2026 (Cohort III) – India</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fundsforNGOs</font>",
-      "title": "Call for Proposals: Q-Pragathi 2026 (Cohort III) – India - fundsforNGOs",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY240di0wWEZYX1E0TXRXbEZ0OG15RVRqREtLTXFDVExxZ0JFemhSdjB6c3dwMUdMby1Cb1l5eGF3S2poS2V3eGxnZU1BWXR1N25yOW1hc3VHbWsxZHJ6aWFrNnRIRDl1bV9FbjhuaVdTamJSU3dzaFNHQ0swMUR2WGxsUFlYRjRIaTI1eTFCOHdqRUl1MHRIcNIBngFBVV95cUxPWkRwMWx3d0NEcXIyY2pGVUFKRjNYUE1VTGZqNnl6UC1OQU8tQi0wdEp2bWdhc3RhMmw4OFJ3bUUwQ1lHUXZYa0hCTHh5Y242Q0YwRndnbjVTa255LXpaRFZmY2FCclRGdHRxVUp2TERIUjg5ZER0NXowZkVYa3RyenFzd01QRDltUU5DYmRmTFQzd1pjaVFldzhPb0VIZw?oc=5"
-    },
     {
       "id": "6d356fc0c03028ca",
       "matched_keywords": [
@@ -49,6 +32,22 @@
       "title": "Department of Commerce Announces Letters of Intent With 9 Companies for $2 Billion to Accelerate U.S. Leadership in Quantum Computing - National Institute of Standards and Technology (.gov)",
       "type": "grants",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS25USHlZNExEcm85NGhWVE52dUVGTkdhbGd2RkNyTVN4RzFKbW44QWVDZmQ4ZW9Ddnlsb3d0dzBRVGpkVHdxRFhSa3FLaVlNeG9ocVNPTUlyZlNHUmQ5TnpZaDljUnFyX3RvV3pXZUdWS3ZXUUw4SmFvVlZVN1Jqa1JTa0s4TER4cFZDcVhmMHk3TXVLVTBLSHYyRWNQeXBkWmZsSmpDSkU2LXNiT3EwcnR3?oc=5"
+    },
+    {
+      "id": "39a05d0a17bb524c",
+      "matched_keywords": [
+        "grant",
+        "funding",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-05-30T14:00:02Z",
+      "query": "quantum computing grant",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSExVZExPUjVUOE9qMWlQZWREZmNSU2tvSWwyRUlPb0Y0cnlmSldKZFVHU2VFN3NMd25lYWtmUTJFMzJzOGdReVNlWHg2enpsSlZuOVRBT04tdmQweGlPd3Rjdmk4Z1ZBdk1XVDA1TTlyU1pIWmFtRWtxaHNiVklVQVJaVTN3anYzeEptMGlBNGFVejJadkZKTHpsUG9kUW1xMmVkeG9QRDlOdFNzM2Q1MDBQYThUQnZWNDhxSU1YcDRWMDF0Ym1HNF8ydzVXZDJxT3k5SGNHaXJJd0U?oc=5\" target=\"_blank\">IBM Missed the Bus on AI. New Federal Funding Means IBM Stock Could Be a Winner in Quantum Computing.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Barchart</font>",
+      "title": "IBM Missed the Bus on AI. New Federal Funding Means IBM Stock Could Be a Winner in Quantum Computing. - Barchart",
+      "type": "grants",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSExVZExPUjVUOE9qMWlQZWREZmNSU2tvSWwyRUlPb0Y0cnlmSldKZFVHU2VFN3NMd25lYWtmUTJFMzJzOGdReVNlWHg2enpsSlZuOVRBT04tdmQweGlPd3Rjdmk4Z1ZBdk1XVDA1TTlyU1pIWmFtRWtxaHNiVklVQVJaVTN3anYzeEptMGlBNGFVejJadkZKTHpsUG9kUW1xMmVkeG9QRDlOdFNzM2Q1MDBQYThUQnZWNDhxSU1YcDRWMDF0Ym1HNF8ydzVXZDJxT3k5SGNHaXJJd0U?oc=5"
     },
     {
       "id": "065972d10e53a170",
@@ -179,20 +178,36 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUdueHhKaGFZVGJ2UnJJQ09tZzRiR2JiZVZfWHFINlpQVGtZa3FWYjM3ZVhNVTBHYThkS2dRMHN6ZWRiblo0UGxCcGNTcmZPWEJFWlM3WHVyMlZSMmQ0R0h6Ql83a2hsYXBkMEhqUjVrNExDT0E2UUU1VTNwZHE2UWxR0gGHAUFVX3lxTE85WjFBb0NWQlRrdW13bG1YcEZZcF9XLWNiN3VBc2p1TkNPNWYzd0c1X3dWaXlVRm5ZWmxEZWtRQ0hDRlhFUjgxc193VGtOZmJxb3BsWlpMRUF2SnhEaW9JY2pTZ2NHVzYtT0N4Skx6WDlJUEdNbWtJTHk1aUtLR0N0NjlUakJYOA?oc=5"
     },
     {
-      "id": "2615e8b884f0d92c",
+      "id": "3f201109b7cafa70",
+      "matched_keywords": [
+        "grant",
+        "funding",
+        "quantum",
+        "quantum technology"
+      ],
+      "published": "2026-05-21T07:00:00Z",
+      "query": "quantum technology grant",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkNaQzJyNGp0N0JDci1CdFpMSmRfbXhuaTZ4eGZ0NmZqQTdJbjlwekl6TUFRZnFuSGlUSEpyT3dhVFctVkdJWDRjOTk4ZzJodjl4OUpVeF9sTHVLVXlsaXMwbmU1Wk9hc0RPOU9DREluNzlqaDhUMHJEWE9FUXNaSVpkbjYzYTBibGZUNGJmNEpVdnJnWWdQMmJPNlpBNFFhQW5BeGRBS3Z1Rk8xWUQzUnFodXZfVVZsTmV5QmswcUItTmxzSkNMVFREZklwWms?oc=5\" target=\"_blank\">CHIPS funding to help establish quantum wafer fab at Albany NanoTech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News</font>",
+      "title": "CHIPS funding to help establish quantum wafer fab at Albany NanoTech - Spectrum News",
+      "type": "grants",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkNaQzJyNGp0N0JDci1CdFpMSmRfbXhuaTZ4eGZ0NmZqQTdJbjlwekl6TUFRZnFuSGlUSEpyT3dhVFctVkdJWDRjOTk4ZzJodjl4OUpVeF9sTHVLVXlsaXMwbmU1Wk9hc0RPOU9DREluNzlqaDhUMHJEWE9FUXNaSVpkbjYzYTBibGZUNGJmNEpVdnJnWWdQMmJPNlpBNFFhQW5BeGRBS3Z1Rk8xWUQzUnFodXZfVVZsTmV5QmswcUItTmxzSkNMVFREZklwWms?oc=5"
+    },
+    {
+      "id": "13ea63f09f8c6a40",
       "matched_keywords": [
         "intern",
         "workshop",
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-05-11T12:50:22Z",
+      "published": "2026-05-11T10:30:00Z",
       "query": "quantum computing workshop students",
       "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQV2FVYnJZV1lRV3Q5SDNmQnBzYTlPZTRmMGRpWlJaRGIwNE9hZEZUUUhZSW8teFNjcmc0eDdkeTNOSENDMWFhZ3owZWw4WS1GN0E5MnlMVlhxbGhyN0psZ1BnQ1lLZVp0Um1ZWkJtZGF5alJLTjVHWXhVSFEwU1BMd0w4RjNoQ045UDhmM2tUREdFbFE0NmRSUEJqNVlpREtyYUl1Nw?oc=5\" target=\"_blank\">OIC-COMSTECH launches an international workshop on quantum computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Lead Pakistan</font>",
-      "title": "OIC-COMSTECH launches an international workshop on quantum computing - Daily Lead Pakistan",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFc5VW9HQnNJMXRDeHZkMHFWVVJZU3F4elM5ak9MUlhsMFU2RURYbkJsMG9IT3A5QS1uZUFDdjVMYzEzN19ialg2bm1kNzNiZUJqdlgxSGxGVjJJMW5ObG4zTE96NWdOOTlJNi1xbjdKbUNfd1ZkdVFTTV9VWE5IZ0hLUVc3QXVOUmVhb0NBWGJFV1RiaDg4dm1LeTQ5dVZXd1RZ?oc=5\" target=\"_blank\">OIC-COMSTECH launches an international workshop on quantum computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">| Associated Press Of Pakistan</font>",
+      "title": "OIC-COMSTECH launches an international workshop on quantum computing - | Associated Press Of Pakistan",
       "type": "internships",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV2FVYnJZV1lRV3Q5SDNmQnBzYTlPZTRmMGRpWlJaRGIwNE9hZEZUUUhZSW8teFNjcmc0eDdkeTNOSENDMWFhZ3owZWw4WS1GN0E5MnlMVlhxbGhyN0psZ1BnQ1lLZVp0Um1ZWkJtZGF5alJLTjVHWXhVSFEwU1BMd0w4RjNoQ045UDhmM2tUREdFbFE0NmRSUEJqNVlpREtyYUl1Nw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeFc5VW9HQnNJMXRDeHZkMHFWVVJZU3F4elM5ak9MUlhsMFU2RURYbkJsMG9IT3A5QS1uZUFDdjVMYzEzN19ialg2bm1kNzNiZUJqdlgxSGxGVjJJMW5ObG4zTE96NWdOOTlJNi1xbjdKbUNfd1ZkdVFTTV9VWE5IZ0hLUVc3QXVOUmVhb0NBWGJFV1RiaDg4dm1LeTQ5dVZXd1RZ?oc=5"
     },
     {
       "id": "a077ec5daea17aa7",
@@ -272,22 +287,6 @@
       "title": "Qiskit Summer School Marks A Decade Of Cloud Quantum Computing - Quantum Zeitgeist",
       "type": "summer_programs",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xcGZOd3pRYS1iRWd5RzhublFSazNmSTloNm1wRUM1VlE0cTQzcEF1RnduWTZwOGV2dmZST3ljY2NpTy10NHhFU0VXb1BSYlkwc3F3WWRsZE85T1VNR2ZyR2xzT3RZQi1vV0piem1qeXY?oc=5"
-    },
-    {
-      "id": "9dfc291ea4243e12",
-      "matched_keywords": [
-        "internship",
-        "intern",
-        "challenge",
-        "quantum"
-      ],
-      "published": "2026-04-30T07:00:00Z",
-      "query": "quantum internship",
-      "score": 8,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBNdjhWZC1yaGFlazNjcW5YVzhoZzR0YldtWjJaR3pXblFLX1dyTHlXTS1ubVRfX3ZLdENuUHdHSTM4UkllWlVKRVFrVFQ4Y2QyOWh1VXVtT1h2TU85NWZQTFhJWHJtdklNZmFMVnNSQ1ZvM1d1ZzU3c2ExUGw?oc=5\" target=\"_blank\">Quantum Dice Launches £5,000 Use Case Challenge For Innovators</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Quantum Dice Launches £5,000 Use Case Challenge For Innovators - Quantum Zeitgeist",
-      "type": "internships",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNdjhWZC1yaGFlazNjcW5YVzhoZzR0YldtWjJaR3pXblFLX1dyTHlXTS1ubVRfX3ZLdENuUHdHSTM4UkllWlVKRVFrVFQ4Y2QyOWh1VXVtT1h2TU85NWZQTFhJWHJtdklNZmFMVnNSQ1ZvM1d1ZzU3c2ExUGw?oc=5"
     },
     {
       "id": "b8c9b9aa572707db",
