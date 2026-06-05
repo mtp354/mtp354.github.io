@@ -1,6 +1,51 @@
 {
-  "generated_at": "2026-06-03T12:49:35Z",
+  "generated_at": "2026-06-05T12:18:57Z",
   "news": [
+    {
+      "id": "12f67bc9e862d769",
+      "matched_keywords": [
+        "quantum computing",
+        "error correction",
+        "neutral atom"
+      ],
+      "published": "2026-06-04T11:13:07Z",
+      "query": "neutral atom quantum computing",
+      "score": 9,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1JT2llOHNaeDZ0TlVUVlQwM29UZlNDV2h0RDRrSjZKZzlrei1vSXBmQmxvai1NR2FVMElPSXV3M3VuLWVEWGNscFd3RFVtcnM1N3lMcDlHSnA2bnhqTGRfMWljT0MwRHRhaFd3TnA0TkdCZk1MamEzag?oc=5\" target=\"_blank\">Atom Computing Achieves Error Correction With Scaling Qubits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Atom Computing Achieves Error Correction With Scaling Qubits - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JT2llOHNaeDZ0TlVUVlQwM29UZlNDV2h0RDRrSjZKZzlrei1vSXBmQmxvai1NR2FVMElPSXV3M3VuLWVEWGNscFd3RFVtcnM1N3lMcDlHSnA2bnhqTGRfMWljT0MwRHRhaFd3TnA0TkdCZk1MamEzag?oc=5"
+    },
+    {
+      "id": "c6cb4b0cada93970",
+      "matched_keywords": [
+        "quantum computing",
+        "error correction",
+        "neutral atom"
+      ],
+      "published": "2026-06-03T16:21:48Z",
+      "query": "neutral atom quantum computing",
+      "score": 9,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXd3OVp5cXF1VzlMY3E3WHU0Rkp0clM3aHNaVUhURHZWZnY0QmRJbHFZaWdCcUpINWRQM09zSnBrYU5FUkdibkZNTlRmeFVaZXdIRFJ6cW5GNWdvRHY2SDl6cXdUUW5sZUxZbmJ1T0syZEdZNGM1d3dOSlZRVVpKbHVJeklYZmNweUlDR3pBV2N1M1B6ZFVJN2VqNmpkQXZTSkJodnFqRXQ?oc=5\" target=\"_blank\">Atom Computing Reveals Quantum Error Correction with Toric Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "Atom Computing Reveals Quantum Error Correction with Toric Code - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLXd3OVp5cXF1VzlMY3E3WHU0Rkp0clM3aHNaVUhURHZWZnY0QmRJbHFZaWdCcUpINWRQM09zSnBrYU5FUkdibkZNTlRmeFVaZXdIRFJ6cW5GNWdvRHY2SDl6cXdUUW5sZUxZbmJ1T0syZEdZNGM1d3dOSlZRVVpKbHVJeklYZmNweUlDR3pBV2N1M1B6ZFVJN2VqNmpkQXZTSkJodnFqRXQ?oc=5"
+    },
+    {
+      "id": "05d15e882756a576",
+      "matched_keywords": [
+        "quantum computing",
+        "error correction",
+        "neutral atom"
+      ],
+      "published": "2026-06-03T15:14:19Z",
+      "query": "neutral atom quantum computing",
+      "score": 9,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWdueXc2QTZvdnhhR21QQ1BnMVlYcWJsYlpPeHRTRi1mSnlrNjU3cldaaGFsU0F1OGxQaHBRMEh3cy1LUmY5X0VZN2M4MmJvaEV2b0tzUld2Y1ZwNVR5Skt5WUlXRFdGaXFRbmxiMW1ZMVUxZXdtNXNfRlFvME4ybzZzRWhZN1RZODVhUnNQVmZPd3EwZTlTZkthSUtDMmxrcmZMdTl4WjA5ZHVQdXJfZ0NCV211b2RadFJqZ3Q1dEVqRTg?oc=5\" target=\"_blank\">Atom Computing Reports Neutral-Atom Quantum Error Correction Milestone Using Toric Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HPCwire</font>",
+      "title": "Atom Computing Reports Neutral-Atom Quantum Error Correction Milestone Using Toric Code - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWdueXc2QTZvdnhhR21QQ1BnMVlYcWJsYlpPeHRTRi1mSnlrNjU3cldaaGFsU0F1OGxQaHBRMEh3cy1LUmY5X0VZN2M4MmJvaEV2b0tzUld2Y1ZwNVR5Skt5WUlXRFdGaXFRbmxiMW1ZMVUxZXdtNXNfRlFvME4ybzZzRWhZN1RZODVhUnNQVmZPd3EwZTlTZkthSUtDMmxrcmZMdTl4WjA5ZHVQdXJfZ0NCV211b2RadFJqZ3Q1dEVqRTg?oc=5"
+    },
     {
       "id": "6592926624c8a426",
       "matched_keywords": [
@@ -32,527 +77,103 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0I3TUlwTjMyTzFFNDdobDI2WV91R2xJaFFRY1FZOC1qdmdEdWNsMThCRnJjRWNQQWlYMFhmSVRTRnh0SFIxUmtsWWlCYU50ODV1OHJLSVBrRlp0SnpqR0JfcTZCYmhxVEhQTVZzd2d4b0VWUWYyYTF5ZWFjOHYzRFhnVVdRbXVrTkdkSFVWS2xnMmk4UEo0cm9QN21uMUdMZ3hDMDRwY0xfQ0tBc3RkS0VkbU9nbXJ1Zm9CUkpsNlZrYUlxWE05dNIBzgFBVV95cUxQVU04MnhzTDNDN01Fd1F2SDR6YS02dUF5d2xBdnJqemlPMlNGOUpLWHpPY3F3MVF6bFdUeFRGaXNjd0tqTDJ3YXRCOExPN1BOZ292N1ZGbVRZdUxOMWhNREJTcEw1TzlWUEk0VlBBYW1tV29mdU1JOVdveFlyb1k2R1JYT3p1QkRkNEhsR0hqVVlTd2FnRkllM1NRc2pYVkxPUXhOb3FFdjZjVXhiR1RVWDFBaERreTVfUHhfMTJnckJ2U2JPMk82Wl9jX3VVUQ?oc=5"
     },
     {
-      "id": "bf88840c186e120c",
+      "id": "e6f3fe7a9282b105",
+      "matched_keywords": [
+        "error correction",
+        "logical qubit"
+      ],
+      "published": "2026-06-05T06:14:38Z",
+      "query": "quantum error correction",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aR0hyZzNXR05hUjRlYXg5N1ZxNzBCQlEtT1FhZlpHNXZZQlF0UlFjSDBkVl9mem4xNjl4eGdPck1lRkh5TC00aUM2SnU1cjB2UzZiTzJ6UE1adE92dDdnN1BXNA?oc=5\" target=\"_blank\">IonQ Cuts Quantum LDPC Error Rate 9x And Hits Logical Qubit Breakeven</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "IonQ Cuts Quantum LDPC Error Rate 9x And Hits Logical Qubit Breakeven - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aR0hyZzNXR05hUjRlYXg5N1ZxNzBCQlEtT1FhZlpHNXZZQlF0UlFjSDBkVl9mem4xNjl4eGdPck1lRkh5TC00aUM2SnU1cjB2UzZiTzJ6UE1adE92dDdnN1BXNA?oc=5"
+    },
+    {
+      "id": "5d6ed889b47d712b",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-06-05T05:26:58Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE55QVJhQnFBUHBsSV9WSlhHYk9BRlIyRFJqMFFnNGMzMHk3eXl2X0tQNXdoQkljSW1pMllJbWRDcHdGa2JBWnB4Sk1VaHVfTEN2OXJyRVZqSjZFZlA1WThLMDc2eHo3dXJRNjBUYWpFZw?oc=5\" target=\"_blank\">Weizmann’s Raz Joins Quantum X Labs’ Scientific Advisory Board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Weizmann’s Raz Joins Quantum X Labs’ Scientific Advisory Board - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55QVJhQnFBUHBsSV9WSlhHYk9BRlIyRFJqMFFnNGMzMHk3eXl2X0tQNXdoQkljSW1pMllJbWRDcHdGa2JBWnB4Sk1VaHVfTEN2OXJyRVZqSjZFZlA1WThLMDc2eHo3dXJRNjBUYWpFZw?oc=5"
+    },
+    {
+      "id": "96b728c6bdfce06a",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-06-04T21:40:00Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxORzBfN3hESmNqYlp6YVNXeWZ0UkVfbUFkWjZMbnUyNXUtcnFEUGNULWVhc1h0ZUZIRjhEWWJST21uaVRWajZUc2tmWXJoMzRWRVVuTmRiZW5FSzhBSWQ1SzRfU3RqLWtSRmdoanZOMHc1SzAyaTExZ1FJN2RnLVpHSzB1QWwwcFlJczJ5bnZnYnowVjVpbFpLVzNac09BcGNpd19GeHJtQU1pWlNTY3lfWA?oc=5\" target=\"_blank\">Infleqtion (INFQ) Achieves Quantum Milestones as First Public Neutral-Atom Company - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>",
+      "title": "Infleqtion (INFQ) Achieves Quantum Milestones as First Public Neutral-Atom Company - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORzBfN3hESmNqYlp6YVNXeWZ0UkVfbUFkWjZMbnUyNXUtcnFEUGNULWVhc1h0ZUZIRjhEWWJST21uaVRWajZUc2tmWXJoMzRWRVVuTmRiZW5FSzhBSWQ1SzRfU3RqLWtSRmdoanZOMHc1SzAyaTExZ1FJN2RnLVpHSzB1QWwwcFlJczJ5bnZnYnowVjVpbFpLVzNac09BcGNpd19GeHJtQU1pWlNTY3lfWA?oc=5"
+    },
+    {
+      "id": "49bf8e767fd9f125",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-06-04T21:33:00Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2VsTkZaVG1mMHBUTktaRERZN1FzWDU2M05GTmxEb0t4Q19ubkJWazRzR25ZWnh2SWdSRXA2NnY2NG0xY1ZuN0ItMVQtbmpidUQyUVFoTTc1Q3E3Mzd2bEZIb1dnLURnaVVRRXFSYVRyU3pwX1RtN0RWZmgwUER0VkNjV211RVExcEZUd0FKaGxWMmc?oc=5\" target=\"_blank\">Wall Street Is Wrong About This Quantum Computing Stock for 2026 -- Here's the Proof</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "title": "Wall Street Is Wrong About This Quantum Computing Stock for 2026 -- Here's the Proof - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2VsTkZaVG1mMHBUTktaRERZN1FzWDU2M05GTmxEb0t4Q19ubkJWazRzR25ZWnh2SWdSRXA2NnY2NG0xY1ZuN0ItMVQtbmpidUQyUVFoTTc1Q3E3Mzd2bEZIb1dnLURnaVVRRXFSYVRyU3pwX1RtN0RWZmgwUER0VkNjV211RVExcEZUd0FKaGxWMmc?oc=5"
+    },
+    {
+      "id": "12be740160b248fa",
       "matched_keywords": [
         "quantum computing",
         "photonic quantum"
       ],
-      "published": "2026-06-03T08:10:29Z",
+      "published": "2026-06-04T16:54:35Z",
       "query": "quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWFwUWZLOXRKTnctYTAyM3FhczV6UjhlN3pzZmVtb0pyY0xZVDZ1VDJvaGl1R05LbnY2aFZuN19Ub1JGLXd5LVNXdWhfVlFfUHZPSzNFWkJxbTA1Y1VMZU9PdkFTWUd4TG9MNWFyU1BxQXQzLTNFQk9OQlg0STA1bjM3VkhzVVp5NEdXTG9rTllXQm1ydWRfcEZFRW0xaU5uaHFQZ01mZnZrelZjVzJrMzFZWko1VWlISnhGRzlxdDAtVUxUWnJmSUFxcw?oc=5\" target=\"_blank\">QuiX Quantum Installs Real-Time Control Component for Universal Photonic Quantum Computer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "QuiX Quantum Installs Real-Time Control Component for Universal Photonic Quantum Computer - The Quantum Insider",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSWFwUWZLOXRKTnctYTAyM3FhczV6UjhlN3pzZmVtb0pyY0xZVDZ1VDJvaGl1R05LbnY2aFZuN19Ub1JGLXd5LVNXdWhfVlFfUHZPSzNFWkJxbTA1Y1VMZU9PdkFTWUd4TG9MNWFyU1BxQXQzLTNFQk9OQlg0STA1bjM3VkhzVVp5NEdXTG9rTllXQm1ydWRfcEZFRW0xaU5uaHFQZ01mZnZrelZjVzJrMzFZWko1VWlISnhGRzlxdDAtVUxUWnJmSUFxcw?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDRTTXVTWVZTZEd6QTNmekRNdXdJalpxSkNWNWEyS01tOWM5cG9jWGktUGI2eUp3SHVXNjN1SngtRXNqWGtKX2p5UFBPb0JzdnpVZ2VrdFNVQkg5dnZ4QllodFFXOVg2Zy1zZ1JPa2lWNTVDYXhEclBMVjJkRlNFZnZJczFhcDJqODVKWEEzbmMwbEdwX2NwcG10RnMzaF9jZUUxRVNXeDIxUlRmMU9COGpfYnROdkFlWnd1T3RSZnZOSk5iQWc?oc=5\" target=\"_blank\">QuiX Quantum Installs Real-Time Control Component for Universal Photonic Quantum Computer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HPCwire</font>",
+      "title": "QuiX Quantum Installs Real-Time Control Component for Universal Photonic Quantum Computer - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDRTTXVTWVZTZEd6QTNmekRNdXdJalpxSkNWNWEyS01tOWM5cG9jWGktUGI2eUp3SHVXNjN1SngtRXNqWGtKX2p5UFBPb0JzdnpVZ2VrdFNVQkg5dnZ4QllodFFXOVg2Zy1zZ1JPa2lWNTVDYXhEclBMVjJkRlNFZnZJczFhcDJqODVKWEEzbmMwbEdwX2NwcG10RnMzaF9jZUUxRVNXeDIxUlRmMU9COGpfYnROdkFlWnd1T3RSZnZOSk5iQWc?oc=5"
     },
     {
-      "id": "d4b90d27ba0f22cd",
-      "matched_keywords": [
-        "quantum computing",
-        "fault tolerance"
-      ],
-      "published": "2026-06-03T07:12:48Z",
-      "query": "quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE5oR3lCSGRkX09KSkNwaDBGajB4OVVscmdSS2xMRjNJWEdqTXVoeV83bGZ5dWRKeVlsN09aQU55LUswRnUwak1fYnJuU1UxSjkyeDFkV0h4ckdmTE1PVEsxOS1EOGVDUGNEOFdMX1hR?oc=5\" target=\"_blank\">IBM Commits $10B To Quantum, Targeting 2033 Fault Tolerance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "IBM Commits $10B To Quantum, Targeting 2033 Fault Tolerance - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oR3lCSGRkX09KSkNwaDBGajB4OVVscmdSS2xMRjNJWEdqTXVoeV83bGZ5dWRKeVlsN09aQU55LUswRnUwak1fYnJuU1UxSjkyeDFkV0h4ckdmTE1PVEsxOS1EOGVDUGNEOFdMX1hR?oc=5"
-    },
-    {
-      "id": "896288fddbad3051",
+      "id": "b9a412c25ea8842a",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-06-02T20:16:54Z",
+      "published": "2026-06-04T15:29:30Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxQa3lRd0puOHBiU1o3WVI1eVN2c0hxWGxNZG5JMWVLQXRpaGRtNlJPQWJWeWlnTEkzaUMwRUpOaFJ3VHJtNUJ2Ynl5LUJDRjFHV0k2dGZxTS0tRmNlMnRnelhTbkctaElRZEYwSjhsSm1aSTY3TmZnLXU4UURvRlBxT1NabHl1UjJ5TThvWkxGU2RSTnIyTl9VQkRMWWN3TktvWUwyTDJuTExrV3VBUm5PV3F4TDAwSnhQb1ZzVXc3RGlpTXF5UmRyNXFGVHpRcWh2Q1V5cXRVZGVCSERhNU1ITU16a2lESG11cUNodEFFLS1WM1VXd0UyVkVfM0pkOHRaTEYzeFEyV182SzJGWE0tQ084M0ducG40SWc?oc=5\" target=\"_blank\">INFQ: Neutral atom quantum advances drive rapid scaling, new applications, and major government investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "title": "INFQ: Neutral atom quantum advances drive rapid scaling, new applications, and major government investment - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQa3lRd0puOHBiU1o3WVI1eVN2c0hxWGxNZG5JMWVLQXRpaGRtNlJPQWJWeWlnTEkzaUMwRUpOaFJ3VHJtNUJ2Ynl5LUJDRjFHV0k2dGZxTS0tRmNlMnRnelhTbkctaElRZEYwSjhsSm1aSTY3TmZnLXU4UURvRlBxT1NabHl1UjJ5TThvWkxGU2RSTnIyTl9VQkRMWWN3TktvWUwyTDJuTExrV3VBUm5PV3F4TDAwSnhQb1ZzVXc3RGlpTXF5UmRyNXFGVHpRcWh2Q1V5cXRVZGVCSERhNU1ITU16a2lESG11cUNodEFFLS1WM1VXd0UyVkVfM0pkOHRaTEYzeFEyV182SzJGWE0tQ084M0ducG40SWc?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlZWMUZwSHpfTXUtcmRFX3lrXzZycnZsVGhnSUtJU2RkVExieDd2Z2Vyd0hUcmxpSDVzUTlXd1dKNTRMTy1BRDBFbnZBamtnYkpLWFVSeUZzQWFzcG5xaFFzRlN5NnNqUDVHVGZDN1FzM1JOWFM1YkdpSm9ITWUtUjhCZVJxTFIzcUZ1djRRVUxOMF9fYWluVDZMMA?oc=5\" target=\"_blank\">Hamamatsu, NKT, and Yaqumo Collaborate on Photonics for Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ForkLog</font>",
+      "title": "Hamamatsu, NKT, and Yaqumo Collaborate on Photonics for Quantum Computers - ForkLog",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlZWMUZwSHpfTXUtcmRFX3lrXzZycnZsVGhnSUtJU2RkVExieDd2Z2Vyd0hUcmxpSDVzUTlXd1dKNTRMTy1BRDBFbnZBamtnYkpLWFVSeUZzQWFzcG5xaFFzRlN5NnNqUDVHVGZDN1FzM1JOWFM1YkdpSm9ITWUtUjhCZVJxTFIzcUZ1djRRVUxOMF9fYWluVDZMMA?oc=5"
     },
     {
-      "id": "2a443c63f0bbcc1a",
-      "matched_keywords": [
-        "quantum computing",
-        "logical qubit"
-      ],
-      "published": "2026-06-02T16:04:38Z",
-      "query": "fault tolerant quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFBGNElTR3BHR3FKYUNtUnMxY0F3NlBOWWZkMktpNlo2VHlBY2xDMkllZm1peEt3aWNjTGZDRjNlZ3ZwN2o4NlFkRTBYY2gtckVSdUJfbWNyNHZzQUVYWk1Xb1lZRzJSMTVJb2VR?oc=5\" target=\"_blank\">D-Wave Targets 1 Million Operations With 100 Logical Qubits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "D-Wave Targets 1 Million Operations With 100 Logical Qubits - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGNElTR3BHR3FKYUNtUnMxY0F3NlBOWWZkMktpNlo2VHlBY2xDMkllZm1peEt3aWNjTGZDRjNlZ3ZwN2o4NlFkRTBYY2gtckVSdUJfbWNyNHZzQUVYWk1Xb1lZRzJSMTVJb2VR?oc=5"
-    },
-    {
-      "id": "908f202a0fe9a54b",
-      "matched_keywords": [
-        "quantum computing",
-        "error correction"
-      ],
-      "published": "2026-06-02T15:00:26Z",
-      "query": "quantum error correction",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPd1psdDR4ZGJBTThXenZVdDVPRm1kaEJqZklMV3FQd1Q2U3pGcXdnaTZZclE4UTdUQm5TaGt6aUtmSGFiT1Ztd0ZGWF9IVVYxSUFMQzlzT2NhOVVhdmhOX0wzM0ZNQURvMFc0NHUyVjVCUXUyNFNST2dLeFloWlVGbkxIWFEzUVBGdnRJanA2Rkp3a2ZaSlBuOVBDMlVENEdhTEQ0cTBKNXM2cWJlb3VFLVdFQmZvTzB1bmFZNnZlSWNJNG5MM2FYZUoyQW1NUnJMbGM0NW9yNTU1SVhKU19tc3pSR3c5X1JGaFZzdi11U2ZSdDlvbC1fNEdWM0NXdEVyU3pTbHB0Yjc4U3ZqcG52T9IBlgJBVV95cUxQR251S0tBTkZYekJoTmpkRGxYYlp2RFRSLUFmZ1JaRmNUT19FczF1WVlycTRCV180NE5JNFpfYXhKNWZ1V0Fpbml6dWh3N0RfZU9BSjJHVFdWcUM2Y3gtN2JBYm5LNkstaVNnSjQ0aWxxNGNKbW8zQmlSRm9ZMk1fQ25EM0lLMVNkOWROdGFZRl9hU1hka2tZU0g2U0FsNXBGLVNSdlhfRWR4dnJLNHpGT1AtRDY3S1p5bkw5TjRZbTUtelNMWkc1TWRwU0ptd3ZsSTNjSkJsaG9FVWJSd1doamtEQ2pTbXp6ZHJVWnJ3cWR2anE4ZmhRWWpicTBDanh4ZTFvVXNkUkc2OUFOR0h3NE9lZ0Z6dw?oc=5\" target=\"_blank\">WiMi Proposes a New High-Performance Fault-Tolerant Quantum Computing Technology Based on Multi-Hypercube Codes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
-      "title": "WiMi Proposes a New High-Performance Fault-Tolerant Quantum Computing Technology Based on Multi-Hypercube Codes - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPd1psdDR4ZGJBTThXenZVdDVPRm1kaEJqZklMV3FQd1Q2U3pGcXdnaTZZclE4UTdUQm5TaGt6aUtmSGFiT1Ztd0ZGWF9IVVYxSUFMQzlzT2NhOVVhdmhOX0wzM0ZNQURvMFc0NHUyVjVCUXUyNFNST2dLeFloWlVGbkxIWFEzUVBGdnRJanA2Rkp3a2ZaSlBuOVBDMlVENEdhTEQ0cTBKNXM2cWJlb3VFLVdFQmZvTzB1bmFZNnZlSWNJNG5MM2FYZUoyQW1NUnJMbGM0NW9yNTU1SVhKU19tc3pSR3c5X1JGaFZzdi11U2ZSdDlvbC1fNEdWM0NXdEVyU3pTbHB0Yjc4U3ZqcG52T9IBlgJBVV95cUxQR251S0tBTkZYekJoTmpkRGxYYlp2RFRSLUFmZ1JaRmNUT19FczF1WVlycTRCV180NE5JNFpfYXhKNWZ1V0Fpbml6dWh3N0RfZU9BSjJHVFdWcUM2Y3gtN2JBYm5LNkstaVNnSjQ0aWxxNGNKbW8zQmlSRm9ZMk1fQ25EM0lLMVNkOWROdGFZRl9hU1hka2tZU0g2U0FsNXBGLVNSdlhfRWR4dnJLNHpGT1AtRDY3S1p5bkw5TjRZbTUtelNMWkc1TWRwU0ptd3ZsSTNjSkJsaG9FVWJSd1doamtEQ2pTbXp6ZHJVWnJ3cWR2anE4ZmhRWWpicTBDanh4ZTFvVXNkUkc2OUFOR0h3NE9lZ0Z6dw?oc=5"
-    },
-    {
-      "id": "b019276111481564",
+      "id": "44ada67adb77b53d",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-06-02T13:00:00Z",
+      "published": "2026-06-04T08:51:49Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXd2X0lKc0FDU0ZjQ2RTMFdjUWYyejFyUFNycldxY0V5ak8zZXdSdENfeEV4dHg5eWZxdEg4eXU5ZjV6cmlXRzZQY09pQ0tmUmtUbEZXVjktUEU4cGt2dVRXVWVxMDFfUVY1YWdGcHpJN1V2UDJ3WUhOaXFVMzRyZ1dCQXV3UUZVY1lzZ2RzVm9USkNiRXpNT2lqeVMzazcxZmJENzctWHVjZ0dkWTVmU1pUU1k?oc=5\" target=\"_blank\">Inside Scotland’s Quantum Fringe 2026, with Infleqtion as gold sponsor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-      "title": "Inside Scotland’s Quantum Fringe 2026, with Infleqtion as gold sponsor - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXd2X0lKc0FDU0ZjQ2RTMFdjUWYyejFyUFNycldxY0V5ak8zZXdSdENfeEV4dHg5eWZxdEg4eXU5ZjV6cmlXRzZQY09pQ0tmUmtUbEZXVjktUEU4cGt2dVRXVWVxMDFfUVY1YWdGcHpJN1V2UDJ3WUhOaXFVMzRyZ1dCQXV3UUZVY1lzZ2RzVm9USkNiRXpNT2lqeVMzazcxZmJENzctWHVjZ0dkWTVmU1pUU1k?oc=5"
-    },
-    {
-      "id": "7f22c548cba1af21",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-06-02T09:59:16Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE0ta2tEWVZLcUx1Y2UtTGg0M2k0YVNPVWZJU2Q1RGxBUGotdnY4bHRuRVY4WFFDNjJvYW92Mm4zc1JiQkpaNHRMUFV0QW0yS2hWOXJqWTBSa09oLXZveWhWOFk0ZUFNUUNLcEFPbQ?oc=5\" target=\"_blank\">99% Fidelity Gates Built On Geometric Control Of Rydberg Atoms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "99% Fidelity Gates Built On Geometric Control Of Rydberg Atoms - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ta2tEWVZLcUx1Y2UtTGg0M2k0YVNPVWZJU2Q1RGxBUGotdnY4bHRuRVY4WFFDNjJvYW92Mm4zc1JiQkpaNHRMUFV0QW0yS2hWOXJqWTBSa09oLXZveWhWOFk0ZUFNUUNLcEFPbQ?oc=5"
-    },
-    {
-      "id": "cad27df935289405",
-      "matched_keywords": [
-        "quantum computing",
-        "logical qubit"
-      ],
-      "published": "2026-06-02T09:22:14Z",
-      "query": "fault tolerant quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOa29LZHc5aW9lX2xGaUFac3NnbzhTWFFud2Y1MUNCRjVzRTZySFRCVzU4alFpUV9GUlpoenpqZk51anFvdk12ZUFsend4WFNBVTlHMVBxcVl2XzkxWXdJbVMzX3ZKTENSWjNiY0NsTFc0MUg4OTdjaERKNFhyYktDTUwtZFFwNzJDb0hvaA?oc=5\" target=\"_blank\">D-Wave Aims for 100 Logical Qubits in Quantum System by 2032</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ForkLog</font>",
-      "title": "D-Wave Aims for 100 Logical Qubits in Quantum System by 2032 - ForkLog",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa29LZHc5aW9lX2xGaUFac3NnbzhTWFFud2Y1MUNCRjVzRTZySFRCVzU4alFpUV9GUlpoenpqZk51anFvdk12ZUFsend4WFNBVTlHMVBxcVl2XzkxWXdJbVMzX3ZKTENSWjNiY0NsTFc0MUg4OTdjaERKNFhyYktDTUwtZFFwNzJDb0hvaA?oc=5"
-    },
-    {
-      "id": "be2cca817f33dc0a",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-06-02T06:19:37Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT1YxUV9FblN3RWJtSk5seU1DRTJKRV9zc2c5QW4zMk4tYVA0WDlQUENBY3d3WUZ3TzlIcWFYcGVQWDNNR2JCaV82cUNmem1ibmxCS2ZhOUVWRnVFWjRiMXJXUjdQenJ0TGNJelBmVzhjV3JDb0haWlhCN3F1NlFoeXJlVDlocVI5Y1g5UE5mRXNZZWlzeTljQXIyNkRLcUN3d2V6cTJ2N3Z4bTVOci01Z0tzMmNVZml6X2JBOWh1UknSAcYBQVVfeXFMTVN4aElZYlFqMHhVUjhRRE5sMWstZ1FFYXgxVUpRamh2ckxWNHlJUm5QdExjejZsazMxVEIzOFVOdk9yZXp0X0xvWXhfWElmc1FaZHN0Y3dSNjlNRHBKVHk0VXNNUDhKX3pLTGFGYUxxUmdKQllKMG1mMEk5X0FQMzdlRVo3cE1GUkZCa1ZPNnN4dDZ4SlZsajhicnlYSWw4TEZNTEF0TlBsU3pTQnNvOTh5QmRpWm1uQ1lsVGNBX1pqYVJTUWNn?oc=5\" target=\"_blank\">Infleqtion (INFQ) Is Up 8.2% After Opening Oxford Quantum Hub To Scale Neutral-Atom Platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
-      "title": "Infleqtion (INFQ) Is Up 8.2% After Opening Oxford Quantum Hub To Scale Neutral-Atom Platform - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQT1YxUV9FblN3RWJtSk5seU1DRTJKRV9zc2c5QW4zMk4tYVA0WDlQUENBY3d3WUZ3TzlIcWFYcGVQWDNNR2JCaV82cUNmem1ibmxCS2ZhOUVWRnVFWjRiMXJXUjdQenJ0TGNJelBmVzhjV3JDb0haWlhCN3F1NlFoeXJlVDlocVI5Y1g5UE5mRXNZZWlzeTljQXIyNkRLcUN3d2V6cTJ2N3Z4bTVOci01Z0tzMmNVZml6X2JBOWh1UknSAcYBQVVfeXFMTVN4aElZYlFqMHhVUjhRRE5sMWstZ1FFYXgxVUpRamh2ckxWNHlJUm5QdExjejZsazMxVEIzOFVOdk9yZXp0X0xvWXhfWElmc1FaZHN0Y3dSNjlNRHBKVHk0VXNNUDhKX3pLTGFGYUxxUmdKQllKMG1mMEk5X0FQMzdlRVo3cE1GUkZCa1ZPNnN4dDZ4SlZsajhicnlYSWw4TEZNTEF0TlBsU3pTQnNvOTh5QmRpWm1uQ1lsVGNBX1pqYVJTUWNn?oc=5"
-    },
-    {
-      "id": "2e9926aa501e04fe",
-      "matched_keywords": [
-        "quantum computing",
-        "error correction"
-      ],
-      "published": "2026-06-01T19:46:00Z",
-      "query": "quantum error correction",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hyeGtlakpTeHowbE14UGYtTHVyWHZjVXNWTWVjOTFsS093NURWM1JKeUw3SE1aS2I2aVhoMGZJMG1sNDZWLUgwNFRGR2RhZEFfMi1wRUx0TUJqeEJnSWxhai0tNzRBbXZwejh4clhlb3J2MGR0V2xnZnRaS3JTNUg3UjBCVUU?oc=5\" target=\"_blank\">8 Best Quantum Computing Stocks to Buy in 2026 | Investing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">U.S. News - Money</font>",
-      "title": "8 Best Quantum Computing Stocks to Buy in 2026 | Investing - U.S. News - Money",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1hyeGtlakpTeHowbE14UGYtTHVyWHZjVXNWTWVjOTFsS093NURWM1JKeUw3SE1aS2I2aVhoMGZJMG1sNDZWLUgwNFRGR2RhZEFfMi1wRUx0TUJqeEJnSWxhai0tNzRBbXZwejh4clhlb3J2MGR0V2xnZnRaS3JTNUg3UjBCVUU?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeU1LdG9ocFNwTU05MjlKYjc5TGhFd2kxUG5kVXl2QWFESDRZRm5LYi10S2dDRlEtRmFoOGxHWV96VzJGWGZfT1J0TEtyNjhjUzRMeGNtcjh5bU5sc2ZHcGtIc1FSay1nSFdLWWRWajlhV3B5N2hobDk4VHpzQ0pycUI0LTM4Q3dXUEc4bGgzWkV1VjZWZE54SDRlUDRkcUNIamJJZ1JlSjl2VkxjWU9kckVzWlBMTnNwMGY0?oc=5\" target=\"_blank\">Yaqumo, NKT Photonics and Hamamatsu Photonics Sign Quantum Photonics Agreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "Yaqumo, NKT Photonics and Hamamatsu Photonics Sign Quantum Photonics Agreement - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeU1LdG9ocFNwTU05MjlKYjc5TGhFd2kxUG5kVXl2QWFESDRZRm5LYi10S2dDRlEtRmFoOGxHWV96VzJGWGZfT1J0TEtyNjhjUzRMeGNtcjh5bU5sc2ZHcGtIc1FSay1nSFdLWWRWajlhV3B5N2hobDk4VHpzQ0pycUI0LTM4Q3dXUEc4bGgzWkV1VjZWZE54SDRlUDRkcUNIamJJZ1JlSjl2VkxjWU9kckVzWlBMTnNwMGY0?oc=5"
     }
   ],
-  "publications": [
-    {
-      "authors": [
-        "Daniel Duggan",
-        "Simon Filgis",
-        "Axel B. Bregnsbo",
-        "Jürgen Saalmüller",
-        "Jonas S. Neergaard-Nielsen",
-        "Tobias Wintermantel",
-        "Ulrik L. Andersen"
-      ],
-      "id": "86fff4a2a0836098",
-      "matched_keywords": [
-        "quantum computing",
-        "photonic quantum"
-      ],
-      "published": "2026-06-02T11:18:29Z",
-      "score": 6,
-      "source": "arXiv",
-      "summary": "Field-programmable gate arrays provide a high-performance solution for real-time signal processing in emerging quantum and photonic technologies. We present an FPGA-based fast feedforward system, that incorporates a high quantum efficiency fully fibre based homodyne detector, to enable low-latency signal processing critical for continuous variables (CV) measurement-based quantum information processing (MB-QIP) protocols. CV MB-QIP typically relies on adaptive measurements and/or displacements via feedforward to achieve scalability and universality, but existing implementations typically handle these operations in post-processing, limiting real-time applicability. Our system performs signal acquisition, conditioning, and logic operations in real-time, meeting the tight latency requirements of photonic quantum computing protocols. The detector exhibits a large clearance of 15 dB at 1 GHz with 4 mW linear oscillator and quantum efficiencies of >95% with a total system latency of 196 ns. This work highlights the role of FPGAs in bridging the gap between theoretical models and physical implementations in photonics-based technologies",
-      "title": "FPGA Based Feedforward System for Photonic Quantum Computing Applications",
-      "url": "http://arxiv.org/abs/2606.03500v1"
-    },
-    {
-      "authors": [
-        "G. E. L. Pexe",
-        "L. A. M. Rattighieri",
-        "P. M. Prado",
-        "A. R. Fritsch",
-        "F. F. Fanchini"
-      ],
-      "id": "bcdd384a1a149ee8",
-      "matched_keywords": [
-        "fault tolerance",
-        "quantum algorithm"
-      ],
-      "published": "2026-06-02T04:42:30Z",
-      "score": 6,
-      "source": "arXiv",
-      "summary": "This perspective article analyzes the potential and critical challenges of employing quantum optimization algorithms to investigate phase transitions in quantum many-body systems during the Noisy Intermediate-Scale Quantum era. The simulation of strongly correlated systems is frequently intractable on classical computers due to the exponential growth of the Hilbert space and the fermionic sign problem. In this context, we review and compare the performance of traditional Variational Quantum Algorithms, such as the Variational Quantum Eigensolver and the Quantum Approximate Optimization Algorithm, against emerging heuristic approaches, specifically Feedback-based Quantum Algorithms, such as FALQON. We explore the applicability of these methods in the study of open phenomena in condensed matter physics, including Deconfined Quantum Criticality, strange metals, Many-Body Localization, topological phase transitions, and quantum spin liquids. We discuss how fundamental operational bottlenecks, notably expressibility- and noise-induced barren plateaus, severely compromise gradient-based optimization. We conclude that deterministic feedback-guided methods provide geometrically more robust trajectories for navigating the energy landscape of these systems, arguing that further advancement in the field will rely on deep hybridization and physics-informed circuit co-design towards fault tolerance.",
-      "title": "Quantum Optimization Algorithms for Strongly Correlated Many-Body Systems",
-      "url": "http://arxiv.org/abs/2606.03147v1"
-    },
-    {
-      "authors": [
-        "Yiyi Li",
-        "Vernon M. Hughes",
-        "Michael Peper",
-        "Yicheng Bao",
-        "Chenyuan Li",
-        "Sanzhar Bissenali",
-        "Jeff D. Thompson"
-      ],
-      "id": "87f2e4a35b2bf8bf",
-      "matched_keywords": [
-        "neutral atom"
-      ],
-      "published": "2026-06-02T17:13:52Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Continuously replenished optical tweezer arrays will unlock unlimited-depth quantum circuits with neutral atom qubits. A key bottleneck limiting the cycle time of these systems is removing atoms from tweezers initially loaded with more than one atom. In the conventional technique of light-assisted collisions, slow collisional dynamics limit the timescale for removing excess atoms to several milliseconds. Here, we propose and demonstrate a scheme for selectively removing one atom at a time from multiply occupied tweezers on a microsecond timescale, using intra-tweezer Rydberg blockade and autoionization. We demonstrate the protocol in $^{171}$Yb in two complementary regimes. With two-photon Rydberg excitation from the ground state, we reduce multi-atom probability to 1% in 64.8 $μ$s, while retaining single atoms in 58.2(2)% of the tweezers, which is comparable to the filling fraction achieved with light-assisted collisions under the same experimental conditions, but over two orders of magnitude faster. With single-photon excitation from the metastable state $^3P_0$, reduced single-atom loss enables a higher filling fraction of 74.8(3)%, at the cost of additional temporal overhead to prepare the atoms in $^3P_0$. The final filling fraction is limited by an unexplained two-body loss mechanism, which, if solved, could enable fast, quasi-deterministic loading.",
-      "title": "Fast single-atom preparation in optical tweezers via Rydberg blockade",
-      "url": "http://arxiv.org/abs/2606.03922v1"
-    },
-    {
-      "authors": [
-        "Yuri D. Lensky",
-        "Bryce Kobrin",
-        "Kostyantyn Kechedzhi",
-        "Igor Aleiner"
-      ],
-      "id": "56563e55fe1cde80",
-      "matched_keywords": [
-        "error correction"
-      ],
-      "published": "2026-06-02T17:10:30Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Quantum error correction protocols protect against local errors by storing logical information non-locally. This poses a challenge: how to design efficient logical gates on the non-local ``hidden'' logical information, and how to implement these gates using the local physical operations. We develop a general description of planar Pauli stabilizer codes and protocols for logical operations in terms of point-like particles called Majorana fermions. Information is stored in the pairwise fermion parities of spatially separated Majorana fermions. The description in terms of Majorana fermions captures not only large distance asymptotics, but also all scales down to the lattice constants. We exploit this locality to densely pack logical information in spacetime. The simplest application is to a static case: dense memory. More importantly, we implement fault-tolerant Majorana motion and leverage this primitive to design braiding-based logical gates. This approach reduces space overhead of logical operations resulting in an improved logical error rate given fixed number of physical qubits. We illustrate a practical use of our approach by designing and benchmarking of 2-qubit Clifford gates. We find numerically that our protocol outperforms lattice surgery in this setting for near-term error rates and realistic device constraints. More generally, introduction of compact motion of Majorana fermions as an efficient computational primitive opens a promising new route for the design of low overhead error correction protocols.",
-      "title": "Practical gates by Majorana fermion motion",
-      "url": "http://arxiv.org/abs/2606.03916v1"
-    },
-    {
-      "authors": [
-        "Morteza Aghaee",
-        "Zulfi Alam",
-        "Mariusz Andrzejczuk",
-        "Andrey Antipov",
-        "Theodora Asimakidis",
-        "Mikhail Astafev",
-        "Lukas Avilovas",
-        "Ahmad Azizimanesh",
-        "Amin Barzegar",
-        "Bela Bauer",
-        "Jonathan Becker",
-        "Umesh Kumar Bhaskar",
-        "Andrea G. Boa",
-        "Srini Boddapati",
-        "Nichlaus Bohac",
-        "Jouri Bommer",
-        "Jan Borovsky",
-        "Léo Bourdet",
-        "Samuel Boutin",
-        "Srivatsa Chakravarthi",
-        "Benjamin J. Chapman",
-        "Nikolaos Chatzaras",
-        "Tzu-Chiao Chien",
-        "Jason Cho",
-        "Patrick T. Codd",
-        "William Cole",
-        "Paul W. Cooper",
-        "Fabiano Corsetti",
-        "Ajuan Cui",
-        "Tareq El Dandachi",
-        "Konstantinos Divanis",
-        "Clayton Doyle",
-        "Andreas Ekefjard",
-        "Javier A. Falcon",
-        "Saeed Fallahi",
-        "Luca Galletti",
-        "Geoffrey C. Gardner",
-        "Haris Gavranovic",
-        "João Pedro Morais Gomes",
-        "Deshan Govender",
-        "Flavio Griggio",
-        "Ruben Grigoryan",
-        "Sebastian Grijalva",
-        "Sergei Gronin",
-        "Jan Gukelberger",
-        "Marzie Hamdast",
-        "Esben Bork Hansen",
-        "Sebastian Heedt",
-        "Samantha Ho",
-        "Laurens Holgaard",
-        "Kevin van Hoogdalem",
-        "Jinnapat Indrapiromkul",
-        "Henrik Ingerslev",
-        "Lovro Ivancevic",
-        "Max Jantos",
-        "Thomas Jensen",
-        "Jaspreet Singh Jhoja",
-        "Vidul R. Joshi",
-        "Konstantin V. Kalashnikov",
-        "Ray Kallaher",
-        "Rachpon Kalra",
-        "Farhad Karimi",
-        "Torsten Karzig",
-        "Maren Elisabeth Kloster",
-        "Christina Knapp",
-        "Jonathan Knoblauch",
-        "Jonne Koski",
-        "Anders Kringhøj",
-        "Tom Laeven",
-        "Jeffrey Lai",
-        "Gijs de Lange",
-        "Thorvald W. Larsen",
-        "Kyunghoon Lee",
-        "Kongyi Li",
-        "Shuang Liang",
-        "Tyler Lindemann",
-        "Luna Lochmatter",
-        "Marijn Lucas",
-        "Roman Lutchyn",
-        "Morten Hannibal Madsen",
-        "Nasiari Madulid",
-        "Ivan Maliyov",
-        "Yanick Mampaey",
-        "Michael Manfra",
-        "Signe Brynold Markussen",
-        "Esteban A. Martinez",
-        "J. R. Mattinson",
-        "Mónica Meira",
-        "Camille A. Mikolas",
-        "Sarang Mittal",
-        "Gopakumar Mohandas",
-        "Christian Mollgaard",
-        "Michiel W. A. de Moor",
-        "Chris Moore",
-        "George Moussa",
-        "Bhargav Nabar",
-        "Anirudh Narla",
-        "Ahmad Naseri",
-        "Chetan Nayak",
-        "Bjørn Funch Schrøder Nielsen",
-        "Jens Hedegaard Nielsen",
-        "Michael J. Nystrom",
-        "Eoin O'Farrell",
-        "Keita Ohtani",
-        "Theodore Rex Orth",
-        "Sara Di Paolo",
-        "Camille Papon",
-        "Luca Petit",
-        "Dima Pikulin",
-        "Mohana Rajpalke",
-        "Alejandro Alcaraz Ramirez",
-        "Katrine Rasmussen",
-        "David Razmadze",
-        "Yuan Ren",
-        "Mariya Romanova",
-        "Loïc Roure",
-        "Ivan Sadovskyy",
-        "Lauri Sainiemi",
-        "Juan Carlos Estrada Saldaña",
-        "Irene Sanlorenzo",
-        "Tatiane Pereira dos Santos",
-        "Carl Vincent C. Saruda",
-        "Simon Schaal",
-        "John Schack",
-        "Emma R. Schmidgall",
-        "Christina Sfetsou",
-        "Cristina Sfiligoj",
-        "Zahra Shekason",
-        "Sarat Shankar Sinha",
-        "Patrick Sohr",
-        "Maria João Lourenço de Sousa",
-        "Kasper Roed Spiegelhauer",
-        "Tomas Stankevic",
-        "Henri J. Suominen",
-        "Judith Suter",
-        "Attila Szénási",
-        "Samuel M. L. Teicher",
-        "Naganivetha Thiyagarajah",
-        "Raj Tholapi",
-        "Mason Thomas",
-        "Dennis Tom",
-        "Emily Toomey",
-        "Joshua Tracy",
-        "Michelle Turley",
-        "Matthew D. Turner",
-        "Ivan Urban",
-        "Aakash Valliappan",
-        "Dmitrii V. Viazmitinov",
-        "Anna Wulff Viazmitinova",
-        "Dominik Johannes Vogel",
-        "Wenbo Wang",
-        "Christopher A. Watson",
-        "John Watson",
-        "Alex Webster",
-        "Timothy Williamson",
-        "Georg W. Winkler",
-        "David J. van Woerkom",
-        "Brian Paquelet Wuetz",
-        "Cécile X. Yu",
-        "Emrah Yucelen",
-        "Jesús Herranz Zamorano",
-        "Roland Zeisel",
-        "Guoji Zheng",
-        "A. M. Zimmerman"
-      ],
-      "id": "f29f645488fcb0d0",
-      "matched_keywords": [
-        "quantum computing"
-      ],
-      "published": "2026-06-02T16:50:09Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "A central promise of topological quantum computing is that increasing the excitation gap improves device performance significantly. Here, we experimentally validate this principle in an InAs--Pb tetron device via interferometric single-shot parity measurements. By replacing aluminum with the higher-gap superconductor lead in our superconductor-semiconductor hybrid devices, we have improved the robustness of our topological phase. In addition, to enable fast and precise bring-up at scale, we have developed an rf measurement technique that resolves low-energy wire-end states and directly measures their energy splitting with $μ\\text{eV}$ precision. We employ this technique to bring up a device in a multi-tetron array and perform parity measurements of one of the tetron's hybrid nanowires (NWs). By controllably switching the wire parity, we observe $h/2e$-periodic bimodal shifts in the quantum capacitance of a quantum dot coupled to the hybrid nanowire in an interference loop. Further time-resolved measurements reveal a characteristic parity switching time of $\\sim 20$ s with some instances reaching minute-scale. Such extremely long parity lifetimes are orders of magnitude longer than typical qubit operation times, which are on the order of $μ\\text{s}$. Finally, we discuss potential implications for the fidelity of Pauli measurements.",
-      "title": "20 Second Parity Lifetime in an InAs--Pb Tetron Device",
-      "url": "http://arxiv.org/abs/2606.03884v1"
-    },
-    {
-      "authors": [
-        "Xijia Miao"
-      ],
-      "id": "446a18d96b0f521c",
-      "matched_keywords": [
-        "quantum computing"
-      ],
-      "published": "2026-06-02T16:33:27Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "The quantum-computing speedup theory considers the symmetric structures and properties of quantum systems as the fundamental Quantum-Computing-Speedup (QCS) resources which are responsible for exponentially speeding up quantum computing and simulating. At present a large and important problem is how to make use of the fundamental QCS resources to speed up essentially quantum computing and simulating. Here the author makes a great effort toward solving this important problem. The theoretical research work in this paper is mainly divided into the two Parts I and II. The Part I investigates mainly the multiple-quantum operator algebra spaces. And the relationships are analyzed among the multiple-quantum operator algebra spaces, quantum simulating for the unitary time-evolutional processes, and the fundamental QCS resources which exist in the different kinds of basic quantum spaces: the multiple-quantum operator algebra space, the density operator space, and the Hilbert space. It concludes that the multiple-quantum operator algebra space must be positioned as the central place where the QCS resources are exploited to speed up quantum computing and simulating. The Part II investigates mainly the subspace-selective unitary manipulation based on the Hilbert-space symmetric structures. Recognize that the multiple-quantum operator algebra space is the central place. Then those QCS resources original from the Hilbert space (a quantum-state space) must be explicitly taken into account in the multiple-quantum operator algebra space (a linear operator space). This is an important problem. The subspace-selective unitary manipulation is able to solve this problem. It aims to harness the fundamental QCS resources original from the Hilbert space to speed up quantum computing and simulating in the multiple-quantum operator algebra space.",
-      "title": "Subspace-selective unitary manipulation based on the Hilbert-space symmetric structures in the multiple-quantum operator algebra spaces in the quantum-computing speedup theory",
-      "url": "http://arxiv.org/abs/2606.03859v1"
-    },
-    {
-      "authors": [
-        "Alexandre M. Souza",
-        "Davi A. D. Chaves",
-        "Carmem M. Gilardoni",
-        "Roberto S. Sarthour",
-        "João P. Sinnecker",
-        "Ivan S. Oliveira"
-      ],
-      "id": "8041394c0761fa93",
-      "matched_keywords": [
-        "quantum computing"
-      ],
-      "published": "2026-06-02T15:57:47Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Superconducting transmon qubits are a leading technology for quantum information processing, yet their reliable operation rests on meticulous calibration and characterization routines. These processes have been fine-tuned and are relatively well understood by the quantum computing community. Nevertheless, it is often challenging for newcomers to compile all the available information into a practical experimental flow. In this tutorial, we present a comprehensive walkthrough for the characterization and optimization of tunable transmon qubits, demonstrated on a commercial five-qubit processor. Moving beyond theoretical description, we detail in a straightforward manner the complete workflow, from cryogenic setup and wiring to parametric amplifier optimum operation, flux sweet-spot identification, pulse calibration, and readout optimization. We also demonstrate the characterization of qubit-qubit coupling, covering all steps before multiqubit operations. This guide serves as a reference for experimentalists seeking to efficiently bring up transmon-based quantum devices.",
-      "title": "A Tutorial for Characterizing Transmon Qubits",
-      "url": "http://arxiv.org/abs/2606.03815v1"
-    },
-    {
-      "authors": [
-        "Xinchi Huang",
-        "Hirofumi Nishi",
-        "Tomofumi Zushi",
-        "Yu-ichiro Matsushita"
-      ],
-      "id": "96fa191c42db654a",
-      "matched_keywords": [
-        "quantum algorithm"
-      ],
-      "published": "2026-06-02T13:13:47Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "We propose an efficient quantum algorithm for preparing the Hadamard product state of two quantum states whose amplitudes are generated by functions on a uniform grid with grid number $N$. As the Hadamard product operation is non-unitary, the conventional approach generally suffer from a success probability that scales as $O(1/N)$, leading to an $O(\\sqrt{N})$ query complexity even with quantum amplitude amplification. Our method exploits the Fourier-space representation of the input functions, where the Hadamard product can be treated through a convolution structure and approximated using localized Fourier coefficients. The resulting quantum circuit has complexity governed by the Fourier regularity of the underlying functions rather than directly by the grid number. In particular, when either of the input functions has finitely many non-zero Fourier coefficients, the algorithm prepares the exact quantum Hadamard product state under $N$-independent query complexity. Moreover, we also propose a novel quantum circuit for the partial inner product as one of its applications.",
-      "title": "An efficient quantum Hadamard product algorithm for functions",
-      "url": "http://arxiv.org/abs/2606.03612v1"
-    },
-    {
-      "authors": [
-        "Feng Wu",
-        "Yuxiang Yang",
-        "Li Zhu",
-        "Chen Li",
-        "Yansong Guo",
-        "Xu Guo"
-      ],
-      "id": "c8000d69f652210c",
-      "matched_keywords": [
-        "quantum computing"
-      ],
-      "published": "2026-06-02T11:37:49Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Quantum computing presents a promising method to overcome the efficiency and memory constraints in large-scale mechanical problems, with numerous successful applications demonstrated in fluid mechanics. However, solid mechanics problems usually require irregular grids for spatial discretization, due to the Lagrange formulations and complex boundaries, which makes the quantum simulation of the system matrix, e.g., the mass or stiffness matrix which is often referred to as the Hamiltonian in quantum computing, difficult to be effectively conducted. This study proposes a voxel-based quantum computing method (VBQC) for the quantum simulation of Hamiltonians in solid mechanics. VBQC applies voxel grids to discretize the spatial domain, thereby enabling the system matrix to exhibit the tridiagonal fractal property. Based on this property, the system matrix can be decomposed into three groups of fundamental matrices, $\\mathbf{k}_{n}$, $\\mathbf{c}_{n}$, and $\\mathbf{q}_{n}$. This decomposition process is referred to as the KCQ decomposition. By integrating the KCQ decomposition with the quantum Fourier transform and the quantum multiplexer, VBQC enables efficient quantum simulation of Hamiltonians in solid mechanics. Three specific solid problems with different dimensions and numbers of variables are applied to preliminarily verify the correctness of the proposed VBQC for solid mechanics problems.",
-      "title": "A Voxel-Based Quantum Computing Method (VBQC) for Solid Mechanics Problem",
-      "url": "http://arxiv.org/abs/2606.03515v1"
-    },
-    {
-      "authors": [
-        "John Blue",
-        "Zhiyang He",
-        "Hengyun Zhou",
-        "Isaac L. Chuang"
-      ],
-      "id": "2872c31b11db00ea",
-      "matched_keywords": [
-        "surface code"
-      ],
-      "published": "2026-06-02T11:25:18Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Quantum low-density parity-check (QLDPC) codes are promising candidates for practical low-overhead quantum memories. For large-scale fault-tolerant quantum computation, we further need logical processing methods for QLDPC codes. In this work, we construct full extractors -- surgery systems capable of measuring arbitrary logical Pauli operators on a code block -- for several hypergraph product (HGP) codes. These extractors enable logical processing via Pauli-based computation (PBC) without the compilation overhead observed in prior works. Moreover, our extractors have sizes between 50% and 80% of the base HGP codes, and the extractor-augmented codes can be supported on fixed connectivity hardware with maximum qubit degree ten. Our approach involves assembling many partial extractors with verifiable fault-tolerance into a single full extractor. For a distance 10 HGP code, circuit-level noise simulations yield logical measurement error rates of approximately $10^{-6}$ at a physical error rate of 0.1%. These results demonstrate that extractor architectures, when designed in the fixed-connectivity setting, can achieve the space efficiency of QLDPC codes without introducing compilation overhead compared to surface code PBC architectures.",
-      "title": "Full Extractors for Logical Processing in Hypergraph Product Codes",
-      "url": "http://arxiv.org/abs/2606.03507v1"
-    },
-    {
-      "authors": [
-        "Yixuan Liang",
-        "Jin-Peng Liu"
-      ],
-      "id": "e7451abb81edc0bc",
-      "matched_keywords": [
-        "quantum algorithm"
-      ],
-      "published": "2026-06-02T09:48:53Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "We give detailed analysis and circuit design of structure-preserving quantum algorithms for second-order linear evolutionary PDEs, including parabolic equations and hyperbolic equations with mixed Dirichlet, Neumann, and periodic boundary conditions and source terms. While prior quantum algorithms usually neglect the stability problem from the PDE-to-ODE reduction, our method-of-lines approach investigates the boundary lifting via Coons interpolation and boundary-aware discretization, so that the resulting semi-discrete systems are stable and compatible with efficient quantum ODE primitives. For the parabolic problem, we use a diagonal similarity transform to ensure the semi-discrete generator must have a positive semi-definite Hermitian part, and then solve the resulting ODE system by the optimal linear combination of Hamiltonian simulation (LCHS). For the hyperbolic problem, we rewrite the semi-discrete equation as an equivalent first-order system and solve it by Hamiltonian simulation. We implement our quantum algorithms with explicit block-encoding constructions and circuit implementations, as well as demonstrating the end-to-end complexity bounds together with spatial and quadrature error estimates. We conduct classical numerical experiments on the convection-diffusion equation, inhomogeneous heat equation, and Klein-Gordon equation to validate our structure-preserving analysis and algorithmic constructions.",
-      "title": "Structure-Preserving Quantum Method of Lines for Evolutionary PDEs with Mixed Boundary Conditions",
-      "url": "http://arxiv.org/abs/2606.03407v1"
-    },
-    {
-      "authors": [
-        "Seyed Mohsen Moosavi Khansari"
-      ],
-      "id": "653b8ed86abb3aec",
-      "matched_keywords": [
-        "photonic quantum"
-      ],
-      "published": "2026-06-01T22:49:47Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Discrete-time quantum walks are powerful platforms for simulating quantum transport and information processing. Here we introduce a walker on a one-dimensional lattice whose motion is controlled by three entangled coins, each initialized with the Hadamard gate, aiming to maximize information flow. The walker moves only when all three coins yield the same outcome (HHH or TTT), thus coupling the 8-dimensional coin Hilbert space to the position degree of freedom. By analyzing fully separable, fully entangled (GHZ-type) and intermediate initial states, and using the von Neumann entropy of reduced subsystems, we compute the mutual information $I(C;P;t)$ between coin and position. The results show that initial three-partite entanglement accelerates the growth of mutual information by up to 18\\% after ten steps (when compared to the lower of the two separable states), although it exhibits short-term non-monotonic dynamics due to quantum interference. For the first time, we introduce a tunable parameter $α$ (amplitude of non-displacement states) and show that the GHZ state reaches a maximum of mutual information at $α\\approx 0.71$ - a key finding for optimal control of information flow. Finally, an integrated photonic implementation using polarization, spatial modes and time bins is proposed, where $α$ can be tuned with nonlinear or electro-optic elements. A scalable numerical framework (Python code) for simulations up to $t = 5$ steps is provided. Our findings establish three-partite entanglement as a dynamical resource for maximizing information flow and spatial spreading, with direct applications in quantum state transfer, entanglement-assisted sensing and programmable photonic quantum processors.",
-      "title": "Maximizing Information Flow in Three-Coin Quantum Walk: from Initial Entanglement to Integrated Photonic Implementation",
-      "url": "http://arxiv.org/abs/2606.02942v1"
-    }
-  ]
+  "publications": []
 }
