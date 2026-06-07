@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T12:18:57Z",
+  "generated_at": "2026-06-07T11:53:16Z",
   "news": [
     {
       "id": "12f67bc9e862d769",
@@ -47,21 +47,6 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWdueXc2QTZvdnhhR21QQ1BnMVlYcWJsYlpPeHRTRi1mSnlrNjU3cldaaGFsU0F1OGxQaHBRMEh3cy1LUmY5X0VZN2M4MmJvaEV2b0tzUld2Y1ZwNVR5Skt5WUlXRFdGaXFRbmxiMW1ZMVUxZXdtNXNfRlFvME4ybzZzRWhZN1RZODVhUnNQVmZPd3EwZTlTZkthSUtDMmxrcmZMdTl4WjA5ZHVQdXJfZ0NCV211b2RadFJqZ3Q1dEVqRTg?oc=5"
     },
     {
-      "id": "6592926624c8a426",
-      "matched_keywords": [
-        "quantum computing",
-        "error correction",
-        "logical qubit"
-      ],
-      "published": "2026-06-01T14:50:41Z",
-      "query": "quantum error correction",
-      "score": 9,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWJfRVhHbnlDX1RLSncxQjNaZWl3MWk1QlViT0pPQzNVLVNjWmFDQVk2RGd0TXpKSVhCU2dxeDZkdEJMQ1FSYXI1M2hnYm8tWkxvbHBlYnAtOC1IUGdPLXk0SE1MeFA1ZWxwNkk5d2hzay1ORS1OTlVkdjBUSkRNSldVeUFpMmtMczZKUEtVMGw1Y0tZTHZoM3NtUm15YWpDd2FFTWRrb2xrWDloYl90SDFKdVNKUdIBuwFBVV95cUxPYmI1RS1LbjAycG15NFV2Q1FJZlo2dUNfSnNSb3M2dzVwdmQ5dXZsd3BUWTY1Tk9lVG9xSjZsaUk4clktR3ZUUFpWaXpxNkZrd1loNlVSYnFrOTB6ZFdsZUdiRWpRZWN2amxvMVQ3QXB2NS1HR3pSU3U5Y1ZRdmhCSEdwM2hZM3FKX3J2T040UUlYYkZQUS0yRkRfZzB5MVg0eGJjRnpZcEU1M3kxYWNJeDQwcHlKOTdSN2lZ?oc=5\" target=\"_blank\">D-Wave Outlines Superconducting Gate-Model Roadmap Targeting 100 Logical Qubits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
-      "title": "D-Wave Outlines Superconducting Gate-Model Roadmap Targeting 100 Logical Qubits - Quantum Computing Report",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdWJfRVhHbnlDX1RLSncxQjNaZWl3MWk1QlViT0pPQzNVLVNjWmFDQVk2RGd0TXpKSVhCU2dxeDZkdEJMQ1FSYXI1M2hnYm8tWkxvbHBlYnAtOC1IUGdPLXk0SE1MeFA1ZWxwNkk5d2hzay1ORS1OTlVkdjBUSkRNSldVeUFpMmtMczZKUEtVMGw1Y0tZTHZoM3NtUm15YWpDd2FFTWRrb2xrWDloYl90SDFKdVNKUdIBuwFBVV95cUxPYmI1RS1LbjAycG15NFV2Q1FJZlo2dUNfSnNSb3M2dzVwdmQ5dXZsd3BUWTY1Tk9lVG9xSjZsaUk4clktR3ZUUFpWaXpxNkZrd1loNlVSYnFrOTB6ZFdsZUdiRWpRZWN2amxvMVQ3QXB2NS1HR3pSU3U5Y1ZRdmhCSEdwM2hZM3FKX3J2T040UUlYYkZQUS0yRkRfZzB5MVg0eGJjRnpZcEU1M3kxYWNJeDQwcHlKOTdSN2lZ?oc=5"
-    },
-    {
       "id": "35c494b01746685b",
       "matched_keywords": [
         "quantum computing",
@@ -77,32 +62,74 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0I3TUlwTjMyTzFFNDdobDI2WV91R2xJaFFRY1FZOC1qdmdEdWNsMThCRnJjRWNQQWlYMFhmSVRTRnh0SFIxUmtsWWlCYU50ODV1OHJLSVBrRlp0SnpqR0JfcTZCYmhxVEhQTVZzd2d4b0VWUWYyYTF5ZWFjOHYzRFhnVVdRbXVrTkdkSFVWS2xnMmk4UEo0cm9QN21uMUdMZ3hDMDRwY0xfQ0tBc3RkS0VkbU9nbXJ1Zm9CUkpsNlZrYUlxWE05dNIBzgFBVV95cUxQVU04MnhzTDNDN01Fd1F2SDR6YS02dUF5d2xBdnJqemlPMlNGOUpLWHpPY3F3MVF6bFdUeFRGaXNjd0tqTDJ3YXRCOExPN1BOZ292N1ZGbVRZdUxOMWhNREJTcEw1TzlWUEk0VlBBYW1tV29mdU1JOVdveFlyb1k2R1JYT3p1QkRkNEhsR0hqVVlTd2FnRkllM1NRc2pYVkxPUXhOb3FFdjZjVXhiR1RVWDFBaERreTVfUHhfMTJnckJ2U2JPMk82Wl9jX3VVUQ?oc=5"
     },
     {
-      "id": "e6f3fe7a9282b105",
+      "id": "0c83355740f9e79e",
       "matched_keywords": [
-        "error correction",
-        "logical qubit"
+        "quantum computing",
+        "fault tolerance"
       ],
-      "published": "2026-06-05T06:14:38Z",
-      "query": "quantum error correction",
+      "published": "2026-06-07T02:10:59Z",
+      "query": "quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aR0hyZzNXR05hUjRlYXg5N1ZxNzBCQlEtT1FhZlpHNXZZQlF0UlFjSDBkVl9mem4xNjl4eGdPck1lRkh5TC00aUM2SnU1cjB2UzZiTzJ6UE1adE92dDdnN1BXNA?oc=5\" target=\"_blank\">IonQ Cuts Quantum LDPC Error Rate 9x And Hits Logical Qubit Breakeven</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "IonQ Cuts Quantum LDPC Error Rate 9x And Hits Logical Qubit Breakeven - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aR0hyZzNXR05hUjRlYXg5N1ZxNzBCQlEtT1FhZlpHNXZZQlF0UlFjSDBkVl9mem4xNjl4eGdPck1lRkh5TC00aUM2SnU1cjB2UzZiTzJ6UE1adE92dDdnN1BXNA?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLVFhS0ItSC0wbnM2bkF6d3FzeGpwanhoT1N3LXBPR1pSNUl0ZnlXZDc5Q0p5QXp0ektIbmJ4RkRNLTVIMG1lM0doQWJtSl9BWWhfNW85ZUZOSjcyNmhYSDJBQXlTVXg5VjFBZXBYNHVKSThSUl9FTXZMcHItREdyUjZJZVctM1ZzTkxTanJrSlYyS2Z6OF9xM2loT2FwTzNRQ3dyWXFSc0pDaHh0VlkxUWlPMEJFaXVLSXZRaUJNSERSdGtaa0h3RjA2MGJCSDBxLU9lcFpGQXVSRms?oc=5\" target=\"_blank\">Quantum Computing Fault Tolerance: Microsoft Majorana 2, QuiX, Japan Move Past Qubit Counts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+      "title": "Quantum Computing Fault Tolerance: Microsoft Majorana 2, QuiX, Japan Move Past Qubit Counts - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQLVFhS0ItSC0wbnM2bkF6d3FzeGpwanhoT1N3LXBPR1pSNUl0ZnlXZDc5Q0p5QXp0ektIbmJ4RkRNLTVIMG1lM0doQWJtSl9BWWhfNW85ZUZOSjcyNmhYSDJBQXlTVXg5VjFBZXBYNHVKSThSUl9FTXZMcHItREdyUjZJZVctM1ZzTkxTanJrSlYyS2Z6OF9xM2loT2FwTzNRQ3dyWXFSc0pDaHh0VlkxUWlPMEJFaXVLSXZRaUJNSERSdGtaa0h3RjA2MGJCSDBxLU9lcFpGQXVSRms?oc=5"
     },
     {
-      "id": "5d6ed889b47d712b",
+      "id": "d193edf8eae3d9a0",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-06-05T05:26:58Z",
+      "published": "2026-06-05T18:25:25Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE55QVJhQnFBUHBsSV9WSlhHYk9BRlIyRFJqMFFnNGMzMHk3eXl2X0tQNXdoQkljSW1pMllJbWRDcHdGa2JBWnB4Sk1VaHVfTEN2OXJyRVZqSjZFZlA1WThLMDc2eHo3dXJRNjBUYWpFZw?oc=5\" target=\"_blank\">Weizmann’s Raz Joins Quantum X Labs’ Scientific Advisory Board</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Weizmann’s Raz Joins Quantum X Labs’ Scientific Advisory Board - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55QVJhQnFBUHBsSV9WSlhHYk9BRlIyRFJqMFFnNGMzMHk3eXl2X0tQNXdoQkljSW1pMllJbWRDcHdGa2JBWnB4Sk1VaHVfTEN2OXJyRVZqSjZFZlA1WThLMDc2eHo3dXJRNjBUYWpFZw?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGdqUFlJVU50RWNaUktpX0NELUkwUjg1WWVWSElNLTd0YXZKOUo3V1YwOTlKZkZwQ084TklQUlRTM3V1aDExdHhlRnc3eHJEMGpUc0NmUjU5cVdCNld5Nmg4WHVNZkJXTE9IUlkxYlBQTzdFSF9zd2E3WW9TMmJ0NVFBSFFGOXBFa0xV?oc=5\" target=\"_blank\">The Companies Building Quantum Computing Chips in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "The Companies Building Quantum Computing Chips in 2026 - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGdqUFlJVU50RWNaUktpX0NELUkwUjg1WWVWSElNLTd0YXZKOUo3V1YwOTlKZkZwQ084TklQUlRTM3V1aDExdHhlRnc3eHJEMGpUc0NmUjU5cVdCNld5Nmg4WHVNZkJXTE9IUlkxYlBQTzdFSF9zd2E3WW9TMmJ0NVFBSFFGOXBFa0xV?oc=5"
+    },
+    {
+      "id": "27e3c5ae013c0720",
+      "matched_keywords": [
+        "quantum computing",
+        "fault tolerance"
+      ],
+      "published": "2026-06-05T17:09:28Z",
+      "query": "fault tolerant quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWN5N2ZLeFRHZkdIX1U4RFNXUnB0SHNlOC1HM29uUElwT01lRXFJNXFPaHdaUFdobmZPYXpDejhyVkRQemhWRER2aDJqbmlfcGQ2Zm1tY3FwSGtYUnd4OWVTOU9TcFBMQzl4R3B5TWRHVmpQLV9hVFpuejZka1ZKa01ZTGtWeFJNTUJPV3hxWEZXNzdZS1RTMnUzYw?oc=5\" target=\"_blank\">D-Wave Quantum Roadmap And Federal Backing Reframe Fault Tolerance Timeline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "title": "D-Wave Quantum Roadmap And Federal Backing Reframe Fault Tolerance Timeline - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWN5N2ZLeFRHZkdIX1U4RFNXUnB0SHNlOC1HM29uUElwT01lRXFJNXFPaHdaUFdobmZPYXpDejhyVkRQemhWRER2aDJqbmlfcGQ2Zm1tY3FwSGtYUnd4OWVTOU9TcFBMQzl4R3B5TWRHVmpQLV9hVFpuejZka1ZKa01ZTGtWeFJNTUJPV3hxWEZXNzdZS1RTMnUzYw?oc=5"
+    },
+    {
+      "id": "6eaab8e7526a16d1",
+      "matched_keywords": [
+        "quantum computing",
+        "error correction"
+      ],
+      "published": "2026-06-05T13:27:00Z",
+      "query": "quantum error correction",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPQzFydFFJNHdwUGl3all1RUszd0FXSnoyb3N2MmdHWjNMRUNLalB2OFpvb1lxeHZKc0ZVWXAzSHpGUHVEOU9QOXdENy1zMmtzUV92QjFRTlR5TEpLSFBiVmtEQUg3WExnU0xGSkFsbWNnSjBtSFdaRm1QUzZvQWlJc2hIVkhDSVAzdV9tOFdFZjZ6cmlvSm9oZGhuLUVleTg?oc=5\" target=\"_blank\">D-Wave Unveils Fault-Tolerant Quantum Computing Plan: What's Ahead?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "title": "D-Wave Unveils Fault-Tolerant Quantum Computing Plan: What's Ahead? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQzFydFFJNHdwUGl3all1RUszd0FXSnoyb3N2MmdHWjNMRUNLalB2OFpvb1lxeHZKc0ZVWXAzSHpGUHVEOU9QOXdENy1zMmtzUV92QjFRTlR5TEpLSFBiVmtEQUg3WExnU0xGSkFsbWNnSjBtSFdaRm1QUzZvQWlJc2hIVkhDSVAzdV9tOFdFZjZ6cmlvSm9oZGhuLUVleTg?oc=5"
+    },
+    {
+      "id": "2523b90833a2121f",
+      "matched_keywords": [
+        "quantum computing",
+        "error correction"
+      ],
+      "published": "2026-06-05T06:14:38Z",
+      "query": "fault tolerant quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aR0hyZzNXR05hUjRlYXg5N1ZxNzBCQlEtT1FhZlpHNXZZQlF0UlFjSDBkVl9mem4xNjl4eGdPck1lRkh5TC00aUM2SnU1cjB2UzZiTzJ6UE1adE92dDdnN1BXNA?oc=5\" target=\"_blank\">IonQ Shows Quantum Error Correction Can Finally Do Its Job</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "IonQ Shows Quantum Error Correction Can Finally Do Its Job - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9aR0hyZzNXR05hUjRlYXg5N1ZxNzBCQlEtT1FhZlpHNXZZQlF0UlFjSDBkVl9mem4xNjl4eGdPck1lRkh5TC00aUM2SnU1cjB2UzZiTzJ6UE1adE92dDdnN1BXNA?oc=5"
     },
     {
       "id": "96b728c6bdfce06a",
@@ -133,47 +160,247 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc2VsTkZaVG1mMHBUTktaRERZN1FzWDU2M05GTmxEb0t4Q19ubkJWazRzR25ZWnh2SWdSRXA2NnY2NG0xY1ZuN0ItMVQtbmpidUQyUVFoTTc1Q3E3Mzd2bEZIb1dnLURnaVVRRXFSYVRyU3pwX1RtN0RWZmgwUER0VkNjV211RVExcEZUd0FKaGxWMmc?oc=5"
     },
     {
-      "id": "12be740160b248fa",
-      "matched_keywords": [
-        "quantum computing",
-        "photonic quantum"
-      ],
-      "published": "2026-06-04T16:54:35Z",
-      "query": "quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDRTTXVTWVZTZEd6QTNmekRNdXdJalpxSkNWNWEyS01tOWM5cG9jWGktUGI2eUp3SHVXNjN1SngtRXNqWGtKX2p5UFBPb0JzdnpVZ2VrdFNVQkg5dnZ4QllodFFXOVg2Zy1zZ1JPa2lWNTVDYXhEclBMVjJkRlNFZnZJczFhcDJqODVKWEEzbmMwbEdwX2NwcG10RnMzaF9jZUUxRVNXeDIxUlRmMU9COGpfYnROdkFlWnd1T3RSZnZOSk5iQWc?oc=5\" target=\"_blank\">QuiX Quantum Installs Real-Time Control Component for Universal Photonic Quantum Computer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HPCwire</font>",
-      "title": "QuiX Quantum Installs Real-Time Control Component for Universal Photonic Quantum Computer - HPCwire",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWDRTTXVTWVZTZEd6QTNmekRNdXdJalpxSkNWNWEyS01tOWM5cG9jWGktUGI2eUp3SHVXNjN1SngtRXNqWGtKX2p5UFBPb0JzdnpVZ2VrdFNVQkg5dnZ4QllodFFXOVg2Zy1zZ1JPa2lWNTVDYXhEclBMVjJkRlNFZnZJczFhcDJqODVKWEEzbmMwbEdwX2NwcG10RnMzaF9jZUUxRVNXeDIxUlRmMU9COGpfYnROdkFlWnd1T3RSZnZOSk5iQWc?oc=5"
-    },
-    {
-      "id": "b9a412c25ea8842a",
+      "id": "625af5268db2b344",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-06-04T15:29:30Z",
+      "published": "2026-06-04T04:39:49Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlZWMUZwSHpfTXUtcmRFX3lrXzZycnZsVGhnSUtJU2RkVExieDd2Z2Vyd0hUcmxpSDVzUTlXd1dKNTRMTy1BRDBFbnZBamtnYkpLWFVSeUZzQWFzcG5xaFFzRlN5NnNqUDVHVGZDN1FzM1JOWFM1YkdpSm9ITWUtUjhCZVJxTFIzcUZ1djRRVUxOMF9fYWluVDZMMA?oc=5\" target=\"_blank\">Hamamatsu, NKT, and Yaqumo Collaborate on Photonics for Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ForkLog</font>",
-      "title": "Hamamatsu, NKT, and Yaqumo Collaborate on Photonics for Quantum Computers - ForkLog",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlZWMUZwSHpfTXUtcmRFX3lrXzZycnZsVGhnSUtJU2RkVExieDd2Z2Vyd0hUcmxpSDVzUTlXd1dKNTRMTy1BRDBFbnZBamtnYkpLWFVSeUZzQWFzcG5xaFFzRlN5NnNqUDVHVGZDN1FzM1JOWFM1YkdpSm9ITWUtUjhCZVJxTFIzcUZ1djRRVUxOMF9fYWluVDZMMA?oc=5"
-    },
-    {
-      "id": "44ada67adb77b53d",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-06-04T08:51:49Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeU1LdG9ocFNwTU05MjlKYjc5TGhFd2kxUG5kVXl2QWFESDRZRm5LYi10S2dDRlEtRmFoOGxHWV96VzJGWGZfT1J0TEtyNjhjUzRMeGNtcjh5bU5sc2ZHcGtIc1FSay1nSFdLWWRWajlhV3B5N2hobDk4VHpzQ0pycUI0LTM4Q3dXUEc4bGgzWkV1VjZWZE54SDRlUDRkcUNIamJJZ1JlSjl2VkxjWU9kckVzWlBMTnNwMGY0?oc=5\" target=\"_blank\">Yaqumo, NKT Photonics and Hamamatsu Photonics Sign Quantum Photonics Agreement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "Yaqumo, NKT Photonics and Hamamatsu Photonics Sign Quantum Photonics Agreement - The Quantum Insider",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeU1LdG9ocFNwTU05MjlKYjc5TGhFd2kxUG5kVXl2QWFESDRZRm5LYi10S2dDRlEtRmFoOGxHWV96VzJGWGZfT1J0TEtyNjhjUzRMeGNtcjh5bU5sc2ZHcGtIc1FSay1nSFdLWWRWajlhV3B5N2hobDk4VHpzQ0pycUI0LTM4Q3dXUEc4bGgzWkV1VjZWZE54SDRlUDRkcUNIamJJZ1JlSjl2VkxjWU9kckVzWlBMTnNwMGY0?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5rNUg4eWJsd0lCc1VldWJ4Q1M4cHBoQm9HaFhaSTBSWFZWNnZlazFYV1NwX2xqbHp5ellFN2NGX290OUYyeE13TnZhTkdPa0ptVE45cWhmejlwZm5RbWJpQlJHZmtEcVBJcHRmVlR3bDdQUlBW?oc=5\" target=\"_blank\">Microsoft reports major quantum computing gains with Atom Computing and EeroQ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "title": "Microsoft reports major quantum computing gains with Atom Computing and EeroQ - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rNUg4eWJsd0lCc1VldWJ4Q1M4cHBoQm9HaFhaSTBSWFZWNnZlazFYV1NwX2xqbHp5ellFN2NGX290OUYyeE13TnZhTkdPa0ptVE45cWhmejlwZm5RbWJpQlJHZmtEcVBJcHRmVlR3bDdQUlBW?oc=5"
     }
   ],
-  "publications": []
+  "publications": [
+    {
+      "authors": [
+        "Edwin Tham",
+        "Michael L. Goldman",
+        "Shantanu Debnath",
+        "Ashay N. Patel",
+        "Jyothi Saraladevi",
+        "Jason Nguyen",
+        "Erik Nielsen",
+        "Neal Pisenti",
+        "Kenneth Wright",
+        "John Gamble",
+        "Nicolas Delfosse"
+      ],
+      "id": "f2c3f91a3b2c3f02",
+      "matched_keywords": [
+        "quantum computing",
+        "surface code",
+        "logical qubit"
+      ],
+      "published": "2026-06-04T17:49:27Z",
+      "score": 9,
+      "source": "arXiv",
+      "summary": "High-rate quantum low-density parity-check (qLDPC) codes are a leading candidate for fault-tolerant quantum computing. They feature higher encoding rates than planar alternatives such as the surface code, but their implementation often entails significant hardware hurdles like the need for long-range couplers. We leverage the flexibility of a trapped-ion quantum computer to demonstrate nine quantum error-correcting codes with starkly different qubit connectivity requirements on a single device without any hardware reconfiguration. These experiments span three families of quantum error-correcting codes: qLDPC codes, topological codes, and concatenated codes. With a qLDPC code encoding 4 logical qubits into 18 physical qubits, we achieve a logical error rate up to $9\\times$ better than a previous demonstration of a similar code on superconducting solid-state qubits. Moreover, our implementation exhibits breakeven performance, with some instances achieving qubit lifetimes comparable to or slightly exceeding that of our trapped-ion qubits. We use a novel implementation of the optical-metastable-ground (OMG) architecture for addressable mid-circuit measurement and reset, which enables us to perform these experiments without any ion transport or dedicated coolant ions, requirements that typically consume a large fraction of the runtime or ion count of trapped-ion quantum computers.",
+      "title": "Breakeven demonstration of quantum low-density parity-check codes",
+      "url": "http://arxiv.org/abs/2606.06455v1"
+    },
+    {
+      "authors": [
+        "Mohammad Amin Khanpour",
+        "Hossein Davoodi Yeganeh"
+      ],
+      "id": "c7b4bc409b6a0b6b",
+      "matched_keywords": [
+        "quantum computing",
+        "logical qubit",
+        "photonic quantum"
+      ],
+      "published": "2026-06-04T10:39:09Z",
+      "score": 9,
+      "source": "arXiv",
+      "summary": "Gottesman-Kitaev-Preskill (GKP) states are essential non-Gaussian resources for fault-tolerant photonic quantum computing, enabling logical qubit encoding with intrinsic robustness against errors. Several approaches to GKP state preparation have been explored, including measurement-based protocols in circuit QED and trapped-ion systems, cat-state breeding, and photon-subtraction schemes. However, these methods are either restricted to specific platforms or require deep non-Gaussian resource chains with exponentially low success probabilities. Gaussian Boson Sampling (GBS) offers a compelling all-photonic alternative by generating non-Gaussian states through measurement-induced nonlinearity, without the need for matter-based ancilla or active feedforward. Nevertheless, its practical implementation is limited by the exponential computational cost of evaluating matrix hafnians-#P-complete functions that govern photon-number probabilities. To address this challenge, we introduce a two-stage Histogram Gradient Boosting surrogate pipeline that predicts, without any hafnian computation, the optimal heralding pattern, circuit fidelity, and post-selection probability for candidate GBS circuits, while reserving exact quantum simulation exclusively for surrogate-selected candidates. Trained on circuit configurations across 3-5 optical modes, the surrogate achieves 90.0% GKP-detection accuracy on a held-out set, representing a 23.7 percentage-point improvement over the baseline, with a fidelity mean absolute error of 0.032 and a log-scale post-selection probability $R^2 = 0.837$, reducing the total simulation burden by approximately 90%.",
+      "title": "Rapid Gaussian Boson Sampling Circuit Screening for GKP States Creation via a Two-Stage Machine Learning Surrogate",
+      "url": "http://arxiv.org/abs/2606.05992v1"
+    },
+    {
+      "authors": [
+        "Shin Ho Choe",
+        "Vincent Steffan",
+        "Florian Vigneau",
+        "Pedro Parrado-Rodríguez",
+        "Hsiang-Sheng Ku",
+        "Martin Leib",
+        "Francisco Revson Fernandes Pereira",
+        "Fedor Šimkovic"
+      ],
+      "id": "61c11aa1ce72706f",
+      "matched_keywords": [
+        "quantum computing",
+        "logical qubit"
+      ],
+      "published": "2026-06-04T12:01:24Z",
+      "score": 6,
+      "source": "arXiv",
+      "summary": "The major challenge on the way to fault-tolerant quantum computing comes from the insufficient quality of hardware components and the difficulty of scaling their number without further compromising fidelity. Quantum Low-Density Parity-Check (qLDPC) codes offer a promising solution by encoding logical qubits with low overhead and at a comparatively high code distance. However, it remains an open question how to scalably implement efficient qLDPC codes on fixed-connectivity quantum chips without increasing hardware complexity to enable the non-local interactions in their underlying QEC cycles. We resolve this challenge for the first time by introducing a family of qLDPC \"barbell\" codes accompanied by a realistic chip layout that natively supports all required two-qubit interactions. Crucially, the hardware complexity required to implement barbell codes remains constant as code distance increases. We provide a detailed investigation into the feasibility of all required hardware components and simulate a specific family of barbell codes against circuit-level noise. We find that, with a modest overhead of $<30$ data qubits per logical qubit, barbell codes can preserve information at a physical noise strength of $10^{-4}$ for several trillion QEC cycles. Simulations of logical multi-Pauli measurements, performed with circuits tailored to the chip, yield similar logical performance per QEC round, indicating that entangling gates between logical qubits in barbell codes can be realized fault-tolerantly.",
+      "title": "Barbell Codes: qLDPC Codes for Superconducting Quantum Hardware",
+      "url": "http://arxiv.org/abs/2606.06062v1"
+    },
+    {
+      "authors": [
+        "Tuan Minh Do",
+        "Yuichiro Yoshida",
+        "Tomoya Shiota",
+        "Wataru Mizukami"
+      ],
+      "id": "a151b3d17d725d0b",
+      "matched_keywords": [
+        "quantum computing",
+        "quantum algorithm"
+      ],
+      "published": "2026-06-04T11:04:08Z",
+      "score": 6,
+      "source": "arXiv",
+      "summary": "We present a multilevel embedding framework for quantum chemistry calculations on a quantum computer. In our framework, a quantum algorithm treats the strongly correlated active space, while a high-level wave-function method such as coupled cluster theory or multireference perturbation theory recovers the remaining correlation in the surrounding region. A sampling-based quantum algorithm, quantum-selected configuration interaction, bridges the quantum and classical treatments. The entire calculation is embedded in a low-cost density functional theory description of the surrounding environment using Manby's projection technique. We apply the framework to organic, metal-organic, and metallic systems, computing bond dissociation energies, adsorption energies, and reaction barriers using only the subset of qubits of a 144-qubit superconducting quantum computer at the University of Osaka and achieving $\\sim$1 kcal/mol agreement with classical references for a Menshutkin $\\mathrm{S_N2}$ reaction inside a carbon nanotube. Our results may open the way to quantitatively reliable quantum-classical hybrid calculations for large-scale chemical systems.",
+      "title": "Quantum computing for accurate large-scale electronic-structure calculations: DFT-embedded, post-processed quantum-selected configuration interaction",
+      "url": "http://arxiv.org/abs/2606.06015v1"
+    },
+    {
+      "authors": [
+        "Gideon Lee"
+      ],
+      "id": "4a53203fa4aa7105",
+      "matched_keywords": [
+        "fault tolerance",
+        "error correction"
+      ],
+      "published": "2026-06-04T03:47:21Z",
+      "score": 6,
+      "source": "arXiv",
+      "summary": "In recent years, the spacetime code has arisen as a candidate for a unifying view of fault tolerance in space and time. On the other hand, the recent study of dynamical phases has increasingly turned its attention to fault tolerance as a notion of a dynamically stable process. In this work, I explore one pathway between the two, achieved by gauging the spacetime code. This gives rise to a lattice gauge theory that inherits the elements of fault tolerance associated with a circuit, with Gauss laws corresponding to equivalence relations between configurations of spacetime errors and Wilson loops corresponding to detectors. The obtained gauge theory finds a surprisingly wide array of applications, from quantum error correction to condensed matter physics, and even learning theory: (1) It contains in its description foliated computation, and hence gives rise to one version of a gauge theory for measurement-based quantum computation. (2) For a class of topologically ordered mixed states, it gives us a gauge-theoretic language to describe the classical memory associated with the state. (3) The gauge-invariant observables of the theory which describe detectors also coincide with the learnable degrees of freedom of circuit Pauli noise.",
+      "title": "Gauging the Spacetime Code",
+      "url": "http://arxiv.org/abs/2606.05664v1"
+    },
+    {
+      "authors": [
+        "Zane M. Rossi",
+        "Rahul Sarkar"
+      ],
+      "id": "76533e82bec0fb31",
+      "matched_keywords": [
+        "quantum algorithm"
+      ],
+      "published": "2026-06-04T17:50:07Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "Quantum algorithms for basic numerical linear algebraic tasks have proven essential for translating diverse problems to a unified quantum computational context. Many of these tasks -- e.g., applying a polynomial function to the spectrum of a matrix embedded in a unitary process (a so-called block encoding), or taking linear combinations of block encodings -- are well-addressed by techniques like quantum singular value transformation (QSVT) or linear combination of unitaries (LCU). However, there exist useful matrix transforms whose realization by existing quantum algorithms is unclear or inefficient. In this work we construct improved quantum algorithms for some of these transforms, the simplest of which is a polynomial function applied element-wise. We show the space required to compute quantum element-wise transforms can be reduced exponentially in the degree of the applied function compared to prior work, and raise and rectify errors in previous constructions. We present our algorithms alongside applications to machine learning, simulation, and signal processing.",
+      "title": "Quantum element-wise transforms",
+      "url": "http://arxiv.org/abs/2606.06456v1"
+    },
+    {
+      "authors": [
+        "Zhu Sun",
+        "Christian Binder",
+        "Balint Koczor",
+        "Simon Benjamin"
+      ],
+      "id": "595e330a12386e0f",
+      "matched_keywords": [
+        "surface code"
+      ],
+      "published": "2026-06-04T17:41:43Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "Semiconductor nanostructures are central to many developing technologies. Notably, double quantum dots are especially important for semiconductor spin-qubit architectures, quantum sensing applications, and quantum-dot solar cells. Accurate modelling is highly desirable but conventional methods can struggle when dynamics involve more than two interacting electrons. In this work, we present a quantum simulation framework capable of addressing multi-electron double quantum dots. We adopt an efficiently scaling 1$^\\text{st}$ quantised representation of the system and develop algorithms based on both Trotterisation and qubitisation. Incorporating insights from classical simulations enables us to produce resource estimates that are more realistic than those obtained from theoretical error bounds. Using a standard surface code model with physical noise at $10^{-3}$, our results indicate that the ground-state energy of four electrons in a double quantum dot can be estimated in approximately 24 hours using 226k physical qubits, or an eight-electron system in 3.4 days with 314k qubits (with runtimes falling dramatically when more qubits are available). We anticipate that incorporating very recent advances including dense surface code architectures (Low et al. arXiv:2605.30455) may reduce these costs significantly further. We conclude that early fault tolerant computers may prove to be valuable tools for designing mature-era quantum technologies.",
+      "title": "Nanostructure modelling with early fault tolerant quantum computers",
+      "url": "http://arxiv.org/abs/2606.06442v1"
+    },
+    {
+      "authors": [
+        "Yijia Xu",
+        "Yixu Wang",
+        "Zi-Wen Liu"
+      ],
+      "id": "731e6bf584d3f00e",
+      "matched_keywords": [
+        "fault tolerance"
+      ],
+      "published": "2026-06-04T16:34:10Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "Fault-tolerant quantum computation is inherently a spacetime problem, requiring not merely good static quantum error-correcting codes but also low-overhead protocols for protecting and manipulating encoded quantum information over time. Fault complexes provide a homological framework for treating such protocols as single spacetime objects. In this work, we initiate the study of low-overhead fault complexes by introducing {spacetime lifting}, a method that constructs fault complexes from symmetry-reduced product structures beyond standard foliation. We show that spacetime lifting yields fault complexes and in particular {spacetime-lifted} memory experiments with almost-linear fault distance in the total spacetime cost, which substantially outperforms existing constructions. We further interpret fault complexes as measurement-based cluster-state protocols and identify general conditions under which they realize fault-tolerant logical teleportation, showing that spacetime-lifted constructions combine favorable scaling with operational schemes. Our study opens a path toward more efficient quantum fault tolerance through general complex constructions.",
+      "title": "A framework for low-overhead quantum fault tolerance via spacetime lifting",
+      "url": "http://arxiv.org/abs/2606.06365v1"
+    },
+    {
+      "authors": [
+        "Naixu Guo",
+        "Po-Wei Huang",
+        "Qisheng Wang",
+        "Jayne Thompson",
+        "Patrick Rebentrost",
+        "Mile Gu",
+        "Chengran Yang"
+      ],
+      "id": "7c222b995a52cb2b",
+      "matched_keywords": [
+        "quantum algorithm"
+      ],
+      "published": "2026-06-04T15:54:53Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "Financial crashes, cascading failures in infrastructure, and critical errors in AI systems are frequently triggered by events that occur with extremely small probability. Efficiently discovering and sampling events with probability below a threshold is therefore of critical interest. Yet this task is highly non-trivial using existing classical or quantum methods. Being rare, such events require an immense sampling overhead to collect sufficient data samples. Moreover, because the rare events are not known in advance, they cannot be flagged for amplification using standard techniques. Here, we introduce a quantum algorithm for rare-event discovery and sampling without first learning which events are rare. The algorithm achieves the optimal quantum scaling with the rarity threshold. We further demonstrate that this can achieve a quadratic speedup for heavy-tailed systems whose tail has nonvanishing total mass, and translates into a robust polynomial speedup for stationary stochastic processes, with the exponent determined by its entropy-rate structure.",
+      "title": "Quantum enhanced rare event discovery and sampling",
+      "url": "http://arxiv.org/abs/2606.06316v1"
+    },
+    {
+      "authors": [
+        "Shan Jiang",
+        "Pan Peng"
+      ],
+      "id": "074a1ff575b62738",
+      "matched_keywords": [
+        "quantum algorithm"
+      ],
+      "published": "2026-06-04T15:25:34Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "Triangles capture higher-order structures in graphs and are fundamental to applications such as clustering and network analysis. To enable efficient use of such structures at scale, we study the problem of \\emph{triangle cut sparsification}, which aims to reduce the graph size while approximately preserving triangle counts across every cut. We investigate \\emph{quantum algorithms} for this problem, using triangle listing as our main technical ingredient. In particular, we present a quantum algorithm for triangle listing that, for a graph with $n$ vertices, $m$ edges, and $t$ triangles, runs in time $T_{\\mathrm{q\\text{-}list}} =$ $\\widetilde{O}\\bigl(\\min(n^{5/4}t^{7/12} + n^{7/6}t^{7/9}, m + m^{3/4}t^{1/2},$ $n^{3/2}t^{1/2})\\bigr)$, improving upon the best known classical bounds over a broad range of parameters. Our algorithm is based on a heavy-light vertex partition and an extension of triangle detection via quantum walks and Grover search. Leveraging this result, we design a quantum algorithm for constructing $\\varepsilon$-triangle cut sparsifiers of size $\\widetilde{O}(n/\\varepsilon^2)$ in time $\\widetilde{O}(T_{\\mathrm{q\\text{-}list}} + \\sqrt{mn}/\\varepsilon)$. Finally, we demonstrate applications to clustering algorithms based on triangle-related measures and prove a lower bound of $Ω(n/\\varepsilon^2)$ on the size of any $\\varepsilon$-triangle cut sparsifiers.",
+      "title": "Quantum Algorithms for Triangle Cut Sparsification",
+      "url": "http://arxiv.org/abs/2606.06287v1"
+    },
+    {
+      "authors": [
+        "Shintaro Fujiwara",
+        "Naoki Yamamoto",
+        "Naoki Ishikawa"
+      ],
+      "id": "89386abce53ae855",
+      "matched_keywords": [
+        "quantum algorithm"
+      ],
+      "published": "2026-06-04T12:10:56Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "Controlled time-evolution circuits select forward or backward Hamiltonian time evolution according to the state of an ancilla qubit. They are fundamental building blocks in quantum eigenvalue transformation of unitaries, Hamiltonian filtering, and related quantum algorithms. A direct realization adds ancilla control to the elementary gates of the time-evolution circuit and therefore increases the two-qubit gate count, compiled T depth and CX depth. We develop an efficient recursive algorithm that, for an arbitrary Pauli-sum Hamiltonian, partitions the input Pauli terms into groups and assigns to each group a sign-flip Pauli string that anti-commutes with the in-group terms, thereby removing ancilla control from the grouped time-evolution blocks. Numerical benchmarks on random Hamiltonians and structured spin Hamiltonians show reductions in compiled T depth and compiled CX depth. For a Kagome Hamiltonian with 24 spins under full connectivity, the proposed construction reduces the compiled T depth by 85.2% and the compiled CX depth by 68.9%, compared with a conventional implementation that decomposes the Hamiltonian into individual Pauli terms and implements the controlled time evolution of each term by directly adding the ancilla qubit to the corresponding Pauli-rotation circuit.",
+      "title": "Efficient Quantum Circuit Construction of Controlled Time-Evolution for Arbitrary Pauli-Sum Hamiltonians",
+      "url": "http://arxiv.org/abs/2606.06070v1"
+    },
+    {
+      "authors": [
+        "Andrew Wright",
+        "Reyhaneh Aghaei Saem",
+        "Supanut Thanasilp",
+        "Yudai Suzuki",
+        "Zoë Holmes"
+      ],
+      "id": "5d744f192d66a57f",
+      "matched_keywords": [
+        "quantum algorithm"
+      ],
+      "published": "2026-06-04T09:46:43Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "We propose quantum algorithms for preparing thermal states via the simulation of the thermofield double states. The key idea is to leverage double-bracket quantum algorithms to implement imaginary-time evolution on thermofield double states, whose reduced state realizes the Gibbs state. Our method, termed double-bracket thermofield double (DB-TFD), introduces two variants. The first, the vanilla DB-TFD algorithm, directly implements imaginary-time evolution using double-bracket quantum imaginary-time evolution. The second, poly DB-TFD, employs double-bracket quantum signal processing to approximate the imaginary-time evolution operator via a polynomial transformation. We demonstrate that the complexity of the poly DB-TFD algorithm scales exponentially with the inverse temperature in a broad practical regime. This scaling is consistent with existing methods, and numerical simulations support the corresponding theoretical bound. We further demonstrate the utility of DB-TFD in quantum Boltzmann machines for generative modeling, achieving improved performance compared with variational imaginary-time evolution approaches. These results establish DB-TFD as a promising route for thermal state preparation in the near-term and early-fault-tolerant regimes.",
+      "title": "Double-bracket quantum algorithms for thermal state preparation",
+      "url": "http://arxiv.org/abs/2606.05947v1"
+    }
+  ]
 }
