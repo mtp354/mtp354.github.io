@@ -1,23 +1,6 @@
 {
-  "generated_at": "2026-06-04T14:22:33Z",
+  "generated_at": "2026-06-07T14:14:54Z",
   "items": [
-    {
-      "id": "d357882a7f10c949",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "proposal",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-05-25T07:00:00Z",
-      "query": "quantum computing grant",
-      "score": 11,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXE4QkVUOTB4MnRvcm1MNmQ4Q00xbzlxS2V4UlQ1ZUJWV3dkVFJLa3R2QThLbDFPSE11YWlpRUs1UXN5OHJBQnJHRFRNbG5KcGhVZlk3RmlyWWRuam1hX0JETFdtR01WWHFPYjNkUXZnWlpfOUU0Yk9TWWN0SDBqV3dRd3dZUVg0ci1TTmZCNHR0dVRBR2Y5VS1WZDNFVEtEdV83ZWw2SE0tdGt1MGJtMll0Q2dlNU40?oc=5\" target=\"_blank\">US Accelerates Quantum Computing Push With $2 Billion CHIPS Funding Proposal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fundsforNGOs News</font>",
-      "title": "US Accelerates Quantum Computing Push With $2 Billion CHIPS Funding Proposal - fundsforNGOs News",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOXE4QkVUOTB4MnRvcm1MNmQ4Q00xbzlxS2V4UlQ1ZUJWV3dkVFJLa3R2QThLbDFPSE11YWlpRUs1UXN5OHJBQnJHRFRNbG5KcGhVZlk3RmlyWWRuam1hX0JETFdtR01WWHFPYjNkUXZnWlpfOUU0Yk9TWWN0SDBqV3dRd3dZUVg0ci1TTmZCNHR0dVRBR2Y5VS1WZDNFVEtEdV83ZWw2SE0tdGt1MGJtMll0Q2dlNU40?oc=5"
-    },
     {
       "id": "9dfc291ea4243e12",
       "matched_keywords": [
@@ -52,20 +35,20 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sd3UtZmtrdGE2MTlEQkVuZ3FIQk4ySEJaYmd1QUJzMGVfOHBYVFYtcFAyb0JWVVEzckFIampCck4yWGg5TU1zQTJmZGtNbzE3em9YQUtjNzVpekVMQlpzMHROR2dzMFEyTVE?oc=5"
     },
     {
-      "id": "653d578556cb679f",
+      "id": "018edb7a27d58107",
       "matched_keywords": [
-        "grant",
+        "internship",
+        "intern",
         "quantum",
-        "quantum computing",
-        "quantum technology"
+        "quantum computing"
       ],
-      "published": "2026-05-21T07:00:00Z",
-      "query": "quantum technology grant",
-      "score": 10,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOS25USHlZNExEcm85NGhWVE52dUVGTkdhbGd2RkNyTVN4RzFKbW44QWVDZmQ4ZW9Ddnlsb3d0dzBRVGpkVHdxRFhSa3FLaVlNeG9ocVNPTUlyZlNHUmQ5TnpZaDljUnFyX3RvV3pXZUdWS3ZXUUw4SmFvVlZVN1Jqa1JTa0s4TER4cFZDcVhmMHk3TXVLVTBLSHYyRWNQeXBkWmZsSmpDSkU2LXNiT3EwcnR3?oc=5\" target=\"_blank\">Department of Commerce Announces Letters of Intent With 9 Companies for $2 Billion to Accelerate U.S. Leadership in Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">National Institute of Standards and Technology (.gov)</font>",
-      "title": "Department of Commerce Announces Letters of Intent With 9 Companies for $2 Billion to Accelerate U.S. Leadership in Quantum Computing - National Institute of Standards and Technology (.gov)",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS25USHlZNExEcm85NGhWVE52dUVGTkdhbGd2RkNyTVN4RzFKbW44QWVDZmQ4ZW9Ddnlsb3d0dzBRVGpkVHdxRFhSa3FLaVlNeG9ocVNPTUlyZlNHUmQ5TnpZaDljUnFyX3RvV3pXZUdWS3ZXUUw4SmFvVlZVN1Jqa1JTa0s4TER4cFZDcVhmMHk3TXVLVTBLSHYyRWNQeXBkWmZsSmpDSkU2LXNiT3EwcnR3?oc=5"
+      "published": "2026-06-06T10:44:11Z",
+      "query": "quantum computing internship",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5CN3VXUFp2MnNhMHY0UGNIZmR6UmZfVDNHTmMzRmFfZUZsa3d4Ql9SQzI3bHNiUEhzZ29oSnR3WXdDZzZpT25FSEo0Z3I3VjNSWE1RaFRfTlozcnB1SDgtcGtUOGlvRTB6V1RqR2dHSEVxRFU?oc=5\" target=\"_blank\">Brookhaven Lab Intern Develops AI For Plant Digital Twins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Brookhaven Lab Intern Develops AI For Plant Digital Twins - Quantum Zeitgeist",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CN3VXUFp2MnNhMHY0UGNIZmR6UmZfVDNHTmMzRmFfZUZsa3d4Ql9SQzI3bHNiUEhzZ29oSnR3WXdDZzZpT25FSEo0Z3I3VjNSWE1RaFRfTlozcnB1SDgtcGtUOGlvRTB6V1RqR2dHSEVxRFU?oc=5"
     },
     {
       "id": "7631d0fab9bab9dd",
@@ -100,22 +83,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYlhYeUs2eE5kZENGWGxrSkRmRW9CLUE3NnRRR3d3WkkyeDdKYmk5S2FhSWlBQjBIVWdGblhCZFh3YlNkWG55M3F6T3Y1a04wSmR3VnVoWHh6Mk9LX2Z6blAxVW1CNDByd2QycHZGWGtTb3RCRGswaU5pUnI3eENrcWN1ekhUc1kzTDhMT0hLTWJIVTlx?oc=5"
     },
     {
-      "id": "0c0a44f469f80599",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum technology"
-      ],
-      "published": "2026-05-26T07:00:00Z",
-      "query": "quantum technology grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JGWHl4cHozdW5tcWxYdGNLNnBRUWY4eXowZTlsaDdNVWdmb1lFc2RiMWxhOGIySktLVE1mZ19ubXZwNWNGLXBxUXBoX2V2ZGhZdW9fZ3dEUGZURE1VSWV4UkJEZkNETVFRYUZXSkJZMUJSQkNQcnduTm8weVBVUXZQeExHYjB3MzBMMzZfYnlZRGlXMXByY0NrdjhpU3lEQnJlLTVUX19RSkd2?oc=5\" target=\"_blank\">Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-      "title": "Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed? - Investor's Business Daily",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JGWHl4cHozdW5tcWxYdGNLNnBRUWY4eXowZTlsaDdNVWdmb1lFc2RiMWxhOGIySktLVE1mZ19ubXZwNWNGLXBxUXBoX2V2ZGhZdW9fZ3dEUGZURE1VSWV4UkJEZkNETVFRYUZXSkJZMUJSQkNQcnduTm8weVBVUXZQeExHYjB3MzBMMzZfYnlZRGlXMXByY0NrdjhpU3lEQnJlLTVUX19RSkd2?oc=5"
-    },
-    {
       "id": "01e73d645e35a4c9",
       "matched_keywords": [
         "grant",
@@ -130,22 +97,6 @@
       "title": "IonQ rises on quantum sector momentum, buoyed by US funding push for computing innovation - eciks.org",
       "type": "grants",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS0FxUlQ1WHBKb2Vfd0tQaktHRGIwQkZyMDhVc044N2Q4MXNTWnFWc3NYRm1zMVVBSFpneTlhUVgwamVWUS1IZmRSSzVMemxOMElyY3VzR0dMbmJYZDNaaXhuNEZFQ0dMQjVmd2kxSnFNSllyTThPSy1keklHWnNQUDgwdzFIb3ZHakJzcG1EQURQNHNlOHVhWHJJNkx5dHBMa1FCWm5CMkg3Tm9BdUE?oc=5"
-    },
-    {
-      "id": "6b21b7ae14e463e1",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-05-22T16:08:46Z",
-      "query": "quantum computing grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE81ZGRPY0FaRFJtd0VNZWJIenRKMUNkclZ3VlZabHlicDgzSS05al9FSV9oVjI4em5NNTRDeDBhaTZ2OE83WVIzMEV5ZHNwaFZaSENxTFRaWjRMM1c5WUhIM09QdlNJMkp0LThiSmFZQXhJdUNKTkxn?oc=5\" target=\"_blank\">$100M CHIPS Act Funding To Bolster Rigetti’s Quantum Scaling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "$100M CHIPS Act Funding To Bolster Rigetti’s Quantum Scaling - Quantum Zeitgeist",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81ZGRPY0FaRFJtd0VNZWJIenRKMUNkclZ3VlZabHlicDgzSS05al9FSV9oVjI4em5NNTRDeDBhaTZ2OE83WVIzMEV5ZHNwaFZaSENxTFRaWjRMM1c5WUhIM09QdlNJMkp0LThiSmFZQXhJdUNKTkxn?oc=5"
     },
     {
       "id": "79f1a05f1a3e0131",
@@ -164,20 +115,20 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHp5N1FHNnA3dzJNSHNXcmlubzYzZTRXMzdrSENsOWFfcGxaZ1AyTTk0WW1Ub0lMc3FPQ29abXN1V3ZhVWlKUV9iTGh5WVp4aS1pTzUwb29aYUI4bUdMZ0xXYU9jSGwybkJ1eXFuS0dGRldqUXBVNmZ2UlNMb1lTWlFXZ3J1cC1UcFp5M0VR?oc=5"
     },
     {
-      "id": "9b4cdbe3dcf3bb3a",
+      "id": "78e27cb1bd1c5309",
       "matched_keywords": [
         "grant",
         "funding",
         "quantum",
-        "quantum technology"
+        "quantum computing"
       ],
-      "published": "2026-05-21T08:00:42Z",
-      "query": "quantum technology grant",
+      "published": "2026-05-22T07:00:00Z",
+      "query": "quantum computing grant",
       "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWdHdUxQeVN4ODJfczdoTWlQNlRFbEFBRHVwOGNtNTU0V0NfakliQkotUi1GeHdieEd3UFh5Uzh0RVZNdndKNHVlZkc5a01wenM0aUY0OUdfUHJkUk1NVHliMExNN1dfWVIzOTIycFNObFdkZEQtc0thb2NUdE9mUzJUTERMWHZRNWhyQkpoQ2dnU0dJMTJoTHpNNzNray12WWhDaVBRQWF5SmRXOHk1VDhqenh5OGs?oc=5\" target=\"_blank\">Guoguang Quantum Raises Series A+ Funding to Expand Quantum Grid Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "Guoguang Quantum Raises Series A+ Funding to Expand Quantum Grid Technology - The Quantum Insider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdlZYRzJpV2tXSUlQS0RGWXVhMFVfb25UZlltbGhhTDFkMEx1NHVCcDc1MWpwOW5GT0xoVHZXYWpTSXR1dHpHZkltdGRsRG1mU0ZVY3d5SXhlVnNRQnM1aldDR2VxR1BUTEZxNVZZQjJ5UHpJdkxsTnZ3OHZIR3ZjaGJSeWduUk5STHV6RnRhWllzbzVxcS1XUUU2MHAxUHlySHJfb1l4Zm5ScWVfcUJFeWw5RDZobjJ4YUZnUDBQWF9XX3R2WmhXUVUzV0hSX3JJUjVBRzUyeUVyU1BuUkNxVU9id1NjaTVtRThueDhjYw?oc=5\" target=\"_blank\">U.S. Commerce Department and D-Wave Quantum Sign $100 Million CHIPS Act Funding Agreement to Advance Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fundsforNGOs News</font>",
+      "title": "U.S. Commerce Department and D-Wave Quantum Sign $100 Million CHIPS Act Funding Agreement to Advance Quantum Computing - fundsforNGOs News",
       "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWdHdUxQeVN4ODJfczdoTWlQNlRFbEFBRHVwOGNtNTU0V0NfakliQkotUi1GeHdieEd3UFh5Uzh0RVZNdndKNHVlZkc5a01wenM0aUY0OUdfUHJkUk1NVHliMExNN1dfWVIzOTIycFNObFdkZEQtc0thb2NUdE9mUzJUTERMWHZRNWhyQkpoQ2dnU0dJMTJoTHpNNzNray12WWhDaVBRQWF5SmRXOHk1VDhqenh5OGs?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdlZYRzJpV2tXSUlQS0RGWXVhMFVfb25UZlltbGhhTDFkMEx1NHVCcDc1MWpwOW5GT0xoVHZXYWpTSXR1dHpHZkltdGRsRG1mU0ZVY3d5SXhlVnNRQnM1aldDR2VxR1BUTEZxNVZZQjJ5UHpJdkxsTnZ3OHZIR3ZjaGJSeWduUk5STHV6RnRhWllzbzVxcS1XUUU2MHAxUHlySHJfb1l4Zm5ScWVfcUJFeWw5RDZobjJ4YUZnUDBQWF9XX3R2WmhXUVUzV0hSX3JJUjVBRzUyeUVyU1BuUkNxVU9id1NjaTVtRThueDhjYw?oc=5"
     },
     {
       "id": "5c708844485b89be",
@@ -196,7 +147,7 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaUdueHhKaGFZVGJ2UnJJQ09tZzRiR2JiZVZfWHFINlpQVGtZa3FWYjM3ZVhNVTBHYThkS2dRMHN6ZWRiblo0UGxCcGNTcmZPWEJFWlM3WHVyMlZSMmQ0R0h6Ql83a2hsYXBkMEhqUjVrNExDT0E2UUU1VTNwZHE2UWxR0gGHAUFVX3lxTE85WjFBb0NWQlRrdW13bG1YcEZZcF9XLWNiN3VBc2p1TkNPNWYzd0c1X3dWaXlVRm5ZWmxEZWtRQ0hDRlhFUjgxc193VGtOZmJxb3BsWlpMRUF2SnhEaW9JY2pTZ2NHVzYtT0N4Skx6WDlJUEdNbWtJTHk1aUtLR0N0NjlUakJYOA?oc=5"
     },
     {
-      "id": "3f201109b7cafa70",
+      "id": "78f0974745f1c8f7",
       "matched_keywords": [
         "grant",
         "funding",
@@ -206,10 +157,10 @@
       "published": "2026-05-21T07:00:00Z",
       "query": "quantum technology grant",
       "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkNaQzJyNGp0N0JDci1CdFpMSmRfbXhuaTZ4eGZ0NmZqQTdJbjlwekl6TUFRZnFuSGlUSEpyT3dhVFctVkdJWDRjOTk4ZzJodjl4OUpVeF9sTHVLVXlsaXMwbmU1Wk9hc0RPOU9DREluNzlqaDhUMHJEWE9FUXNaSVpkbjYzYTBibGZUNGJmNEpVdnJnWWdQMmJPNlpBNFFhQW5BeGRBS3Z1Rk8xWUQzUnFodXZfVVZsTmV5QmswcUItTmxzSkNMVFREZklwWms?oc=5\" target=\"_blank\">CHIPS funding to help establish quantum wafer fab at Albany NanoTech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Spectrum News</font>",
-      "title": "CHIPS funding to help establish quantum wafer fab at Albany NanoTech - Spectrum News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxOQ1ZqQkE1Vkh4REt2UFU1bzNlZUNkbi1hUnpVYVdVTFZ3Qy1Vd1VOd19uTjZuWk10REhEVnMtbi1sTWZJcktpaGpBaFZOVVJPQ2pBcThYaS00MnM5bUlfc2RLZkZsVDZ1NlZLeVRXbC1wVXVBT21XWWwtSm1INkpjU3BVWUstenRFQkRQWURwamNud0MxY2NjMUpKU0NsOGlzUGg0MXdPMVpaRVk4ZzhZaHhPWl9kbEdVa3YyWTJBcU9XSUQ3NjdzOUExRGFDUTZGSlZiYjl3cHVvYWY4b3EzdE9EYnFPREM3b3dxeWF0QkItaDJBekN0Tm9QYUlLTXB2ZGFGMW9td1hrcm830gGSAkFVX3lxTFBYUkwta0RoZ2NfNHFEWUh4Y3M3UC1JZDJfR2o0YUdQZ2YyNkVQZElRaUg3SmR6Zm9YQUtNd2NkaHVReVZ1bXRLOVhXcUs3ZENtSFVDX1hLam1odEptQTRXRFZOWGNrUFVDc1B3cDhtcnlVaE1kN1pVT0NERWtXT2E5cGl6SkJMY0lfNWpRSG0wLXdrYU1ad3N3OVEwVHRNRE1OSWdmZkdMb2hHUWZJZFRWQlNSTVNDV3BWdmw5Tm1CY2E0cWVUejEySGZ0NXFXUk5NZHhWUmFIOUQ4emZfZjF6c3Z6RF8xU0NQQ0VpZF9nRWpYM2hkUm5IUFZ4VjExUUJuYW5QU0ZNTXIzaU5iU2dYS1E?oc=5\" target=\"_blank\">US big quantum technology bet: Trump administration backs firms with $2 billion funding tied with equity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Times of India</font>",
+      "title": "US big quantum technology bet: Trump administration backs firms with $2 billion funding tied with equity - The Times of India",
       "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbkNaQzJyNGp0N0JDci1CdFpMSmRfbXhuaTZ4eGZ0NmZqQTdJbjlwekl6TUFRZnFuSGlUSEpyT3dhVFctVkdJWDRjOTk4ZzJodjl4OUpVeF9sTHVLVXlsaXMwbmU1Wk9hc0RPOU9DREluNzlqaDhUMHJEWE9FUXNaSVpkbjYzYTBibGZUNGJmNEpVdnJnWWdQMmJPNlpBNFFhQW5BeGRBS3Z1Rk8xWUQzUnFodXZfVVZsTmV5QmswcUItTmxzSkNMVFREZklwWms?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOQ1ZqQkE1Vkh4REt2UFU1bzNlZUNkbi1hUnpVYVdVTFZ3Qy1Vd1VOd19uTjZuWk10REhEVnMtbi1sTWZJcktpaGpBaFZOVVJPQ2pBcThYaS00MnM5bUlfc2RLZkZsVDZ1NlZLeVRXbC1wVXVBT21XWWwtSm1INkpjU3BVWUstenRFQkRQWURwamNud0MxY2NjMUpKU0NsOGlzUGg0MXdPMVpaRVk4ZzhZaHhPWl9kbEdVa3YyWTJBcU9XSUQ3NjdzOUExRGFDUTZGSlZiYjl3cHVvYWY4b3EzdE9EYnFPREM3b3dxeWF0QkItaDJBekN0Tm9QYUlLTXB2ZGFGMW9td1hrcm830gGSAkFVX3lxTFBYUkwta0RoZ2NfNHFEWUh4Y3M3UC1JZDJfR2o0YUdQZ2YyNkVQZElRaUg3SmR6Zm9YQUtNd2NkaHVReVZ1bXRLOVhXcUs3ZENtSFVDX1hLam1odEptQTRXRFZOWGNrUFVDc1B3cDhtcnlVaE1kN1pVT0NERWtXT2E5cGl6SkJMY0lfNWpRSG0wLXdrYU1ad3N3OVEwVHRNRE1OSWdmZkdMb2hHUWZJZFRWQlNSTVNDV3BWdmw5Tm1CY2E0cWVUejEySGZ0NXFXUk5NZHhWUmFIOUQ4emZfZjF6c3Z6RF8xU0NQQ0VpZF9nRWpYM2hkUm5IUFZ4VjExUUJuYW5QU0ZNTXIzaU5iU2dYS1E?oc=5"
     },
     {
       "id": "2615e8b884f0d92c",
@@ -219,13 +170,29 @@
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-05-11T12:50:22Z",
+      "published": "2026-05-11T07:00:00Z",
       "query": "quantum computing workshop students",
       "score": 9,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQV2FVYnJZV1lRV3Q5SDNmQnBzYTlPZTRmMGRpWlJaRGIwNE9hZEZUUUhZSW8teFNjcmc0eDdkeTNOSENDMWFhZ3owZWw4WS1GN0E5MnlMVlhxbGhyN0psZ1BnQ1lLZVp0Um1ZWkJtZGF5alJLTjVHWXhVSFEwU1BMd0w4RjNoQ045UDhmM2tUREdFbFE0NmRSUEJqNVlpREtyYUl1Nw?oc=5\" target=\"_blank\">OIC-COMSTECH launches an international workshop on quantum computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Daily Lead Pakistan</font>",
       "title": "OIC-COMSTECH launches an international workshop on quantum computing - Daily Lead Pakistan",
       "type": "internships",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV2FVYnJZV1lRV3Q5SDNmQnBzYTlPZTRmMGRpWlJaRGIwNE9hZEZUUUhZSW8teFNjcmc0eDdkeTNOSENDMWFhZ3owZWw4WS1GN0E5MnlMVlhxbGhyN0psZ1BnQ1lLZVp0Um1ZWkJtZGF5alJLTjVHWXhVSFEwU1BMd0w4RjNoQ045UDhmM2tUREdFbFE0NmRSUEJqNVlpREtyYUl1Nw?oc=5"
+    },
+    {
+      "id": "1a9b5a3925442ebe",
+      "matched_keywords": [
+        "intern",
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-05-11T07:00:00Z",
+      "query": "quantum computing workshop students",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPdldMWDhEdjVXWWplTHNKSUhmc1dSbnB1WkFSU1JEeHRsMGxWSVZEVjg1bWx0YXdwSkEyVm5ETkc4MmpWcThEUTk1X19CZUdERG1NdDJfVWFrcFZIRTU3M1FaQ0pwaGg3U0NnQnBEMHVXVVFLOXdEdHdQbUpVQXRjODRpMDVQM2FNNGlseHNEUXk1S2RlM01INGZrM0c?oc=5\" target=\"_blank\">OIC-COMSTECH Launches An International Workshop On Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UrduPoint</font>",
+      "title": "OIC-COMSTECH Launches An International Workshop On Quantum Computing - UrduPoint",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdldMWDhEdjVXWWplTHNKSUhmc1dSbnB1WkFSU1JEeHRsMGxWSVZEVjg1bWx0YXdwSkEyVm5ETkc4MmpWcThEUTk1X19CZUdERG1NdDJfVWFrcFZIRTU3M1FaQ0pwaGg3U0NnQnBEMHVXVVFLOXdEdHdQbUpVQXRjODRpMDVQM2FNNGlseHNEUXk1S2RlM01INGZrM0c?oc=5"
     },
     {
       "id": "a077ec5daea17aa7",
@@ -260,22 +227,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV3NPSmM0TUNEM0R6LWUyNEppdVpKVVhaamFRallFMTV2aVI1TTdEYmFRcUtmMVREZmkzczhGcHhJMGNldms5UHViSTZULURmbVJCWlRmQU11SERCZk13NUlGMHo4TEUtM0lIUlVEaGdFQy1ETWtkcWIxYkJ5T1hDdHVPaVd5eDROOGZhVVFLaw?oc=5"
     },
     {
-      "id": "671ac2169d98e904",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum technology"
-      ],
-      "published": "2026-04-21T07:00:00Z",
-      "query": "quantum technology grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPb0dJTVVyZUJ5dHN2ZnNub1owbmtoZHVSbXpXaUxzTGU4MWF5WG93RFZTSGJaWnBKaEhaVmFxN3FYMFJtRWZuYzM2ZTgxWDZlUkxYYkpNUmdXX2JrcHhsTjdySDRSOUhkVmdIY201SUxUb0p0amwwT2M0dWYwc0ppNDQyVkppMldsWUI1aG9IeHRyd2VLLVBweUh1eTY0eG1WemdwcEFuUzlTTGc1LWZSZWRYUFpYcFpPa1BvQzFGdTZsUDdhcTNKeFdudVE?oc=5\" target=\"_blank\">QMatter Raises $1.2 Million in Funding And Introduces Quantum Compression to Tackle Scaling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "QMatter Raises $1.2 Million in Funding And Introduces Quantum Compression to Tackle Scaling - The Quantum Insider",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb0dJTVVyZUJ5dHN2ZnNub1owbmtoZHVSbXpXaUxzTGU4MWF5WG93RFZTSGJaWnBKaEhaVmFxN3FYMFJtRWZuYzM2ZTgxWDZlUkxYYkpNUmdXX2JrcHhsTjdySDRSOUhkVmdIY201SUxUb0p0amwwT2M0dWYwc0ppNDQyVkppMldsWUI1aG9IeHRyd2VLLVBweUh1eTY0eG1WemdwcEFuUzlTTGc1LWZSZWRYUFpYcFpPa1BvQzFGdTZsUDdhcTNKeFdudVE?oc=5"
-    },
-    {
       "id": "3d0932164252f015",
       "matched_keywords": [
         "summer camp",
@@ -289,6 +240,36 @@
       "title": "Conferences - Quantum Computing Report",
       "type": "summer_programs",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IVThzVWk1aW1LdGFNVThNMzBYZGJpRnlsT1BVYkhRc2pSd25tMFZiekFHS0dScVpMSGtSWkEzMzlHSDB2YXIxLTRJTVBqY3dDQVBnbHY0ckF6dknSAWBBVV95cUxQSk5ielVqblBZVkJOakJmSExSQjVWMFdJSkpETlpBYS0yQkp6cUU2ZGNyTi1rUjZuX2tXMmZWQXRaRlFoRXZIaXRhMlJidk9ESEJaYzM0d2ZpTzFuTHhVbWo?oc=5"
+    },
+    {
+      "id": "06dfbe183769381c",
+      "matched_keywords": [
+        "summer school",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-05-27T07:00:00Z",
+      "query": "quantum summer school",
+      "score": 8,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE8xcGZOd3pRYS1iRWd5RzhublFSazNmSTloNm1wRUM1VlE0cTQzcEF1RnduWTZwOGV2dmZST3ljY2NpTy10NHhFU0VXb1BSYlkwc3F3WWRsZE85T1VNR2ZyR2xzT3RZQi1vV0piem1qeXY?oc=5\" target=\"_blank\">Qiskit Summer School Marks A Decade Of Cloud Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Qiskit Summer School Marks A Decade Of Cloud Quantum Computing - Quantum Zeitgeist",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xcGZOd3pRYS1iRWd5RzhublFSazNmSTloNm1wRUM1VlE0cTQzcEF1RnduWTZwOGV2dmZST3ljY2NpTy10NHhFU0VXb1BSYlkwc3F3WWRsZE85T1VNR2ZyR2xzT3RZQi1vV0piem1qeXY?oc=5"
+    },
+    {
+      "id": "fe593ec26f8cd18e",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-06-05T19:26:10Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPaE9CT0tyenl5TjhFY0E5ZHVfekpaN0MxTW1tY3NEd2xZanlGV0YtVnBBbmNmWVN4bndoYl9hT3h1czBMNHVtTTItSnF1bUZESDBJbmltbVJNSURPSHRPN2dmNkMxNnRhT0phM1AzS1dzV0hGaVJjTkMwbWxuTThPYXAwdlhTaTRZQUYtblNMOXo3eWZ2STRnbEZyZXVQZw?oc=5\" target=\"_blank\">Justine and Jim Mullen ’80 Fund RPI Projects in Computational Biology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rensselaer Polytechnic Institute (RPI)</font>",
+      "title": "Justine and Jim Mullen ’80 Fund RPI Projects in Computational Biology - Rensselaer Polytechnic Institute (RPI)",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaE9CT0tyenl5TjhFY0E5ZHVfekpaN0MxTW1tY3NEd2xZanlGV0YtVnBBbmNmWVN4bndoYl9hT3h1czBMNHVtTTItSnF1bUZESDBJbmltbVJNSURPSHRPN2dmNkMxNnRhT0phM1AzS1dzV0hGaVJjTkMwbWxuTThPYXAwdlhTaTRZQUYtblNMOXo3eWZ2STRnbEZyZXVQZw?oc=5"
     },
     {
       "id": "8101ab3fb06c6c1e",
@@ -306,19 +287,34 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMm4zajE3RW5EVG1FRTVET0lCdDNsVXdabjlmem5DWVF2VEVDZnJtOE52NElqcndOcEpyTG15el9jblVtVnZ6S1dlNDBpN3VaUmNCbVUweW5ZQkwzM1NQbU5NUHRSZHN3a2RYT0VuQ0VHQy1QcFVzaUxIQW9YYkdOUXdVTFktVEpOZEg2cjI0b055bThuRFRWcWJuZ0JMMnh2d1JpY3NhNTNjVThOY3U2LWNXYS1kWEdMVzhuT3puTnBGcnhCMUlZWFNfSl8?oc=5"
     },
     {
-      "id": "19f43c033af16b6b",
+      "id": "2dd3c49ffe3b2ed0",
       "matched_keywords": [
         "grant",
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-06-02T16:22:46Z",
+      "published": "2026-06-02T09:38:33Z",
       "query": "quantum computing grant",
       "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1VemtWMEpnczNpckpWWHJZVm44aFVELVhKTDRQc1dvbDBSc0E5NWtOQy15aFNFWXJPalVGdG9hd3B4SHVUaWlJTUJYbFBrU3IwbFVuNmgyRlEyOC0tLXh1VXdKRkhSQTBZR3ZQX0dFbw?oc=5\" target=\"_blank\">$600K NSF Grant Funds Hawaiʻi Quantum Sensor Networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "$600K NSF Grant Funds Hawaiʻi Quantum Sensor Networks - Quantum Zeitgeist",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcXFGQnVfWUxUNmxuTC02Rzk1QmdWRm5XY1BHRkllWXZMdmd6MDV3V0JVcWkwT0NNTzdHSUZfSjhsR29rV1BEck5ON0F6QkNaWUZ5cVhpaUVEb2l4dzFad3d1enFjOUo4cWRNMVlUeEpOVVJ4ZnRYTlEzcWowQXZ0TkJlT0NTMlcxOVZvSXBubUk4enRqMExxTXRYcVR3Y3lfcHVjUEVrTlo4cGRDa1VoclJBYWtvMWQ0UXdQWVJLQ3NiRkZQWWRpVnc4bnFtMC1DTmRJ?oc=5\" target=\"_blank\">US To Invest $2B In Quantum Computing Firms As IBM Lands $1B Grant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes Middle East</font>",
+      "title": "US To Invest $2B In Quantum Computing Firms As IBM Lands $1B Grant - Forbes Middle East",
       "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VemtWMEpnczNpckpWWHJZVm44aFVELVhKTDRQc1dvbDBSc0E5NWtOQy15aFNFWXJPalVGdG9hd3B4SHVUaWlJTUJYbFBrU3IwbFVuNmgyRlEyOC0tLXh1VXdKRkhSQTBZR3ZQX0dFbw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcXFGQnVfWUxUNmxuTC02Rzk1QmdWRm5XY1BHRkllWXZMdmd6MDV3V0JVcWkwT0NNTzdHSUZfSjhsR29rV1BEck5ON0F6QkNaWUZ5cVhpaUVEb2l4dzFad3d1enFjOUo4cWRNMVlUeEpOVVJ4ZnRYTlEzcWowQXZ0TkJlT0NTMlcxOVZvSXBubUk4enRqMExxTXRYcVR3Y3lfcHVjUEVrTlo4cGRDa1VoclJBYWtvMWQ0UXdQWVJLQ3NiRkZQWWRpVnc4bnFtMC1DTmRJ?oc=5"
+    },
+    {
+      "id": "4e5c4cfb003b7c59",
+      "matched_keywords": [
+        "grant",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-06-02T01:36:28Z",
+      "query": "quantum computing grant",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPR1RNTl9WTWN1NmluazJvbURENUpXREZqZnJyZnVXYll2MkpGYXRkWHR1aGItTC01Qk9UcXpLbGt6US1sbzhrOHk3TlptNlRvRDZWWGh2WUZfY0R6Z2gyeURUbE9wSHRFQ3h6NnY0UEJ6aFZaRGdKWGdMU1NZNHZ4TnNwNHBqUHBYandCNFp2SDVCQ084ZUlScnBxNmpTZk5mc3FmNjh1RkR5ZTJYeDVFZzc2cXN3dw?oc=5\" target=\"_blank\">Quantum Computing Inc. (QUBT) CRO receives RSU and option grants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+      "title": "Quantum Computing Inc. (QUBT) CRO receives RSU and option grants - Stock Titan",
+      "type": "grants",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR1RNTl9WTWN1NmluazJvbURENUpXREZqZnJyZnVXYll2MkpGYXRkWHR1aGItTC01Qk9UcXpLbGt6US1sbzhrOHk3TlptNlRvRDZWWGh2WUZfY0R6Z2gyeURUbE9wSHRFQ3h6NnY0UEJ6aFZaRGdKWGdMU1NZNHZ4TnNwNHBqUHBYandCNFp2SDVCQ084ZUlScnBxNmpTZk5mc3FmNjh1RkR5ZTJYeDVFZzc2cXN3dw?oc=5"
     }
   ]
 }
