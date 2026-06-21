@@ -1,36 +1,6 @@
 {
-  "generated_at": "2026-06-19T12:34:38Z",
+  "generated_at": "2026-06-21T12:01:46Z",
   "news": [
-    {
-      "id": "37c06bd5084ecb3b",
-      "matched_keywords": [
-        "quantum computing",
-        "error correction",
-        "quantum algorithm"
-      ],
-      "published": "2026-06-18T12:37:41Z",
-      "query": "quantum error correction",
-      "score": 9,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AJBVV95cUxOTzZ4VHNqb05HS000WkJSTUVwN2N6NnQ5eXVaNElFc3NaUTJlNTRmSkl4VnVSRW4wR200RkF2eV9WeVYxQ2gyUTN3eENhckRuRGx2N3Z1c2JTYWt3YmhKRG9oMl9OYWRFdDhVZHNhT0xxemlkWG1XTHhmT1ZWWUFGZWx2UUs2eFNwbHZUaUZTV1VwUnFQYnN1Q01oTFc1aS1MVGwwRENCb0Vfd2xhWFQwbVhjYUE0WXNYZlJVTFhXbS1wX0NRRlVORVMyUE42Z0MzendzMTh4RG1xSTRvcnVRMUdZYXktSDVOTXlBQXp2NjNCY28xVjZtSE9FMC01NWN0TFhJRU1hbEFrZEFMSnJsV2swamFLNC1mMEhXcW1UMVlYR3RlbEVNNnlaQTc5dmVCR3VMekUzXzFYdVU0ano5bl8yOXpYWXJDRjFyM1RjZ2F5dlViOFVsUdIB3gJBVV95cUxOdWh3NmJXbEJOQk05bGh4cXdBMDAydXV6VXgzZDhWdDlHTFZsWEhVOG1IZXJOUElJblRLd3lQaVV4UkJuRE5lcUFqdkVfRG1qcE1mMV9YTGdpZEJxam9SY1EtUGJ0WDNkU0Q5bDVpSmNpTFNuaFJCSy1oejJVRzB6cmFsQXF1b2hkQnRhcm1ZcVhPRWUxc1licDU2YzhILTRlXzVEdHl1YWJSTlJSbXZMMTB5WUZkSVNoTUQ1dlhXdlF6bU9vdkp1QzBUTGNOOFZqX0I2NVByd0NfRzRROG1odFVTUy1FQWpnNHZMcW1idVpYcUE1dHFZYlRHZU13c2FKYWJEQmRKQ2xoclp5ZGtScmJEUEZEcTc2SmR2ZnNXaTV6RmhrWnpmazliWGRkc0ZmdWxGcEJzX3B5V3pTbTdHZGZnVXhKLUgzRFg1NGozUTFSN1dWakozOWJ5Y21uUQ?oc=5\" target=\"_blank\">Quantum X Labs Launches Integrated Quantum Computing Program Combining Its Clinical Trials Data Analysis Quantum Algorithm and Its Quantum Error Correction Decoder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
-      "title": "Quantum X Labs Launches Integrated Quantum Computing Program Combining Its Clinical Trials Data Analysis Quantum Algorithm and Its Quantum Error Correction Decoder - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOTzZ4VHNqb05HS000WkJSTUVwN2N6NnQ5eXVaNElFc3NaUTJlNTRmSkl4VnVSRW4wR200RkF2eV9WeVYxQ2gyUTN3eENhckRuRGx2N3Z1c2JTYWt3YmhKRG9oMl9OYWRFdDhVZHNhT0xxemlkWG1XTHhmT1ZWWUFGZWx2UUs2eFNwbHZUaUZTV1VwUnFQYnN1Q01oTFc1aS1MVGwwRENCb0Vfd2xhWFQwbVhjYUE0WXNYZlJVTFhXbS1wX0NRRlVORVMyUE42Z0MzendzMTh4RG1xSTRvcnVRMUdZYXktSDVOTXlBQXp2NjNCY28xVjZtSE9FMC01NWN0TFhJRU1hbEFrZEFMSnJsV2swamFLNC1mMEhXcW1UMVlYR3RlbEVNNnlaQTc5dmVCR3VMekUzXzFYdVU0ano5bl8yOXpYWXJDRjFyM1RjZ2F5dlViOFVsUdIB3gJBVV95cUxOdWh3NmJXbEJOQk05bGh4cXdBMDAydXV6VXgzZDhWdDlHTFZsWEhVOG1IZXJOUElJblRLd3lQaVV4UkJuRE5lcUFqdkVfRG1qcE1mMV9YTGdpZEJxam9SY1EtUGJ0WDNkU0Q5bDVpSmNpTFNuaFJCSy1oejJVRzB6cmFsQXF1b2hkQnRhcm1ZcVhPRWUxc1licDU2YzhILTRlXzVEdHl1YWJSTlJSbXZMMTB5WUZkSVNoTUQ1dlhXdlF6bU9vdkp1QzBUTGNOOFZqX0I2NVByd0NfRzRROG1odFVTUy1FQWpnNHZMcW1idVpYcUE1dHFZYlRHZU13c2FKYWJEQmRKQ2xoclp5ZGtScmJEUEZEcTc2SmR2ZnNXaTV6RmhrWnpmazliWGRkc0ZmdWxGcEJzX3B5V3pTbTdHZGZnVXhKLUgzRFg1NGozUTFSN1dWakozOWJ5Y21uUQ?oc=5"
-    },
-    {
-      "id": "ba18b6b69bd4eff6",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom",
-        "quantum network"
-      ],
-      "published": "2026-06-17T17:46:46Z",
-      "query": "neutral atom quantum computing",
-      "score": 9,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNQU9aR0VRZFVQMXlveUZ4eHNLb1J5bi1OUnUwRTlpd21HSFdrV09rNmZNU0FxOVhsT2RXUGNfU0VZQ2JrVENFYTJGODlDT3dISl9TT2lPaGlyS1B0eTNBVkhXVUU1akQyb2N0dTJ3cnV1YlFCRXZwdjdKS3ltY2d6YmtXT3hkaG5fLU1LaTJvWkJ2N19heXJPcHpZSmxCSHNVLVBJcU53?oc=5\" target=\"_blank\">Atom Computing, Nu Quantum partner on quantum networking infrastructure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SDxCentral</font>",
-      "title": "Atom Computing, Nu Quantum partner on quantum networking infrastructure - SDxCentral",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQU9aR0VRZFVQMXlveUZ4eHNLb1J5bi1OUnUwRTlpd21HSFdrV09rNmZNU0FxOVhsT2RXUGNfU0VZQ2JrVENFYTJGODlDT3dISl9TT2lPaGlyS1B0eTNBVkhXVUU1akQyb2N0dTJ3cnV1YlFCRXZwdjdKS3ltY2d6YmtXT3hkaG5fLU1LaTJvWkJ2N19heXJPcHpZSmxCSHNVLVBJcU53?oc=5"
-    },
     {
       "id": "bbea7d554e63f64d",
       "matched_keywords": [
@@ -47,51 +17,21 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbE93TmJlcWVaazJjT2tMby1UdThzVXdidldaTGc3c21EZEZQc0xxdVdybDczY2xVdGdwSEU2ODV0UkpSWlFickVZV1RkdVl6Zm81LTJkSlAwX2NhanZXREhqcUJGMUZvRmZhbklxZW9HZlpmOUQwTFpBUmpZWWlQQTlfMkQydGJWNmlGQnZJb1VWeXoxMV9tM0luM3hCRGlMa1pJYUQ2VHR5aEJYRVpHdXFFN2JTMWcycjQ3d3F3bHVka1lQaXZxUmZ2VTdJWnk5QkRidFNvelJ2OHM?oc=5"
     },
     {
-      "id": "bdbe82e787d8db75",
-      "matched_keywords": [
-        "quantum computing",
-        "logical qubit",
-        "neutral atom"
-      ],
-      "published": "2026-06-15T17:41:12Z",
-      "query": "neutral atom quantum computing",
-      "score": 9,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1aVG5uUC1aQjJoRkt3NFFDZUE0b2tOSDE0ci1FUTltQlJDOFFjN0lMT19BUGFiYVNMbElYZDVfUWVZaFpsNFEwUS1MVmUtR3N3b3RfWUpTS0g1Z01KU3F5M2kyMWZYQjBpVHlMcA?oc=5\" target=\"_blank\">$100M Letter Of Intent Fuels Atom Computing’s Logical Qubit Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "$100M Letter Of Intent Fuels Atom Computing’s Logical Qubit Push - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aVG5uUC1aQjJoRkt3NFFDZUE0b2tOSDE0ci1FUTltQlJDOFFjN0lMT19BUGFiYVNMbElYZDVfUWVZaFpsNFEwUS1MVmUtR3N3b3RfWUpTS0g1Z01KU3F5M2kyMWZYQjBpVHlMcA?oc=5"
-    },
-    {
-      "id": "8caf060fc5be3ac4",
-      "matched_keywords": [
-        "quantum computing",
-        "error correction",
-        "neutral atom"
-      ],
-      "published": "2026-06-10T03:14:56Z",
-      "query": "neutral atom quantum computing",
-      "score": 9,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFg5YTI0QmtVTmZmMVlBNVZNXzU4SXFOTUt6NDlsSU5VOGd3MjZLUnU3b2xDdDBUTGdWY3FKOWpsODMxTzlac05mNVU4d3diMk50SVpZTk5XRXdVS2xGa1NPNHl0UmhlQU5xMUJmWk9feDZzTXhnaE1XRUFyaGIwQlkwRjMwVmNhb1c0SHlxUlE1cXVheVF2OHRHSmRjNWN0b2RscGR0bHhYRjduNm9mWWdIZ3VsZDlXOGc2MjNZTk55akZPM0RxMEFtcXQ3OFhk?oc=5\" target=\"_blank\">Atom Computing Runs First Multi-Round Error Correction on Neutral-Atom Quantum Chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
-      "title": "Atom Computing Runs First Multi-Round Error Correction on Neutral-Atom Quantum Chip - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeFg5YTI0QmtVTmZmMVlBNVZNXzU4SXFOTUt6NDlsSU5VOGd3MjZLUnU3b2xDdDBUTGdWY3FKOWpsODMxTzlac05mNVU4d3diMk50SVpZTk5XRXdVS2xGa1NPNHl0UmhlQU5xMUJmWk9feDZzTXhnaE1XRUFyaGIwQlkwRjMwVmNhb1c0SHlxUlE1cXVheVF2OHRHSmRjNWN0b2RscGR0bHhYRjduNm9mWWdIZ3VsZDlXOGc2MjNZTk55akZPM0RxMEFtcXQ3OFhk?oc=5"
-    },
-    {
-      "id": "66aa2aa9ab0fec34",
+      "id": "e2c87595a29f8923",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-06-19T12:16:11Z",
+      "published": "2026-06-20T03:18:59Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnpaX0F1aXpvSGp4TmxFeUlHUVd2OHlQUWFwNW9hWXh4SzRJRWYxaWV0QUprR01kVFo1a1o0UG9hNk5KQUhXcjdmNG5TcjF3TGNfaXVoY1VYTlhiOGN6NnVCMlFsTi03cFdsTXlidFBMRGlKdEZfRHVmSU9mcGtFN0JWTHhnWThsQXhvdGNOVDV1WXRaNng3TmZDWGgwZHJSeXlB?oc=5\" target=\"_blank\">Quantum firm Atom Computing secures $100m Series C funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>",
-      "title": "Quantum firm Atom Computing secures $100m Series C funding - Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnpaX0F1aXpvSGp4TmxFeUlHUVd2OHlQUWFwNW9hWXh4SzRJRWYxaWV0QUprR01kVFo1a1o0UG9hNk5KQUhXcjdmNG5TcjF3TGNfaXVoY1VYTlhiOGN6NnVCMlFsTi03cFdsTXlidFBMRGlKdEZfRHVmSU9mcGtFN0JWTHhnWThsQXhvdGNOVDV1WXRaNng3TmZDWGgwZHJSeXlB?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SZW9KRmloaTh6Nks2b0QxdFowUkV6N2ZzWkVIdkNWSXFHemRNZ3BSX1JTcThlVlpzWUFIX1k2WjJnSDFVN1UwZjF2NWlNOTBZYnlWaFdZcWxPX3M?oc=5\" target=\"_blank\">Inside Harvard's Quantum Computing Lab Inps Online (ljuqNuLrHU)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mshale</font>",
+      "title": "Inside Harvard's Quantum Computing Lab Inps Online (ljuqNuLrHU) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SZW9KRmloaTh6Nks2b0QxdFowUkV6N2ZzWkVIdkNWSXFHemRNZ3BSX1JTcThlVlpzWUFIX1k2WjJnSDFVN1UwZjF2NWlNOTBZYnlWaFdZcWxPX3M?oc=5"
     },
     {
-      "id": "23dbff6ba78d0412",
+      "id": "165a586cd55552fe",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
@@ -100,23 +40,9 @@
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPclhUdGtrZ3RWUEdIS09RMVFBdGRISUpKU2FKdFozNUhsVS1HSzhXbnA1UWhLOFEwRzJkd0FwYnVZMFpMT2FKVndXM2R5WERvWEVRdUh3YUdLTWRnRzd6NjNpN2phOW9wdDR1LTYxNjB0RmpYWXVxUUpJdEYxTk96VzFNeGVHVTZCTXNRVVk3NFM?oc=5\" target=\"_blank\">Atom Computing, Nu Quantum Partner to Scale Neutral-Atom Quantum Computers: Week in Brief: 6/19/26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Photonics Spectra</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOZVdyZ3ZFbXVqTll4WkNnUHNQSUpDQlF2bkFERWF2OE1EVER0dE5MQ25vZ2ZsZnY3UGN6eW5jY0dqS2h4c0x1a1VMLW9lZXo5TUVoZUxhMVZIRUJaVUNNbVBZSzd4RkxzUHRMemwxN2EzNjlrRTA5cDM5U3JxMzdRRmtCelpwNTJRVHV3Zg?oc=5\" target=\"_blank\">Atom Computing, Nu Quantum Partner to Scale Neutral-Atom Quantum Computers: Week in Brief: 6/19/26</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Photonics Spectra</font>",
       "title": "Atom Computing, Nu Quantum Partner to Scale Neutral-Atom Quantum Computers: Week in Brief: 6/19/26 - Photonics Spectra",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPclhUdGtrZ3RWUEdIS09RMVFBdGRISUpKU2FKdFozNUhsVS1HSzhXbnA1UWhLOFEwRzJkd0FwYnVZMFpMT2FKVndXM2R5WERvWEVRdUh3YUdLTWRnRzd6NjNpN2phOW9wdDR1LTYxNjB0RmpYWXVxUUpJdEYxTk96VzFNeGVHVTZCTXNRVVk3NFM?oc=5"
-    },
-    {
-      "id": "9be04905342064aa",
-      "matched_keywords": [
-        "quantum computing",
-        "quantum cryptography"
-      ],
-      "published": "2026-06-19T10:35:50Z",
-      "query": "quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXc1SVdXWmFkSE1tWU94djlmTEtzV3pkMDNBM2hYbTdMZUh2b3hlRnUySHZYZHBaZnU1Z1BKQU5CZXNHLXBXUjEtY2oyTVBfVG5QOWo2ZFA5d2V5eDFXOTlaU0FiYzJpOXhkUHlXOENXSS1sZHJhYmVQZ1lnbTlKVko5eXpEQkVFOWRORUYyb0VzZWFKYVEyNWdORWNlSng5cHhNZ0VPbU53WFdsV0pEVHhzSG5yVUd1QkZQUXFKMWJ6eXEtS3JPUnhKc3NvUTRPY2NF?oc=5\" target=\"_blank\">Post-Quantum Cryptography Meets China's Quantum Computer: What the Shield Leaves Exposed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
-      "title": "Post-Quantum Cryptography Meets China's Quantum Computer: What the Shield Leaves Exposed - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTXc1SVdXWmFkSE1tWU94djlmTEtzV3pkMDNBM2hYbTdMZUh2b3hlRnUySHZYZHBaZnU1Z1BKQU5CZXNHLXBXUjEtY2oyTVBfVG5QOWo2ZFA5d2V5eDFXOTlaU0FiYzJpOXhkUHlXOENXSS1sZHJhYmVQZ1lnbTlKVko5eXpEQkVFOWRORUYyb0VzZWFKYVEyNWdORWNlSng5cHhNZ0VPbU53WFdsV0pEVHhzSG5yVUd1QkZQUXFKMWJ6eXEtS3JPUnhKc3NvUTRPY2NF?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZVdyZ3ZFbXVqTll4WkNnUHNQSUpDQlF2bkFERWF2OE1EVER0dE5MQ25vZ2ZsZnY3UGN6eW5jY0dqS2h4c0x1a1VMLW9lZXo5TUVoZUxhMVZIRUJaVUNNbVBZSzd4RkxzUHRMemwxN2EzNjlrRTA5cDM5U3JxMzdRRmtCelpwNTJRVHV3Zg?oc=5"
     },
     {
       "id": "2ea2b9a800eb6f71",
@@ -147,32 +73,102 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMS03MU52YWlLUnFXODZvZkFHVlBUbUZ4S2RlYjJ4dXpScnVqQkxLamdWNmNxblVoUnlkTzhkNnNBaXdlSlJNMFEwcHlldEtMUnhBczdQSTl5Q0VWYmZKV2lZLTNYZlU3VUp1dW1ZMFhQOVY2cEt3VlVINnM1T0g1SDhPSXdBNzljODNsb3pfbEpmMUIyYmZYR2dsTG55ZTdhWFUyaUw2VmVFbm8?oc=5"
     },
     {
-      "id": "71a57e6985378700",
-      "matched_keywords": [
-        "quantum computing",
-        "quantum network"
-      ],
-      "published": "2026-06-18T18:22:36Z",
-      "query": "quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU2d5bG5RZmZxNlpGUDNKblFZQm9PUmlpUGFwR1hzRlpPc2lpZ2lXRFJrLXZqVl9YSzZpckdmS1lRWDhTYlFuaV9pSXNCZ2llUDRvQVZ2TFFTN3RJbTNUYTVxX3FHUzJyQURvNFNIQVUxWHNBenRGUWM3UjFyN2ZyU1RNSThsTTR5aGU3V3VxWGZpTmQ5SFBYaGU3ZmdhdzJaNkNmUEdiZUM3X1FfZ08zbGNDclNwSktma0RDVzMwM1pRZ9IBxwFBVV95cUxQUjM4cFVLTVZ6WFZyb0lRX2cwOHY4RU1jNXZfMU1DTFF2eVMyZWttZlVQSDBrb3JQa3BGS1BIN1dyMTBwTkp2RVVpYjBVb3FDY3BkOWc2NWxtR1lmUzN2NUxiS1BuSFZoeTVSVHk3MFYwc0thaDE4dkZqVkJHVjJHMHpLWTZtOUZzU0Vrdmczd1NjWTF0blZkSWpkbXlEV3VCZ2ZNSkpJZncwYWNPZmFObHRpSzJWUGhDNXhackI5SHk0S3ptNUZB?oc=5\" target=\"_blank\">Boeing Advances Its Space-Based Quantum Networking Project with Successful Q4S Lab Tests</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
-      "title": "Boeing Advances Its Space-Based Quantum Networking Project with Successful Q4S Lab Tests - Quantum Computing Report",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPU2d5bG5RZmZxNlpGUDNKblFZQm9PUmlpUGFwR1hzRlpPc2lpZ2lXRFJrLXZqVl9YSzZpckdmS1lRWDhTYlFuaV9pSXNCZ2llUDRvQVZ2TFFTN3RJbTNUYTVxX3FHUzJyQURvNFNIQVUxWHNBenRGUWM3UjFyN2ZyU1RNSThsTTR5aGU3V3VxWGZpTmQ5SFBYaGU3ZmdhdzJaNkNmUEdiZUM3X1FfZ08zbGNDclNwSktma0RDVzMwM1pRZ9IBxwFBVV95cUxQUjM4cFVLTVZ6WFZyb0lRX2cwOHY4RU1jNXZfMU1DTFF2eVMyZWttZlVQSDBrb3JQa3BGS1BIN1dyMTBwTkp2RVVpYjBVb3FDY3BkOWc2NWxtR1lmUzN2NUxiS1BuSFZoeTVSVHk3MFYwc0thaDE4dkZqVkJHVjJHMHpLWTZtOUZzU0Vrdmczd1NjWTF0blZkSWpkbXlEV3VCZ2ZNSkpJZncwYWNPZmFObHRpSzJWUGhDNXhackI5SHk0S3ptNUZB?oc=5"
-    },
-    {
-      "id": "5a40cec3754c1cfc",
+      "id": "0f6d923c871614a6",
       "matched_keywords": [
         "quantum computing",
         "error correction"
       ],
-      "published": "2026-06-18T16:16:38Z",
+      "published": "2026-06-17T21:47:37Z",
       "query": "fault tolerant quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNcjZOekxJcDhGb1JsakZlTUY3MDY2Y2h4ZHp2dldhZEoyczFQeVczM0xkUS10d1pKWE9FMFhURGlncjlWUTc1Ym5RWmU2dEw0VVFtdEtad2NXdG43UlV6dVJzeWhDOWVRQnhldzd0dTJKWUxjM3IxU2pPbVVnazlVUC1B?oc=5\" target=\"_blank\">Simulation And Experiment Reveal No Fidelity Difference In Quantum Error Correction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Simulation And Experiment Reveal No Fidelity Difference In Quantum Error Correction - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcjZOekxJcDhGb1JsakZlTUY3MDY2Y2h4ZHp2dldhZEoyczFQeVczM0xkUS10d1pKWE9FMFhURGlncjlWUTc1Ym5RWmU2dEw0VVFtdEtad2NXdG43UlV6dVJzeWhDOWVRQnhldzd0dTJKWUxjM3IxU2pPbVVnazlVUC1B?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBpZ093RHYzRENpZGdkcnY3cTNIN1lwcXhXU0tLM0VJTFd3UTEyS21qNzd2RlNlVEFXQ1JMbFRnUkVrZVlLclZobWlVNDJmUVZ6eVE3eHhiSlRsZ2s0SUpxZ3o2Q2RKSGRoQWlOWDdTYkRXUmhZOGlfLUhn?oc=5\" target=\"_blank\">Amazon and QuEra promise useful quantum error correction by 2028, and crypto should pay attention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Crypto Briefing</font>",
+      "title": "Amazon and QuEra promise useful quantum error correction by 2028, and crypto should pay attention - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBpZ093RHYzRENpZGdkcnY3cTNIN1lwcXhXU0tLM0VJTFd3UTEyS21qNzd2RlNlVEFXQ1JMbFRnUkVrZVlLclZobWlVNDJmUVZ6eVE3eHhiSlRsZ2s0SUpxZ3o2Q2RKSGRoQWlOWDdTYkRXUmhZOGlfLUhn?oc=5"
+    },
+    {
+      "id": "5c4ca40060862545",
+      "matched_keywords": [
+        "quantum computing",
+        "error correction"
+      ],
+      "published": "2026-06-17T20:44:32Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEFXakkwUThOaFBPMEhVQkY0LTZwUXA0cnBCNDBzWS1sQWdKVVJ5ajdfUGw2TFEtVEdCelVubG4wUGJZb3JDLVE5Z2lVZEVvSWZrT2MzVU1ZbERpNWJZY3h0dG0tSkljSmxsbkhRYmIwSFF1cDI4a21zQm40dWlQY0o0aldRUTRpeEgyVllZODIzMXBxajhqQnBZQ2FEY1l4NzhJ?oc=5\" target=\"_blank\">Sooner than expected? Useful quantum error correction promised for 2028.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Ars Technica</font>",
+      "title": "Sooner than expected? Useful quantum error correction promised for 2028. - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEFXakkwUThOaFBPMEhVQkY0LTZwUXA0cnBCNDBzWS1sQWdKVVJ5ajdfUGw2TFEtVEdCelVubG4wUGJZb3JDLVE5Z2lVZEVvSWZrT2MzVU1ZbERpNWJZY3h0dG0tSkljSmxsbkhRYmIwSFF1cDI4a21zQm40dWlQY0o0aldRUTRpeEgyVllZODIzMXBxajhqQnBZQ2FEY1l4NzhJ?oc=5"
+    },
+    {
+      "id": "579aa316382c3957",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-06-17T15:16:15Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE5HUDQ1Z2EwSHlZV0I4c3hlRVU1MzF3UktFRjZlUERPOHc2V29UZ0R6QjVlbG9lVkhqaFl0d3VTMXFLd2FFRGdzRmlGb0hGSmNvUlJLYWNsSWJ2Ml8tTDJudUx1ODJ6YWUtZnRkS3prUEpmUU5XYlFqRjhEdw?oc=5\" target=\"_blank\">$300M Fuels Atom Computing’s Fault-Tolerant Quantum Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "$300M Fuels Atom Computing’s Fault-Tolerant Quantum Push - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HUDQ1Z2EwSHlZV0I4c3hlRVU1MzF3UktFRjZlUERPOHc2V29UZ0R6QjVlbG9lVkhqaFl0d3VTMXFLd2FFRGdzRmlGb0hGSmNvUlJLYWNsSWJ2Ml8tTDJudUx1ODJ6YWUtZnRkS3prUEpmUU5XYlFqRjhEdw?oc=5"
+    },
+    {
+      "id": "89428bb3312d448e",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-06-17T13:03:03Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFhtaXdQdUJXVXJmYXlRWl9MaGRUaU1LRDFIXzF1c0NyV1JVUzBEalQ4eFFyUWdjVjhybmtwclUzZmNGakxtRDBjXzhYSFB0NjVoV0xPbFpDVVcwbDBuUzBJVUNfdWFvdkhkeXo1Q09tLXcxNWpZcFZxay1YS2tNRjNqMWkxTWE2eUwtSlFHYWhXN2FZcTN5SGd6UmM5d3otWHNTWEJNRkpuZTV5eHYtTzlDS2tqWnR6N1RV?oc=5\" target=\"_blank\">Atom Computing and Nu Quantum Partner to Scale Neutral Atom Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "Atom Computing and Nu Quantum Partner to Scale Neutral Atom Quantum Computers - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWFhtaXdQdUJXVXJmYXlRWl9MaGRUaU1LRDFIXzF1c0NyV1JVUzBEalQ4eFFyUWdjVjhybmtwclUzZmNGakxtRDBjXzhYSFB0NjVoV0xPbFpDVVcwbDBuUzBJVUNfdWFvdkhkeXo1Q09tLXcxNWpZcFZxay1YS2tNRjNqMWkxTWE2eUwtSlFHYWhXN2FZcTN5SGd6UmM5d3otWHNTWEJNRkpuZTV5eHYtTzlDS2tqWnR6N1RV?oc=5"
+    },
+    {
+      "id": "1434b71a03564f4b",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-06-17T12:03:03Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQi1JdlRUUXlMV2xBN1NnMDFCOE9TeVh0LTgzWnVJSll6enM5U0FqNm9vS3gyMWI5VWo0RkNwVTdPN2llYUV5dFVFUFVGRmFKRjI3OHRwWXh4MHlkT0ppX3J1TS1xNVVOMlNkNnBmMWxoeWxpTTdmZWRCZjI2bWZLZVdJTGNrZlQyU2kwU0pfV0NfbGxaQURRX204bldqMFBmY3BhVjI3ekxibnF3WU5VRGRTLUJVRTBxZEduOExSSEI2aFkta0lwYmIweUNYVDFtVkJDSUVHUzZjdHFXRFlSbzVxMXByVVc5NVJEc1FqLUw?oc=5\" target=\"_blank\">Atom Computing Raises More Than $300 Million to Accelerate Deployment of Fault-Tolerant, Neutral-Atom Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "Atom Computing Raises More Than $300 Million to Accelerate Deployment of Fault-Tolerant, Neutral-Atom Quantum Computers - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQi1JdlRUUXlMV2xBN1NnMDFCOE9TeVh0LTgzWnVJSll6enM5U0FqNm9vS3gyMWI5VWo0RkNwVTdPN2llYUV5dFVFUFVGRmFKRjI3OHRwWXh4MHlkT0ppX3J1TS1xNVVOMlNkNnBmMWxoeWxpTTdmZWRCZjI2bWZLZVdJTGNrZlQyU2kwU0pfV0NfbGxaQURRX204bldqMFBmY3BhVjI3ekxibnF3WU5VRGRTLUJVRTBxZEduOExSSEI2aFkta0lwYmIweUNYVDFtVkJDSUVHUzZjdHFXRFlSbzVxMXByVVc5NVJEc1FqLUw?oc=5"
+    },
+    {
+      "id": "9ce0661508399ae0",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-06-17T12:02:00Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX2taM1pZUFNEbXd3cjdSS0lUVjZOZ2Y3M2ZYYTBrcy10UE5QUVVtRTFNOFUtRmg3VHY3dW80TGJyaFN6elUxZkVJSFlaTmdEUmpoUnhhZjhFSUZOQ1lSU2loSWJ2MmhRUTlVUHB6S2p4bGI5NDBvbXFxNXBuRXRnRG9NRG1YXzZBcktaRDFOZW9jRTRQZFNjTHMzYmNJTDM3cnpMYUVQaVh0UFVmNmFLRDFHV0lHRHdGUGI5VmQtdmtEeU1mSDNNVGpKczcyRFd5?oc=5\" target=\"_blank\">Atom Computing and Nu Quantum partner to unlock utility-scale quantum computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>",
+      "title": "Atom Computing and Nu Quantum partner to unlock utility-scale quantum computing - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX2taM1pZUFNEbXd3cjdSS0lUVjZOZ2Y3M2ZYYTBrcy10UE5QUVVtRTFNOFUtRmg3VHY3dW80TGJyaFN6elUxZkVJSFlaTmdEUmpoUnhhZjhFSUZOQ1lSU2loSWJ2MmhRUTlVUHB6S2p4bGI5NDBvbXFxNXBuRXRnRG9NRG1YXzZBcktaRDFOZW9jRTRQZFNjTHMzYmNJTDM3cnpMYUVQaVh0UFVmNmFLRDFHV0lHRHdGUGI5VmQtdmtEeU1mSDNNVGpKczcyRFd5?oc=5"
+    },
+    {
+      "id": "9f262b8682c801eb",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-06-17T10:18:47Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNMXpZdjVub1EyeXRWdElQcTA1bU5Ud0R5enNUUmJFcWlNVjJsQW9VTnpfS1F5dUhYaXdPX1F0anVIUnJsbm1SRmVSa0NSaEhqWnEtanEtUlpqTGRueEZuZzlGVURHS1FDYVdNUTRVNlB5WUdfR21PSHRPVGF2TW5Kbm94a2wybVlsdWlaQVBZY2VHZFM5SjIzOTlENHpwTW9iR1NYYUJQa2dOb3c1RmN4STM4Z0ZPem1sd3I5WG84cFRjWGJSSU80?oc=5\" target=\"_blank\">Cambridge and Colorado quantum specialists partner to unlock ‘utility-scale’ supercomputing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Weekly</font>",
+      "title": "Cambridge and Colorado quantum specialists partner to unlock ‘utility-scale’ supercomputing - Business Weekly",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMXpZdjVub1EyeXRWdElQcTA1bU5Ud0R5enNUUmJFcWlNVjJsQW9VTnpfS1F5dUhYaXdPX1F0anVIUnJsbm1SRmVSa0NSaEhqWnEtanEtUlpqTGRueEZuZzlGVURHS1FDYVdNUTRVNlB5WUdfR21PSHRPVGF2TW5Kbm94a2wybVlsdWlaQVBZY2VHZFM5SjIzOTlENHpwTW9iR1NYYUJQa2dOb3c1RmN4STM4Z0ZPem1sd3I5WG84cFRjWGJSSU80?oc=5"
     }
   ],
   "publications": [
