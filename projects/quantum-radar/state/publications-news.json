@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T11:56:52Z",
+  "generated_at": "2026-07-05T12:41:39Z",
   "news": [
     {
       "id": "b5d783f806691bc0",
@@ -17,46 +17,18 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoYnlZb2Y2Uk00SzVsRkM5WGVzQTZQZzhxaEtCdllWYTBOc2xzWXdyMXYtLW95RzQ2Q1lNcWZhM2ZyRFVULV9tbnhaNXhHdnJmeXU0VmxWSndnYWRZMHdhQVR6eERCQnF5aXdkQlQwN3ZIUQ?oc=5"
     },
     {
-      "id": "00fce9e52083290c",
+      "id": "f77e83b1a05167b3",
       "matched_keywords": [
         "quantum computing",
-        "quantum algorithm"
+        "neutral atom"
       ],
-      "published": "2026-07-03T09:07:17Z",
-      "query": "quantum computing",
+      "published": "2026-07-03T01:20:05Z",
+      "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHVEZBQU5CQ0dqTEZNVHdrZnhJS3pBLXdaTFdwTzNvZ2VlOE0zN2IxRUtiUlV0V1dMU2xrT3lPUUZCMlVHaTdUVW5ENldOSjlOdHloXzlLWVFRLTZLY2RR?oc=5\" target=\"_blank\">Fast thermalization with quantum algorithms</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nature</font>",
-      "title": "Fast thermalization with quantum algorithms - Nature",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHVEZBQU5CQ0dqTEZNVHdrZnhJS3pBLXdaTFdwTzNvZ2VlOE0zN2IxRUtiUlV0V1dMU2xrT3lPUUZCMlVHaTdUVW5ENldOSjlOdHloXzlLWVFRLTZLY2RR?oc=5"
-    },
-    {
-      "id": "e0aada77dfca88b5",
-      "matched_keywords": [
-        "quantum computing",
-        "error correction"
-      ],
-      "published": "2026-07-03T02:09:55Z",
-      "query": "quantum error correction",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYTNBanFZYVdkOXQzSFoyOERNWkdsU3ZWZ0ltQTdaRDAxa0hkTkc5a0ptSUNlTkcyZE5TS25mOHVSeHVBWEwtNTBkVW1NamwwdWlLb3kwNXlaVUlFbkRTM0ZRQXB6VjJQd1dYZ3JJU0g1NGVtUk1LQ19SYUUtbzB4UDBmUTdwdG04bDAtaTN5MUpHOTNYVU5iVllwSzdJX0VoYU5IVy14bVZpM255Vm42dWo1ZlhNUTBqdkJQZE9YN3BfQQ?oc=5\" target=\"_blank\">Why Error Awareness Matters: A Faster Path to Fault-Tolerant Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">D-Wave Quantum</font>",
-      "title": "Why Error Awareness Matters: A Faster Path to Fault-Tolerant Quantum Computing - D-Wave Quantum",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYTNBanFZYVdkOXQzSFoyOERNWkdsU3ZWZ0ltQTdaRDAxa0hkTkc5a0ptSUNlTkcyZE5TS25mOHVSeHVBWEwtNTBkVW1NamwwdWlLb3kwNXlaVUlFbkRTM0ZRQXB6VjJQd1dYZ3JJU0g1NGVtUk1LQ19SYUUtbzB4UDBmUTdwdG04bDAtaTN5MUpHOTNYVU5iVllwSzdJX0VoYU5IVy14bVZpM255Vm42dWo1ZlhNUTBqdkJQZE9YN3BfQQ?oc=5"
-    },
-    {
-      "id": "621a6316c02d04e8",
-      "matched_keywords": [
-        "quantum computing",
-        "quantum cryptography"
-      ],
-      "published": "2026-07-02T22:22:29Z",
-      "query": "quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNMlRfbk9hNWxiam9nWUVnTXA1eEhKQXJ0TTd2SW1oVHZFVC1MU28yRVI4c2J5QXlFdzVaZTQydm5qNHA3ZVducVRzVUxFZ1VtcUx0cE1IOFhTY0xYOExBNUp2T21fa3RkRFVTaGNmSktCd3V4MHpyMjhZWnpIbFhsSG9zWnFiRnJFODJmeUYteVBsSHR6RHZ5eEtR?oc=5\" target=\"_blank\">Executive Order Speeds Up Post-Quantum Cryptography Timelines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">GovCIO Media & Research</font>",
-      "title": "Executive Order Speeds Up Post-Quantum Cryptography Timelines - GovCIO Media & Research",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMlRfbk9hNWxiam9nWUVnTXA1eEhKQXJ0TTd2SW1oVHZFVC1MU28yRVI4c2J5QXlFdzVaZTQydm5qNHA3ZVducVRzVUxFZ1VtcUx0cE1IOFhTY0xYOExBNUp2T21fa3RkRFVTaGNmSktCd3V4MHpyMjhZWnpIbFhsSG9zWnFiRnJFODJmeUYteVBsSHR6RHZ5eEtR?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHFnSkwySkEzMGNaU0stUkF6UklXWlZGZ3ZBdnlOakJxN2hUNE1rRnluMlkzZHZIRVpkd1JOLUt1cHR5bnQ4N0JfOThfWWFwNUxEbUdkSVlGQkpoTDdJU2ZUM3Rla1RvMGprNG44NjdmLWNHNTdEaTdudzl0c0ZWNXdocXhUMWg5TjRHaXFCb1VrZmF5YTAxWnVBQTh2bE5xLUZTSmZ2eWc?oc=5\" target=\"_blank\">Quantum Computer Could Be Ready by 2030, Caltech Researchers Say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinMarketCap</font>",
+      "title": "Quantum Computer Could Be Ready by 2030, Caltech Researchers Say - CoinMarketCap",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHFnSkwySkEzMGNaU0stUkF6UklXWlZGZ3ZBdnlOakJxN2hUNE1rRnluMlkzZHZIRVpkd1JOLUt1cHR5bnQ4N0JfOThfWWFwNUxEbUdkSVlGQkpoTDdJU2ZUM3Rla1RvMGprNG44NjdmLWNHNTdEaTdudzl0c0ZWNXdocXhUMWg5TjRHaXFCb1VrZmF5YTAxWnVBQTh2bE5xLUZTSmZ2eWc?oc=5"
     },
     {
       "id": "9ee0dfa99313eaa2",
@@ -157,18 +129,46 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NNDVWMXpvMFF3T3pYdkZaaHRsc0R2bHRZSmRWNlVNSThPMXp3YVRCUmJqUVhtMGkzb2hNa1Q2dHFkNlpqVk55VjBaUFJwR2k3dVJDQkpXczhpYVRSQWJJcVVXVEZBZjJwTUJBa0I1dw?oc=5"
     },
     {
-      "id": "eb3b517dec5db595",
+      "id": "509672fe14a88f00",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-07-02T02:38:29Z",
+      "published": "2026-07-01T11:51:19Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AJBVV95cUxNTGdfaDJtdHNNSTRIZ1VIcHliQTV1c2RxRWFSaE1uX2JhcGhUMzNYdDZPd3JlZDVmSVNBYm96SDRRX1laOVMzSzl6OEJkY2NTQUx0anJrbnV5ZUJUUTRHWGJVS1RwSmZQbm5nVHNiNF9CeFNPUFpOeWpxSzNoanN1NGlMUXplQUVtSjFCYkk0VkRJdG82eUdJSDU1bGR4dFkzOVpUSk15ZXF5WkdNdGlXVHdGVUVtbDhWek5wa3F5LXg5cnlwQ1BfZ2xrZ1NHa1RPNGM5aVo3SExuS2RIblVTeHZkZkNZRkRfNmMtMTBVQzl5QWhDVm81XzlITG9tZDVNRHJQZlhkUVZ5M19yTHl6VEVUaG5nbGF2WGd6SFZxa01abk90YndxenpOdzFQeldRTG9BYTM1Y3VvSlJoNEVGMzdWTnZfT3ZqMUhKTlRyU0dpS3hkTW90ME9LTWpDekI2bms2UkZLcGxPNjZjNFZSX0ZBeEVwZGtqMU5jbQ?oc=5\" target=\"_blank\">Infleqtion's neutral atom quantum approach prompts outperform initiation from Wedbush</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MSN</font>",
-      "title": "Infleqtion's neutral atom quantum approach prompts outperform initiation from Wedbush - MSN",
-      "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNTGdfaDJtdHNNSTRIZ1VIcHliQTV1c2RxRWFSaE1uX2JhcGhUMzNYdDZPd3JlZDVmSVNBYm96SDRRX1laOVMzSzl6OEJkY2NTQUx0anJrbnV5ZUJUUTRHWGJVS1RwSmZQbm5nVHNiNF9CeFNPUFpOeWpxSzNoanN1NGlMUXplQUVtSjFCYkk0VkRJdG82eUdJSDU1bGR4dFkzOVpUSk15ZXF5WkdNdGlXVHdGVUVtbDhWek5wa3F5LXg5cnlwQ1BfZ2xrZ1NHa1RPNGM5aVo3SExuS2RIblVTeHZkZkNZRkRfNmMtMTBVQzl5QWhDVm81XzlITG9tZDVNRHJQZlhkUVZ5M19yTHl6VEVUaG5nbGF2WGd6SFZxa01abk90YndxenpOdzFQeldRTG9BYTM1Y3VvSlJoNEVGMzdWTnZfT3ZqMUhKTlRyU0dpS3hkTW90ME9LTWpDekI2bms2UkZLcGxPNjZjNFZSX0ZBeEVwZGtqMU5jbQ?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0NGZXZnc2pueEVYWGtEOG52ZG9Bd3ZvM1JmSkR0R0oxYkdIN2JzRkdncWFWQkR5WUhHTTh5QVB1U1hyc0lleVdjQlRpWkhxS0NJTEFUSXdfbU1lOGRKTzhTdTU2R25YbDNtLVRBSVFocHQzRXdCcEExRnVYN3d0VXB3UlZSOUExWjVHckZEWFdRanpZTlliRkRydTJIaE4tdlE2dUF5d0JqMjBobXhhR0pZWV9uYlk?oc=5\" target=\"_blank\">BTQ Technologies clears final hurdle to buy French quantum firm QPerfect</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thestreet.com</font>",
+      "title": "BTQ Technologies clears final hurdle to buy French quantum firm QPerfect - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0NGZXZnc2pueEVYWGtEOG52ZG9Bd3ZvM1JmSkR0R0oxYkdIN2JzRkdncWFWQkR5WUhHTTh5QVB1U1hyc0lleVdjQlRpWkhxS0NJTEFUSXdfbU1lOGRKTzhTdTU2R25YbDNtLVRBSVFocHQzRXdCcEExRnVYN3d0VXB3UlZSOUExWjVHckZEWFdRanpZTlliRkRydTJIaE4tdlE2dUF5d0JqMjBobXhhR0pZWV9uYlk?oc=5"
+    },
+    {
+      "id": "0b533fb893453a9c",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-07-01T11:32:10Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AJBVV95cUxPNXljNV9kdUFmUU1SNmdOajRYS09wdDV2cFI2RkxqUG0xNlpwRE1sZDFaQTFNOWItMWdPd0N3dG02UlZ1dDY5OFNkSG53T0lCcUtUZklfSHppM0VZOG8ycVJES0RGd1V4VEpod2JwMmFnYnNrdTUwVEJWRlBtcTBEdko4Ukh4TlhnX1VGSEU0YVZNdHpYSGpkZEtfMmFjaHdJN1hIdlA5cm50UldBN1Atcm5sNXgxYnNsZy1peVp2bFhwVFE5ZGQ3MGl3cDh5LUwtRTI2S3RiT1M1bTNzdWd6TlJwa0RkclJWdW94Ml9iV1NfZmNXVm1EU0o1U0V2Vko1Uk1qa0ZkU1prdHBDd3FsbEdkY1BfY1ZJRmVXc3hyWjlsMTlyX1hkUWVDWUYyZTRVeXpJLTZhcDQybVVGTVlxeWZodXJHREI4bk14UGY5d3lEUHRjeGpQdlNLY0p5cXFCN2tNUGVsV1pVcG1FaFpudHU0eWVJNTlZ?oc=5\" target=\"_blank\">BTQ Technologies Receives Final Approval for Full Acquisition of QPerfect, Advancing Its Mission of Building Trusted Quantum Technologies With World-Class Emulation, Digital Twin, and Control Capabili</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">StreetInsider</font>",
+      "title": "BTQ Technologies Receives Final Approval for Full Acquisition of QPerfect, Advancing Its Mission of Building Trusted Quantum Technologies With World-Class Emulation, Digital Twin, and Control Capabili - StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPNXljNV9kdUFmUU1SNmdOajRYS09wdDV2cFI2RkxqUG0xNlpwRE1sZDFaQTFNOWItMWdPd0N3dG02UlZ1dDY5OFNkSG53T0lCcUtUZklfSHppM0VZOG8ycVJES0RGd1V4VEpod2JwMmFnYnNrdTUwVEJWRlBtcTBEdko4Ukh4TlhnX1VGSEU0YVZNdHpYSGpkZEtfMmFjaHdJN1hIdlA5cm50UldBN1Atcm5sNXgxYnNsZy1peVp2bFhwVFE5ZGQ3MGl3cDh5LUwtRTI2S3RiT1M1bTNzdWd6TlJwa0RkclJWdW94Ml9iV1NfZmNXVm1EU0o1U0V2Vko1Uk1qa0ZkU1prdHBDd3FsbEdkY1BfY1ZJRmVXc3hyWjlsMTlyX1hkUWVDWUYyZTRVeXpJLTZhcDQybVVGTVlxeWZodXJHREI4bk14UGY5d3lEUHRjeGpQdlNLY0p5cXFCN2tNUGVsV1pVcG1FaFpudHU0eWVJNTlZ?oc=5"
+    },
+    {
+      "id": "63c80873d832fcd1",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-07-01T09:44:19Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmpWRHFxNmpPdEF2ZWFuZ3Nrakg1T1lqOW5GXzZCYWZTWVZ4dXdJcnFRaHBfbTEwSVJMc3RFOC1iMmtQVGQtTGRqR2dOUUtGN21pUGdjVVF0aUhzVy1POGkzYjJOVnB6bUxZNTdTejNoajU2VHBHU2JvTU55ZVRuMg?oc=5\" target=\"_blank\">BTQ Finalizes QPerfect Acquisition Following French Approval</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "BTQ Finalizes QPerfect Acquisition Following French Approval - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmpWRHFxNmpPdEF2ZWFuZ3Nrakg1T1lqOW5GXzZCYWZTWVZ4dXdJcnFRaHBfbTEwSVJMc3RFOC1iMmtQVGQtTGRqR2dOUUtGN21pUGdjVVF0aUhzVy1POGkzYjJOVnB6bUxZNTdTejNoajU2VHBHU2JvTU55ZVRuMg?oc=5"
     }
   ],
   "publications": [
