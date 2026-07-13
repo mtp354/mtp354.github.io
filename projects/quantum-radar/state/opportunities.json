@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T15:53:11Z",
+  "generated_at": "2026-07-13T16:03:38Z",
   "items": [
     {
       "id": "70b38e3e6e188215",
@@ -17,23 +17,6 @@
       "title": "OQC secures £260m in record European quantum computing funding round - New Electronics",
       "type": "grants",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZzdpQzFEUXlqM1dMZXJMWVo3SEF5Vkh3RzJCaERqbDZvcDJzV29DWmR2aEhGbUMzTllSaGxlUk8zZzRhWm1RMlBEaTJkZEhoR0dFeEVjVlJuakNoSnlFZk8xeEF5V0VFWVdqRDIwM2NDbFZhZEdxWUpZdmtWa3hCXzNZY3c3aWRac2IxWFhHUE9XWVdhMWZ1SHh4RGtuSFFzUU5fX21WWFJzdWVxcS1Ka2pQSQ?oc=5"
-    },
-    {
-      "id": "edc1449d16d84c89",
-      "matched_keywords": [
-        "internship",
-        "intern",
-        "summer school",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-05-26T07:00:00Z",
-      "query": "quantum computing internship",
-      "score": 12,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9sd3UtZmtrdGE2MTlEQkVuZ3FIQk4ySEJaYmd1QUJzMGVfOHBYVFYtcFAyb0JWVVEzckFIampCck4yWGg5TU1zQTJmZGtNbzE3em9YQUtjNzVpekVMQlpzMHROR2dzMFEyTVE?oc=5\" target=\"_blank\">[Registrations closed] Qiskit Global Summer School 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IBM</font>",
-      "title": "[Registrations closed] Qiskit Global Summer School 2026 - IBM",
-      "type": "internships",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sd3UtZmtrdGE2MTlEQkVuZ3FIQk4ySEJaYmd1QUJzMGVfOHBYVFYtcFAyb0JWVVEzckFIampCck4yWGg5TU1zQTJmZGtNbzE3em9YQUtjNzVpekVMQlpzMHROR2dzMFEyTVE?oc=5"
     },
     {
       "id": "31f4bd76dce338c2",
@@ -100,20 +83,20 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaWlsa1lqRVhCc0NGclg3T3I1dDE1NEtrWWlIR2gtMXN0U3hDQ2dTOVBCeWU0MnBGclRpalgzM3ZmbGZZNzFFQ1hnLVdBY2tMWkFmUGRmQjYyRk5rWUJwVDFfNTNVM2htWHh1SXNBUHpQZWoxZ1QwLUJMdHNmMDlQMG9ERnpzbUF0bnlBd1pIQmZ0TE9qZ3VYTWJBcmxoMEZnTXB6RW1pQ0FpZ252bWlmX2xfWnZPSEFaNl93REwtS2Zkc0ZQOUpFOGVmYmxkUFBFdk1xcWJDSDAyRFE?oc=5"
     },
     {
-      "id": "19b227d2a6cc712c",
+      "id": "359f5f95e02411aa",
       "matched_keywords": [
-        "grant",
-        "funding",
+        "intern",
+        "workshop",
         "quantum",
-        "quantum technology"
+        "quantum computing"
       ],
-      "published": "2026-07-01T13:43:09Z",
-      "query": "quantum technology grant",
+      "published": "2026-07-06T12:49:00Z",
+      "query": "quantum computing workshop students",
       "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNemZwRnM5VHE4T1lmR0ZqSy11NHIxSDJJeUxvMzBVMEgwREVBZ2xQLURlanBRX3Zha21TUHFPQzQ1MlZoZ25WRW04MWVEdWVFcmZsdHBvSU5KOEhmZzJMR2JONVNPWHRYOVc0VmdERXpyNDRSMmd6ZTRoMmRpVXVobFRhbjcxYl95TUp2dmVXVl9GQzNGUFcxcUE1RQ?oc=5\" target=\"_blank\">NIST funding R&amp;D center to drive U.S. advance of quantum technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Optics.org</font>",
-      "title": "NIST funding R&D center to drive U.S. advance of quantum technologies - Optics.org",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNemZwRnM5VHE4T1lmR0ZqSy11NHIxSDJJeUxvMzBVMEgwREVBZ2xQLURlanBRX3Zha21TUHFPQzQ1MlZoZ25WRW04MWVEdWVFcmZsdHBvSU5KOEhmZzJMR2JONVNPWHRYOVc0VmdERXpyNDRSMmd6ZTRoMmRpVXVobFRhbjcxYl95TUp2dmVXVl9GQzNGUFcxcUE1RQ?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pTUxaOEZ5MVFXOFltLVFuTTgyMTBvMEpKQXNnb2xXekQwRGQ2enVBTlpvNWlVNWdBY2g4d2prZnB3NHNKSDFVUXI1ekUtYUdweGRfZ2NyaEhmOWhPUjlpbWRoMGNtaHNI?oc=5\" target=\"_blank\">NIT Raipur Inaugurates International SPARC-Sponsored Workshop on Next-Gen Quantum Intelligence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PIB</font>",
+      "title": "NIT Raipur Inaugurates International SPARC-Sponsored Workshop on Next-Gen Quantum Intelligence - PIB",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pTUxaOEZ5MVFXOFltLVFuTTgyMTBvMEpKQXNnb2xXekQwRGQ2enVBTlpvNWlVNWdBY2g4d2prZnB3NHNKSDFVUXI1ekUtYUdweGRfZ2NyaEhmOWhPUjlpbWRoMGNtaHNI?oc=5"
     },
     {
       "id": "e611760b781d4562",
@@ -130,6 +113,22 @@
       "title": "UA Little Rock-Led Quantum Computing Initiative Secures NSF Funding - Arkansas Business",
       "type": "grants",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXhsWDJWdV92NTRmQ09TUDd5SEJacFdjem9ybDVxYVkxMi1PUnktSlVPaVF5OF8xa2QxRnZSdUJWT2NrVlVxeHE3blVKUDUtVGc4RjNlUzZxbG9talI1dVlmUElyRXVzRUszOFVQZmFpaEdhRzZsc0I2c0hUcmxJem45ZnlQRVBOWFlTRXh0QQ?oc=5"
+    },
+    {
+      "id": "9c8dee9f0e269f6c",
+      "matched_keywords": [
+        "funding",
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-06-24T13:00:00Z",
+      "query": "quantum computing workshop students",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNeUNVSm15aGN6YnBFeVdsTDNEMnl3aTZBbDNIVWtsYlN4QnNHbHN6dGkxYUZ0SjE2cGVYUDhZZElvODVHQVdyOFpUNU5qV0ZnRi03blk5YXlsazZiVmZoQ29pc3VhZlVMOC03SlM2TXVBd0lkbkNUX2FWdUNtYWw1S0wzZTE2SnRxTDhhTExib0pXX0dWdVY1R01aRndhVi1EOG5J?oc=5\" target=\"_blank\">UA Little Rock-Led Quantum Computing Initiative Secures NSF Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Arkansas at Little Rock</font>",
+      "title": "UA Little Rock-Led Quantum Computing Initiative Secures NSF Funding - University of Arkansas at Little Rock",
+      "type": "grants",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeUNVSm15aGN6YnBFeVdsTDNEMnl3aTZBbDNIVWtsYlN4QnNHbHN6dGkxYUZ0SjE2cGVYUDhZZElvODVHQVdyOFpUNU5qV0ZnRi03blk5YXlsazZiVmZoQ29pc3VhZlVMOC03SlM2TXVBd0lkbkNUX2FWdUNtYWw1S0wzZTE2SnRxTDhhTExib0pXX0dWdVY1R01aRndhVi1EOG5J?oc=5"
     },
     {
       "id": "152e9a8ed217ee12",
@@ -178,6 +177,22 @@
       "title": "CST Holds Specialized Workshop on International Trends for Quantum Computing and its Risks - وكالة الأنباء السعودية",
       "type": "internships",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FV3M1dGlmQTdDUGtPMVMtMWE2OVA4RzBTTF80Tm5ST3JYZW5meHFBNGpBX20xY09qTUdTdm1Ob054clE4VzVsRkxn?oc=5"
+    },
+    {
+      "id": "4733238eccbc7601",
+      "matched_keywords": [
+        "internship",
+        "intern",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-06-10T16:00:00Z",
+      "query": "quantum computing internship",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelY3Q0JKMHJJYnFpd2VmeEd0c000MzFUanRTd1A4SFByM3p4cTV2Um5LSFlXa1BvZ1NMVkIwTlhZQi1rYnZOc29PX2Q1dVZndjJQc0ZzRmE2dkZBUWIzcGhJdWttRWFaWmNRdUpJRDFpblJIUWstT0tnTEpOVk1VbXlzZlNsek52VUpici1XNWlYNmZlWGQyNTRick9IX2NGbzJsUkpZa3o?oc=5\" target=\"_blank\">Virtual Reality: ALCF’s Remote Interns Tackle Real-World Computing Projects</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Department of Energy (.gov)</font>",
+      "title": "Virtual Reality: ALCF’s Remote Interns Tackle Real-World Computing Projects - Department of Energy (.gov)",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOelY3Q0JKMHJJYnFpd2VmeEd0c000MzFUanRTd1A4SFByM3p4cTV2Um5LSFlXa1BvZ1NMVkIwTlhZQi1rYnZOc29PX2Q1dVZndjJQc0ZzRmE2dkZBUWIzcGhJdWttRWFaWmNRdUpJRDFpblJIUWstT0tnTEpOVk1VbXlzZlNsek52VUpici1XNWlYNmZlWGQyNTRick9IX2NGbzJsUkpZa3o?oc=5"
     },
     {
       "id": "79143a128ab16825",
@@ -290,22 +305,6 @@
       "title": "IBM Missed the Bus on AI. New Federal Funding Means IBM Stock Could Be a Winner in Quantum Computing. - Yahoo Finance",
       "type": "grants",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYlhYeUs2eE5kZENGWGxrSkRmRW9CLUE3NnRRR3d3WkkyeDdKYmk5S2FhSWlBQjBIVWdGblhCZFh3YlNkWG55M3F6T3Y1a04wSmR3VnVoWHh6Mk9LX2Z6blAxVW1CNDByd2QycHZGWGtTb3RCRGswaU5pUnI3eENrcWN1ekhUc1kzTDhMT0hLTWJIVTlx?oc=5"
-    },
-    {
-      "id": "0c0a44f469f80599",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-05-26T07:00:00Z",
-      "query": "quantum computing grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JGWHl4cHozdW5tcWxYdGNLNnBRUWY4eXowZTlsaDdNVWdmb1lFc2RiMWxhOGIySktLVE1mZ19ubXZwNWNGLXBxUXBoX2V2ZGhZdW9fZ3dEUGZURE1VSWV4UkJEZkNETVFRYUZXSkJZMUJSQkNQcnduTm8weVBVUXZQeExHYjB3MzBMMzZfYnlZRGlXMXByY0NrdjhpU3lEQnJlLTVUX19RSkd2?oc=5\" target=\"_blank\">Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
-      "title": "Quantum Stocks Surge On U.S. Funding. Were Google, Microsoft, IonQ Snubbed? - Investor's Business Daily",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT0JGWHl4cHozdW5tcWxYdGNLNnBRUWY4eXowZTlsaDdNVWdmb1lFc2RiMWxhOGIySktLVE1mZ19ubXZwNWNGLXBxUXBoX2V2ZGhZdW9fZ3dEUGZURE1VSWV4UkJEZkNETVFRYUZXSkJZMUJSQkNQcnduTm8weVBVUXZQeExHYjB3MzBMMzZfYnlZRGlXMXByY0NrdjhpU3lEQnJlLTVUX19RSkd2?oc=5"
     },
     {
       "id": "71960c29c6c4199a",
