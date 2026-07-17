@@ -1,6 +1,132 @@
 {
-  "generated_at": "2026-07-15T12:42:46Z",
+  "generated_at": "2026-07-17T12:36:38Z",
   "news": [
+    {
+      "id": "fe10bc882d3b108c",
+      "matched_keywords": [
+        "quantum computing",
+        "quantum cryptography"
+      ],
+      "published": "2026-07-16T20:36:08Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaE1DRjdIVHprUUJHTC01Z2NUempWMmNyeVgwYXJqV2dSZllCbWoyd1dCSmFKN2F2YVVCcWk5VmFfZEZucDlDUER6Wkw3ZmtQX3JjMlRGZUNEc1FLdGdSbURyVFY2cmE0SVJKSk9vRDI4LUNYajZIM0EySmtFLURFbkJIMW1mYVFKVFJENVB3S2VZdEtwd1pKN2ZSaldzaUsxendlaEdiTURjN2N2bFBJb0d5ekp1M21m?oc=5\" target=\"_blank\">Post-quantum cryptography: A strategic imperative for modernization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal News Network</font>",
+      "title": "Post-quantum cryptography: A strategic imperative for modernization - Federal News Network",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaE1DRjdIVHprUUJHTC01Z2NUempWMmNyeVgwYXJqV2dSZllCbWoyd1dCSmFKN2F2YVVCcWk5VmFfZEZucDlDUER6Wkw3ZmtQX3JjMlRGZUNEc1FLdGdSbURyVFY2cmE0SVJKSk9vRDI4LUNYajZIM0EySmtFLURFbkJIMW1mYVFKVFJENVB3S2VZdEtwd1pKN2ZSaldzaUsxendlaEdiTURjN2N2bFBJb0d5ekp1M21m?oc=5"
+    },
+    {
+      "id": "38c65c5b04384896",
+      "matched_keywords": [
+        "quantum computing",
+        "logical qubit"
+      ],
+      "published": "2026-07-16T20:05:10Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX3huSWoxSHFIcjhGVUV1TS12NTlhZ3FhUHE0Q09IN3lacmNzZFBzalFVMEF4RHVoa3htWno1cFo1RlhteWZtQ2ZDT3Azako4YlItR0pvVFFDUGRpWnA0TnBXbVNTVU81WWo5Q1dTSDlUTWIydURNTHNROFNmckZfTFg2aXh0ZEU2OTNQbWZTd3MteURDSDFjMENpUlJpM05UV05may13eHFjeGFEc2M4SkZPWWc1bjVndDB3?oc=5\" target=\"_blank\">Microsoft Doubles Down On Topological Qubits With Majorana 2 Chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "title": "Microsoft Doubles Down On Topological Qubits With Majorana 2 Chip - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX3huSWoxSHFIcjhGVUV1TS12NTlhZ3FhUHE0Q09IN3lacmNzZFBzalFVMEF4RHVoa3htWno1cFo1RlhteWZtQ2ZDT3Azako4YlItR0pvVFFDUGRpWnA0TnBXbVNTVU81WWo5Q1dTSDlUTWIydURNTHNROFNmckZfTFg2aXh0ZEU2OTNQbWZTd3MteURDSDFjMENpUlJpM05UV05may13eHFjeGFEc2M4SkZPWWc1bjVndDB3?oc=5"
+    },
+    {
+      "id": "08c9be353d3af85e",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-07-16T17:21:04Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNRGk4SlEzUEJLRWc1aG5lUDNtOG5qSHprSmJHNlJZMTdMRDdqY2c0NWlxOFp2eDBlMjd1aXR0Zk52Nk12N2FENW1xeFo0V25ZR0xNRFpwTzFtdUlNM0s1UFVZcWFrVWVEZXdmcG1tOUhQZ0JzTkxWMHpFQV91YkRCR0FYM1ZfQ3JTWEY0b25mNTl2NXB6eG9fUDJvZjF0MVdHd1E?oc=5\" target=\"_blank\">Pasqal hires longtime HPE exec to lead quantum commercial expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SDxCentral</font>",
+      "title": "Pasqal hires longtime HPE exec to lead quantum commercial expansion - SDxCentral",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRGk4SlEzUEJLRWc1aG5lUDNtOG5qSHprSmJHNlJZMTdMRDdqY2c0NWlxOFp2eDBlMjd1aXR0Zk52Nk12N2FENW1xeFo0V25ZR0xNRFpwTzFtdUlNM0s1UFVZcWFrVWVEZXdmcG1tOUhQZ0JzTkxWMHpFQV91YkRCR0FYM1ZfQ3JTWEY0b25mNTl2NXB6eG9fUDJvZjF0MVdHd1E?oc=5"
+    },
+    {
+      "id": "22df0f3297f1583a",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-07-16T16:52:54Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigJBVV95cUxPaE83dkVLNDRNR0pJYkVjZU1wVlk1c2dIT2ZlMGx0SFNGeklBTHdxV0x4VmV6TmNfUkJEX2NGYi13YjUtMlVFakktbnlSRkRVNHJFY1U4SnJaRTRWbmZmZDlpeHRMNGtLNHBOV2FIeW1kVmo2OFNVZ0V2U1dBQzZMdTV6QURhM2Z2V1JmNUhEanc2S3k0VEIxOENrUTNVcXFTamF2UDNua2xRbFlVSnhVanpXSy1KUV9OWVk2R295ajM5VEw0bnNJTmdjT2RmUGRxYkx1bkJ2S2xlaGF2T0tmb2J1Wm94WWFBYXhrMHVURk9uZVZZODRfRkw0LVp5TVRqRjZNWTAtSEhWQQ?oc=5\" target=\"_blank\">Neural atom quantum computing roadmap — how laser-cooled trapped atoms could pave the path beyond physical qubit counts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tom's Hardware</font>",
+      "title": "Neural atom quantum computing roadmap — how laser-cooled trapped atoms could pave the path beyond physical qubit counts - Tom's Hardware",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPaE83dkVLNDRNR0pJYkVjZU1wVlk1c2dIT2ZlMGx0SFNGeklBTHdxV0x4VmV6TmNfUkJEX2NGYi13YjUtMlVFakktbnlSRkRVNHJFY1U4SnJaRTRWbmZmZDlpeHRMNGtLNHBOV2FIeW1kVmo2OFNVZ0V2U1dBQzZMdTV6QURhM2Z2V1JmNUhEanc2S3k0VEIxOENrUTNVcXFTamF2UDNua2xRbFlVSnhVanpXSy1KUV9OWVk2R295ajM5VEw0bnNJTmdjT2RmUGRxYkx1bkJ2S2xlaGF2T0tmb2J1Wm94WWFBYXhrMHVURk9uZVZZODRfRkw0LVp5TVRqRjZNWTAtSEhWQQ?oc=5"
+    },
+    {
+      "id": "b588b320400a8060",
+      "matched_keywords": [
+        "quantum computing",
+        "logical qubit"
+      ],
+      "published": "2026-07-16T03:11:05Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGd6TW1qTDFweXdGYzFjMEp1czFLVDN1cktVOTdYUTMxRkxJcllaV29TRjBvQnJXaGZmSmJxZ2dkRnBUbTdqOHprNEFfZjlENjU0NHNHcDVlVXNtV3oyZzZfRFVsU0plZ2JrNGFoTDMwMXF4WUtzUGotUXZrTW9fQXlNYzRtQm9CcjhOWkRCOFNJZmN6VkVjWHp5cnRXMFZHbkZOZnRYU2JQMF8teUI4MzZ5eWlyNG1fd0xVcNIBwgFBVV95cUxQWlRFM1Z0amxYS1p2blExX2c4QWRpbG1zZFF6eU80MEpSR0VDdVR5RXI3U29rd01BZDVSN1dvaXlybXBZUkdhY1RBNjloSUozMlNEbFNyam43TGxFTWlfZFAwc29CZjR3dm1yZDNjYzdpYlRQNzdlNEFYVjNjOTNZaDRsYy14T21MZ0xzTDZIZ2ZFU0hJU0QybGxqVkNvYnRIUzA3N3ZrLUxLNXpwRjBneDQ5RnZsV1U3aGxlclh2NzBpQQ?oc=5\" target=\"_blank\">Logical Qubit Technology Unveils AGate Quantum Cloud Platform and Multi-Year Roadmap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "Logical Qubit Technology Unveils AGate Quantum Cloud Platform and Multi-Year Roadmap - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGd6TW1qTDFweXdGYzFjMEp1czFLVDN1cktVOTdYUTMxRkxJcllaV29TRjBvQnJXaGZmSmJxZ2dkRnBUbTdqOHprNEFfZjlENjU0NHNHcDVlVXNtV3oyZzZfRFVsU0plZ2JrNGFoTDMwMXF4WUtzUGotUXZrTW9fQXlNYzRtQm9CcjhOWkRCOFNJZmN6VkVjWHp5cnRXMFZHbkZOZnRYU2JQMF8teUI4MzZ5eWlyNG1fd0xVcNIBwgFBVV95cUxQWlRFM1Z0amxYS1p2blExX2c4QWRpbG1zZFF6eU80MEpSR0VDdVR5RXI3U29rd01BZDVSN1dvaXlybXBZUkdhY1RBNjloSUozMlNEbFNyam43TGxFTWlfZFAwc29CZjR3dm1yZDNjYzdpYlRQNzdlNEFYVjNjOTNZaDRsYy14T21MZ0xzTDZIZ2ZFU0hJU0QybGxqVkNvYnRIUzA3N3ZrLUxLNXpwRjBneDQ5RnZsV1U3aGxlclh2NzBpQQ?oc=5"
+    },
+    {
+      "id": "700d3b2586b2a834",
+      "matched_keywords": [
+        "quantum computing",
+        "photonic quantum"
+      ],
+      "published": "2026-07-15T21:09:20Z",
+      "query": "fault tolerant quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOX0tsZzRZanBpUTBIWW1uZk9tdEZqdVd6NVBWYkVHa1U2TnZVTTN1SkRPVkFSdTh0VDVJVENsQV9qQXZlS21zOWQ4a3BCa2FUQmNGNHlYSEd6RXpXZks3VkVPcUFlTFRBdkpDN0thZ19VZ2YyOG5RNjFKTHBqVGZmQmFqYnFJMGRXTWFramxyUWEzVGxHdVdCWEFPTEJKQ1pNSXM3OQ?oc=5\" target=\"_blank\">QuiX Quantum’s Carina could redefine photonic quantum computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Digital Journal</font>",
+      "title": "QuiX Quantum’s Carina could redefine photonic quantum computing - Digital Journal",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX0tsZzRZanBpUTBIWW1uZk9tdEZqdVd6NVBWYkVHa1U2TnZVTTN1SkRPVkFSdTh0VDVJVENsQV9qQXZlS21zOWQ4a3BCa2FUQmNGNHlYSEd6RXpXZks3VkVPcUFlTFRBdkpDN0thZ19VZ2YyOG5RNjFKTHBqVGZmQmFqYnFJMGRXTWFramxyUWEzVGxHdVdCWEFPTEJKQ1pNSXM3OQ?oc=5"
+    },
+    {
+      "id": "7d0e110a11cf9579",
+      "matched_keywords": [
+        "quantum computing",
+        "trapped ion"
+      ],
+      "published": "2026-07-15T18:10:04Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWxrYlUwWmpLV3F0c2NCNVlCMmdOUkx6SXpRekQyaUVfQXlQODFSNnBINkhxempSNVdrWWV1MVptV0U2b0NiUURyWXlBMmIzdXhQUjFNcFlHQUpqQmlEZ3RkeU9ZckFieFp1Sm9Wa1pqZ2VpOUpmY3VlZm9JRnItTU5ocDBYNjVo?oc=5\" target=\"_blank\">Trapped Ions Make ‘Beautiful’ Qubits, But Will They Scale?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications of the ACM</font>",
+      "title": "Trapped Ions Make ‘Beautiful’ Qubits, But Will They Scale? - Communications of the ACM",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWxrYlUwWmpLV3F0c2NCNVlCMmdOUkx6SXpRekQyaUVfQXlQODFSNnBINkhxempSNVdrWWV1MVptV0U2b0NiUURyWXlBMmIzdXhQUjFNcFlHQUpqQmlEZ3RkeU9ZckFieFp1Sm9Wa1pqZ2VpOUpmY3VlZm9JRnItTU5ocDBYNjVo?oc=5"
+    },
+    {
+      "id": "d9f6f46723eccdef",
+      "matched_keywords": [
+        "quantum computing",
+        "error correction"
+      ],
+      "published": "2026-07-15T13:34:19Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUFZHbXl5RXBUdjE0UjRrY3NncDF6dFBlcEZvN2QzZklUSVp2bE00OVFFSUxBT1JCSUZxVlRUM2Y2VmllbXBWY3R6YkhqSjZleHNUeFRxMzJuUFVkNlF0MlBVekxNeXpWNURtZUlPdC1oOENSQU5wNWVQT202LXRxMXFINzc1V0hfMnBCODFNazdxbUxpZVo4amtkdUVqZ1lSeEotUjJwYkl5UVpTSHFFeWRuUHpwSmJOYzRSRUQ4Yw?oc=5\" target=\"_blank\">Quantum Elements and Planckian Partner on Digital Twins for Quantum Error Correction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HPCwire</font>",
+      "title": "Quantum Elements and Planckian Partner on Digital Twins for Quantum Error Correction - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUFZHbXl5RXBUdjE0UjRrY3NncDF6dFBlcEZvN2QzZklUSVp2bE00OVFFSUxBT1JCSUZxVlRUM2Y2VmllbXBWY3R6YkhqSjZleHNUeFRxMzJuUFVkNlF0MlBVekxNeXpWNURtZUlPdC1oOENSQU5wNWVQT202LXRxMXFINzc1V0hfMnBCODFNazdxbUxpZVo4amtkdUVqZ1lSeEotUjJwYkl5UVpTSHFFeWRuUHpwSmJOYzRSRUQ4Yw?oc=5"
+    },
+    {
+      "id": "d8229046b9331f1b",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-07-15T13:25:12Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTUxuWFI2eVVtUmtKNWJSRnp0Rms5YWJKU2Jobk0tWTloT2NKeXViWEExbkZyeEE3cy1TS1ozSXdfalU2dnRVeDVadnRXZi1kdVpCNFVYWHRrV01TZGFIT255cXRhaGpiUlY2eDFjTkZZSVEtUkFrLWVVbmJBTmdYZ3Q2U2R1MTlzRWdDODNsVnJ0VE5BSFZJZWo4REtLQQ?oc=5\" target=\"_blank\">Pasqal Appoints Former HPE Executive Mark Armstrong as Commercial Chief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "Pasqal Appoints Former HPE Executive Mark Armstrong as Commercial Chief - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUxuWFI2eVVtUmtKNWJSRnp0Rms5YWJKU2Jobk0tWTloT2NKeXViWEExbkZyeEE3cy1TS1ozSXdfalU2dnRVeDVadnRXZi1kdVpCNFVYWHRrV01TZGFIT255cXRhaGpiUlY2eDFjTkZZSVEtUkFrLWVVbmJBTmdYZ3Q2U2R1MTlzRWdDODNsVnJ0VE5BSFZJZWo4REtLQQ?oc=5"
+    },
     {
       "id": "1541711ec2b0bdbd",
       "matched_keywords": [
@@ -16,74 +142,18 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN0w1LUluSHA1V3ZDUGpvVTdVbTByTlJWRm4wQm5GVVZ5S0xpYWM0T2tPcmZNdnBQeFVWRjFZVVFNT3RJTU1HRHMzdHM5RlNCLUgtUzNMQnNDMmUydzNkcTNyVkNMLU8wWE1VNHFrbGtpVnU5QjlzSUhqSjV3V3d6NzhjTEptd3FLRDhWaVV3WjFaOXVPcmRF?oc=5"
     },
     {
-      "id": "e2558ee9ad277b93",
-      "matched_keywords": [
-        "quantum computing",
-        "logical qubit"
-      ],
-      "published": "2026-07-15T11:00:00Z",
-      "query": "quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xOVQwMElwdUlNWHJIZjcyY3VGYWl1emd3MWJ4aVNSZ2ljS1pLMjBMVUtKX05ER2lkM0lHenUtd21KMHhsMDNvY0lmMUdKaGZsc3d4ZWRyTGk3RmctcTJGRnRwaw?oc=5\" target=\"_blank\">Quantum Control Systems for Long-Lived Logical Qubits</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZoQuantum</font>",
-      "title": "Quantum Control Systems for Long-Lived Logical Qubits - AZoQuantum",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xOVQwMElwdUlNWHJIZjcyY3VGYWl1emd3MWJ4aVNSZ2ljS1pLMjBMVUtKX05ER2lkM0lHenUtd21KMHhsMDNvY0lmMUdKaGZsc3d4ZWRyTGk3RmctcTJGRnRwaw?oc=5"
-    },
-    {
-      "id": "f56a470e7edbad6e",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-07-15T06:47:50Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5oZGV0UnAxLXNGUWR4X1VBUlp0bE9LV1VETW5yblFDMHRBVG9acXZVTGd2VjgyNEF3NkdwMXNmOV9KS3BVbFRFRmRKU2tEbWx3MHZRNlVLT1BjajlMOVlPNTY0MnkxanYtTVRoeUdNUlZQUnlfLWx5aTBKOHVzMG8?oc=5\" target=\"_blank\">Max-Planck Team Extends Neutral Atom Trap Times To 2 Hours</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Max-Planck Team Extends Neutral Atom Trap Times To 2 Hours - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oZGV0UnAxLXNGUWR4X1VBUlp0bE9LV1VETW5yblFDMHRBVG9acXZVTGd2VjgyNEF3NkdwMXNmOV9KS3BVbFRFRmRKU2tEbWx3MHZRNlVLT1BjajlMOVlPNTY0MnkxanYtTVRoeUdNUlZQUnlfLWx5aTBKOHVzMG8?oc=5"
-    },
-    {
-      "id": "ad45d9df3a63b055",
+      "id": "187c8109ff1d3e17",
       "matched_keywords": [
         "quantum computing",
         "photonic quantum"
       ],
-      "published": "2026-07-15T06:44:00Z",
+      "published": "2026-07-14T11:44:44Z",
       "query": "quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FbW9NVzZ3NzBNdEJLRmRfb3BNcEc1b2FEUU5YT3ZYd1BiQjQ0U1J4VWFUTnRTZUtNdTdjSm1KRnVzTGgzNUZTbmxadFJ1SmQtVGRfR0RFcTBsVl9mWnc?oc=5\" target=\"_blank\">QuiX Quantum Announces Carina, the First Universal Photonic Quantum Computing Architecture for Commercial Deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AZoQuantum</font>",
-      "title": "QuiX Quantum Announces Carina, the First Universal Photonic Quantum Computing Architecture for Commercial Deployment - AZoQuantum",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FbW9NVzZ3NzBNdEJLRmRfb3BNcEc1b2FEUU5YT3ZYd1BiQjQ0U1J4VWFUTnRTZUtNdTdjSm1KRnVzTGgzNUZTbmxadFJ1SmQtVGRfR0RFcTBsVl9mWnc?oc=5"
-    },
-    {
-      "id": "5235be7d835f9f7f",
-      "matched_keywords": [
-        "quantum computing",
-        "photonic quantum"
-      ],
-      "published": "2026-07-14T14:54:05Z",
-      "query": "quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3Q2Q3psRENNdkwxWjFXV1NVY3R2RmNtLVFNOFBQVWdXTnNkYlJQLVM0NTBCaUFTbF9qTHBkaHA4UkFSWDh0TGN4NkxxX3lEU3FMWUNtdHZtU1VPdTJyS296Y0ltRWNLMWxtUHdERkZCVXlIMHJpbXhsVTB6cmFYZWxiS09LRzl4WGVmY2U2NG1TLWdPaFQ3S2VOa21jYndhWEtpak51OFBydDQwM1E?oc=5\" target=\"_blank\">QuiX targets data center deployment with photonic quantum computing platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SDxCentral</font>",
-      "title": "QuiX targets data center deployment with photonic quantum computing platform - SDxCentral",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3Q2Q3psRENNdkwxWjFXV1NVY3R2RmNtLVFNOFBQVWdXTnNkYlJQLVM0NTBCaUFTbF9qTHBkaHA4UkFSWDh0TGN4NkxxX3lEU3FMWUNtdHZtU1VPdTJyS296Y0ltRWNLMWxtUHdERkZCVXlIMHJpbXhsVTB6cmFYZWxiS09LRzl4WGVmY2U2NG1TLWdPaFQ3S2VOa21jYndhWEtpak51OFBydDQwM1E?oc=5"
-    },
-    {
-      "id": "f3ecef786eda9d30",
-      "matched_keywords": [
-        "quantum computing",
-        "photonic quantum"
-      ],
-      "published": "2026-07-14T13:13:06Z",
-      "query": "fault tolerant quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFVrTWs3cS1hYVZkRWxPbTZGQ3RjVFNxSVhXRWZEWEEyM280aW9oakdicUctek9oc3lDT2FRZGN4TVNGNm5qS21XNFdqRWthQjA3M01OUFhmNENfZ3RXVlhkdzNjdXU4VnRrUlhoX3dFeTBCX2JlYlZYTml4LVp2WmZzUU5WejZ1dnlCVEZYUE82SXhKek1JNmxpbDFOblllbmVOcTFjNUdjQ0Vi?oc=5\" target=\"_blank\">QuiX Quantum Unveils Universal Photonic Quantum Computing Architecture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HPCwire</font>",
-      "title": "QuiX Quantum Unveils Universal Photonic Quantum Computing Architecture - HPCwire",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFVrTWs3cS1hYVZkRWxPbTZGQ3RjVFNxSVhXRWZEWEEyM280aW9oakdicUctek9oc3lDT2FRZGN4TVNGNm5qS21XNFdqRWthQjA3M01OUFhmNENfZ3RXVlhkdzNjdXU4VnRrUlhoX3dFeTBCX2JlYlZYTml4LVp2WmZzUU5WejZ1dnlCVEZYUE82SXhKek1JNmxpbDFOblllbmVOcTFjNUdjQ0Vi?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUdPcDY3ejVsNUVFLU9BSFBYV2VhdFZLWTdkY3FsaXdoSm5MUVpBSlJXdjZoNFY3T09CYWl3azU5eTNDNzJUNF8taVFLYnpuemNyYTZwcndENzVPQXNGRk40Y25LNTdPM200ell6SzdlZVhhSkxwX041OWZ6NHpQaHEwQUZFWkxleWNNLTNCMVJDZmZLNkVKWUI5MS16YUQ5c3dnbG4zN0prdUZ2WEdzUUZoNk1val9rNjBCSllKcnh1VGdRRnFHZlRn?oc=5\" target=\"_blank\">QuiX Quantum Announces Photonic Quantum Computing Architecture For Commercial Deployment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "QuiX Quantum Announces Photonic Quantum Computing Architecture For Commercial Deployment - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbUdPcDY3ejVsNUVFLU9BSFBYV2VhdFZLWTdkY3FsaXdoSm5MUVpBSlJXdjZoNFY3T09CYWl3azU5eTNDNzJUNF8taVFLYnpuemNyYTZwcndENzVPQXNGRk40Y25LNTdPM200ell6SzdlZVhhSkxwX041OWZ6NHpQaHEwQUZFWkxleWNNLTNCMVJDZmZLNkVKWUI5MS16YUQ5c3dnbG4zN0prdUZ2WEdzUUZoNk1val9rNjBCSllKcnh1VGdRRnFHZlRn?oc=5"
     },
     {
       "id": "502be0855f95d90e",
@@ -98,324 +168,241 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3RpUEszSU1zVzVCTzlmOFJ2WC15UU1ROThzWUo4WTZKTVhUYjZ5VXdDUk1qdjI1a3hucF9NVzJsTGJVczFPMFpEMUplZWZrZFQtVklOODUtUlkyLVdVcTJ6bWFDLVhvUjhzd0hDZldNRzJaQ3NxbGdtUHZTZHdqd2l0a0NIbjBHbmZJREhheFJDTERYVzBocDVjdHVhalFBUUJrdFVqczBYUmNMdEd5SHdEVTNGYXRlVEE?oc=5\" target=\"_blank\">Logical Qubit Technology Launches Quantum Cloud Platform for Superconducting Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
       "title": "Logical Qubit Technology Launches Quantum Cloud Platform for Superconducting Quantum Computing - The Quantum Insider",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN3RpUEszSU1zVzVCTzlmOFJ2WC15UU1ROThzWUo4WTZKTVhUYjZ5VXdDUk1qdjI1a3hucF9NVzJsTGJVczFPMFpEMUplZWZrZFQtVklOODUtUlkyLVdVcTJ6bWFDLVhvUjhzd0hDZldNRzJaQ3NxbGdtUHZTZHdqd2l0a0NIbjBHbmZJREhheFJDTERYVzBocDVjdHVhalFBUUJrdFVqczBYUmNMdEd5SHdEVTNGYXRlVEE?oc=5"
-    },
-    {
-      "id": "f95fda9dc2cf3e89",
-      "matched_keywords": [
-        "quantum computing",
-        "photonic quantum"
-      ],
-      "published": "2026-07-14T09:00:00Z",
-      "query": "quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQU1lLT2NrdFVzak1mdGtibGUyMEl3R2NSSHhKY1BZZnFTXzViZzM2ZExpTHNuVU1vSWtudnZ4aGdxemJ2ajFiYmdKaWRxbDFqVnB5M09JaHdpdDh5UzhDdEhVa0dzLU8tTUtFa3ZxV1JHMWNUTHJoaUZuNlFnZnk3NXlzaHdpRVljYzZKM0lpN21qUkJvU3pQWjFIeUZHaWVDWjFudXRuU211S216aWVjaEhCREJ4ZER6WEpNYS12ZGNYazNsVE5VRHRn?oc=5\" target=\"_blank\">Here’s The First Universal Photonic Quantum Computer You Can Actually Install</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "title": "Here’s The First Universal Photonic Quantum Computer You Can Actually Install - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU1lLT2NrdFVzak1mdGtibGUyMEl3R2NSSHhKY1BZZnFTXzViZzM2ZExpTHNuVU1vSWtudnZ4aGdxemJ2ajFiYmdKaWRxbDFqVnB5M09JaHdpdDh5UzhDdEhVa0dzLU8tTUtFa3ZxV1JHMWNUTHJoaUZuNlFnZnk3NXlzaHdpRVljYzZKM0lpN21qUkJvU3pQWjFIeUZHaWVDWjFudXRuU211S216aWVjaEhCREJ4ZER6WEpNYS12ZGNYazNsVE5VRHRn?oc=5"
-    },
-    {
-      "id": "730769f41f66a988",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-07-14T07:58:59Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE50RTZJejdaR1pZb2RPN1Q0S3JWZ0sza0Z1Z3VPWkRXVzM3bi1XLXVWZHNyYmVYWXBRcU42Y1BjbktqTk9ZUjZCWFdFVEJNSFctd1p1azVYSDhtaEFmdzluUElvcGdnT28yVjdZelVaSUVnd1BZ?oc=5\" target=\"_blank\">Quantum Heavyweight Arrives: Zhongqi Wuliang to Debut Data-Center-Grade Quantum Computer at WAIC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pandaily</font>",
-      "title": "Quantum Heavyweight Arrives: Zhongqi Wuliang to Debut Data-Center-Grade Quantum Computer at WAIC - Pandaily",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50RTZJejdaR1pZb2RPN1Q0S3JWZ0sza0Z1Z3VPWkRXVzM3bi1XLXVWZHNyYmVYWXBRcU42Y1BjbktqTk9ZUjZCWFdFVEJNSFctd1p1azVYSDhtaEFmdzluUElvcGdnT28yVjdZelVaSUVnd1BZ?oc=5"
-    },
-    {
-      "id": "369472b44ea3f89e",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-07-14T06:41:38Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmdZLVBGcW45OENtV3NsV2ktbkY0ckdHaElEYmNHVk5JOHpGcFo0d3FvYkx2SGZYZjExbTZtekJBUE9TM2xFRVN4WnVuVTFxNW9KQXJVNEpOX2hObno0SjRqX0JnV2R3VmFuT2lxVGRZZmRtMjE0Vm52MTVnRHBHandUY2N3bk9hNzZZdjM3Rkc3cmtXcDJpdjVjRzhReFJqRmRrLUVNVVVuZVhT?oc=5\" target=\"_blank\">Europe launches €50m Q-PLANET initiative to accelerate quantum chips production</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Innovation News Network</font>",
-      "title": "Europe launches €50m Q-PLANET initiative to accelerate quantum chips production - Innovation News Network",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmdZLVBGcW45OENtV3NsV2ktbkY0ckdHaElEYmNHVk5JOHpGcFo0d3FvYkx2SGZYZjExbTZtekJBUE9TM2xFRVN4WnVuVTFxNW9KQXJVNEpOX2hObno0SjRqX0JnV2R3VmFuT2lxVGRZZmRtMjE0Vm52MTVnRHBHandUY2N3bk9hNzZZdjM3Rkc3cmtXcDJpdjVjRzhReFJqRmRrLUVNVVVuZVhT?oc=5"
-    },
-    {
-      "id": "5b79e691e390c0df",
-      "matched_keywords": [
-        "quantum computing",
-        "quantum algorithm"
-      ],
-      "published": "2026-07-14T06:22:00Z",
-      "query": "quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTGNhVUdrb29VaDdaWGVJdGhMZi1TWVpVX2VhR1F1V2FEb0pIVjhIeUR1bWVkSF9XdWU1YzhLOUxOU1VHcmxVTmhWWHFnNWR1eUM3LUxlT0RlZWgtRHhhNjlZSzQyd3JSRk1CVnBqUVl0UmZnUjdPRlJrdU1PUzg5Y3VpR0RvSGxpa3JkLUF2QnNxQ3RkSWdmZDVPNA?oc=5\" target=\"_blank\">New quantum algorithm could unlock faster AI and scientific computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>",
-      "title": "New quantum algorithm could unlock faster AI and scientific computing - Interesting Engineering",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTGNhVUdrb29VaDdaWGVJdGhMZi1TWVpVX2VhR1F1V2FEb0pIVjhIeUR1bWVkSF9XdWU1YzhLOUxOU1VHcmxVTmhWWHFnNWR1eUM3LUxlT0RlZWgtRHhhNjlZSzQyd3JSRk1CVnBqUVl0UmZnUjdPRlJrdU1PUzg5Y3VpR0RvSGxpa3JkLUF2QnNxQ3RkSWdmZDVPNA?oc=5"
-    },
-    {
-      "id": "7eaef1757c82a958",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-07-13T19:04:38Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTFBtZ2hpTlpZQ3hpYUNIOGFndk42TnZLRlNLdTU4V25na3NXUF9sTDlLR1FiTnhydWJxYnhsNU5OeVprb2k4QnQ0RFNZcFdJVUZ4ZmRWcW1EdkFZdGV1S290NlR2WVVhbFlzbnc?oc=5\" target=\"_blank\">Q-PLANET Launches With 28 European Partners And €50M Budget</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Q-PLANET Launches With 28 European Partners And €50M Budget - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtZ2hpTlpZQ3hpYUNIOGFndk42TnZLRlNLdTU4V25na3NXUF9sTDlLR1FiTnhydWJxYnhsNU5OeVprb2k4QnQ0RFNZcFdJVUZ4ZmRWcW1EdkFZdGV1S290NlR2WVVhbFlzbnc?oc=5"
     }
   ],
   "publications": [
     {
       "authors": [
-        "Julien M. Drouet",
-        "Xanda C. Kolesnikow",
-        "Campbell K. McLauchlan",
-        "Georgia M. Nixon",
-        "Seok-Hyung Lee",
-        "Dominic J. Williamson",
-        "Stephen D. Bartlett",
-        "Benjamin J. Brown",
-        "Robin Harper"
+        "Lukas Bödeker",
+        "Luis Colmenarez",
+        "Sergey Blinov",
+        "Ants Remm",
+        "Simon Gustavsson",
+        "Markus Müller"
       ],
-      "id": "4b1cbeb5e06e872b",
+      "id": "e5e196ed473e045f",
       "matched_keywords": [
-        "quantum computing",
         "error correction",
         "surface code",
+        "logical qubit"
+      ],
+      "published": "2026-07-16T14:22:32Z",
+      "score": 9,
+      "source": "arXiv",
+      "summary": "Low-overhead quantum error-correction schemes are essential for enabling quantum computation on registers containing multiple logical qubits. For planar architectures with limited nearest-neighbor qubit connectivity, the surface code has emerged as the leading paradigm. Recent theoretical and experimental work has shown that a physical-qubit connectivity of degree three is sufficient to implement fault-tolerant quantum error correction. In this work, we study lattice surgery in the context of such trivalent architectures and introduce scalable circuit constructions to implement it. Compared with the four-valent measurement scheme, the trivalent lattice-surgery protocol reduces the required resources by $\\mathcal{O}(d)$ qubits out of a total qubit count of $\\mathcal{O}(d^2)$ and by $\\mathcal{O}(d)$ two-qubit gates out of a total two-qubit gate count of $\\mathcal{O}(d^3)$. We benchmark the logical fidelity of both lattice-surgery schemes in terms of experimentally realistic simulations targeting an implementation with a fluxonium qubit based architecture and find a potential improvement of up to $\\approx25\\%$ for distance-three. These results open a way for scalable planar trivalent qubit architectures to host a surface-code-based logical quantum processor.",
+      "title": "Towards logical entanglement creation in trivalent planar architectures",
+      "url": "http://arxiv.org/abs/2607.15044v1"
+    },
+    {
+      "authors": [
+        "IlKwon Sohn",
+        "Ju-Bong Kim",
+        "Kwangil Bae",
+        "Wooyeong Song",
+        "Wonhyuk Lee"
+      ],
+      "id": "c836362e1dc33b30",
+      "matched_keywords": [
+        "error correction",
+        "quantum network",
+        "verification"
+      ],
+      "published": "2026-07-16T01:55:21Z",
+      "score": 8,
+      "source": "arXiv",
+      "summary": "Scaling quantum networks beyond point-to-point links requires packet forwarding that can tolerate control-plane timing uncertainty. Existing optical-burst switching (OBS) and quantum-wrapper-based packet switching (QW) rely on external classical headers whose jitter-prone processing must remain aligned with in-flight quantum payloads, creating guard-window or fiber-delay-line budget failures. This paper proposes Syndrome-as-Header (SAH), a quantum label-switching architecture that embeds routing labels into the syndrome structure of an encoded payload. The proposed scheme uses Uncorrectable Error Injection (UEI) to map flow labels to reference syndromes and builds a syndrome-space header codebook whose decoding regions remain distinguishable under correctable channel-induced syndrome deviations. Core routers extract the syndrome header, suppress the correctable residual channel-error component, and swap labels without measuring or decoding the logical payload. SAH supports FAST forwarding and VERIFICATION mode, the latter providing end-to-end consistency checking while retaining swappable labels. In NSFNet timing benchmarks with common per-hop quantum error correction (QEC), SAH eliminates the external-header/payload alignment condition, so timing uncertainty appears as memory residence and delivered latency rather than alignment-budget drops. With a $T_2$-based memory-residence penalty, the advantage depends on router memory coherence; for sufficiently long coherence, SAH maintains higher acceptance and throughput than OBS+QEC and QW+QEC under high jitter.",
+      "title": "Syndrome-as-Header: A Quantum Label-Switching Architecture via Uncorrectable Error Injection",
+      "url": "http://arxiv.org/abs/2607.14484v1"
+    },
+    {
+      "authors": [
+        "Rajeswari Suance P S",
+        "Anubhab Dutta",
+        "Ruchika Gupta",
+        "John Jose"
+      ],
+      "id": "f4b0df6d81e4c6ee",
+      "matched_keywords": [
+        "quantum computing",
+        "quantum network"
+      ],
+      "published": "2026-07-16T05:41:13Z",
+      "score": 6,
+      "source": "arXiv",
+      "summary": "Scalable quantum computing architectures increasingly rely on multi-core designs, where qubits are distributed across multiple processing cores interconnected through a quantum Network-on-Chip (NoC). In such systems, inter-core communication is typically realized through entanglement-assisted quantum teleportation, making efficient entanglement generation critical for performance. In this paper, we perform a comparative study of three entanglement management paradigms for multi-core quantum processors: reactive on-demand generation (ODG), proactive continuous pre-generation (CGP), and an adaptive continuous pre-generation approach (ACGP). While ODG generates entanglement only when required, CGP reduces average teleportation latency by pre-generating EPR pairs in the background. To improve upon this, we propose ACGP which dynamically adjusts entanglement generation probabilities based on observed inter-core communication patterns. We evaluate these approaches using an extended SeQUeNCe simulator on mesh-based multi-core architectures on real benchmark circuits. Results show that ACGP significantly reduces average teleportation latency compared to ODG and CGP. Although pre-generation introduces fidelity degradation due to storage time, entanglement purification effectively restores fidelity with minimal impact on latency. These results demonstrate that adaptive entanglement managements can substantially improve communication efficiency in scalable quantum multi-core systems.",
+      "title": "Adaptive Entanglement Management in Quantum Multi-Core Architectures",
+      "url": "http://arxiv.org/abs/2607.14592v1"
+    },
+    {
+      "authors": [
+        "Priyabrata Senapati",
+        "Vibin Abraham",
+        "Qiang Guan",
+        "Bo Peng"
+      ],
+      "id": "6abaeaca9d6ca27a",
+      "matched_keywords": [
+        "error correction",
+        "quantum algorithm"
+      ],
+      "published": "2026-07-15T22:10:05Z",
+      "score": 6,
+      "source": "arXiv",
+      "summary": "We present an uncertainty quantification (UQ) framework for application level benchmarking and characterization of noisy quantum backends. The framework compares two workload classes under one statistical pipeline: noisy intermediate scale quantum (NISQ) variational quantum algorithms (VQAs) and Quantum Singular Value Transformation (QSVT) based Green's function reconstruction. For the VQA branch, we evaluate ten benchmark families spanning chemistry, optimization, simulation, compiling, linear solving, partial differential equations, metrology, error correction, tomography, and channel fidelity estimation. For the QSVT branch, we reconstruct orbital resolved Green's functions and spectral peaks from a block encoded real time propagator. The workflow combines Bayesian optimization, posterior distribution refinement, sensitivity analysis, robust parameter density estimation, backend ranking, noise correlation, and resource estimation analysis. Instead of reporting only one best parameter vector, the framework identifies robust parameter regions, residual gaps to ideal behavior, backend specific failure modes, and calibration sensitive uncertainty. The result is a common benchmark for variational and non-variational workloads that measures how reliably each backend reaches useful task level behavior.",
+      "title": "Unified Uncertainty Quantification Framework Bridging Noisy Quantum Backends Across Variational Quantum Algorithms and Quantum Signal Processing",
+      "url": "http://arxiv.org/abs/2607.14392v1"
+    },
+    {
+      "authors": [
+        "Daniel Gaytan-Villarreal",
+        "Peter Meiring",
+        "Daniel Baxter",
+        "Daniel Bowring",
+        "Grace Bratrud",
+        "Matteo Cremonesi",
+        "Giuseppe Di Guglielmo",
+        "Grace Wagner",
+        "Bowen Xiao"
+      ],
+      "id": "773f30e164ffa1b6",
+      "matched_keywords": [
+        "quantum computing",
         "superconducting qubit"
       ],
-      "published": "2026-07-13T19:53:50Z",
-      "score": 12,
-      "source": "arXiv",
-      "summary": "A solid-state quantum-computing architecture will require the fabrication of arrays of many coupled qubits. It is inevitable that this process will produce qubits and couplers with varying performance, with some components underperforming due to imperfect fabrication. Quantum error-correction requires high-performing components and hence these defects must be dealt with, either by adapting the code to exclude the defects, or by informing the decoder to accommodate defects in post-processing. Here we implement and compare strategies to operate distance-5 surface codes on a quantum processor consisting of a square-lattice array of 120 superconducting qubits. We demonstrate a dramatic reduction in the probability of a logical error in a memory experiment by excluding underperforming components, compared with both a standard approach of ignoring defects, and a defect-aware decoding approach. We observe up to 2.8X improvement in logical errors per round when excluding defects compared with the standard defect-ignorant approach (1.62% compared to 4.49%). In contrast, defect-aware decoding gives only modest gains. Defects are also expected to be particularly harmful for measurement-based logical operations. Using a stability experiment we show that excluding defects resurrects measurement-based logic gate performance, observing a 6.3% per-round suppression of failure rate when excluding defects, compared to zero suppression otherwise. Furthermore, we show a further substantial decrease in logical errors when using leakage post-selection in combination with our defect exclusion strategies, resulting in a distance-5 code outperforming the best distance-3 in one basis. Our experiments therefore give a proof-of-principle demonstration of the essential utility of defect exclusion methods in the scale-up of solid-state quantum computing approaches.",
-      "title": "Error correction on an array of superconducting qubits with defective components",
-      "url": "http://arxiv.org/abs/2607.12118v1"
-    },
-    {
-      "authors": [
-        "Yongqiang Du",
-        "Chen-Xun Weng",
-        "Feng Xie",
-        "Ming-Yang Li",
-        "Mingxuan Zhang",
-        "Xin Hua",
-        "Xin An",
-        "Xiang Guan",
-        "Xin Liu",
-        "Zhenrong Zhang",
-        "Xi Xiao",
-        "Hua-Lei Yin",
-        "Kejin Wei"
-      ],
-      "id": "f69cc2ae6b385839",
-      "matched_keywords": [
-        "quantum computing",
-        "fault tolerance"
-      ],
-      "published": "2026-07-14T01:25:15Z",
+      "published": "2026-07-15T18:56:46Z",
       "score": 6,
       "source": "arXiv",
-      "summary": "Popularized by the Bitcoin cryptocurrency, blockchain technology establishes a decentralized digital framework that utilizes cryptographic and consensus protocols to secure data against unauthorized modification. Consequently, blockchain has found broad adoption across diverse fields, including finance, data management, healthcare, and digital asset governance. In the quantum computing era, a paramount objective for blockchain is to preserve its foundational advantages of cryptographic integrity and decentralized fault-tolerant resilience. In principle, quantum digital signatures and quantum Byzantine agreement protocols offer foundational security guarantees and tolerate up to one-half of malicious nodes for blockchain. However, the practical realization of such a quantum-enhanced blockchain remains a significant and multifaceted challenge. Here, we propose and experimentally demonstrate a fully operational hybrid quantum blockchain architecture built on photonic integrated circuits and deployed over commercially available classical telecommunications infrastructure. The system achieves a fault tolerance of nearly one-half, surpassing the classical limit, while reaching consensus on a timescale of seconds. A deployed food traceability application validates the practicality of the proposed architecture, achieving a throughput of approximately 500 transactions per second. This work establishes a foundation for practical quantum blockchains, enabling secure, scalable, and decentralized information processing in the emerging quantum era.",
-      "title": "A fault-tolerant quantum blockchain deployed on commercial telecommunications network",
-      "url": "http://arxiv.org/abs/2607.12249v1"
+      "summary": "Ionizing radiation from cosmic rays and gammas can induce discontinuous jumps in the environmental charge of superconducting qubits (charge jumps), causing correlated errors that challenge fault-tolerant quantum computing while simultaneously providing a detection signature for quantum sensing applications. Current detection methods operate offline, introducing latency incompatible with in-the-loop qubit control. In this paper, an online detector of charge jumps for superconducting qubits, based on a dilated causal convolutional neural network (DCCNN) designed for in-the-loop deployment on the Quantum Instrumentation Control Kit (QICK) platform, is presented. The network is trained on synthetic Ramsey tomography scans generated from qubit templates measured at the Northwestern Experimental Underground Site (NEXUS) at Fermilab, and translated to FPGA firmware via hls4ml with ap_fixed$\\langle 16,6 \\rangle$ quantization, reaching a per-inference latency of $6.19 μ$s on the Zynq UltraScale+ RFSoC ZCU216. At this operating point the DCCNN matches the detection efficiency of the established offline $χ^2$ algorithm ($0.843 \\pm 0.022$ vs. $0.866 \\pm 0.020$ on $|Δq| \\in [0.1, 0.5] e$ at matched false-positive rate), while requiring no per-qubit hyperparameter tuning. This shifts charge-jump detection from a post-hoc diagnostic to a control-loop primitive, enabling adaptive protocols that respond to radiation-induced events in situ, with applications to quantum-computing error mitigation and to the use of superconducting qubits as particle detectors.",
+      "title": "Real-Time Detection of Charge Jumps in Superconducting Qubits with a Convolutional Neural Network",
+      "url": "http://arxiv.org/abs/2607.14293v1"
     },
     {
       "authors": [
-        "Shashvat Shukla",
-        "Dan E. Browne",
-        "Shin Nishio"
+        "Leo Goutte",
+        "Vincenzo Savona"
       ],
-      "id": "62ab2467560a1d6c",
+      "id": "9af6878962a68205",
       "matched_keywords": [
         "quantum computing",
-        "surface code"
-      ],
-      "published": "2026-07-13T21:44:08Z",
-      "score": 6,
-      "source": "arXiv",
-      "summary": "As quantum computing emerges as an applied technology, there is a growing need to protect quantum computers against information security attacks. This work identifies a new class of side-channel attacks against fault-tolerant quantum computers, in which the syndrome data that is sent to the decoder system is used to infer which computation (logical circuit) is taking place on the quantum computer. Our work introduces the concept of gate fingerprints, which describes those patterns present in syndrome data that indicate which logical operation took place on the quantum computer. We show different effects by which logical operations produce gate fingerprints by focusing on Clifford+T computation in the surface code. We then explore how gate fingerprint information can be used to make inferences about the circuits or algorithms run on a quantum computer. Our findings indicate that decoder systems can be a vector for side-channel attacks and thus to prevent this, decoder systems should either be secured or built by a trusted party.",
-      "title": "Anticipating Decoder Side-channel Attacks in Fault-tolerant Quantum Computers",
-      "url": "http://arxiv.org/abs/2607.12174v1"
-    },
-    {
-      "authors": [
-        "Naihong Hu",
-        "Ruining Li",
-        "Futao Wang"
-      ],
-      "id": "7c601f3fe08aedb3",
-      "matched_keywords": [
-        "quantum computing",
-        "quantum algorithm"
-      ],
-      "published": "2026-07-13T20:21:14Z",
-      "score": 6,
-      "source": "arXiv",
-      "summary": "This paper systematically investigates quantum computing protocols from the intuitive perspective of categorical tensor-graph semantics within the category FHilb. While conventional Hilbert-space formalisms conceal the structural nature of quantum algorithms behind high-dimensional matrix operations, the topological framework developed herein directly encodes algorithmic functionalities to their graphical skeletons. We provide a comprehensive topological reinterpretation of the Bernstein-Vazirani and the Simon algorithms, demonstrating how topological transformations distill their core mathematical essence and clarify the operational mechanism of oracles. Going beyond standard qubit models, we formalize the qutrit-adapted generalized Deutsch-Jozsa algorithm as well as the generalized single-shot Grover algorithm, explicitly laying out their graphical representations. We further implement CNOT gates via complementary Frobenius structures, trace the diagrammatic genesis of quantum entanglement including Bell and GHZ states, and present a diagrammatic simplification for W-state preparation protocol. By bridging tensor category theory with practical quantum algorithmic design, this work furnishes composable, scalable diagrammatic toolkit essential for automated circuit optimization across the evolving quantum hardware ecosystem.",
-      "title": "Categorical Tensor-Graph Semantics for Quantum Algorithms",
-      "url": "http://arxiv.org/abs/2607.12128v1"
-    },
-    {
-      "authors": [
-        "Shuai Zhang",
-        "Wei Liu",
-        "Ji-Chong Yang"
-      ],
-      "id": "253a2c8761af7563",
-      "matched_keywords": [
-        "quantum algorithm"
-      ],
-      "published": "2026-07-14T17:47:25Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Parameterized quantum circuits~(PQCs) constitute a central building block of variational quantum algorithms~(VQAs) and quantum machine learning~(QML) methods. Existing ansatz designs often adopt hardware-agnostic or simplified 1D chain/ring entanglement patterns. However, as quantum hardware continues to develop, native 2D connectivity patterns, such as planar superconducting-qubit architectures, are becoming increasingly important. Inspired by this hardware structure, we construct a native 2D pairwise ansatz and compare its expressibility and trainability with representative 1D ansatze at identical layer depths, despite their different circuit depths. For the fixed 16-qubit system, the 2D ansatz has the smallest KL divergence at $L=1$ and $2$, and its second-order frame potential approaches the theoretical lower bound more rapidly at shallow layer counts than the frame potentials of the three 1D ansatze. We also evaluate the gradient variance of the Pauli-$Z$-string expectation value $\\langle Z_0\\otimes\\cdots\\otimes Z_{15}\\rangle$ with respect to the first $R_y$ angle. For this Pauli-$Z$ string and fixed parameter, the gradient variance is smaller for the 2D circuit at $L=1$--$4$. The differences narrow at $L=5$, and the four ansatze yield statistically compatible variances at $L=6$.",
-      "title": "Expressibility and trainability of a two-dimensional pairwise quantum-circuit ansatz",
-      "url": "http://arxiv.org/abs/2607.12996v1"
-    },
-    {
-      "authors": [
-        "Guillem Borràs Espert",
-        "Francisco Gómez Casanova",
-        "Luis de Pedro Sánchez",
-        "Senaida Hernández Santana",
-        "Pablo Serrano Molinero"
-      ],
-      "id": "f2aea2ad211870e4",
-      "matched_keywords": [
-        "quantum algorithm"
-      ],
-      "published": "2026-07-14T17:41:11Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Credit Valuation Adjustment (CVA) requires repeated risk-neutral expectation estimation, making it a natural test bed for quantum amplitude estimation, whose coherent amplification can in principle reduce Monte Carlo sampling cost. Whether this advantage survives realistic financial encoding and noisy hardware remains open. We develop an end-to-end, noise-aware quantum workflow for CVA, covering market calibration, discretisation, oracle construction, hardware execution and error-budget analysis. The model combines a correlated two-asset exposure with discount and default factors, encoded through a QCBM-based joint time-market distribution and controlled payoff rotations. We introduce contrast-aware Bayesian iterative quantum amplitude estimation (CABIQAE), which incorporates experimentally calibrated Grover-contrast loss into Bayesian inference and circuit-depth selection. Hardware-calibrated experiments show that CABIQAE exploits the limited amplification available on current devices more effectively than noise-agnostic alternatives and achieves a much lower classical post-processing runtime than the noise-aware BAE baseline. The analysis further decomposes the total CVA error into statistical, encoding, discretisation and hardware contributions. The full CVA oracle remains limited by circuit depth and discretisation resolution.",
-      "title": "A Noise-Aware Quantum Algorithm for Credit Valuation Adjustments on Real Quantum Hardware",
-      "url": "http://arxiv.org/abs/2607.12990v1"
-    },
-    {
-      "authors": [
-        "Akhil Kumar",
-        "Lorenzo Festa",
-        "Avishay Grinberg",
-        "Eran Reches",
-        "Dimitrios Tsevas",
-        "Kevin P. Mours",
-        "Zhao Zhang",
-        "Robin Eberhard",
-        "Sebastian Blatt",
-        "Andrea Alberti",
-        "Johannes Zeiher",
-        "Immanuel Bloch",
-        "Max Melchner"
-      ],
-      "id": "235e62095d483455",
-      "matched_keywords": [
-        "quantum computing"
-      ],
-      "published": "2026-07-14T17:35:30Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Neutral-atom quantum processors are rapidly scaling toward system sizes of more than ten thousand qubits, allowing for the realization of a new class of quantum computing algorithms and quantum simulation experiments. However, current neutral-atom platforms generally have to find a compromise between the optical accessibility and the storage time of atoms in optical potentials, limiting the available qubit numbers. Here we report on the operation of a novel, cryogenically enhanced, neutral-atom apparatus that overcomes these apparently conflicting requirements. We demonstrate vacuum-limited trapping lifetimes of up to two hours of single $^{88}\\mathrm{Sr}$ atoms in an optical tweezer array while preserving full optical access and without the need for complex cryogenic enclosures. Our measurements show that exceptionally long single-atom lifetimes can be achieved with a relatively simple cryostat design. Our architecture can be straightforwardly ported to other atomic species and shows a viable path for scaling up to sorted arrays of tens of thousands of atoms.",
-      "title": "A cryogenic neutral-atom platform with full optical access and 2-hour trap lifetime",
-      "url": "http://arxiv.org/abs/2607.12988v1"
-    },
-    {
-      "authors": [
-        "Keming He",
-        "Ziao Tang",
-        "Zetong Li",
-        "Ge Bai",
-        "Xin Wang"
-      ],
-      "id": "f801450310753d9d",
-      "matched_keywords": [
-        "fault tolerance"
-      ],
-      "published": "2026-07-14T16:35:36Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Logical entangling gates are a major source of physical spacetime overhead in fault-tolerant quantum computation. Phantom codes reduce this cost by implementing every ordered in-block logical CNOT through physical qubit permutations and Pauli-frame updates. Whether this mechanism can coexist with the low-weight stabilizer structure of qLDPC codes is a central question for low-overhead fault-tolerant architectures. We give a deterministic answer within binary CSS hypergraph product (HGP) codes. Up to natural equivalences, the simplex-repetition family is the unique HGP family satisfying the phantom condition. We then evaluate this family under circuit-level noise in logical GHZ-state preparation and Trotterized many-body quantum simulation. The codes retain low-weight stabilizer checks and yield concrete advantages over rotated surface-code baselines in both benchmarks. Reconfigurable neutral-atom arrays offer a natural setting for this approach, supporting nonlocal qLDPC operations while enabling in-block logical CNOTs without additional physical operations. Together, these results make precise how permutation-based logical entangling constrains code design within the HGP framework, demonstrate the circuit-level benefits of the unique family, and guide the search for phantom qLDPC families with better asymptotic parameters for low-overhead fault tolerance on neutral-atom hardware.",
-      "title": "Logical Entangling with Phantom Codes in Hypergraph Products",
-      "url": "http://arxiv.org/abs/2607.12948v1"
-    },
-    {
-      "authors": [
-        "Shravan Shravan",
-        "Tyler G. Thurtell"
-      ],
-      "id": "76db90af042bf8cb",
-      "matched_keywords": [
         "error correction"
       ],
-      "published": "2026-07-14T15:49:59Z",
-      "score": 3,
+      "published": "2026-07-15T18:00:19Z",
+      "score": 6,
       "source": "arXiv",
-      "summary": "Recently, it has been shown that protocols utilizing infinitely fast controls, such as quantum error correction, can in principle restore Heisenberg-limited frequency estimation in the presence of a broad class of non-Markovian noise models arising from coupling to finite-dimensional environments. However, these controls differ substantially from those used to address Markovian noise, and their underlying physical mechanism remains unclear. In this work, we establish a direct connection between these protocols and the quantum Zeno effect, and extend the framework to infinite-dimensional environments. We delineate three types of constructions: (a) protocols that rely solely on measurements, (b) protocols using an active recovery after measurements and (c) protocols using dynamical decoupling and rigorously analyze the performance of each when controls can be applied at only a finite rate. While protocols relying purely on measurements can be engineered for noise models where active recoveries are fundamentally impossible, they result in the quantum Fisher information exhibiting a quadratically worse dependence on the control frequency. Surprisingly, while dynamical decoupling protocols are possible whenever protocols relying only on measurements can be engineered, the quantum Fisher information has the same dependence on control frequency as the active recovery protocols. Numerical simulations suggest that the improvement offered by dynamical decoupling may work in regimes beyond the perturbative setting where our rigorous theorems apply.",
-      "title": "Heisenberg-limited metrology in the presence of non-Markovian noise with finite control rates",
-      "url": "http://arxiv.org/abs/2607.12913v1"
+      "summary": "We introduce low-rank optimal control (LROC), a method for designing control pulses in open quantum systems whose full density-matrix simulation is prohibitively expensive. The method exploits a feature of quantum computing itself: because protocols are designed to preserve purity, the density matrix is dominated by a few pure states and admits an accurate low-rank factorization. LROC propagates only this factorized form and, by deriving the corresponding adjoint equation, obtains the gradient of any differentiable objective at the same reduced cost as the simulation, leading to a quadratic improvement in time and memory compared to the full master equation. We illustrate the breadth of the method on four superconducting-circuit tasks: preparation of a five-qubit GHZ state, a CNOT gate, qubit readout, and an error correction primitive, modeled with realistic multilevel transmons, decay, and strong drives, in each case reaching fidelities consistent with the intrinsic dissipation limits. LROC thereby extends pulse-level optimization to system sizes beyond the reach of existing gradient-based methods.",
+      "title": "Analytic gradients for low-rank quantum optimal control",
+      "url": "http://arxiv.org/abs/2607.14217v1"
     },
     {
       "authors": [
-        "Khen Cohen",
-        "Tomer Nahum",
-        "Michael Tzukran",
-        "Paz Or",
-        "Yehuda Pilnyak",
-        "Nitzan Livneh",
-        "Hagai Eisenberg",
-        "Yaron Oz",
-        "Haim Suchowski"
+        "Rui Wang",
+        "Marcus J. Clark",
+        "Obada Alia",
+        "Sima Bahrani",
+        "Djeylan Aktas",
+        "Matej Peranić",
+        "Mario Stipčević",
+        "Martin Lončarić",
+        "John Rarity",
+        "Siddarth K. Joshi",
+        "Dimitra Simeonidou"
       ],
-      "id": "90defdfae07be11f",
+      "id": "da3e2f7c120a673c",
       "matched_keywords": [
         "quantum network"
       ],
-      "published": "2026-07-14T14:53:53Z",
+      "published": "2026-07-16T17:54:43Z",
       "score": 3,
       "source": "arXiv",
-      "summary": "Quantum key distribution (QKD) promises information-theoretically secure communication, but future networks must bridge fiber and free-space links that naturally employ different photonic encodings, namely time-bin in fiber and polarization in free space. Here we demonstrate a complete hybrid fiber and free-space QKD link that bridges both media within a single end-to-end protocol, converting between the two encodings entirely in the optical domain. Using the decoy-state BB84 protocol operating at 1550 nm, we demonstrate continuous secure-key generation over a 90 m outdoor free-space link. The system operates across atmospheric conditions spanning more than two orders of magnitude in the refractive-index structure parameter Cn^2, from strong daytime turbulence to quiescent nighttime conditions, and we further validate photon-level operation over a 750 m free-space extension. Throughout, the link maintains a session-mean quantum bit error rate (QBER) of 5.6-6.8%, well below the 11% BB84 security threshold. The encoding conversion is performed entirely in the optical domain without measurement or state reconstruction, preserving the security assumptions of the BB84 protocol. Consequently, the time-bin-to-polarization (T2P) and polarization-to-time-bin (P2T) converters remain part of the untrusted quantum channel rather than trusted intermediate nodes. These results establish secure photonic encoding conversion as a practical interface between fiber and free-space quantum communication platforms, providing a building block for future quantum networks applications.",
-      "title": "End-to-End Quantum Key Distribution Across Hybrid Fiber and Free-Space Links with All-Optical Encoding Conversion",
-      "url": "http://arxiv.org/abs/2607.12837v1"
+      "summary": "Dynamic entanglement distribution is a key requirement for scalable, multi-user and multi-protocol quantum networks. We demonstrate a metropolitan-scale entanglement-based quantum communication network enabled by a quantum reconfigurable optical add-drop multiplexer (q-ROADM), which dynamically distributes polarisation-entangled photon pairs from a broadband source to six users over deployed campus and metropolitan fibre. The network supports programmable full-mesh, partial-mesh and sliced sub-network configurations, enabling flexible allocation of entanglement resources according to link condition and service requirement. We demonstrate stable six-user full-mesh operation over more than 150 hours, compare full-mesh and time-shared partial-mesh strategies under different source and detector conditions, and realise quantum network slicing with optional/additional interconnection links. We also show that the same infrastructure can support different quantum protocols by showcasing Secure Inaugural Authentication-Transfer (SIAT) combined with Network flooding over multiple paths to improve the security of onboarding a new user. These results demonstrate a q-ROADM-enabled entanglement distribution architecture as a novel route towards reconfigurable, service-oriented quantum networking over optical fibre infrastructure.",
+      "title": "Dynamic Entanglement Distribution for Multi-User and Multi-Protocol Quantum Networking",
+      "url": "http://arxiv.org/abs/2607.15262v1"
     },
     {
       "authors": [
-        "Seungyeob Jwa",
-        "Hyunyong Kim",
-        "Jangho Kim",
-        "Minseok Oh"
+        "Yu-Hang Liu",
+        "Yuan-Hong Tao",
+        "Yi-Wen Liu",
+        "Ying-Huan Zhou",
+        "Shao-Ming Fei"
       ],
-      "id": "5fd1c4e4271433f4",
+      "id": "f45620d246791719",
       "matched_keywords": [
         "quantum computing"
       ],
-      "published": "2026-07-14T14:34:57Z",
+      "published": "2026-07-16T16:57:50Z",
       "score": 3,
       "source": "arXiv",
-      "summary": "This study investigates the use of quantum annealing for particle track reconstruction in strip-type gaseous detectors. In such detectors, ghost hits and multiple hit combinations can turn pattern recognition into a combinatorial optimization problem. We formulate two reconstruction subproblems as quadratic unconstrained binary optimization problems. The first subproblem selects detector hits associated with a single photon track inside a localized candidate region. The second subproblem selects cluster triplets from different detector layers so that multiple track candidates can be handled within a single quantum processing unit(QPU) submission. The proposed formulations are tested using simulated DAMSA detector events. For the single track hit selection task, the QPU based reconstruction gives position and angular resolutions close to those obtained with a Kalman based reconstruction. In the simultaneous association task, valid cluster triplets are first extracted from the QPU samples and then connected using an association rule based on graph connectivity to construct track candidates. The DAMSA event topology studied here has low pileup and is dominated by the two photon signal from axion-like particle(ALP) decay. In this setting, the results show that the QUBO formulations can reproduce local reconstruction decisions. This provides a practical basis for further studies of reconstruction methods that combine quantum and classical computing in more complex tracking environments.",
-      "title": "A Quantum Computing Approach to Track Reconstruction in Strip-Type Detectors",
-      "url": "http://arxiv.org/abs/2607.12821v1"
+      "summary": "Quantum entanglement is the fundamental hallmark of quantum mechanics and a core resource for realizing long-distance quantum communication and scalable linear quantum computing. Accordingly, the precise detection and quantitative quantification of entanglement constitute a foundational and critical problem in quantum information theory. To date, researchers have proposed numerous sufficient conditions for entanglement detection as well as a variety of entanglement measures to characterize the entanglement strength of quantum states; nevertheless, efficient and direct measurement schemes for core entanglement parameters remain underdeveloped. Based on unitary transformations and auxiliary measurements, this paper proposes a set of quantum circuit schemes capable of directly measuring the bipartite concurrence and the tripartite 3-tangle entanglement measure. By introducing auxiliary qubits and constructing specific controlled unitary operations, the proposed scheme maps the analytical expressions of the two entanglement measures onto the measurement probabilities of output states from quantum circuits. It enables efficient and direct quantitative measurement of bipartite and tripartite entanglement without performing full quantum state tomography. This work provides a feasible technical route for the experimental characterization of entanglement properties and lays a groundwork for the practical deployment of multipartite entanglement resources in quantum information processing.",
+      "title": "Entanglement Detection for Two-Qubit and Three-Qubit Pure States via Unitary Transformations and Ancilla State Measurements",
+      "url": "http://arxiv.org/abs/2607.15201v1"
     },
     {
       "authors": [
-        "Radhika Joshi",
-        "Yuli V. Nazarov",
-        "Mohammad H. Ansari"
+        "Marius Trudeau",
+        "Pierre-Emmanuel Emeriau",
+        "Nicolás Quesada"
       ],
-      "id": "032f0e9f388175ab",
+      "id": "f641b05cca734bce",
       "matched_keywords": [
-        "quantum architecture"
+        "photonic quantum"
       ],
-      "published": "2026-07-14T09:50:23Z",
+      "published": "2026-07-16T16:04:15Z",
       "score": 3,
       "source": "arXiv",
-      "summary": "We show that driven qubit junctions enable programmable control of physical entropy transport, with entropy conductance governed by quantum dynamics rather than by reservoir parameters alone. By comparing two simple quantum architectures -- a driven single-qubit junction and a driven two-qubit junction -- we find that the two-qubit junction enhances entropy transfer while requiring substantially lower driving power than its single-qubit counterpart. We further reveal two non-intuitive effects in both junctions: a sizable coherent contribution to the entropy current that emerges only under resonant driving, and negative differential entropy conductance, where increasing the thermal bias suppresses entropy flow into the probe reservoir. These results identify quantum logic architectures as programmable devices for entropy transport and suggest routes toward quantum feedback control, reservoir protection and refrigeration in driven quantum circuits.",
-      "title": "Entropy Transport in Programmable Quantum Junctions",
-      "url": "http://arxiv.org/abs/2607.12581v1"
+      "summary": "Using a robust photon loss model for photonic quantum experiments, we derive $n-$th order parameter-shift rules for computing gradients of Fock boson sampling transition probabilities where $n$ photons are sent into a lossy interferometer. We also show that in general it is not possible to generalize this gradient recipe to the case of Gaussian boson sampling. Only in the specific case where the transmission matrix of the interferometer can be factorized as a diagonal loss matrix premultiplied by a pure unitary it is possible to obtain parameter-shift rules with a finite order given by twice the total number of photons detected. We demonstrate the efficacy of the proposed method by comparing its performance against finite differences on real hardware.",
+      "title": "Parameter-Shift Rules for Gradients in Boson Sampling Experiments",
+      "url": "http://arxiv.org/abs/2607.15160v1"
+    },
+    {
+      "authors": [
+        "Yumin Li",
+        "Kejing Liu",
+        "Hanqing Lou",
+        "Javier Garcia-Frias"
+      ],
+      "id": "b5ee7129bac68a83",
+      "matched_keywords": [
+        "error correction"
+      ],
+      "published": "2026-07-16T16:02:16Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "We construct a new family of Calderbank-Shor-Steane (CSS) codes using the generator and parity-check matrices of Low-Density Generator Matrix (LDGM) codes, with row operations applied to both matrices in order to achieve the desired quantum rate. Decoding is performed in an iterative manner, by applying message passing over the associated graph, and discrete Density Evolution (DDE) is used to optimize performance in the depolarizing channel. The proposed construction offers high flexibility and easiness in the design, producing quantum codes that possess excellent error correction capabilities. By properly designing the structure of the code, we are able to control and bound the weight of the stabilizer generators to a small value, which results in codes particularly well suited for fault-tolerant quantum computation. At the same time, these codes achieve very good performance in terms of error correction capability.",
+      "title": "LDGM-Based Quantum Codes for Fault-Tolerant Quantum Computation",
+      "url": "http://arxiv.org/abs/2607.15159v1"
+    },
+    {
+      "authors": [
+        "Yinzi Xiao"
+      ],
+      "id": "a9a0a6e351d97114",
+      "matched_keywords": [
+        "bosonic code"
+      ],
+      "published": "2026-07-16T12:38:52Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "We construct the three-point continuous-variable (CV) quantum MacWilliams identity, extending the two-point framework of Burchards, and give its closed-form integral kernel. Its configuration space carries a symplectic invariant with no classical counterpart, which encodes the GKP quantization condition and a three-point sign phase. Using the identity, we derive the semidefinite-programming bounds it supports on the dimension of CV quantum error-correcting codes, and we prove, in two collapse theorems, that the three-point apparatus does not improve on the two-point bound. For GKP lattice codes the three-point optimum equals the Burchards two-point linear-programming optimum identically. This is an exact determination of the lattice three-point optimum, so the $E_8$ and Leech magic functions saturate it rather than beat it. For general bosonic codes a completely-positive reformulation bypasses the positivity obstruction that rules out the natural factored-form constructions; the phase-sign condition together with Choi positivity then force the three-point term to vanish. We certify this collapse for radial Choi forms on the first eight Laguerre levels at one mode, and leave the full trace-class cone open. Both collapses have a single cause with no classical analogue, the code projector: it orients the bound correctly but also removes the full positivity that powers the classical three-point improvement.",
+      "title": "A Three-Point Continuous-Variable Quantum MacWilliams Identity",
+      "url": "http://arxiv.org/abs/2607.14920v1"
+    },
+    {
+      "authors": [
+        "Pritam Roy",
+        "William John Munro",
+        "Shashank Gupta"
+      ],
+      "id": "28db2b29dfa363f7",
+      "matched_keywords": [
+        "quantum network"
+      ],
+      "published": "2026-07-16T11:37:05Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "We establish operational limits on the broadcasting of genuine multipartite entanglement (GME) in quantum networks. Using a distributed protocol in which each of N parties locally implements optimal 1 $\\to$ 2 cloning via beam-splitter interactions, we derive exact expressions for the broadcast fidelity of Greenberger-Horne-Zeilinger (GHZ), W states, and Cluster states in a limited setting. We show that the fidelity decays exponentially with system size as [c(R)]$^N$, providing a quantitative expression of multipartite entanglement monogamy in the broadcasting setting, and that both state families share a universal normalisation factor arising from independent post-selection probabilities. Most significantly, we prove a no-go result for simultaneous GME certification: for all reflectivities and all system sizes, the two broadcast copies cannot be simultaneously certified as genuinely multipartite entangled within the standard framework of fidelity-based witnesses. We further check this behaviour for three- and four-party cluster states, finding consistent results that support the generality of the no-go beyond the GHZ and W families. This obstruction arises from the redistribution of multipartite coherence, which both reduces the achievable fidelity and increases the corresponding certification threshold. Our results reveal a fundamental trade-off between the broadcastability of multipartite entanglement and its operational certifiability, and delineate intrinsic limits on entanglement distribution in quantum networks.",
+      "title": "Limits on Broadcasting Genuine Multipartite Entanglement in Quantum Networks",
+      "url": "http://arxiv.org/abs/2607.14864v1"
     }
   ]
 }
