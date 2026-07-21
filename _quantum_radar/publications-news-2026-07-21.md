@@ -1,4 +1,12 @@
-# Quantum publications and news digest
+---
+title: "Publications & news — 2026-07-21"
+date: 2026-07-21
+report_type: publications-news
+excerpt: "Quantum publications and news digest."
+tags:
+  - publications-news
+  - quantum-radar
+---
 
 _Generated: 2026-07-21 12:43 UTC_
 
