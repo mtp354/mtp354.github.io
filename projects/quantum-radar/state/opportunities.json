@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:36:32Z",
+  "generated_at": "2026-08-01T14:44:20Z",
   "items": [
     {
       "id": "0bf03e4698fa4da1",
@@ -53,7 +53,24 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemYxRGtsRTZLRzkxeDJLUkUxSjZFdjI0YTdFelp5Zy1TVzFTa013aHZjajVTNmhjSkllN19nSnkzbG5RNnBhTHRkY09mUkZQNlh0Znp5NEZTbFNNdjlRU1luV2p4VHFQWWdzbFFZV0ctbGxWTWVsNDRNT2k5QnJYbk5iWEY5a2VMSkd6Tmh2M2F5Z0VLcHZYVGk5Q0lBOFk4eHNfVnF3Umpwb1VWMWEtMzhBV0kteV9Wa1ViVDhtTkxIYTBZNU1YbDRXSjU3WFpWT1A0NEUzb0w?oc=5"
     },
     {
-      "id": "29391bb73db69191",
+      "id": "82ac98351e5ccfeb",
+      "matched_keywords": [
+        "grant",
+        "funding",
+        "quantum",
+        "quantum computing",
+        "quantum technology"
+      ],
+      "published": "2026-07-22T11:31:14Z",
+      "query": "quantum computing grant",
+      "score": 12,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSG1WcDdnaEV1ZlBkRG1qWGVaWFRMRzdjb3VQSHV2TW1VQmtFWGNOYWU4X0s1Z092anNRSm5lbXBCLUM1Zm4xU3NXMGtRdG1aaWJiWEFyaWlzbEwyc2NZXzJHWkQyWWZodFRvTmI4SlNGbllVeW4wZjRjQ200aWNaQlpBZjNkVFVIX1Bj?oc=5\" target=\"_blank\">Illinois Governor announces $30M secured in grant funding for quantum technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
+      "title": "Illinois Governor announces $30M secured in grant funding for quantum technology - AOL.com",
+      "type": "grants",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSG1WcDdnaEV1ZlBkRG1qWGVaWFRMRzdjb3VQSHV2TW1VQmtFWGNOYWU4X0s1Z092anNRSm5lbXBCLUM1Zm4xU3NXMGtRdG1aaWJiWEFyaWlzbEwyc2NZXzJHWkQyWWZodFRvTmI4SlNGbllVeW4wZjRjQ200aWNaQlpBZjNkVFVIX1Bj?oc=5"
+    },
+    {
+      "id": "34db00f3e8a17796",
       "matched_keywords": [
         "grant",
         "quantum",
@@ -63,8 +80,8 @@
       "published": "2026-07-16T07:00:00Z",
       "query": "quantum technology grant",
       "score": 10,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1l3cGl6YjQ1czJDT19CQWJjTjhxSW1BZTV5M1djUFF2N3hZT0JwUWhCMlNjeWRPbVU0VTk0T216R05KVWNsTHVlY0JZUUlqOGR4by1QUTRaY3JxZFpCeUtUdVQybHlsaUFKOWxScUw0SElPMGdYb0M1Rjg0amlXOVd6LVUwenJfeDJzVnA3bzRYRUJYMjR5SUdkcERmdkZCTVNGOG5nbGM?oc=5\" target=\"_blank\">UConn, Yale-led collaboration wins federal grant for quantum computing. It’s worth tens of millions.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hartford Courant</font>",
-      "title": "UConn, Yale-led collaboration wins federal grant for quantum computing. It’s worth tens of millions. - Hartford Courant",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1l3cGl6YjQ1czJDT19CQWJjTjhxSW1BZTV5M1djUFF2N3hZT0JwUWhCMlNjeWRPbVU0VTk0T216R05KVWNsTHVlY0JZUUlqOGR4by1QUTRaY3JxZFpCeUtUdVQybHlsaUFKOWxScUw0SElPMGdYb0M1Rjg0amlXOVd6LVUwenJfeDJzVnA3bzRYRUJYMjR5SUdkcERmdkZCTVNGOG5nbGM?oc=5\" target=\"_blank\">UConn, Yale-led collaboration wins federal grant for quantum computing. It’s worth tens of millions.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">courant.com</font>",
+      "title": "UConn, Yale-led collaboration wins federal grant for quantum computing. It’s worth tens of millions. - courant.com",
       "type": "grants",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1l3cGl6YjQ1czJDT19CQWJjTjhxSW1BZTV5M1djUFF2N3hZT0JwUWhCMlNjeWRPbVU0VTk0T216R05KVWNsTHVlY0JZUUlqOGR4by1QUTRaY3JxZFpCeUtUdVQybHlsaUFKOWxScUw0SElPMGdYb0M1Rjg0amlXOVd6LVUwenJfeDJzVnA3bzRYRUJYMjR5SUdkcERmdkZCTVNGOG5nbGM?oc=5"
     },
@@ -101,7 +118,7 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeWdjUHdWcFF0a0IwRkx3cnNkRDZ5TGJoMGJfdUxjSHU2SVJ5dmZoSmI1aUlMS1dnYXlHOGNhVXVBVDNtSkdjMC1uLVRnNGdhN2czSDRWYmFhSTNBSGVTMTVRblZTcElfbE1fd0tCUjBkZkxGeUd1NFpyRXFRMkFKLUVma0lrVkx3Z3M2M1JhSXFKQ3dmTjJKOXJ3c2p5Tm9RU2Rtb0FXTEFwRlQ4bnA3U2VtdDhTdXNXZzdZelNjMU1wdzlvbHc?oc=5"
     },
     {
-      "id": "12dadee2c5ac3e6f",
+      "id": "436eb65416669ca1",
       "matched_keywords": [
         "grant",
         "quantum",
@@ -111,10 +128,10 @@
       "published": "2026-07-14T07:00:00Z",
       "query": "quantum computing grant",
       "score": 10,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZEtObENNVHM2VDZYRGZVMjhwMkVlMjRlUW5iUE9kbmJQMDRyNzRBZUtFaXA2R1BSRnZRVldNcXNsNDRodkJHUnFpbGQyclFUdmpfa2lGN0pGSGdpT1k5YWd3eXNpWGxlUlpfcExuMFJKN1pDdlAzcEJ5MW0zLTA1ZmtrdGUzT0F2VUY0aTZLVnRxNUFyTmpYT0ZHTkNTZmRtYmRoMU9EbHlKUEF3b2kxR0k3LVprbGE0MDN0RXNIZGMxck9ZdVVvSVZMdnVuLWktOU1UOS1tbUZBUDN0RXc?oc=5\" target=\"_blank\">Photon Queue Wins $500,000 Grant to Establish Quantum Technology Presence in New Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
-      "title": "Photon Queue Wins $500,000 Grant to Establish Quantum Technology Presence in New Mexico - Business Wire",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQdWFVY1l6M09NZUMwckdfek42YmRJemFDVUNJMjkxclgzeTlJZFdBa3dQNnkzVkkxWVVJQlVORU9QU3Z3X0JRb2w2a0lZOUE2TkdxSzNDOEY3Y3VUNU93Wmh3bGJIUFRtWUVfU294Wmcyb3I3T0ZXdndwMWlFb09vam5uZnlRVXhFQjBQS2lZV0JVRWs?oc=5\" target=\"_blank\">Photon Queue Wins $500,000 Grant to Establish Quantum Technology Presence in New Mexico</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+      "title": "Photon Queue Wins $500,000 Grant to Establish Quantum Technology Presence in New Mexico - Yahoo Finance",
       "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZEtObENNVHM2VDZYRGZVMjhwMkVlMjRlUW5iUE9kbmJQMDRyNzRBZUtFaXA2R1BSRnZRVldNcXNsNDRodkJHUnFpbGQyclFUdmpfa2lGN0pGSGdpT1k5YWd3eXNpWGxlUlpfcExuMFJKN1pDdlAzcEJ5MW0zLTA1ZmtrdGUzT0F2VUY0aTZLVnRxNUFyTmpYT0ZHTkNTZmRtYmRoMU9EbHlKUEF3b2kxR0k3LVprbGE0MDN0RXNIZGMxck9ZdVVvSVZMdnVuLWktOU1UOS1tbUZBUDN0RXc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdWFVY1l6M09NZUMwckdfek42YmRJemFDVUNJMjkxclgzeTlJZFdBa3dQNnkzVkkxWVVJQlVORU9QU3Z3X0JRb2w2a0lZOUE2TkdxSzNDOEY3Y3VUNU93Wmh3bGJIUFRtWUVfU294Wmcyb3I3T0ZXdndwMWlFb09vam5uZnlRVXhFQjBQS2lZV0JVRWs?oc=5"
     },
     {
       "id": "31f4bd76dce338c2",
@@ -147,6 +164,22 @@
       "title": "Applications open for Quantum Technologies Funding Program - fundsforNGOs",
       "type": "grants",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXNsV3h5TXpfYWN4WEJnd0VnRVJUTUJ2OFM3dkZIYkdvOHdfUDgxelN1c2NKR3MtYnp5UnN4WkNTV3M1aXRYOEJuTmxGMFhwX1VBSnBNa0dCSXpENWZtZEhZTmU5ZnFSNi13OEpxUXVRaXhSaTRkOW5Id0poWWpqVS1sTTUyOFNydWlobmFnRWRFTkhjYUpmZk5ZN25lRG03WHhv0gGjAUFVX3lxTE5pc2xXeHlNel9hY3hYQmd3RWdFUlRNQnY4Uzd2RkhiR284d19QODF6U3VzY0pHcy1ienlSc3haQ1NXczVpdFg4Qm5ObEYwWHBfVUFKcE1rR0JJekQ1Zm1kSFlOZTlmcVI2LXc4SnFRdVFpeFJpNGQ5bkh3SmhZampVLWxNNTI4U3J1aWhuYWdFZEVOSGNhSmZmTlk3bmVEbTdYeG8?oc=5"
+    },
+    {
+      "id": "ae5aa1cd8686e42a",
+      "matched_keywords": [
+        "intern",
+        "hackathon",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-07-28T22:23:25Z",
+      "query": "quantum hackathon",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3dPblItZWxEVS14VVpzUkVkMFNrVExNSTVwMmV4bWpONXBYQVdMaklraTN4U3B5Ny03ODdPV0JPcDJNbUQyVDJLTFFWNWNMcnQ5ZnhWOS1teVVqOEc1SDlJRnp0VDBIQlR3RXV6cXI3dHg1QXNnWnZtQmlMZjRaLU5DdklwUWQxUndYMVFSYXpmRWJDWGw5MUJPRE5vbmtqN2Fxc2hETzlPZGExakJZUzRXYW5Cdy1IZmExWW54QQ?oc=5\" target=\"_blank\">Opening Ceremony of Gia Lai Quantum Year 2026 and Award Presentation for the International Quantum Computing Hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "title": "Opening Ceremony of Gia Lai Quantum Year 2026 and Award Presentation for the International Quantum Computing Hackathon - Vietnam.vn",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd3dPblItZWxEVS14VVpzUkVkMFNrVExNSTVwMmV4bWpONXBYQVdMaklraTN4U3B5Ny03ODdPV0JPcDJNbUQyVDJLTFFWNWNMcnQ5ZnhWOS1teVVqOEc1SDlJRnp0VDBIQlR3RXV6cXI3dHg1QXNnWnZtQmlMZjRaLU5DdklwUWQxUndYMVFSYXpmRWJDWGw5MUJPRE5vbmtqN2Fxc2hETzlPZGExakJZUzRXYW5Cdy1IZmExWW54QQ?oc=5"
     },
     {
       "id": "e61882b167055edf",
@@ -197,7 +230,23 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPREZCcFJlcV82SGJVYkNyQ2xocjZBVjdYU0k5bGh3Tk43S1JQMldreENuMDZiX0RrWThaLUllVHJaMXdyQklfMkttdEQ5dWM1TEREd1lGYVVmNlo5ZVR4THhNb3czdlAxdXRTaDhVZHB2SnczY3I1eExjQXhnMF83emlKcmtMNGNHQU80TmVVOThvTmJmdlZHOTVUTVZDdldiaC1nLXJ0azNYZ1V5?oc=5"
     },
     {
-      "id": "04f06a665467fc63",
+      "id": "73302ba46ecd92e4",
+      "matched_keywords": [
+        "intern",
+        "hackathon",
+        "quantum",
+        "quantum technology"
+      ],
+      "published": "2026-07-24T07:00:00Z",
+      "query": "quantum hackathon",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzVjTE5xMGpxYTRJWmZpcUtndk1lZ1FxLTNHRjhWWUtGSVlvdnZOeHBHU1dJemsyc3NLY2UwU1NJbk42VEdsdFNJSndaV1cyTU5KTzRhZ05ZVWg2WUE3czNXQ2hUd29VVjdmLS1mY0VfS19lSE9Qcmpfc2RNTTNsRV8yRW55N096a1pORnNSY1czNEpYRk8xakdlNA?oc=5\" target=\"_blank\">For the first time, Vietnam is hosting an international hackathon on quantum technology.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "title": "For the first time, Vietnam is hosting an international hackathon on quantum technology. - Vietnam.vn",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzVjTE5xMGpxYTRJWmZpcUtndk1lZ1FxLTNHRjhWWUtGSVlvdnZOeHBHU1dJemsyc3NLY2UwU1NJbk42VEdsdFNJSndaV1cyTU5KTzRhZ05ZVWg2WUE3czNXQ2hUd29VVjdmLS1mY0VfS19lSE9Qcmpfc2RNTTNsRV8yRW55N096a1pORnNSY1czNEpYRk8xakdlNA?oc=5"
+    },
+    {
+      "id": "e552f55a543c4017",
       "matched_keywords": [
         "grant",
         "funding",
@@ -207,8 +256,8 @@
       "published": "2026-07-22T07:00:00Z",
       "query": "quantum computing grant",
       "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBUeGJrb1EtbGRMOE56RkF2YTlrNkNIc0RCYWZld1VWaHNRdkdyczVuTWg5Z1FSTHJEUHBZQXZldzVqcUE0cTdtcmtiU2V1ajU5cXk4N2ppeWQ5ZXhKVkwtYU1kQlRfQmp1MGthMFRBZVlIMndiNTRKT21aMWpxeWs?oc=5\" target=\"_blank\">Which Quantum Computing Stocks Get the Most Government Funding – and Does it Matter?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fool.com</font>",
-      "title": "Which Quantum Computing Stocks Get the Most Government Funding – and Does it Matter? - fool.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBUeGJrb1EtbGRMOE56RkF2YTlrNkNIc0RCYWZld1VWaHNRdkdyczVuTWg5Z1FSTHJEUHBZQXZldzVqcUE0cTdtcmtiU2V1ajU5cXk4N2ppeWQ5ZXhKVkwtYU1kQlRfQmp1MGthMFRBZVlIMndiNTRKT21aMWpxeWs?oc=5\" target=\"_blank\">Which Quantum Computing Stocks Get the Most Government Funding – and Does it Matter?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+      "title": "Which Quantum Computing Stocks Get the Most Government Funding – and Does it Matter? - The Motley Fool",
       "type": "grants",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUeGJrb1EtbGRMOE56RkF2YTlrNkNIc0RCYWZld1VWaHNRdkdyczVuTWg5Z1FSTHJEUHBZQXZldzVqcUE0cTdtcmtiU2V1ajU5cXk4N2ppeWQ5ZXhKVkwtYU1kQlRfQmp1MGthMFRBZVlIMndiNTRKT21aMWpxeWs?oc=5"
     },
@@ -245,22 +294,6 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUVySmpDNVk5MWNYbjE3eFBmRGM1TWI2NElJWUt1bjNjMzVxTDBMWHQ0d2s2dG4taVRETl9oUlU3aWc3Ynd1U25BN1NyVkw4VV9KSXZ1UmxITGtZT0szaVdNN0RpZk9sNlNnZmdiNm9jeGNmT3ZqdERRV1NXREs3X0J6a2NSZFl2ZXhjT3J3QU9SOXJWM2p6anFnZG10Ync?oc=5"
     },
     {
-      "id": "82ac98351e5ccfeb",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum technology"
-      ],
-      "published": "2026-07-21T07:00:00Z",
-      "query": "quantum technology grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSG1WcDdnaEV1ZlBkRG1qWGVaWFRMRzdjb3VQSHV2TW1VQmtFWGNOYWU4X0s1Z092anNRSm5lbXBCLUM1Zm4xU3NXMGtRdG1aaWJiWEFyaWlzbEwyc2NZXzJHWkQyWWZodFRvTmI4SlNGbllVeW4wZjRjQ200aWNaQlpBZjNkVFVIX1Bj?oc=5\" target=\"_blank\">Illinois Governor announces $30M secured in grant funding for quantum technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-      "title": "Illinois Governor announces $30M secured in grant funding for quantum technology - AOL.com",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSG1WcDdnaEV1ZlBkRG1qWGVaWFRMRzdjb3VQSHV2TW1VQmtFWGNOYWU4X0s1Z092anNRSm5lbXBCLUM1Zm4xU3NXMGtRdG1aaWJiWEFyaWlzbEwyc2NZXzJHWkQyWWZodFRvTmI4SlNGbllVeW4wZjRjQ200aWNaQlpBZjNkVFVIX1Bj?oc=5"
-    },
-    {
       "id": "cc72ef9cb7a2edf9",
       "matched_keywords": [
         "intern",
@@ -268,7 +301,7 @@
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-07-21T00:28:00Z",
+      "published": "2026-07-21T07:00:00Z",
       "query": "quantum hackathon",
       "score": 9,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNOS15bWFJYUxRLXpxd3hSSHlLSDJ6cGlZMm9RYUhhcFhGVU1ucTMtQmJKYXpFTHNlTG14TFROcTZ2eVc2YjVmYVQ4MXVQdGt6Vzh5YXJtbHBKZTJSdVRXeHplZmJnbnlzdmNyVkZTa0dTSzZabVZqdmJMQ0FFOGRlY1JIOU1MamtrcW1GQWZyYXc5MjJ1RXlVRlZfdC1ESXFH?oc=5\" target=\"_blank\">Vietnam hosts first international quantum computing hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Báo VietNamNet</font>",
@@ -277,52 +310,20 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOS15bWFJYUxRLXpxd3hSSHlLSDJ6cGlZMm9RYUhhcFhGVU1ucTMtQmJKYXpFTHNlTG14TFROcTZ2eVc2YjVmYVQ4MXVQdGt6Vzh5YXJtbHBKZTJSdVRXeHplZmJnbnlzdmNyVkZTa0dTSzZabVZqdmJMQ0FFOGRlY1JIOU1MamtrcW1GQWZyYXc5MjJ1RXlVRlZfdC1ESXFH?oc=5"
     },
     {
-      "id": "9a829e610f1c2e2a",
+      "id": "c4b116bf8ad80a4b",
       "matched_keywords": [
-        "grant",
-        "funding",
+        "intern",
+        "hackathon",
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-07-14T07:00:00Z",
-      "query": "quantum computing grant",
+      "published": "2026-07-20T07:00:00Z",
+      "query": "quantum hackathon",
       "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQekxldEVZeGt6TlhweHVxSzZjVnlnbjhDQkZrMWRnSzFzak5ZYjU2Rk9sMnBJdndMMXk2ZjBVaXdoUF96ZTdQWEM2MkRZRjJGSFRwM29pUlVoc1N1SDhJdnY4WURSNTVINlQzNlN0YVk2LTNpVElvWUtYVjlRZGNSSjEtZ0gzUm9YTlU1dC1n?oc=5\" target=\"_blank\">CT quantum initiative wins NSF award, unlocking millions in federal funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ctmirror.org</font>",
-      "title": "CT quantum initiative wins NSF award, unlocking millions in federal funding - ctmirror.org",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekxldEVZeGt6TlhweHVxSzZjVnlnbjhDQkZrMWRnSzFzak5ZYjU2Rk9sMnBJdndMMXk2ZjBVaXdoUF96ZTdQWEM2MkRZRjJGSFRwM29pUlVoc1N1SDhJdnY4WURSNTVINlQzNlN0YVk2LTNpVElvWUtYVjlRZGNSSjEtZ0gzUm9YTlU1dC1n?oc=5"
-    },
-    {
-      "id": "19b227d2a6cc712c",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum technology"
-      ],
-      "published": "2026-07-01T07:00:00Z",
-      "query": "quantum technology grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNemZwRnM5VHE4T1lmR0ZqSy11NHIxSDJJeUxvMzBVMEgwREVBZ2xQLURlanBRX3Zha21TUHFPQzQ1MlZoZ25WRW04MWVEdWVFcmZsdHBvSU5KOEhmZzJMR2JONVNPWHRYOVc0VmdERXpyNDRSMmd6ZTRoMmRpVXVobFRhbjcxYl95TUp2dmVXVl9GQzNGUFcxcUE1RQ?oc=5\" target=\"_blank\">NIST funding R&amp;D center to drive U.S. advance of quantum technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Optics.org</font>",
-      "title": "NIST funding R&D center to drive U.S. advance of quantum technologies - Optics.org",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNemZwRnM5VHE4T1lmR0ZqSy11NHIxSDJJeUxvMzBVMEgwREVBZ2xQLURlanBRX3Zha21TUHFPQzQ1MlZoZ25WRW04MWVEdWVFcmZsdHBvSU5KOEhmZzJMR2JONVNPWHRYOVc0VmdERXpyNDRSMmd6ZTRoMmRpVXVobFRhbjcxYl95TUp2dmVXVl9GQzNGUFcxcUE1RQ?oc=5"
-    },
-    {
-      "id": "5cbc536d50a8fc89",
-      "matched_keywords": [
-        "funding",
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-06-24T07:00:00Z",
-      "query": "quantum computing workshop students",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNeUNVSm15aGN6YnBFeVdsTDNEMnl3aTZBbDNIVWtsYlN4QnNHbHN6dGkxYUZ0SjE2cGVYUDhZZElvODVHQVdyOFpUNU5qV0ZnRi03blk5YXlsazZiVmZoQ29pc3VhZlVMOC03SlM2TXVBd0lkbkNUX2FWdUNtYWw1S0wzZTE2SnRxTDhhTExib0pXX0dWdVY1R01aRndhVi1EOG5J?oc=5\" target=\"_blank\">UA Little Rock-Led Quantum Computing Initiative Secures NSF Funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UA Little Rock</font>",
-      "title": "UA Little Rock-Led Quantum Computing Initiative Secures NSF Funding - UA Little Rock",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeUNVSm15aGN6YnBFeVdsTDNEMnl3aTZBbDNIVWtsYlN4QnNHbHN6dGkxYUZ0SjE2cGVYUDhZZElvODVHQVdyOFpUNU5qV0ZnRi03blk5YXlsazZiVmZoQ29pc3VhZlVMOC03SlM2TXVBd0lkbkNUX2FWdUNtYWw1S0wzZTE2SnRxTDhhTExib0pXX0dWdVY1R01aRndhVi1EOG5J?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlpCdm0wS2xfQWthQzlMOVFXcVBVSXFPdk1yYjZWRU1qdlNSc0lrbjlEVE4yVmxhamNTUi1ROGsxdFVMVzE3a1hEWnFoZHV5N2Q2ZUh5aXMwdXVETWRRQVV5RmQ0Y1Vib05yOWtfLWNZbFZlbGszZzJiSkV3VW5QWWR0UWw2MmN4cVBqQXF6cGM1S1BCcHhxUjJ0RkEtWWtVMkFMRU40VDJ2cXU0VTNWcEY5S014QVJL?oc=5\" target=\"_blank\">Vietnam brings together over 500 talented individuals from 30 countries at the International Quantum Computing Hackathon.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Vietnam.vn</font>",
+      "title": "Vietnam brings together over 500 talented individuals from 30 countries at the International Quantum Computing Hackathon. - Vietnam.vn",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlpCdm0wS2xfQWthQzlMOVFXcVBVSXFPdk1yYjZWRU1qdlNSc0lrbjlEVE4yVmxhamNTUi1ROGsxdFVMVzE3a1hEWnFoZHV5N2Q2ZUh5aXMwdXVETWRRQVV5RmQ0Y1Vib05yOWtfLWNZbFZlbGszZzJiSkV3VW5QWWR0UWw2MmN4cVBqQXF6cGM1S1BCcHhxUjJ0RkEtWWtVMkFMRU40VDJ2cXU0VTNWcEY5S014QVJL?oc=5"
     }
   ]
 }
