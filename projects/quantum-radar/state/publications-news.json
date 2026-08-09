@@ -1,6 +1,132 @@
 {
-  "generated_at": "2026-08-07T11:31:17Z",
+  "generated_at": "2026-08-09T11:24:36Z",
   "news": [
+    {
+      "id": "f1a550614b507168",
+      "matched_keywords": [
+        "quantum computing",
+        "photonic quantum"
+      ],
+      "published": "2026-08-09T10:18:45Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNZDFIb2pkSlh5MkhXRk5VbThZWTd4WG1xUzJGcThZaXkxd2drR080SFJvMkhqWVl4RzNNTktPSXNfNzAwNHB2X0gxc2lqUVFaWWNNcHlKSHlodFFmdWdKYkhYcWZVMUJfMGdVRkx5ZUJQSUhKMzM2SWNodE53TzhGd196RQ?oc=5\" target=\"_blank\">Imperial Engineers Build A Reconfigurable Photonic Quantum Chip</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Imperial Engineers Build A Reconfigurable Photonic Quantum Chip - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZDFIb2pkSlh5MkhXRk5VbThZWTd4WG1xUzJGcThZaXkxd2drR080SFJvMkhqWVl4RzNNTktPSXNfNzAwNHB2X0gxc2lqUVFaWWNNcHlKSHlodFFmdWdKYkhYcWZVMUJfMGdVRkx5ZUJQSUhKMzM2SWNodE53TzhGd196RQ?oc=5"
+    },
+    {
+      "id": "6be52afd8e20ec01",
+      "matched_keywords": [
+        "quantum computing",
+        "quantum cryptography"
+      ],
+      "published": "2026-08-08T21:19:30Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNDhFUWFvc2lRbXBaSFVXZVA2SUJqTk91UEllcVdudElFZTBWcWpVd0hiT1hNeHIzRkpJSlZYcFdWSllSdUZQWEJzRUFsV1ZoNkhxRU5vNlpyMVFvR2RrcC1FVUFnNERqSklJb0NtVExIMTlUQ25aMU9NcmNoMGlmY25fZmMyM285Nm9GeWQ2aXpKRmhfWG5QdlJyWWZoWlpiWEhSQllLa1JwcXB2MnlvUlR3S0JUOGthTG91d05QZEhnQkNfc1hoeG15Ri1GWko2N0hvLWg5a3V5LVAwLXpuMGpWR1QzTlRTdmlUYlBINEFOSzExUjFFeVlCbkQ?oc=5\" target=\"_blank\">TOPPAN Develops PQC CARD Dual, the World’s First Dual-Interface Smart Card Featuring Post-Quantum Cryptography</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">markets.businessinsider.com</font>",
+      "title": "TOPPAN Develops PQC CARD Dual, the World’s First Dual-Interface Smart Card Featuring Post-Quantum Cryptography - markets.businessinsider.com",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNDhFUWFvc2lRbXBaSFVXZVA2SUJqTk91UEllcVdudElFZTBWcWpVd0hiT1hNeHIzRkpJSlZYcFdWSllSdUZQWEJzRUFsV1ZoNkhxRU5vNlpyMVFvR2RrcC1FVUFnNERqSklJb0NtVExIMTlUQ25aMU9NcmNoMGlmY25fZmMyM285Nm9GeWQ2aXpKRmhfWG5QdlJyWWZoWlpiWEhSQllLa1JwcXB2MnlvUlR3S0JUOGthTG91d05QZEhnQkNfc1hoeG15Ri1GWko2N0hvLWg5a3V5LVAwLXpuMGpWR1QzTlRTdmlUYlBINEFOSzExUjFFeVlCbkQ?oc=5"
+    },
+    {
+      "id": "e11c37fe813b8c68",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-08-08T19:33:46Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1lieU5yWWM5UmVlYlZ5MG5famVkOW5ZRWNfZ29McTBFM0ZncUx1VGhDZ2kwNUFIckxIUC04WE1MY0l5Z1pMSEVDbVREYllzVnBNcHc1UUE5UzRrSmpIdGx3WFljelpUb2VsVHJrVlIxUnlZak9rT0N1TlQ0R016dEZhOXZNUG9vMWtRV0JYSTgzZjhCOWcyRE9QTjBMaVV5bDA4OFNuU3VfYllrQUc1d1dpR1FfamZ6azNtS1BrTnMtQ3M?oc=5\" target=\"_blank\">Matt Kinsella (Infleqtion): Why Neutral Atoms Power Sensors, Clocks, and Computers Alike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thequantuminsider.com</font>",
+      "title": "Matt Kinsella (Infleqtion): Why Neutral Atoms Power Sensors, Clocks, and Computers Alike - thequantuminsider.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU1lieU5yWWM5UmVlYlZ5MG5famVkOW5ZRWNfZ29McTBFM0ZncUx1VGhDZ2kwNUFIckxIUC04WE1MY0l5Z1pMSEVDbVREYllzVnBNcHc1UUE5UzRrSmpIdGx3WFljelpUb2VsVHJrVlIxUnlZak9rT0N1TlQ0R016dEZhOXZNUG9vMWtRV0JYSTgzZjhCOWcyRE9QTjBMaVV5bDA4OFNuU3VfYllrQUc1d1dpR1FfamZ6azNtS1BrTnMtQ3M?oc=5"
+    },
+    {
+      "id": "48b7f578ea66d9e2",
+      "matched_keywords": [
+        "quantum computing",
+        "photonic quantum"
+      ],
+      "published": "2026-08-07T21:00:01Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQTmhlR3hpd3RkYUplS08tM3BSUmctUkFfSVhZbmNPWFYwSFV3YVJESFhqMnJYZ1g0WFVvNWV4REtHNmIxVS15NTZYMUNfUGRDRHF3MFM3RzdUY01Xa05Vc2VtSEZBLWk4LXNCa0YxQ21iYkdqaVhPQ1F4eWlsVk50WjFlWnVkRnhLMzZ6NjBn?oc=5\" target=\"_blank\">New 'shape-shifting' architecture brings versatility to photonic quantum computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Phys.org</font>",
+      "title": "New 'shape-shifting' architecture brings versatility to photonic quantum computing - Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTmhlR3hpd3RkYUplS08tM3BSUmctUkFfSVhZbmNPWFYwSFV3YVJESFhqMnJYZ1g0WFVvNWV4REtHNmIxVS15NTZYMUNfUGRDRHF3MFM3RzdUY01Xa05Vc2VtSEZBLWk4LXNCa0YxQ21iYkdqaVhPQ1F4eWlsVk50WjFlWnVkRnhLMzZ6NjBn?oc=5"
+    },
+    {
+      "id": "2a23f65f230f2fe8",
+      "matched_keywords": [
+        "quantum computing",
+        "quantum architecture"
+      ],
+      "published": "2026-08-07T17:13:29Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaVhDYmlYOVBuaDVSLWpoSmg1N3pYc3pzV3FBc3hwSDZINGFtdDI0SGNiaEhMZVY1UjlBVHVBUHp2VF91VGEzUUpOMXkwWWVUU3hPZ05HSUF1d3dNZ2Z4a0tvMlktLXhXSHRuMnVGZ2NCRlRGRFRhdVNHTmdRcHo1VVNpYzFiQVNUSlVPUElxckRVckRTVnVkNF9RNjZQRjg2WU9UUk0yYzJwYXJsd0JCTXBGMy1GaFFuejAybHIzaDdYNlM3VHctdXZHaGhlbGdGQ3NBM21JTQ?oc=5\" target=\"_blank\">D-Wave Intros Two-Qubit, Error Correcting Gate For Its Dual-Rail Quantum Architecture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Next Platform</font>",
+      "title": "D-Wave Intros Two-Qubit, Error Correcting Gate For Its Dual-Rail Quantum Architecture - The Next Platform",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaVhDYmlYOVBuaDVSLWpoSmg1N3pYc3pzV3FBc3hwSDZINGFtdDI0SGNiaEhMZVY1UjlBVHVBUHp2VF91VGEzUUpOMXkwWWVUU3hPZ05HSUF1d3dNZ2Z4a0tvMlktLXhXSHRuMnVGZ2NCRlRGRFRhdVNHTmdRcHo1VVNpYzFiQVNUSlVPUElxckRVckRTVnVkNF9RNjZQRjg2WU9UUk0yYzJwYXJsd0JCTXBGMy1GaFFuejAybHIzaDdYNlM3VHctdXZHaGhlbGdGQ3NBM21JTQ?oc=5"
+    },
+    {
+      "id": "7574b23336ed8921",
+      "matched_keywords": [
+        "quantum computing",
+        "error correction"
+      ],
+      "published": "2026-08-07T17:10:23Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejRKSWdZVVRYM1dHVHpLUHRETkJwSDd5NkptTFpnMm1aZVpndzhFeTV2WjREN0ZKRk9oaFcxM2M2SWdYTm9YcEpjWkcyTFo0OHBKYmpzZUwzeWk3YzM3ODFrU0NWM3NyVEhrM2pFOVV5djQyYmxVMEdkZEhiRFJ1bTNMWHRRQVM2T05JNjVRQW00bFk3U2FCelNFSHJsR1A3WE1mMlBsQ0RWdlk5amkxQXdNY053SmFKQzlGZjQ3aXo?oc=5\" target=\"_blank\">D-Wave’s $550M Quantum Computing Bet Makes Error Correction 10X Cheaper</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "title": "D-Wave’s $550M Quantum Computing Bet Makes Error Correction 10X Cheaper - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNejRKSWdZVVRYM1dHVHpLUHRETkJwSDd5NkptTFpnMm1aZVpndzhFeTV2WjREN0ZKRk9oaFcxM2M2SWdYTm9YcEpjWkcyTFo0OHBKYmpzZUwzeWk3YzM3ODFrU0NWM3NyVEhrM2pFOVV5djQyYmxVMEdkZEhiRFJ1bTNMWHRRQVM2T05JNjVRQW00bFk3U2FCelNFSHJsR1A3WE1mMlBsQ0RWdlk5amkxQXdNY053SmFKQzlGZjQ3aXo?oc=5"
+    },
+    {
+      "id": "0e64d10170d25deb",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-08-07T16:46:24Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE85RFVFRnJqZ2xWX2hoTjZ5WEJrZC13NWFxb2tOSWVUVTBBZVRTbGRoNXRWc3NCWlhaUDdibEQ3T003WDdzcjZKSWR3ZHRReno2UXRBVW13?oc=5\" target=\"_blank\">Sponsored Content: Photonics – a key enabling technology in the quantum world</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Electronics Weekly</font>",
+      "title": "Sponsored Content: Photonics – a key enabling technology in the quantum world - Electronics Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85RFVFRnJqZ2xWX2hoTjZ5WEJrZC13NWFxb2tOSWVUVTBBZVRTbGRoNXRWc3NCWlhaUDdibEQ3T003WDdzcjZKSWR3ZHRReno2UXRBVW13?oc=5"
+    },
+    {
+      "id": "fb18efc741ef0a36",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-08-07T15:00:00Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxOaVlWNXpsck9hcjNUM1F2akJadWtidm9KZUVkUDBTX19MMkJJZV9sUWlKUVdWX1pQTXMwYUh3QW5YZ1BtZGxrMTE4WF9INkZ6M0JrcjFwTmRFNm16bXYwSUFKRjBodkRfS2wtejVKVzZ1TzhqN3dzNHZINVltOS1Kb0ZHQWwxRE1rRDdqSlhIRG5xTFl3THhqQzhqWGZTSVZFQ3NSeE9jZl9zbHpydmtVUlg0SUphZVBGTjNrLXV5ZVdkYjA0RGc3bzlhYnNCM2tWMmdxZTZCeXl1NE5yYVdReWpLbE9tQTQtLTRTT3hoR1k5SmVlZG5Sa0lYN1hTc1VJMHc?oc=5\" target=\"_blank\">Chicago’s quantum explosion: Infleqtion opens new West Loop quantum innovation center</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">chicagostarmedia.com</font>",
+      "title": "Chicago’s quantum explosion: Infleqtion opens new West Loop quantum innovation center - chicagostarmedia.com",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOaVlWNXpsck9hcjNUM1F2akJadWtidm9KZUVkUDBTX19MMkJJZV9sUWlKUVdWX1pQTXMwYUh3QW5YZ1BtZGxrMTE4WF9INkZ6M0JrcjFwTmRFNm16bXYwSUFKRjBodkRfS2wtejVKVzZ1TzhqN3dzNHZINVltOS1Kb0ZHQWwxRE1rRDdqSlhIRG5xTFl3THhqQzhqWGZTSVZFQ3NSeE9jZl9zbHpydmtVUlg0SUphZVBGTjNrLXV5ZVdkYjA0RGc3bzlhYnNCM2tWMmdxZTZCeXl1NE5yYVdReWpLbE9tQTQtLTRTT3hoR1k5SmVlZG5Sa0lYN1hTc1VJMHc?oc=5"
+    },
+    {
+      "id": "fceea1b58bcbafb7",
+      "matched_keywords": [
+        "quantum computing",
+        "quantum cryptography"
+      ],
+      "published": "2026-08-07T14:53:42Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOb21Vd1ZvZm9KNG5fU2tHXzJSTFlsd1FBc0c3WWFlaTFnS3BHRXJGRWZXU3YxYTJjeXhpdGpHV3RIU2E2R2JEMmN4SHAwdlpQdUFCSkFUX2ZlYWpibjBaOUI0NkdwdERDRXZkZlA5SHRFaWZEUFFYbGdiRTcxYlVKLW1Jdw?oc=5\" target=\"_blank\">Post-Quantum Cryptography Timelines: When Will Organizations Migrate?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thequantuminsider.com</font>",
+      "title": "Post-Quantum Cryptography Timelines: When Will Organizations Migrate? - thequantuminsider.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb21Vd1ZvZm9KNG5fU2tHXzJSTFlsd1FBc0c3WWFlaTFnS3BHRXJGRWZXU3YxYTJjeXhpdGpHV3RIU2E2R2JEMmN4SHAwdlpQdUFCSkFUX2ZlYWpibjBaOUI0NkdwdERDRXZkZlA5SHRFaWZEUFFYbGdiRTcxYlVKLW1Jdw?oc=5"
+    },
     {
       "id": "92df552d7f59b6fa",
       "matched_keywords": [
@@ -16,21 +142,7 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBwTkxKdzdxODYwdHptMW04WnFTRGV4THJfOHAzY1lNTi0zMGFEQ0lUWl9nYU9YbHIwYllaVm9FdlJxc2VWRWRQek5sS2ZTRHctT1I2cU5aMlhzM2pDbXlBX1JTcEJZM2dSbzE5QzNHX2dpcUVYSFQ4?oc=5"
     },
     {
-      "id": "afc0a5b3aaa69d6d",
-      "matched_keywords": [
-        "quantum computing",
-        "quantum algorithm"
-      ],
-      "published": "2026-08-06T17:58:17Z",
-      "query": "quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3V0TXBUU2ZMTWNrUi1xU3dYOVg4aVFTUDhvMm50UjZVek5JSVNTeGZxcndBNnlGcmUzb2hrMG9oVmY1dDhxeWkxMVNnSktlcUk4WDU0ZnluOFlEU05ieHRtTHU4SW1wQ255aUhZS1pzTmJpMHJ1Yl81RlhSNmtRTzlhcU1VTThuZk5Sb1NOVjRnQ1FKQU9DNW5HOWlaZ1pSaVJiWjZVaDVtMno5MTB3ckNYVkVnaWM?oc=5\" target=\"_blank\">Amazon Researcher Claims Quantum Algorithm Could Challenge PQC Foundations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "Amazon Researcher Claims Quantum Algorithm Could Challenge PQC Foundations - The Quantum Insider",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ3V0TXBUU2ZMTWNrUi1xU3dYOVg4aVFTUDhvMm50UjZVek5JSVNTeGZxcndBNnlGcmUzb2hrMG9oVmY1dDhxeWkxMVNnSktlcUk4WDU0ZnluOFlEU05ieHRtTHU4SW1wQ255aUhZS1pzTmJpMHJ1Yl81RlhSNmtRTzlhcU1VTThuZk5Sb1NOVjRnQ1FKQU9DNW5HOWlaZ1pSaVJiWjZVaDVtMno5MTB3ckNYVkVnaWM?oc=5"
-    },
-    {
-      "id": "9d27d4867e99e59a",
+      "id": "fb0a15c26c3ae531",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
@@ -39,12 +151,12 @@
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUg4UTU1d0tWMXd4VXVRbnZjTEdPbFNIcG1YRHc1YVFkNzRKMXphcFduVUplSTRya1AyUnNvYzJKZGNYeTdNSGR6QnpZRjNDbGgwRTNEWVhsMVpRaEdsc2Q0dE5SaDAtLTZWM0l4U1RmcTdlNURBUEY0NmVKMzdqd3NPRUR6WjJ3VEtNTEoxcDdaX00wcWEtcXA0dEt5V1M3djNOTF9yVXk4RU1ETWVSY1pR?oc=5\" target=\"_blank\">Pasqal Receives SEC Clearance for Proposed SPAC Combination With Bleichroeder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "Pasqal Receives SEC Clearance for Proposed SPAC Combination With Bleichroeder - The Quantum Insider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUg4UTU1d0tWMXd4VXVRbnZjTEdPbFNIcG1YRHc1YVFkNzRKMXphcFduVUplSTRya1AyUnNvYzJKZGNYeTdNSGR6QnpZRjNDbGgwRTNEWVhsMVpRaEdsc2Q0dE5SaDAtLTZWM0l4U1RmcTdlNURBUEY0NmVKMzdqd3NPRUR6WjJ3VEtNTEoxcDdaX00wcWEtcXA0dEt5V1M3djNOTF9yVXk4RU1ETWVSY1pR?oc=5\" target=\"_blank\">Pasqal Receives SEC Clearance for Proposed SPAC Combination With Bleichroeder</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thequantuminsider.com</font>",
+      "title": "Pasqal Receives SEC Clearance for Proposed SPAC Combination With Bleichroeder - thequantuminsider.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeUg4UTU1d0tWMXd4VXVRbnZjTEdPbFNIcG1YRHc1YVFkNzRKMXphcFduVUplSTRya1AyUnNvYzJKZGNYeTdNSGR6QnpZRjNDbGgwRTNEWVhsMVpRaEdsc2Q0dE5SaDAtLTZWM0l4U1RmcTdlNURBUEY0NmVKMzdqd3NPRUR6WjJ3VEtNTEoxcDdaX00wcWEtcXA0dEt5V1M3djNOTF9yVXk4RU1ETWVSY1pR?oc=5"
     },
     {
-      "id": "ba70e90560a82719",
+      "id": "75d3f339365c293a",
       "matched_keywords": [
         "quantum computing",
         "error correction"
@@ -53,121 +165,9 @@
       "query": "fault tolerant quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAzTWtvcm5rdEJ3ME5taE0wMXpoNEpsMllDZ0c1N3Rncmg5d2NrSExPeDZMWlN6em1oY3Y4dEVxSkRIME15R3lKZHhzTzdtVDFWazZ0a2JQVGRxYU5GbDE5VmlWSURZN2ViMGNjcW01aEVzYmJwQkgwcExFMkxEUQ?oc=5\" target=\"_blank\">D-Wave advances quantum error correction ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eenewseurope.com</font>",
-      "title": "D-Wave advances quantum error correction ... - eenewseurope.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFAzTWtvcm5rdEJ3ME5taE0wMXpoNEpsMllDZ0c1N3Rncmg5d2NrSExPeDZMWlN6em1oY3Y4dEVxSkRIME15R3lKZHhzTzdtVDFWazZ0a2JQVGRxYU5GbDE5VmlWSURZN2ViMGNjcW01aEVzYmJwQkgwcExFMkxEUQ?oc=5\" target=\"_blank\">D-Wave advances quantum error correction ...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eeNews Europe</font>",
+      "title": "D-Wave advances quantum error correction ... - eeNews Europe",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAzTWtvcm5rdEJ3ME5taE0wMXpoNEpsMllDZ0c1N3Rncmg5d2NrSExPeDZMWlN6em1oY3Y4dEVxSkRIME15R3lKZHhzTzdtVDFWazZ0a2JQVGRxYU5GbDE5VmlWSURZN2ViMGNjcW01aEVzYmJwQkgwcExFMkxEUQ?oc=5"
-    },
-    {
-      "id": "d4128a1e44ff4c10",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-08-06T06:52:48Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNUhJUmFvXzRsTkpJN0c4bk9WVFQ5QXJ1cjFmZF9xR25DcVBRU2YtSDBtUFptMm1oWEtQU25KRjB2S043Tldha3Y1OW5jakJmX0ZBR00tMDF3VV9ud3V0VGhXSFhHZ2Y0RTByMG9la3hxcGhrdHlrSzhRV1dab0lTamZ3QS1MVi0xMldpZ2JOaHlwWER5VXFqdjNGbGVqbjViMzVaUVlaeEhPZWtmMnV3TGJ3MTF5ZjF5MzhrMTVFNy0zVTRlQ0UxYXdPcUt4a2daSVUxa20tRzNnc1Y3c09N?oc=5\" target=\"_blank\">Photons for Reach, Atoms for Entanglement: A Compound Photon-Atom Blueprint for Fault-Tolerant Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "Photons for Reach, Atoms for Entanglement: A Compound Photon-Atom Blueprint for Fault-Tolerant Quantum Computing - The Quantum Insider",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNUhJUmFvXzRsTkpJN0c4bk9WVFQ5QXJ1cjFmZF9xR25DcVBRU2YtSDBtUFptMm1oWEtQU25KRjB2S043Tldha3Y1OW5jakJmX0ZBR00tMDF3VV9ud3V0VGhXSFhHZ2Y0RTByMG9la3hxcGhrdHlrSzhRV1dab0lTamZ3QS1MVi0xMldpZ2JOaHlwWER5VXFqdjNGbGVqbjViMzVaUVlaeEhPZWtmMnV3TGJ3MTF5ZjF5MzhrMTVFNy0zVTRlQ0UxYXdPcUt4a2daSVUxa20tRzNnc1Y3c09N?oc=5"
-    },
-    {
-      "id": "def8aa50704f7b4c",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-08-05T20:15:22Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlc4cEFGU2M5RjI3Uk1qc0lNaXFHT2RrZzliRkc3UGtCS3FLNkVfb3NKbzhNRTg1OGVkajBCOEM4LTRTTmNYRDA3NjM5Zy1VUW1FX3NvMi1hVkUzMTVyRHNIdEpNbVVWWmp1TGR3Tm1Lc3RMV2ZBaFYyWW4xNkVfQXp5ZWtONHpveVF6cGRTdU9qVjNubHU2S21XRQ?oc=5\" target=\"_blank\">Silicon Superconducting Modality Stakes a Claim in Quantum Landscape</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications of the ACM</font>",
-      "title": "Silicon Superconducting Modality Stakes a Claim in Quantum Landscape - Communications of the ACM",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlc4cEFGU2M5RjI3Uk1qc0lNaXFHT2RrZzliRkc3UGtCS3FLNkVfb3NKbzhNRTg1OGVkajBCOEM4LTRTTmNYRDA3NjM5Zy1VUW1FX3NvMi1hVkUzMTVyRHNIdEpNbVVWWmp1TGR3Tm1Lc3RMV2ZBaFYyWW4xNkVfQXp5ZWtONHpveVF6cGRTdU9qVjNubHU2S21XRQ?oc=5"
-    },
-    {
-      "id": "53c47da020ce97f7",
-      "matched_keywords": [
-        "quantum computing",
-        "error correction"
-      ],
-      "published": "2026-08-05T19:57:48Z",
-      "query": "quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUXdzYUhpUUJqbUhzbzJla3RicmxaYWJocFNSV09DMnBkdnJWeWFLQmxsdEc1bnl3T3czdjR2ME51RFdoQXJ6M1d5M3ZBU095NHY3QThkSnlBcjhIbWFLRFhnWExEdUFBck5JdW1GaHIwMTU3ZnlPRU53UXFfMnlUR2hCeTd1SThmb3JfSTl5MDhxLVVEaVI2ZXo5TUNtR3M2VTY2d3hBazZSY1FrMDBMeWtrVmV1NW8zWjlpTGp4SEdoRDRhQkpDQ19ZekVETnBqTkE5VU5VZVh4VTBaU0owQkRVT2JGSnJZTXQweW4ybHBTYVdZTk1oRGlEU2pOaVFIelhIZ3lRNkc4THc?oc=5\" target=\"_blank\">D-Wave Demonstrates Major Hardware Breakthrough for Quantum Error Correction, Advancing the Path to Practical, Fault-Tolerant Gate-Model Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing News Network</font>",
-      "title": "D-Wave Demonstrates Major Hardware Breakthrough for Quantum Error Correction, Advancing the Path to Practical, Fault-Tolerant Gate-Model Quantum Computing - Investing News Network",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUXdzYUhpUUJqbUhzbzJla3RicmxaYWJocFNSV09DMnBkdnJWeWFLQmxsdEc1bnl3T3czdjR2ME51RFdoQXJ6M1d5M3ZBU095NHY3QThkSnlBcjhIbWFLRFhnWExEdUFBck5JdW1GaHIwMTU3ZnlPRU53UXFfMnlUR2hCeTd1SThmb3JfSTl5MDhxLVVEaVI2ZXo5TUNtR3M2VTY2d3hBazZSY1FrMDBMeWtrVmV1NW8zWjlpTGp4SEdoRDRhQkpDQ19ZekVETnBqTkE5VU5VZVh4VTBaU0owQkRVT2JGSnJZTXQweW4ybHBTYVdZTk1oRGlEU2pOaVFIelhIZ3lRNkc4THc?oc=5"
-    },
-    {
-      "id": "4030f45cb8f555bf",
-      "matched_keywords": [
-        "quantum computing",
-        "error correction"
-      ],
-      "published": "2026-08-05T18:22:33Z",
-      "query": "fault tolerant quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2h3ZFBqY3ZKU2JTN21LNHpZRjVxc2g3a0dxalFvaDdvVzBaVm9Zd25YM0NJa1VfTUlDU294dGQ4eGhqUEU2bGF2c3JyTkxYcC1QRlIwMm96UzdZMUhZdDUxYnJyN1M4M09LZ3VqRXIwOTBITXc4QVNZeHFXZWp3RW8xeVY?oc=5\" target=\"_blank\">D-Wave Demonstrates Major Hardware Breakthrough for Quantum Error Correction, Advancing the Path to Practical, Fault-Tolerant Gate-Model Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AOL.com</font>",
-      "title": "D-Wave Demonstrates Major Hardware Breakthrough for Quantum Error Correction, Advancing the Path to Practical, Fault-Tolerant Gate-Model Quantum Computing - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2h3ZFBqY3ZKU2JTN21LNHpZRjVxc2g3a0dxalFvaDdvVzBaVm9Zd25YM0NJa1VfTUlDU294dGQ4eGhqUEU2bGF2c3JyTkxYcC1QRlIwMm96UzdZMUhZdDUxYnJyN1M4M09LZ3VqRXIwOTBITXc4QVNZeHFXZWp3RW8xeVY?oc=5"
-    },
-    {
-      "id": "26e9e197f0bc13be",
-      "matched_keywords": [
-        "quantum computing",
-        "surface code"
-      ],
-      "published": "2026-08-05T17:01:54Z",
-      "query": "fault tolerant quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQMlAwM0xJc1hKbENTZndtaTJUQnFxTHVNcHhFb3hCTEFvLUo2bGtzOHRqNWc0bWw2MWQxNW1VZWFVVWlrLU5SZTg2dEZGSkx6b2R2YVBSY3pmVWJGUE41bW9rSGZKZmxJeHBKSHluSi10N3IxOWdKMkhVOHZRZkVZdGNmYnQyRXBWZXlSX21R?oc=5\" target=\"_blank\">Better Accounting For Qubit Errors Boosts Surface Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Better Accounting For Qubit Errors Boosts Surface Code - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMlAwM0xJc1hKbENTZndtaTJUQnFxTHVNcHhFb3hCTEFvLUo2bGtzOHRqNWc0bWw2MWQxNW1VZWFVVWlrLU5SZTg2dEZGSkx6b2R2YVBSY3pmVWJGUE41bW9rSGZKZmxJeHBKSHluSi10N3IxOWdKMkhVOHZRZkVZdGNmYnQyRXBWZXlSX21R?oc=5"
-    },
-    {
-      "id": "e1c8646063ebd373",
-      "matched_keywords": [
-        "quantum computing",
-        "error correction"
-      ],
-      "published": "2026-08-05T16:21:50Z",
-      "query": "quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFladTcyNElvejBXYWJRbjV6WE1VQ29ZbURZdlVZUXV6azRRZGxIQmNqSVVDQkhkMWJWS3daLWw5U0lNd2JYckoyS2w5Nzh4VjhIUEN6TFFyaFROX3B0ZGx3MjVPREkxbkN5SC1YX2U3UXE2ai1lTUpPSm1uRGFxdGt0amluRTZtVmJXZnJ2Y3NIX3hBamFNLUFONTd2dFlNYVhBaVBVWmpvRDJpZlhFemtvWFFrVWRUNnk0SA?oc=5\" target=\"_blank\">D-Wave Publishes Research on Dual-Rail Qubit Gate for Quantum Error Correction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "D-Wave Publishes Research on Dual-Rail Qubit Gate for Quantum Error Correction - The Quantum Insider",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRFladTcyNElvejBXYWJRbjV6WE1VQ29ZbURZdlVZUXV6azRRZGxIQmNqSVVDQkhkMWJWS3daLWw5U0lNd2JYckoyS2w5Nzh4VjhIUEN6TFFyaFROX3B0ZGx3MjVPREkxbkN5SC1YX2U3UXE2ai1lTUpPSm1uRGFxdGt0amluRTZtVmJXZnJ2Y3NIX3hBamFNLUFONTd2dFlNYVhBaVBVWmpvRDJpZlhFemtvWFFrVWRUNnk0SA?oc=5"
-    },
-    {
-      "id": "0771ca01876277c1",
-      "matched_keywords": [
-        "quantum computing",
-        "error correction"
-      ],
-      "published": "2026-08-05T15:05:23Z",
-      "query": "fault tolerant quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxOV0dWaTcyR0Ntd2o4ZUt3ZkJwRTc4UlgyWDE4bGZxeVBrZE9OMFg5TjIzYzhDMmpjc2lvOEVOMDVzcHNjWUhwR19IQWFVSmxGbm5tVC1zOXRZOU5reUw3VVV0YXljQlpLLXdOc1k4RGRSb29SMjE1VUtwV0FZcmVSX25HZV8tZ3ZXVWR6ZUxoR3U2cU1jT3Z0QUZJQWpqSmRwOUVncHBVaTBGbnR4RHZGMjk1UXk2eWVJWWxyNlhGVVNsd0hBeXQ5Y0VoRGQ5RnUzYVVieURueXhNQnl3c1V6Sk41dk4tZTA0eGR1UHI2YXRNZDBYbXI2Y3lGQlJueXd2bERHWlh5M3FHVWlIRG5sUHdMVG1zVDdOS2tSa05HSVkxMkhMUFJONg?oc=5\" target=\"_blank\">D-Wave Demonstrates Major Hardware Breakthrough for Quantum Error Correction, Advancing the Path to Practical, Fault-Tolerant Gate-Model Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">New Castle News</font>",
-      "title": "D-Wave Demonstrates Major Hardware Breakthrough for Quantum Error Correction, Advancing the Path to Practical, Fault-Tolerant Gate-Model Quantum Computing - New Castle News",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOV0dWaTcyR0Ntd2o4ZUt3ZkJwRTc4UlgyWDE4bGZxeVBrZE9OMFg5TjIzYzhDMmpjc2lvOEVOMDVzcHNjWUhwR19IQWFVSmxGbm5tVC1zOXRZOU5reUw3VVV0YXljQlpLLXdOc1k4RGRSb29SMjE1VUtwV0FZcmVSX25HZV8tZ3ZXVWR6ZUxoR3U2cU1jT3Z0QUZJQWpqSmRwOUVncHBVaTBGbnR4RHZGMjk1UXk2eWVJWWxyNlhGVVNsd0hBeXQ5Y0VoRGQ5RnUzYVVieURueXhNQnl3c1V6Sk41dk4tZTA0eGR1UHI2YXRNZDBYbXI2Y3lGQlJueXd2bERHWlh5M3FHVWlIRG5sUHdMVG1zVDdOS2tSa05HSVkxMkhMUFJONg?oc=5"
-    },
-    {
-      "id": "5a7d287632da5fc9",
-      "matched_keywords": [
-        "quantum computing",
-        "error correction"
-      ],
-      "published": "2026-08-05T15:05:00Z",
-      "query": "quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswJBVV95cUxNWjNwN3lheVRUeEVBeFFNdnloV0prQ2RBUlpja3RrajhaZEZYYkhZeVVvbGZ6LVpISGtSMEZCTWE4dTBHWXhvNVlMbjVDWGx3VmtrbnlZWUdQZ0VoYWtNaGVYU2tsNGtZcERzb01LODVHLU1IZVhpbElrLU1WNkxvZlZSS29ZaUhMaXlPNWVZNkFBdXM4ZHpBTkliNXVBLWJla1R5Y0Q4aTA1Z1BYSnhoVHhqWVRZZHRhTlRRNW9najl3bkx5d1JJcUp2ekNnWkpfYUVmZ0hMR1FWaHZUdktfNjAzQ1hlSjFETnU3bk4zRHZXRXNMYkVXWkFsQVc1b1BNWkZTTXF6THVEVzRfU2JjWFA5dDh4Z3RkdVE5bTBIQm1CXzRsaXRCRW1FNmdDMGhpMzNJ?oc=5\" target=\"_blank\">D-Wave Demonstrates Major Hardware Breakthrough for Quantum Error Correction, Advancing the Path to Practical, Fault-Tolerant Gate-Model Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
-      "title": "D-Wave Demonstrates Major Hardware Breakthrough for Quantum Error Correction, Advancing the Path to Practical, Fault-Tolerant Gate-Model Quantum Computing - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNWjNwN3lheVRUeEVBeFFNdnloV0prQ2RBUlpja3RrajhaZEZYYkhZeVVvbGZ6LVpISGtSMEZCTWE4dTBHWXhvNVlMbjVDWGx3VmtrbnlZWUdQZ0VoYWtNaGVYU2tsNGtZcERzb01LODVHLU1IZVhpbElrLU1WNkxvZlZSS29ZaUhMaXlPNWVZNkFBdXM4ZHpBTkliNXVBLWJla1R5Y0Q4aTA1Z1BYSnhoVHhqWVRZZHRhTlRRNW9najl3bkx5d1JJcUp2ekNnWkpfYUVmZ0hMR1FWaHZUdktfNjAzQ1hlSjFETnU3bk4zRHZXRXNMYkVXWkFsQVc1b1BNWkZTTXF6THVEVzRfU2JjWFA5dDh4Z3RkdVE5bTBIQm1CXzRsaXRCRW1FNmdDMGhpMzNJ?oc=5"
     }
   ],
   "publications": [
