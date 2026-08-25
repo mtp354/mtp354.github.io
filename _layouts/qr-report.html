@@ -11,6 +11,6 @@ layout: single
 </div>
 
 <script src="{{ '/assets/js/qr-collapse.js' | relative_url }}" defer></script>
-{% if page.report_type == 'publicly-traded' %}
+{% if page.report_type == 'publicly-traded' or page.report_type == 'quantum-industry' %}
   <script src="{{ '/assets/js/qr-sparklines.js' | relative_url }}" defer></script>
 {% endif %}

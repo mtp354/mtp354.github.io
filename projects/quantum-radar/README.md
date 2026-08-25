@@ -16,9 +16,9 @@ Four unattended jobs:
 3. **Movers & Shakers** — a hand-curated list of leading quantum companies,
    influential university labs, and notable people in the field. Updated by
    editing `_quantum_radar/movers-shakers-*.md` directly.
-4. **Publicly Traded Quantum** — daily refresh of stock prices for the main
-   publicly listed quantum-primary companies and a couple of broad quantum
-   ETFs (`fetch_stock_prices.py`).
+4. **Quantum Industry** — daily public-market snapshot for listed quantum
+   companies, broad quantum ETFs, and directional investment/workforce
+   estimates (`fetch_stock_prices.py`).
 
 ## Layout
 

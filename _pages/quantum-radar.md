@@ -21,8 +21,9 @@ Here is what it currently tracks:
   two days.
 - **Movers & Shakers** — a hand-curated list of leading quantum companies,
   influential university labs, and people doing notable work in the field.
-- **Publicly Traded Quantum** — primary publicly listed quantum companies
-  and a couple of broad quantum ETFs, with stock prices refreshed daily.
+- **Quantum Industry** — publicly listed quantum companies, broad quantum ETFs,
+  and directional investment/workforce estimates refreshed with the daily
+  market snapshot.
 
 The orchestrator code lives at
 [`projects/quantum-radar/`]({{ site.repository | prepend: 'https://github.com/' }}/tree/main/projects/quantum-radar)
@@ -32,13 +33,18 @@ in this same repo.
 
 {% include base_path %}
 
-{% assign report_types = "opportunities,publications-news,movers-shakers,publicly-traded" | split: "," %}
-{% assign type_labels = "Opportunities,Publications & news,Movers & Shakers,Publicly Traded Quantum" | split: "," %}
+{% assign report_types = "opportunities,publications-news,movers-shakers,quantum-industry" | split: "," %}
+{% assign type_labels = "Opportunities,Publications & news,Movers & Shakers,Quantum Industry" | split: "," %}
 
 {% for rt in report_types %}
   {% assign idx = forloop.index0 %}
   {% assign label = type_labels[idx] %}
-  {% assign entries = site.quantum_radar | where: "report_type", rt | sort: "date" | reverse %}
+  {% assign entries = site.quantum_radar | where: "report_type", rt %}
+  {% if rt == "quantum-industry" %}
+    {% assign legacy_entries = site.quantum_radar | where: "report_type", "publicly-traded" %}
+    {% assign entries = entries | concat: legacy_entries %}
+  {% endif %}
+  {% assign entries = entries | sort: "date" | reverse %}
 
   <h2 id="{{ rt }}">{{ label }}</h2>
 
@@ -46,16 +52,24 @@ in this same repo.
   _No entries yet._
   {% else %}
   {% assign latest = entries | first %}
+  {% assign latest_title = latest.title %}
+  {% if rt == "quantum-industry" and latest.report_type == "publicly-traded" %}
+    {% assign latest_title = latest_title | replace: "Publicly Traded Quantum", "Quantum Industry" %}
+  {% endif %}
 
-  **Latest:** [{{ latest.title }}]({{ latest.url | relative_url }}) &mdash; {{ latest.date | date: "%B %-d, %Y" }}
+  **Latest:** [{{ latest_title }}]({{ latest.url | relative_url }}) &mdash; {{ latest.date | date: "%B %-d, %Y" }}
 
   {% if entries.size > 1 %}
   <details>
     <summary>Archive ({{ entries.size }} entries)</summary>
     <ul>
     {% for e in entries %}
+      {% assign entry_title = e.title %}
+      {% if rt == "quantum-industry" and e.report_type == "publicly-traded" %}
+        {% assign entry_title = entry_title | replace: "Publicly Traded Quantum", "Quantum Industry" %}
+      {% endif %}
       <li>
-        <a href="{{ e.url | relative_url }}">{{ e.date | date: "%Y-%m-%d" }}</a> &mdash; {{ e.title }}
+        <a href="{{ e.url | relative_url }}">{{ e.date | date: "%Y-%m-%d" }}</a> &mdash; {{ entry_title }}
       </li>
     {% endfor %}
     </ul>

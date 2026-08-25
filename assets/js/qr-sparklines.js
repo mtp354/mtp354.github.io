@@ -1,4 +1,4 @@
-// Sparkline renderer for Quantum Radar publicly-traded reports.
+// Sparkline renderer for Quantum Radar market snapshot reports.
 // Reads JSON from <script type="application/json" id="qr-spark-data"> and
 // draws inline SVG sparklines into elements with data-spark="TICKER".
 (function () {

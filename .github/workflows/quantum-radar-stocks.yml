@@ -1,4 +1,4 @@
-name: Quantum Radar — Publicly Traded prices
+name: Quantum Radar — Quantum Industry snapshot
 
 on:
   workflow_dispatch:
@@ -29,7 +29,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Fetch stock prices
+      - name: Fetch quantum industry snapshot
         run: python scripts/fetch_stock_prices.py
 
       - name: Commit updates
@@ -42,5 +42,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add _quantum_radar
-          git commit -m "chore(quantum-radar): refresh publicly-traded prices"
+          git commit -m "chore(quantum-radar): refresh quantum industry snapshot"
           git push origin HEAD:${{ github.ref_name }}
