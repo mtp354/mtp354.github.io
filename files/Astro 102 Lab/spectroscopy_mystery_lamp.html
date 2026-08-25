@@ -1,0 +1,224 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Virtual Grating Spectrometer</title>
+<style>
+body{font-family:Arial,sans-serif;margin:0;background:#111;color:#eee}
+.wrap{display:flex;gap:8px;align-items:flex-start;padding:8px}
+.panel{padding:0;border:none}
+canvas{background:#1a1a1a;border:1px solid #555}
+.readout{font-size:32px;margin-top:10px}
+</style>
+</head>
+<body>
+<div style="text-align:center;font-family:Arial,sans-serif;color:#eee;font-size:42px;font-weight:bold;margin-top:10px;">
+Spectroscopy
+</div>
+<div class="wrap">
+<div class="panel"><div style="text-align:center;font-size:24px;margin-bottom:8px;">Top View</div><canvas id="top" width="760" height="620"></canvas>
+
+</div>
+
+<div class="panel"><div style="text-align:center;font-size:24px;margin-bottom:8px;">Telescope View</div><canvas id="view" width="420" height="420"></canvas>
+
+</div>
+</div>
+
+<script>
+const topc=document.getElementById("top");
+const ctx=topc.getContext("2d");
+const view=document.getElementById("view");
+const vctx=view.getContext("2d");
+
+let angle=50;
+let dragging=false;
+let startMouseAngle=0;
+let startAngle=50;
+
+const gx=430, gy=250;
+const vernierRadius=210;
+
+const lines=[
+ {left:44,right:56,color:"#bb55ff"},
+ {left:42.25,right:57.75,color:"#00ff66"},
+ {left:41.5,right:58.5,color:"#ff9900"}
+];
+
+
+function drawTop(){
+ ctx.clearRect(0,0,900,620);
+ ctx.save();
+ ctx.translate(0,30);
+
+ ctx.fillStyle="#d0d0d0";
+ ctx.fillRect(58,236,28,28);
+ ctx.fillText("Lamp",52,225);
+
+ ctx.fillStyle="#d0d0d0";
+ ctx.fillRect(130,180,4,140);
+ ctx.fillText("500 lines/mm",105,345);
+
+ ctx.strokeStyle="white";
+ ctx.lineWidth=2;
+ ctx.beginPath();
+ ctx.moveTo(86,250);
+ ctx.lineTo(gx,250);
+ ctx.stroke();
+
+ // rotating scale + telescope
+ ctx.save();
+ ctx.translate(gx,gy);
+
+ const rot=(angle-50)*2*Math.PI/180;
+ ctx.rotate(rot);
+
+ ctx.strokeStyle="#bbb";
+ ctx.lineWidth=2;
+ ctx.beginPath();
+ ctx.arc(0,0,vernierRadius,0,2*Math.PI);
+ ctx.stroke();
+
+ for(let d=0; d<360; d++){
+   let a=(d-33)*Math.PI/180;
+
+   let major=(d%10===0);
+   let mid=(d%5===0 && !major);
+
+   let r1=vernierRadius-(major?20:(mid?15:8));
+   let r2=vernierRadius+(major?20:(mid?15:8));
+
+   ctx.beginPath();
+   ctx.moveTo(r1*Math.cos(a),r1*Math.sin(a));
+   ctx.lineTo(r2*Math.cos(a),r2*Math.sin(a));
+   ctx.stroke();
+
+   if(major){
+      let rt=vernierRadius+40;
+      ctx.fillStyle="#ddd";
+      ctx.font="10px Arial";
+      ctx.fillText(String(d),
+         rt*Math.cos(a)-8,
+         rt*Math.sin(a)+4);
+   }
+ }
+
+ ctx.strokeStyle="rgba(40,120,255,0.45)";
+ ctx.lineWidth=12;
+ ctx.beginPath();
+ ctx.moveTo(0,0);
+ ctx.lineTo(230,0);
+ ctx.stroke();
+
+ ctx.restore();
+
+ ctx.restore();
+
+ // fixed red index
+ const idxAng = 35*Math.PI/180;
+ const ix = gx + (vernierRadius+5)*Math.cos(idxAng);
+ const iy = gy + 30 + (vernierRadius+5)*Math.sin(idxAng);
+
+ ctx.strokeStyle="red";
+ ctx.lineWidth=2;
+ ctx.beginPath();
+ ctx.moveTo(ix-10*Math.cos(idxAng), iy-10*Math.sin(idxAng));
+ ctx.lineTo(ix+10*Math.cos(idxAng), iy+10*Math.sin(idxAng));
+ ctx.stroke();
+}
+
+function drawView(){
+ vctx.clearRect(0,0,700,420);
+
+ vctx.strokeStyle="white";
+ vctx.lineWidth=1;
+ vctx.beginPath();
+ vctx.arc(210,210,180,0,2*Math.PI);
+ vctx.stroke();
+
+ vctx.lineWidth=1;
+ vctx.beginPath();
+ vctx.moveTo(210,30);
+ vctx.lineTo(210,390);
+ vctx.moveTo(30,210);
+ vctx.lineTo(390,210);
+ vctx.stroke();
+
+ const current=angle;
+ const central=50;
+
+ function line(pos,color){
+   let x=210-(pos-current)*80;
+   if(x<30||x>390) return;
+   const cx=210;
+   const cy=210;
+   const R=180;
+
+   let half=75; // shorter emission lines
+
+   const dx=x-cx;
+   const maxHalf=Math.sqrt(Math.max(0,R*R-dx*dx));
+   half=Math.min(half,maxHalf);
+
+   vctx.strokeStyle=color;
+   vctx.lineWidth=3;
+   vctx.beginPath();
+   vctx.moveTo(x,cy-half);
+   vctx.lineTo(x,cy+half);
+   vctx.stroke();
+ }
+
+ line(central,"white");
+ for(const L of lines){
+   line(L.left,L.color);
+   line(L.right,L.color);
+ }
+}
+
+function render(){
+ 
+ drawTop();
+ drawView();
+}
+
+topc.addEventListener("mousedown",e=>{
+ const rect=topc.getBoundingClientRect();
+ const mx=e.clientX-rect.left;
+ const my=e.clientY-rect.top-30;
+
+ const armAngle=(angle-50)*2*Math.PI/180;
+ const t=((mx-gx)*Math.cos(armAngle)+(my-gy)*Math.sin(armAngle));
+ const px=gx+t*Math.cos(armAngle);
+ const py=gy+t*Math.sin(armAngle);
+ const dist=Math.hypot(mx-px,my-py);
+
+ if(dist<20 && t>0 && t<230){
+   dragging=true;
+   startMouseAngle=Math.atan2(my-gy,mx-gx);
+   startAngle=angle;
+ }
+});
+
+window.addEventListener("mouseup",()=>dragging=false);
+
+topc.addEventListener("mousemove",e=>{
+ if(!dragging) return;
+
+ const rect=topc.getBoundingClientRect();
+ const mx=e.clientX-rect.left;
+ const my=e.clientY-rect.top-30;
+
+ const currentMouseAngle=Math.atan2(my-gy,mx-gx);
+ const delta=currentMouseAngle-startMouseAngle;
+
+ angle=startAngle + delta*90/Math.PI;
+
+ angle=Math.max(0,Math.min(100,angle));
+ render();
+});
+
+render();
+</script>
+</body>
+</html>

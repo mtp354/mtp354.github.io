@@ -1,0 +1,211 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>02_Telescope_v1</title>
+<style>
+body{margin:0;background:#111;color:#eee;font-family:Arial}
+h1{text-align:center;margin:12px}
+.controls{text-align:center;margin:8px}
+canvas{display:block;margin:10px auto;border:1px solid #666;background:#1b1b1b}
+button{font-size:16px;padding:6px 12px}
+</style>
+</head>
+<body>
+<h1>LENSES AND TELESCOPE</h1>
+<p style="text-align:center;font-size:20px;font-style:italic;margin-top:-4px;margin-bottom:12px;">Imagine placing your eye just to the right of the eyepiece and looking left through the eyepiece and objective.</p>
+<div class="controls">
+<button onclick="resetSim()">Reset</button>
+</div>
+
+<div style="text-align:center;font-size:22px">Front View</div>
+<canvas id="bench" width="1180" height="320"></canvas>
+
+<div style="text-align:center;font-size:22px">Eyepiece View</div>
+<canvas id="eyeview" width="700" height="320"></canvas>
+
+<script>
+const b=bench.getContext("2d");
+const e=eyeview.getContext("2d");
+const SCALE=4;
+
+const targetX=90;
+let objective=260;
+let eyepiece=340;
+let drag=null;
+
+function separation(){return (eyepiece-objective)/SCALE;}
+function focusError(){return Math.abs(separation()-35);}
+function mag(){return 20/5;}
+
+function support(x,h,label,color){
+ b.strokeStyle="#bbb";
+ b.lineWidth=2;
+ b.beginPath();
+ b.moveTo(x,250);
+ b.lineTo(x,110);
+ b.stroke();
+
+ b.fillStyle="#444";
+ b.fillRect(x-12,248,24,8);
+
+ b.fillStyle=color;
+ b.beginPath();
+ b.ellipse(x,110,8,h,0,0,2*Math.PI);
+ b.fill();
+
+ b.fillStyle="#ddd";
+ b.font="15px Arial";
+ b.fillText(label,x-30,35);
+}
+
+function drawBench(){
+ b.clearRect(0,0,1180,320);
+
+ b.strokeStyle="#888";
+ b.lineWidth=5;
+ b.beginPath();
+ b.moveTo(50,250);
+ b.lineTo(1130,250);
+ b.stroke();
+
+ for(let i=0;i<=260;i++){
+   const x=50+i*SCALE;
+   let h=8;
+   if(i%10==0)h=22;
+   else if(i%5==0)h=15;
+   b.lineWidth=1;
+   b.beginPath();
+   b.moveTo(x,250);
+   b.lineTo(x,250+h);
+   b.stroke();
+   if(i%10==0){
+      b.fillStyle="#ddd";
+      b.font="11px Arial";
+      b.fillText(i,x-8,288);
+   }
+ }
+
+ b.strokeStyle="white";
+ for(let i=-2;i<14;i++){
+   const y=60+i*14;
+   b.beginPath();
+   b.moveTo(targetX-25,y);
+   b.lineTo(targetX+25,y);
+   b.stroke();
+ }
+ b.fillStyle="#ddd";
+ b.fillText("Target on the background wall",10,24);
+
+ support(objective,55,"Objective","rgba(0,180,255,.45)");
+ support(eyepiece,32,"Eyepiece","rgba(0,255,180,.45)");
+
+}
+
+function drawView(){
+ e.clearRect(0,0,700,320);
+
+ const R=110;
+ const cx=350;
+ const cy=160;
+
+ // 1) Draw the real target ONLY OUTSIDE the eyepiece
+ e.save();
+ e.beginPath();
+ e.rect(0,0,700,320);
+ e.arc(cx,cy,R,0,2*Math.PI,true);
+ e.clip("evenodd");
+
+ const eyeToTarget=Math.max(80, eyepiece-targetX);
+ const perspective=900/eyeToTarget;
+ const bgSpacing=14*perspective;
+ e.strokeStyle="#777";
+ e.lineWidth=2;
+ for(let i=-20;i<20;i++){
+   let y=cy+i*bgSpacing;
+   e.beginPath();
+   e.moveTo(40,y);
+   e.lineTo(660,y);
+   e.stroke();
+ }
+ e.restore();
+
+ // 2) Fill the eyepiece with background color so no outside lines remain
+ e.fillStyle="#222";
+ e.beginPath();
+ e.arc(cx,cy,R,0,2*Math.PI);
+ e.fill();
+
+ // 3) Draw magnified image inside eyepiece
+ e.save();
+ e.beginPath();
+ e.arc(cx,cy,R,0,2*Math.PI);
+ e.clip();
+
+ let blur=Math.min(20,focusError());
+ e.filter="blur("+blur+"px)";
+ e.strokeStyle="white";
+ e.lineWidth=3;
+
+ let spacing=14*mag()*perspective;
+ for(let i=-7;i<=9;i++){
+   let y=cy+i*spacing;
+   const dy=y-cy;
+   if(Math.abs(dy)>R) continue;
+   const half=Math.sqrt(R*R-dy*dy);
+   e.beginPath();
+   e.moveTo(cx-half,y);
+   e.lineTo(cx+half,y);
+   e.stroke();
+ }
+ e.restore();
+
+ e.strokeStyle="#ddd";
+ e.lineWidth=2;
+ e.beginPath();
+ e.arc(cx,cy,R,0,2*Math.PI);
+ e.stroke();
+
+ e.fillStyle="#ddd";
+ e.font="18px Arial";
+ e.fillText("Target on the",20,20);
+ e.fillText("background wall",20,42);
+ e.fillText("Through eyepiece",265,25);
+}
+
+function redraw(){drawBench();drawView();}
+
+function hit(x){
+ if(Math.abs(x-objective)<15)return"objective";
+ if(Math.abs(x-eyepiece)<15)return"eyepiece";
+ return null;
+}
+
+bench.onmousedown=(ev)=>{
+ const r=bench.getBoundingClientRect();
+ drag=hit(ev.clientX-r.left);
+}
+window.onmouseup=()=>drag=null;
+bench.onmousemove=(ev)=>{
+ if(!drag)return;
+ const r=bench.getBoundingClientRect();
+ let x=ev.clientX-r.left;
+ if(drag==="objective"){
+   objective=Math.max(220,Math.min(eyepiece-40,x));
+ }else{
+   eyepiece=Math.max(objective+40,Math.min(900,x));
+ }
+ redraw();
+}
+
+function resetSim(){
+ objective=260;
+ eyepiece=340;
+ redraw();
+}
+
+redraw();
+</script>
+</body>
+</html>

@@ -52,3 +52,12 @@ appreciate the nudge.
   {% endfor %}
   </ul>
 {% endfor %}
+
+## Other Cool Links
+
+- [Physics Pages](https://physicspages.com/) — Technical physics notes and worked explanations across topics including electrodynamics, quantum mechanics, relativity, thermal physics, astrophysics, and related mathematics.
+- [The Theoretical Minimum](https://theoreticalminimum.com/courses) — Leonard Susskind's course catalogue for self-study, with a core sequence running from classical mechanics through statistical mechanics and cosmology plus supplemental courses.
+- [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/) — Caltech's online HTML edition of the classic Feynman, Leighton, and Sands lectures, covering mechanics, electromagnetism, matter, and quantum mechanics.
+- [Sean Carroll's General Relativity Notes](https://preposterousuniverse.com/grnotes/) — Free graduate-level lecture notes on general relativity, covering special relativity, manifolds, curvature, gravitation, weak fields, black holes, and cosmology.
+- [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/) — A broad catalogue of quantum algorithms organized by problem family, with speedup notes, references, and implementation links where available.
+- [Group Tables and Subgroup Diagrams](https://hobbes.la.asu.edu/groups/groups.html) — An interactive finite-group tool for exploring group tables, generated subgroups, centralizers, conjugacy classes, quotient structure, and subgroup diagrams.

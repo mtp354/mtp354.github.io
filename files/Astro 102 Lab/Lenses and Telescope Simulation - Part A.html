@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Lenses and Telescope - Focal Length</title>
+<style>
+body{margin:0;font-family:Arial,sans-serif;background:#111;color:#eee}
+h1{text-align:center;margin:10px 0}
+#controls{text-align:center;margin-bottom:8px}
+select,label,button{font-size:16px;margin:0 8px}
+.wrap{display:flex;flex-direction:column;align-items:center;gap:10px}
+canvas{background:#1b1b1b;border:1px solid #666}
+.subtitle{font-size:22px;text-align:center;margin:4px}
+</style>
+</head>
+<body>
+<h1>LENSES AND TELESCOPE</h1>
+
+<div id="controls">
+Lens:
+<select id="lens">
+<option value="20">Large Lens</option>
+<option value="5">Small Lens</option>
+</select>
+<button id="reset">Reset</button>
+</div>
+
+<div class="wrap">
+<div class="subtitle">Front View</div>
+<canvas id="front" width="1100" height="300"></canvas>
+<div style="display:flex;align-items:flex-start;gap:24px;">
+<div>
+<div class="subtitle">Screen View</div>
+<canvas id="screen" width="520" height="400"></canvas>
+</div>
+<div style="margin-top:30px;background:rgba(40,40,40,.9);border:1px solid #888;padding:12px 16px;color:#fff;min-width:180px;">
+<div style="font-weight:bold;margin-bottom:10px;">Legend</div>
+<div style="color:red;">&#8593; <span style="color:#fff;">Light source</span></div>
+<div style="margin-top:10px;">
+<span style="display:inline-block;width:8px;height:30px;border:2px solid #7fd0ff;background:rgba(120,180,255,.4);border-radius:8px;vertical-align:middle;"></span>
+<span style="display:inline-block;width:10px;"></span>
+<span style="display:inline-block;width:8px;height:24px;border:2px solid #2e8b57;background:rgba(170,255,170,.45);border-radius:8px;vertical-align:middle;"></span>
+<span style="margin-left:8px;">Lenses</span>
+</div>
+<div style="margin-top:10px;"><span style="display:inline-block;width:5px;height:26px;background:#ddd;vertical-align:middle;"></span>
+<span style="margin-left:8px;">Screen</span></div>
+</div>
+</div>
+</div>
+
+<script>
+const c=document.getElementById("front");
+const ctx=c.getContext("2d");
+const s=document.getElementById("screen");
+const sx=s.getContext("2d");
+
+let f=20;
+let obj=120;
+let lens=500;
+let screen=850;
+const scale=4;
+let drag=null;
+
+document.getElementById("lens").onchange=e=>{f=+e.target.value;draw();}
+document.getElementById("reset").onclick=()=>{
+obj=120;lens=500;screen=850;
+document.getElementById("lens").value="20";f=20;
+draw();
+};
+
+function imageData(){
+ let p=(lens-obj)/scale;
+ if(p<=f)return null;
+ let q=p*f/(p-f);
+ let img=lens+q*scale;
+ let m=-q/p;
+ return {p,q,img,m};
+}
+
+function arrow(x,y,h,color){
+ ctx.strokeStyle=color;
+ ctx.lineWidth=3;
+ ctx.beginPath();
+ ctx.moveTo(x,y);
+ ctx.lineTo(x,y-h);
+ ctx.stroke();
+ ctx.beginPath();
+ ctx.moveTo(x,y-h);
+ ctx.lineTo(x-8,y-h+12);
+ ctx.moveTo(x,y-h);
+ ctx.lineTo(x+8,y-h+12);
+ ctx.stroke();
+}
+
+function drawScreen(){
+ sx.setTransform(1,0,0,1,0,0);
+ sx.filter="none";
+ sx.clearRect(0,0,s.width,s.height);
+ sx.fillStyle="#222";
+ sx.fillRect(0,0,s.width,s.height);
+ sx.strokeStyle="#fff";
+ sx.strokeRect(0,0,s.width,s.height);
+
+ let d=imageData();
+ if(!d){
+   sx.save();
+   sx.translate(s.width/2,s.height/2);
+   sx.filter="blur(20px)";
+   sx.strokeStyle="red";
+   sx.lineWidth=6;
+   function drawArrow(ctx,h){
+     ctx.beginPath();
+     ctx.moveTo(0,0);
+     ctx.lineTo(0,-h);
+     ctx.stroke();
+     const tipY=-h;
+     ctx.beginPath();
+     ctx.moveTo(0,tipY);
+     ctx.lineTo(-10,tipY+15);
+     ctx.moveTo(0,tipY);
+     ctx.lineTo(10,tipY+15);
+     ctx.stroke();
+   }
+   drawArrow(sx,70);
+   sx.restore();
+   return;
+ }
+ let err=Math.abs(screen-d.img)/scale;
+ let blur=Math.min(25,err);
+ sx.save();
+ sx.translate(s.width/2,s.height/2);
+ sx.filter=`blur(${blur}px)`;
+ sx.strokeStyle="red";
+ sx.lineWidth=6;
+ 
+function drawArrow(ctx,h){
+  ctx.beginPath();
+  ctx.moveTo(0,0);
+  ctx.lineTo(0,-h);
+  ctx.stroke();
+
+  const tipY=-h;
+  const s=(h>=0)?1:-1;
+
+  ctx.beginPath();
+  ctx.moveTo(0,tipY);
+  ctx.lineTo(-10,tipY+15*s);
+  ctx.moveTo(0,tipY);
+  ctx.lineTo(10,tipY+15*s);
+  ctx.stroke();
+}
+
+const h0=70;
+const hi=h0*d.m;
+drawArrow(sx,hi);
+
+sx.restore();
+ sx.filter="none";
+
+}
+
+function draw(){
+ctx.clearRect(0,0,c.width,c.height);
+ctx.strokeStyle="#888";
+ctx.lineWidth=5;
+ctx.beginPath();
+ctx.moveTo(50,220);
+ctx.lineTo(1050,220);
+ctx.stroke();
+
+ctx.strokeStyle="#aaa";
+ctx.lineWidth=1;
+for(let i=0;i<=250;i++){
+ let x=50+i*scale;
+ let h;
+ if(i%10===0){
+   h=20;          // every 10 cm
+ }else if(i%5===0){
+   h=14;          // every 5 cm
+ }else{
+   h=8;           // every 1 cm
+ }
+ ctx.beginPath();
+ ctx.moveTo(x,220);
+ ctx.lineTo(x,220+h);
+ ctx.stroke();
+ if(i%10===0){
+  ctx.fillStyle="#ddd";
+  ctx.font="12px Arial";
+  ctx.fillText(i,x-8,255);
+ }
+}
+
+arrow(obj,220,70,"red");
+
+if(f>10){
+  ctx.fillStyle="rgba(120,180,255,0.4)";
+  ctx.strokeStyle="#7fd0ff";
+  ctx.beginPath();
+  ctx.ellipse(lens,150,10,60,0,0,Math.PI*2);
+}else{
+  ctx.fillStyle="rgba(170,255,170,0.45)";
+  ctx.strokeStyle="#2e8b57";
+  ctx.beginPath();
+  ctx.ellipse(lens,162,10,48,0,0,Math.PI*2);
+}
+ctx.fill();
+ctx.stroke();
+
+ctx.fillStyle="#ddd";
+ctx.fillRect(screen-3,90,6,130);
+
+
+let d=imageData();
+if(d){
+ let ih=70*Math.abs(d.m);
+
+ if(false){
+   ctx.strokeStyle="cyan";
+   ctx.setLineDash([6,4]);
+   ctx.beginPath();
+   ctx.moveTo(obj,150);
+   ctx.lineTo(lens,150);
+   ctx.lineTo(d.img,220-ih*(d.m<0?1:-1));
+   ctx.stroke();
+
+   ctx.beginPath();
+   ctx.moveTo(obj,150);
+   ctx.lineTo(lens,220);
+   ctx.lineTo(d.img,220-ih*(d.m<0?1:-1));
+   ctx.stroke();
+   ctx.setLineDash([]);
+ }
+}
+
+
+
+// Unit label for the graduated scale
+ctx.fillStyle="#ddd";
+ctx.font="16px Arial";
+ctx.fillText("cm", 1030, 212);
+
+drawScreen();
+}
+
+function hit(x,y){
+ if(Math.abs(x-obj)<15)return"obj";
+ if(Math.abs(x-lens)<15)return"lens";
+ if(Math.abs(x-screen)<15)return"screen";
+ return null;
+}
+c.onmousedown=e=>{
+ let r=c.getBoundingClientRect();
+ drag=hit(e.clientX-r.left,e.clientY-r.top);
+}
+window.onmouseup=()=>drag=null;
+c.onmousemove=e=>{
+ if(!drag)return;
+ let r=c.getBoundingClientRect();
+ let x=e.clientX-r.left;
+ x=Math.max(60,Math.min(1040,x));
+ if(drag=="obj")obj=x;
+ if(drag=="lens")lens=x;
+ if(drag=="screen")screen=x;
+ draw();
+}
+draw();
+</script>
+</body>
+</html>

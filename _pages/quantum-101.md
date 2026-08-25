@@ -15,12 +15,14 @@ rather fix it than leave it confusing.
 
 ## Foundations
 
-**Qubit.** The quantum analogue of a classical bit. Unlike a bit, which is
+**Qubit.** (usually pronounced queue-bit) The quantum analogue of a classical bit. Unlike a bit, which is
 either 0 or 1, a qubit can be in a superposition of both until measured.
 
 **Superposition.** A quantum state that is a weighted combination of
 multiple basis states. Measurement collapses the superposition to one of
-those basis states with a probability set by the weights.
+those basis states with a probability set by the weights. As a basis can
+be chosen arbitrarily, a state can be a superposition under one description
+and a single state in another.
 
 **Entanglement.** A correlation between two or more qubits that cannot be
 explained by any local description of each qubit individually. Measuring

@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Pendulum Lab Final Centered Controls</title>
+<style>
+body{margin:0;font-family:Arial;background:#f4f4f4}
+
+#top{
+  position:absolute;
+  top:60px;
+  left:900px;
+  transform:translateX(-50%);
+  display:flex;
+  gap:12px;
+  background:transparent;
+  border:none;
+  padding:0;
+  z-index:1000;
+}
+
+button{
+padding:8px 12px;
+font-weight:bold;
+white-space:nowrap;
+border:1px solid #666;
+border-radius:6px;
+cursor:pointer;
+}
+#release{background:#bdbdbd;}
+
+canvas{display:block;margin:auto;background:white}
+</style>
+</head>
+<body>
+
+<div id="top">
+<div style="display:flex;align-items:center;gap:8px;">
+<span id="lockIndicator" style="font-size:20px;color:green;">●</span>
+<button id="lockBtn">Lock Length</button>
+</div>
+<button id="release">Release</button>
+<button id="reset">Reset</button>
+</div>
+
+<div style="position:absolute; left:900px; top:10px; transform:translateX(-50%);
+font-size:30px; font-weight:bold; letter-spacing:1px; white-space:nowrap; z-index:1001;">
+SIMPLE PENDULUM ON EARTH SURFACE
+</div>
+
+<canvas id="cv" width="1400" height="1000"></canvas>
+
+<script>
+const canvas=document.getElementById("cv");
+const ctx=canvas.getContext("2d");
+const SCALE=4;
+
+/* PENDOLO SPOSTATO PIÙ IN BASSO */
+const pivot={x:900,y:150};
+
+let lengthCm=100, dispCm=0;
+let mode="setup", lengthLocked=false;
+let draggingBob=false, draggingVR=false, draggingHR=false;
+let vr={x:40,y:100}, hr={x:250,y:850};
+let vrOffsetX=0, vrOffsetY=0;
+let hrOffsetX=0, hrOffsetY=0;
+let startTime=0, theta0=0;
+
+function bobPos(){
+ if(mode==="setup"){
+   const theta = Math.asin(
+     Math.max(-0.99, Math.min(0.99, dispCm/lengthCm))
+   );
+   return {
+     x: pivot.x + lengthCm*SCALE*Math.sin(theta),
+     y: pivot.y + lengthCm*SCALE*Math.cos(theta)
+   };
+ }
+ const t=(performance.now()-startTime)/1000;
+ const L=lengthCm/100;
+ const theta=theta0*Math.cos(Math.sqrt(9.81/L)*t);
+ return {
+   x:pivot.x+L*100*SCALE*Math.sin(theta),
+   y:pivot.y+L*100*SCALE*Math.cos(theta)
+ };
+}
+
+function drawVerticalRuler(){
+ ctx.save(); ctx.translate(vr.x,vr.y);
+ ctx.fillStyle="#f4e3a1";
+ ctx.fillRect(0,0,80,800); ctx.strokeRect(0,0,80,800);
+ for(let cm=0;cm<=200;cm++){
+   let y=cm*SCALE;
+   let tick=10; if(cm%10===0) tick=40; else if(cm%5===0) tick=25;
+   ctx.beginPath(); ctx.moveTo(0,y); ctx.lineTo(tick,y); ctx.stroke();
+   if(cm%10===0){ ctx.font="bold 16px Arial"; ctx.fillStyle="#800020"; ctx.fillText(cm,48,y+5);}
+ }
+ ctx.font="bold 18px Arial"; ctx.fillStyle="#800020"; ctx.fillText("cm",22,20);
+ ctx.restore();
+}
+
+function drawHorizontalRuler(){
+ ctx.save(); ctx.translate(hr.x,hr.y);
+ ctx.fillStyle="#f4e3a1";
+ ctx.fillRect(0,0,800,80); ctx.strokeRect(0,0,800,80);
+ for(let cm=0;cm<=200;cm++){
+   let x=cm*SCALE;
+   let tick=10; if(cm%10===0) tick=40; else if(cm%5===0) tick=25;
+   ctx.beginPath(); ctx.moveTo(x,80); ctx.lineTo(x,80-tick); ctx.stroke();
+   if(cm%10===0){ ctx.font="bold 16px Arial"; ctx.fillStyle="#800020"; ctx.fillText(cm,x-8,20);}
+ }
+ ctx.font="bold 18px Arial"; ctx.fillStyle="#800020"; ctx.fillText("cm",5,50);
+ ctx.restore();
+}
+
+function draw(){
+ ctx.clearRect(0,0,canvas.width,canvas.height);
+ drawVerticalRuler(); drawHorizontalRuler();
+ const b=bobPos();
+
+ ctx.setLineDash([6,6]);
+ ctx.beginPath(); ctx.moveTo(pivot.x,pivot.y); ctx.lineTo(pivot.x,pivot.y+850); ctx.stroke();
+ ctx.setLineDash([]);
+
+ ctx.lineWidth=3;
+ ctx.beginPath(); ctx.moveTo(pivot.x,pivot.y); ctx.lineTo(b.x,b.y); ctx.stroke();
+
+ ctx.beginPath(); ctx.arc(pivot.x,pivot.y,6,0,2*Math.PI); ctx.fill();
+ ctx.beginPath(); ctx.arc(b.x,b.y,18,0,2*Math.PI); ctx.fill();
+
+ requestAnimationFrame(draw);
+}
+
+canvas.addEventListener("mousedown",e=>{
+ const r=canvas.getBoundingClientRect(), x=e.clientX-r.left, y=e.clientY-r.top;
+ const b=bobPos();
+ if(mode==="setup" && Math.hypot(x-b.x,y-b.y)<25){draggingBob=true; return;}
+ if(x>vr.x&&x<vr.x+80&&y>vr.y&&y<vr.y+800){
+   draggingVR=true;
+   vrOffsetX=x-vr.x;
+   vrOffsetY=y-vr.y;
+   return;
+ }
+ if(x>hr.x&&x<hr.x+800&&y>hr.y&&y<hr.y+80){
+   draggingHR=true;
+   hrOffsetX=x-hr.x;
+   hrOffsetY=y-hr.y;
+   return;
+ }
+});
+
+canvas.addEventListener("mousemove",e=>{
+ const r=canvas.getBoundingClientRect(), x=e.clientX-r.left, y=e.clientY-r.top;
+
+ if(draggingBob && mode==="setup"){
+   if(!lengthLocked){
+     lengthCm=Math.max(20,Math.min(200,(y-pivot.y)/SCALE));
+     dispCm=Math.max(-50,Math.min(50,(x-pivot.x)/SCALE));
+   } else {
+
+     const dx = x - pivot.x;
+
+     const theta = Math.asin(
+       Math.max(
+         -0.99,
+         Math.min(
+           0.99,
+           dx / (lengthCm * SCALE)
+         )
+       )
+     );
+
+     dispCm = lengthCm * Math.sin(theta);
+   }
+ }
+ if(draggingVR){
+   vr.x=x-vrOffsetX;
+   vr.y=y-vrOffsetY;
+ }
+ if(draggingHR){
+   hr.x=x-hrOffsetX;
+   hr.y=y-hrOffsetY;
+ }
+});
+
+canvas.addEventListener("mouseup",()=>{
+ draggingBob=false; draggingVR=false; draggingHR=false;
+});
+
+const lockIndicator=document.getElementById("lockIndicator");
+
+lockBtn.onclick=()=>{
+ lengthLocked=!lengthLocked;
+
+ if(lengthLocked){
+   lockIndicator.style.color="red";
+   lockBtn.textContent="Unlock Length";
+ }else{
+   lockIndicator.style.color="green";
+   lockBtn.textContent="Lock Length";
+ }
+};
+
+release.onclick=()=>{
+ theta0=Math.asin(Math.max(-0.99,Math.min(0.99,dispCm/lengthCm)));
+ startTime=performance.now();
+ mode="run";
+ release.style.background="#4caf50";
+ release.style.color="white";
+};
+
+reset.onclick=()=>{
+ mode="setup";
+ dispCm=0;
+ release.style.background="#bdbdbd";
+ release.style.color="black";
+};
+
+draw();
+</script>
+</body>
+</html>
