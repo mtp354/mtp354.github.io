@@ -51,6 +51,58 @@ WORKFORCE_TECH_PHD = 5_600
 WORKFORCE_TECH_NO_PHD = 9_400
 WORKFORCE_NON_TECH = WORKFORCE_TOTAL - WORKFORCE_TECH_PHD - WORKFORCE_TECH_NO_PHD
 
+DIVERSIFIED_QUANTUM_PROGRAMS = [
+    {
+        "program": "IBM Quantum (IBM)",
+        "workforce": (600, 1_100),
+        "annual_company_spend": (2_000_000_000, 2_500_000_000),
+        "public_support": (1_000_000_000, 1_000_000_000),
+        "basis": "IBM disclosed more than $10B over five years for quantum; NIST announced $1B in planned IBM foundry support.",
+    },
+    {
+        "program": "Google Quantum AI (Alphabet)",
+        "workforce": (300, 700),
+        "annual_company_spend": (150_000_000, 500_000_000),
+        "public_support": None,
+        "basis": "Hardware, theory, cloud, neutral-atom expansion, Atlantic Quantum acquisition, plus $60M+ in named external commitments.",
+    },
+    {
+        "program": "Microsoft Quantum / Azure Quantum",
+        "workforce": (300, 700),
+        "annual_company_spend": (150_000_000, 500_000_000),
+        "public_support": None,
+        "basis": "Two-decade hardware/software program, largest quantum site in Denmark, Azure Quantum, and topological-qubit roadmap.",
+    },
+    {
+        "program": "AWS Braket / AWS Center for Quantum Computing",
+        "workforce": (150, 400),
+        "annual_company_spend": (75_000_000, 250_000_000),
+        "public_support": None,
+        "basis": "Amazon Braket, Quantum Solutions Lab, Caltech hardware center, and partner-hardware cloud access.",
+    },
+    {
+        "program": "Intel Quantum / Intel Labs",
+        "workforce": (75, 250),
+        "annual_company_spend": (50_000_000, 200_000_000),
+        "public_support": None,
+        "basis": "Silicon spin-qubit hardware, Tunnel Falls chips, quantum SDK, and full-stack commercial-system roadmap.",
+    },
+    {
+        "program": "NVIDIA quantum platform / NVAQC",
+        "workforce": (100, 300),
+        "annual_company_spend": (75_000_000, 250_000_000),
+        "public_support": None,
+        "basis": "CUDA-Q, cuQuantum, NVQLink, Quantum Cloud, and NVAQC research center with dedicated Blackwell GPU infrastructure.",
+    },
+    {
+        "program": "GlobalFoundries quantum foundry work",
+        "workforce": (50, 150),
+        "annual_company_spend": (50_000_000, 200_000_000),
+        "public_support": (375_000_000, 375_000_000),
+        "basis": "Diversified semiconductor supplier; NIST announced $375M in planned quantum-foundry support.",
+    },
+]
+
 
 def _today() -> str:
     return _dt.datetime.now(_dt.timezone.utc).strftime("%Y-%m-%d")
@@ -125,6 +177,22 @@ def _fmt_money(m: float | None) -> str:
     return f"${amount:,.0f}"
 
 
+def _fmt_count_range(values: tuple[int, int]) -> str:
+    low, high = values
+    if low == high:
+        return f"~{low:,}"
+    return f"~{low:,}-{high:,}"
+
+
+def _fmt_money_range(values: tuple[int, int] | None, suffix: str = "") -> str:
+    if values is None:
+        return "—"
+    low, high = values
+    if low == high:
+        return f"{_fmt_money(low)}{suffix}"
+    return f"{_fmt_money(low)}-{_fmt_money(high)}{suffix}"
+
+
 def _estimate_lines(total_market_cap: float | None, market_cap_count: int) -> list[str]:
     market_cap_basis = (
         f"Sum of market caps available from Yahoo Finance for {market_cap_count} "
@@ -168,6 +236,71 @@ def _estimate_lines(total_market_cap: float | None, market_cap_count: int) -> li
         "[McKinsey Quantum Technology Monitor 2026](https://www.mckinsey.com/capabilities/mckinsey-technology/our-insights/mckinsey-quantum-technology-monitor-2026-a-commercial-tipping-point), "
         "[McKinsey quantum investment chart](https://www.mckinsey.com/featured-insights/charts/quantum-investment-surge), "
         "[Goorney et al., EPJ Quantum Technology 2026](https://doi.org/10.1140/epjqt/s40507-026-00477-z).",
+        "",
+    ]
+
+
+def _diversified_program_lines() -> list[str]:
+    workforce_low = sum(program["workforce"][0] for program in DIVERSIFIED_QUANTUM_PROGRAMS)
+    workforce_high = sum(program["workforce"][1] for program in DIVERSIFIED_QUANTUM_PROGRAMS)
+    spend_low = sum(
+        program["annual_company_spend"][0] for program in DIVERSIFIED_QUANTUM_PROGRAMS
+    )
+    spend_high = sum(
+        program["annual_company_spend"][1] for program in DIVERSIFIED_QUANTUM_PROGRAMS
+    )
+    public_support_low = sum(
+        (program["public_support"] or (0, 0))[0]
+        for program in DIVERSIFIED_QUANTUM_PROGRAMS
+    )
+    public_support_high = sum(
+        (program["public_support"] or (0, 0))[1]
+        for program in DIVERSIFIED_QUANTUM_PROGRAMS
+    )
+
+    rows = [
+        (
+            f"| {program['program']} | {_fmt_count_range(program['workforce'])} | "
+            f"{_fmt_money_range(program['annual_company_spend'], '/yr')} | "
+            f"{_fmt_money_range(program['public_support'])} | {program['basis']} |"
+        )
+        for program in DIVERSIFIED_QUANTUM_PROGRAMS
+    ]
+
+    return [
+        "## Diversified-company quantum estimates",
+        "",
+        "Directional estimate for quantum programs inside large companies whose "
+        "overall business is not primarily quantum. Most of these companies do "
+        "not report quantum-specific headcount or spending as a standalone line "
+        "item, so ranges are modeled from disclosed commitments, visible program "
+        "scope, labs/facilities, cloud-service support, and typical loaded cost "
+        "for hardware-heavy research teams.",
+        "",
+        "| Program | Estimated dedicated workforce | Estimated company spend | Known public support | Basis |",
+        "|---|---:|---:|---:|---|",
+        *rows,
+        f"| **Visible-program subtotal** | **{_fmt_count_range((workforce_low, workforce_high))}** | **{_fmt_money_range((spend_low, spend_high), '/yr')}** | **{_fmt_money_range((public_support_low, public_support_high))}** | Sum of listed ranges only; excludes broad PQC migration work, ordinary cloud/HPC staff, supplier labor, university collaborators, and undisclosed programs. |",
+        "",
+        "Interpretation: the visible non-pure-play footprint is probably on the "
+        "order of a few thousand mostly technical employees and roughly "
+        "$2.5B-$4.4B per year in company-funded quantum activity, dominated by "
+        "IBM's newly disclosed multi-year commitment. Known public support in "
+        "this table is planned incentive funding, not necessarily obligated or "
+        "outlaid cash.",
+        "",
+        "Sources: [IBM $10B quantum commitment](https://newsroom.ibm.com/2026-06-02-ibm-commits-more-than-10-billion-to-quantum-computing,-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers), "
+        "[NIST CHIPS quantum LOIs](https://www.nist.gov/news-events/news/2026/05/department-commerce-announces-letters-intent-9-companies-2-billion), "
+        "[Google Chicago/Tokyo partnership](https://blog.google/innovation-and-ai/products/quantum-computing-partnership-chicago-tokyo-universities/), "
+        "[Google REPLIQA](https://blog.google/innovation-and-ai/models-and-research/quantum-computing/repliqa-quantum-computing-life-sciences/), "
+        "[Google neutral atoms](https://blog.google/innovation-and-ai/technology/research/neutral-atom-quantum-computers/), "
+        "[Google/Atlantic Quantum](https://blog.google/innovation-and-ai/technology/research/scaling-quantum-computing-even-faster-with-atlantic-quantum/), "
+        "[Microsoft quantum testimony](https://blogs.microsoft.com/on-the-issues/2025/05/07/quantum-technology/), "
+        "[Microsoft Denmark quantum lab](https://news.microsoft.com/source/emea/features/microsoft-opens-state-of-the-art-quantum-lab-in-lyngby-denmark-accelerating-progress-toward-scalable-quantum-computing/), "
+        "[AWS Braket/CQC/QSL announcement](https://press.aboutamazon.com/2019/12/aws-announces-new-quantum-computing-service-amazon-braket-along-with-aws-center-for-quantum-computing-and-amazon-quantum-solutions-lab), "
+        "[Intel Tunnel Falls](https://newsroom.intel.com/new-technologies/quantum-computing-chip-to-advance-research), "
+        "[NVIDIA NVAQC](https://nvidianews.nvidia.com/news/nvidia-to-build-accelerated-quantum-computing-research-center), "
+        "[NVIDIA NVAQC GPU details](https://blogs.nvidia.com/blog/nvidia-accelerated-quantum-research-center/).",
         "",
     ]
 
@@ -269,6 +402,7 @@ def main() -> int:
         *rows_etf,
         "",
         *_estimate_lines(total_market_cap, len(market_caps)),
+        *_diversified_program_lines(),
         *leaderboard_lines,
         '<script type="application/json" id="qr-spark-data">',
         json.dumps(spark_data, separators=(",", ":")),
