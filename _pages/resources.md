@@ -61,3 +61,4 @@ appreciate the nudge.
 - [Sean Carroll's General Relativity Notes](https://preposterousuniverse.com/grnotes/) — Free graduate-level lecture notes on general relativity, covering special relativity, manifolds, curvature, gravitation, weak fields, black holes, and cosmology.
 - [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/) — A broad catalogue of quantum algorithms organized by problem family, with speedup notes, references, and implementation links where available.
 - [Group Tables and Subgroup Diagrams](https://hobbes.la.asu.edu/groups/groups.html) — An interactive finite-group tool for exploring group tables, generated subgroups, centralizers, conjugacy classes, quotient structure, and subgroup diagrams.
+- [Palomar Registry](https://palomar-registry.org/about) — A public searchable registry of Lean formalizations, recording machine-checked proofs, immutable repository versions, exact formal statements, dependencies, and review metadata.
