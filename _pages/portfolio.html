@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Tutoring Services"
+title: "Teaching & Tutoring"
 permalink: /portfolio/
 author_profile: true
 ---
@@ -26,5 +26,14 @@ curious whether tutoring would help, just drop me a line at
 <matthewprestnz@gmail.com> — happy to chat, no pressure.
 
 {% for post in site.portfolio %}
+{% include archive-single.html %}
+{% endfor %}
+
+Teaching
+======
+
+<!-- Add teaching content here, or add entries to the teaching collection. -->
+
+{% for post in site.teaching reversed %}
 {% include archive-single.html %}
 {% endfor %}

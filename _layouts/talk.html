@@ -44,10 +44,14 @@ layout: default
         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time
             datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }}, {{page.location}} {% endif %}
-          {% if page.slidesurl %}
-        <p><a href="{{ page.slidesurl }}" class="btn btn--primary"><i class="fas fa-file-pdf"></i> View Slides</a></p>{%
-        endif %}
+        {% if page.talk_type %}<p>{{page.talk_type}} at {{ page.venue }}, {{page.location}}</p>{% endif %}
+        {% if page.slidesurl or page.posterurl or page.reporturl %}
+        <p class="talk-actions">
+          {% if page.slidesurl %}<a href="{{ page.slidesurl }}" class="btn btn--primary"><i class="fas fa-file-pdf"></i> View Slides</a>{% endif %}
+          {% if page.posterurl %}<a href="{{ page.posterurl | relative_url }}" class="btn btn--primary"><i class="fas fa-file-pdf"></i> View Poster</a>{% endif %}
+          {% if page.reporturl %}<a href="{{ page.reporturl | relative_url }}" class="btn btn--primary"><i class="fas fa-file-pdf"></i> View Report</a>{% endif %}
+        </p>
+        {% endif %}
 
       </header>
       {% endunless %}

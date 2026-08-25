@@ -11,23 +11,23 @@ The site is built on the [Academic Pages](https://academicpages.github.io/) Jeky
 ```
 _config.yml                 Site-wide Jekyll configuration
 Gemfile                     Ruby dependencies (bundler)
-package.json                Node helper scripts (e.g. OG image generator)
+package.json                Node helper scripts for bundled site JavaScript
 CNAME                       Custom domain
 publications.xml            Atom feed for the publications collection
 quantum-radar.xml           Atom feed for Quantum Radar reports
 
-_data/                      Site data (authors, navigation, ui-text, cv.json)
+_data/                      Site data (authors, navigation, ui-text)
 _includes/                  Liquid partials (head, masthead, footer, hero cards, …)
 _layouts/                   Page layouts (default, single, archive, splash,
-                            cv-layout, publication, talk, qr-report, …)
+                            publication, talk, qr-report, …)
 _sass/                      SCSS sources (theme/_default.scss, theme/_dark.scss,
                             _site-extras.scss for personal overrides)
-assets/css/                 Compiled CSS plus academicons & cv styles
+assets/css/                 Compiled CSS plus academicons
 assets/js/                  dark-mode.js, theme.js, copy-bibtex.js,
-                            qr-sparklines.js, collapse.js, plugins, …
+                            qr-sparklines.js, qr-collapse.js, plugins, …
 
-_pages/                     Top-level pages: about, cv, publications, talks,
-                            teaching, portfolio, resources, quantum-radar,
+_pages/                     Top-level pages: about, publications, talks,
+                            portfolio, resources, quantum-radar,
                             quantum-101, topics, now, 404, archives
 _posts/                     Blog posts (`YYYY-MM-DD-slug.md`)
 _publications/              Publication entries (one Markdown file per paper)
@@ -40,7 +40,7 @@ _quantum_radar/             Auto-generated Quantum Radar report entries
 files/                      PDFs and BibTeX files linked from publications
 images/                     Site images, favicons, and the web manifest
 projects/quantum-radar/     Python pipeline that produces the Quantum Radar reports
-projects/og-images/         Node script that auto-generates Open Graph share images
+projects/og-images/         Script that auto-generates Open Graph share images
 
 .github/workflows/          GitHub Actions automations
 ```

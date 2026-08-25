@@ -94,7 +94,7 @@ expensive, which is why "magic-state distillation" is a major topic.
 
 ## Milestones
 
-**Quantum advantage / supremacy.** A demonstration that a quantum
+**Quantum advantage.** A demonstration that a quantum
 computer solves a particular task faster than any known classical
 algorithm running on the best available hardware. The benchmark task
 matters as much as the result.

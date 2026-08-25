@@ -184,6 +184,12 @@
 }
 .hero-card__desc { display: block; font-size: 0.9em; color: #555; }
 
+/* Talk action buttons ---------------------------------------------------- */
+.talk-actions .btn {
+  margin-right: 0.5em;
+  margin-bottom: 0.5em;
+}
+
 /* Tag cloud -------------------------------------------------------------- */
 .tag-cloud {
   display: flex;
@@ -216,6 +222,50 @@
   font-variant-numeric: tabular-nums;
   color: #888;
 }
+.qr-collapse-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin: 1em 0;
+}
+.qr-collapse-controls button {
+  border: 1px solid var(--global-border-color);
+  border-radius: 4px;
+  background: var(--global-bg-color);
+  color: var(--global-text-color);
+  padding: 0.35em 0.75em;
+  font-family: inherit;
+  font-size: 0.9em;
+  cursor: pointer;
+}
+.qr-collapse-controls button:hover,
+.qr-collapse-controls button:focus-visible {
+  border-color: var(--global-link-color);
+  color: var(--global-link-color);
+  outline: none;
+}
+.qr-section {
+  margin: 0.9em 0;
+  border: 1px solid var(--global-border-color);
+  border-radius: 6px;
+  background: var(--global-bg-color);
+}
+.qr-section__summary {
+  display: list-item;
+  padding: 0.65em 0.85em;
+  font-family: $sans-serif;
+  font-weight: 700;
+  cursor: pointer;
+}
+.qr-section__summary:hover,
+.qr-section__summary:focus-visible {
+  color: var(--global-link-color);
+  outline: none;
+}
+.qr-section__body {
+  padding: 0 0.85em 0.85em;
+}
+.qr-section__body > :last-child { margin-bottom: 0; }
 
 /* Blog cover image, reading time, difficulty badge ----------------------- */
 .archive__item-cover {

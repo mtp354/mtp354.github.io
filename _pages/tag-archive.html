@@ -6,7 +6,13 @@ author_profile: true
 ---
 
 {% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
+{% assign tagged_items = "" | split: "" %}
+{% for post in site.posts %}{% if post.tags.size > 0 %}{% assign tagged_items = tagged_items | push: post %}{% endif %}{% endfor %}
+{% for pub in site.publications %}{% if pub.tags.size > 0 %}{% assign tagged_items = tagged_items | push: pub %}{% endif %}{% endfor %}
+{% for talk in site.talks %}{% if talk.tags.size > 0 %}{% assign tagged_items = tagged_items | push: talk %}{% endif %}{% endfor %}
+{% for r in site.resources %}{% if r.tags.size > 0 %}{% assign tagged_items = tagged_items | push: r %}{% endif %}{% endfor %}
+
+{% include group-by-array collection=tagged_items field="tags" %}
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}

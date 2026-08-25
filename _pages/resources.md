@@ -22,11 +22,11 @@ appreciate the nudge.
 
 | Category | Highlights |
 | --- | --- |
-| [Software & Libraries](#software--libraries) | Qiskit, Cirq, PennyLane, Q#, Stim, OpenFermion |
-| [Hardware & Providers](#hardware--providers) | IBM Quantum, IonQ, Quantinuum, Rigetti, QuEra, Pasqal |
-| [Algorithms & Theory](#algorithms--theory) | VQE, QAOA, Shor, Grover, HHL, quantum walks |
-| [Conferences & Community](#conferences--community) | QIP, TQC, QCE, Q2B, Unitary Foundation |
-| [Papers & Reading Lists](#papers--reading-lists) | arXiv quant-ph, Quantum journal, surveys & textbooks |
+| [Software & Libraries](#software-libraries) | Qiskit, Cirq, PennyLane, Q#, Stim, OpenFermion |
+| [Hardware & Providers](#hardware-providers) | IBM Quantum, IonQ, Quantinuum, Rigetti, QuEra, Pasqal |
+| [Algorithms & Theory](#algorithms-theory) | VQE, QAOA, Shor, Grover, HHL, quantum walks |
+| [Conferences & Community](#conferences-community) | QIP, TQC, QCE, Q2B, Unitary Foundation |
+| [Papers & Reading Lists](#papers-reading-lists) | arXiv quant-ph, Quantum journal, surveys & textbooks |
 
 ---
 
@@ -34,11 +34,12 @@ appreciate the nudge.
 
 {% assign categories = "software-libraries,hardware-providers,algorithms-theory,conferences-community,papers-reading" | split: "," %}
 {% assign labels = "Software & Libraries,Hardware & Providers,Algorithms & Theory,Conferences & Community,Papers & Reading Lists" | split: "," %}
+{% assign slugs = "software-libraries,hardware-providers,algorithms-theory,conferences-community,papers-reading-lists" | split: "," %}
 
 {% for cat in categories %}
   {% assign idx = forloop.index0 %}
   {% assign label = labels[idx] %}
-  {% assign anchor = label | downcase | replace: ' & ', '--' | replace: ' ', '-' %}
+  {% assign anchor = slugs[idx] %}
   <h3 id="{{ anchor }}">{{ label }}</h3>
   <ul>
   {% for entry in site.resources %}
