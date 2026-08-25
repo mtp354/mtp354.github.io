@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T13:41:40Z",
+  "generated_at": "2026-08-25T13:47:44Z",
   "items": [
     {
       "id": "0bf03e4698fa4da1",
@@ -10,7 +10,7 @@
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-08-20T00:44:22Z",
+      "published": "2026-07-31T05:02:55Z",
       "query": "quantum computing grant",
       "score": 13,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlA1Z25HcEExQTducklYc05XcDRwU1ZSTGhTaEIzcU9qb2xUTi1tUERIQWRwcXdxQjgwOVVwWEVOcHJCNTd2WVYtZVJOT1JNdTU5M3hIeTRUWXhxZllRMXA2TzdiYUpyWFpzWHkwWVVzMzJGaGlSXzJTN3BCMExDYkpnMktiQ1JtcXZJWGJNbUJUMl8ybFRmWGZTMWVzY3ZPTWNJWEsySERkM3E2YU14amU4X1nSAboBQVVfeXFMTVJ1MVpHQjVzWkhYR1F6OFpoMENzTHdFOFViU1J3V3JEV3I0ZVN6X3NXQVBfX2c4ZHRBX3ZCbUZoZWNLOXJvdEpjSzdYMFB1NVVmbFZ6MW5ENzVkcjdGeFpIWDBMSVRVSXlNRTh3SXZWT0dlWUZ4Z201SEVTUzI2b1lyc09zeGNBZXR5TFBhME9ydHphUlNxSEV3aVVzaWFyZk42VlE0TF8xTzJubTF4VG9wTzE1WjdhS2V3?oc=5\" target=\"_blank\">Call for Proposals: Canada G7–Nordic-Quantum Technologies Grants (Germany)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fundsforNGOs</font>",
@@ -131,6 +131,38 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb2NONE9neWV5a3plczdVdF9wVkRfdHVkZTVsVkRNeGhnZ1l5ajQ1QXBQN2FvWG1FMGVnSmlZOG56MXVNWWx5dFRuUTNDenplS2htM3JmbGVjZGtwRFJnRzhPZ0p0aHJWZ3YwMnRYTnpMSmlaMllxOTdVek5Mb0NmRk5LekZsUkhzdEZUa2JrUG5KNTJOcG9KSXZ2WXhYR1haRWhmRGxn?oc=5"
     },
     {
+      "id": "d7ed68ded212253b",
+      "matched_keywords": [
+        "grant",
+        "funding",
+        "quantum",
+        "quantum technology"
+      ],
+      "published": "2026-08-24T17:44:44Z",
+      "query": "quantum technology grant",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzNHemZXdWU0eURoWkt0VXhpOF9iQlB2NmdQQmRyMmp4U0F1cVVRc3hqR0tYYTMzUEJFdG43VTBaVTYxM0Q1UHdzTFdFRTF4OEJjSkJYRzREenNua1Vhai1KMGpabUpLS3lPVzh0OWhrbWFIVDBkUDlhSHZkUDROa2N4a0k3WU9RelZfVHJ0T0FBMHc?oc=5\" target=\"_blank\">EuroHPC Opens €119M in Funding Calls for Quantum Technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "EuroHPC Opens €119M in Funding Calls for Quantum Technologies - The Quantum Insider",
+      "type": "grants",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzNHemZXdWU0eURoWkt0VXhpOF9iQlB2NmdQQmRyMmp4U0F1cVVRc3hqR0tYYTMzUEJFdG43VTBaVTYxM0Q1UHdzTFdFRTF4OEJjSkJYRzREenNua1Vhai1KMGpabUpLS3lPVzh0OWhrbWFIVDBkUDlhSHZkUDROa2N4a0k3WU9RelZfVHJ0T0FBMHc?oc=5"
+    },
+    {
+      "id": "c7a2cca90dce3815",
+      "matched_keywords": [
+        "grant",
+        "funding",
+        "quantum",
+        "quantum technology"
+      ],
+      "published": "2026-08-21T12:57:47Z",
+      "query": "quantum technology grant",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWU5c2Q5WmZ2TjAzQUd6Z21SUzBpekNHR3IxMHlSbngtWXZ1QnpLNXlSN3BDdjBQQTY2N1doNGdzcW0yS0dnUEJLaWpCZThJNnFRY1RGVGZEb3A0NlNndF9wTmcxa2UxY1dtSHlHLWFLdkRKbmtIR0pXRnhZb1dmcGt5ZW4?oc=5\" target=\"_blank\">Umeå University Researchers Discuss Quantum Funding With Minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Umeå University Researchers Discuss Quantum Funding With Minister - Quantum Zeitgeist",
+      "type": "grants",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSWU5c2Q5WmZ2TjAzQUd6Z21SUzBpekNHR3IxMHlSbngtWXZ1QnpLNXlSN3BDdjBQQTY2N1doNGdzcW0yS0dnUEJLaWpCZThJNnFRY1RGVGZEb3A0NlNndF9wTmcxa2UxY1dtSHlHLWFLdkRKbmtIR0pXRnhZb1dmcGt5ZW4?oc=5"
+    },
+    {
       "id": "87ec2bb2dd22d23c",
       "matched_keywords": [
         "grant",
@@ -195,20 +227,36 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnVBOEdXOEJuVHRLWGt0ZVVOUl9XOXVUNEYwbWgyWmxiV0JPTEFRWmlzS3FmOGdPN1drTFFUSGstUVlqejZzTFBTMVdjR0tyT0dOTHNFNDJKdEJKRk9uUkdsTThHb0o2WmpGdmoxU3RfSFFFTF8wSHdaMDIzV0NCZGo5SkpCazA2SmhDbw?oc=5"
     },
     {
-      "id": "968ab4c7251656ec",
+      "id": "7349432d6d783c20",
       "matched_keywords": [
         "grant",
         "funding",
         "quantum",
-        "quantum technology"
+        "quantum computing"
       ],
-      "published": "2026-07-30T06:22:45Z",
-      "query": "quantum technology grant",
+      "published": "2026-08-03T07:00:00Z",
+      "query": "quantum computing grant",
       "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQVZXVVZlMmNvZDNZZk5VYmRlSktTbnJtR29Tc1RscFRBN2NFZzJ4aXU4ZnA0VkVZbTMyTU1idWUxdEZJV3JNQWZydjVnY3JRT21memFUOXlhMHZ1NGlUaEI1NklFbzlhd05xOGUyMHF3MExQamVRbkdjY3gtTUdxZDdVdTY5R24yczRWNks4UUo4LUZtZHJCNzJlelYyUdIBowFBVV95cUxOaXNsV3h5TXpfYWN4WEJnd0VnRVJUTUJ2OFM3dkZIYkdvOHdfUDgxelN1c2NKR3MtYnp5UnN4WkNTV3M1aXRYOEJuTmxGMFhwX1VBSnBNa0dCSXpENWZtZEhZTmU5ZnFSNi13OEpxUXVRaXhSaTRkOW5Id0poWWpqVS1sTTUyOFNydWlobmFnRWRFTkhjYUpmZk5ZN25lRG03WHhv?oc=5\" target=\"_blank\">Applications open for Quantum Technologies Funding Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fundsforNGOs</font>",
-      "title": "Applications open for Quantum Technologies Funding Program - fundsforNGOs",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZk44QTJVSTRWWF9BbWVZQUtNZWhGUUlEZHk0SVh6V1dVbEV4X3A5dDF0RGEtN3otMjB0Xy1idGo1dTZtTU5abWpYZjFuaEdHQlFnVTVKc0JKc043MkJwTmtRMU1xRnlmTFI5SmdnUVJJYzRXYlE3Vmg3QUxXMVAxYWpoWnIwcUU3bkZoUUtleW9wYjctZGl3RllYc19yTnljcmFQQTdla2NyWWUtY1lxQVo5TmxFbmdU?oc=5\" target=\"_blank\">Which Quantum Computing Stocks Get the Most U.S. Government Funding – and Does It Matter?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool Canada</font>",
+      "title": "Which Quantum Computing Stocks Get the Most U.S. Government Funding – and Does It Matter? - The Motley Fool Canada",
       "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQVZXVVZlMmNvZDNZZk5VYmRlSktTbnJtR29Tc1RscFRBN2NFZzJ4aXU4ZnA0VkVZbTMyTU1idWUxdEZJV3JNQWZydjVnY3JRT21memFUOXlhMHZ1NGlUaEI1NklFbzlhd05xOGUyMHF3MExQamVRbkdjY3gtTUdxZDdVdTY5R24yczRWNks4UUo4LUZtZHJCNzJlelYyUdIBowFBVV95cUxOaXNsV3h5TXpfYWN4WEJnd0VnRVJUTUJ2OFM3dkZIYkdvOHdfUDgxelN1c2NKR3MtYnp5UnN4WkNTV3M1aXRYOEJuTmxGMFhwX1VBSnBNa0dCSXpENWZtZEhZTmU5ZnFSNi13OEpxUXVRaXhSaTRkOW5Id0poWWpqVS1sTTUyOFNydWlobmFnRWRFTkhjYUpmZk5ZN25lRG03WHhv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZk44QTJVSTRWWF9BbWVZQUtNZWhGUUlEZHk0SVh6V1dVbEV4X3A5dDF0RGEtN3otMjB0Xy1idGo1dTZtTU5abWpYZjFuaEdHQlFnVTVKc0JKc043MkJwTmtRMU1xRnlmTFI5SmdnUVJJYzRXYlE3Vmg3QUxXMVAxYWpoWnIwcUU3bkZoUUtleW9wYjctZGl3RllYc19yTnljcmFQQTdla2NyWWUtY1lxQVo5TmxFbmdU?oc=5"
+    },
+    {
+      "id": "ba83d67f5d5b88a4",
+      "matched_keywords": [
+        "grant",
+        "fellowship",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-07-28T07:00:00Z",
+      "query": "quantum fellowship",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQlVLT1k1dFZpTGJGdi1mVVZINjNvZWxoSjFYSW1HZmEwNUI3enFyY2FfcFFqSWduVGFxcjg2dnRMMWkxLUhuc3k2NGs3TWJ3VVZzOWJvazNPNEF4aUdhSHFYWW5QQ09hZzhBdHhWZFlNYlNsdnQ0dXJLcDA3QVpTVjFhN3dxTGYwTy1aR0hTZGZqeXhod0hER096QXplUWp1bFhnUlN5UkNWdldmem05QjQyNVFZT3JteG8wQXp3bjJBUHduWW9jQUVjOEhOdG9uZ0F3QjdBRQ?oc=5\" target=\"_blank\">Innovation Research Fellow Grants Advance Breakthrough Research Across Healthcare and Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hofstra University News</font>",
+      "title": "Innovation Research Fellow Grants Advance Breakthrough Research Across Healthcare and Quantum Computing - Hofstra University News",
+      "type": "grants",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQlVLT1k1dFZpTGJGdi1mVVZINjNvZWxoSjFYSW1HZmEwNUI3enFyY2FfcFFqSWduVGFxcjg2dnRMMWkxLUhuc3k2NGs3TWJ3VVZzOWJvazNPNEF4aUdhSHFYWW5QQ09hZzhBdHhWZFlNYlNsdnQ0dXJLcDA3QVpTVjFhN3dxTGYwTy1aR0hTZGZqeXhod0hER096QXplUWp1bFhnUlN5UkNWdldmem05QjQyNVFZT3JteG8wQXp3bjJBUHduWW9jQUVjOEhOdG9uZ0F3QjdBRQ?oc=5"
     },
     {
       "id": "ea0d4ec785642fdd",
@@ -273,54 +321,6 @@
       "title": "Illinois Governor announces $30M secured in grant funding for quantum technology - Yahoo",
       "type": "grants",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUVySmpDNVk5MWNYbjE3eFBmRGM1TWI2NElJWUt1bjNjMzVxTDBMWHQ0d2s2dG4taVRETl9oUlU3aWc3Ynd1U25BN1NyVkw4VV9KSXZ1UmxITGtZT0szaVdNN0RpZk9sNlNnZmdiNm9jeGNmT3ZqdERRV1NXREs3X0J6a2NSZFl2ZXhjT3J3QU9SOXJWM2p6anFnZG10Ync?oc=5"
-    },
-    {
-      "id": "cc72ef9cb7a2edf9",
-      "matched_keywords": [
-        "intern",
-        "hackathon",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-07-21T07:00:00Z",
-      "query": "quantum hackathon",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNOS15bWFJYUxRLXpxd3hSSHlLSDJ6cGlZMm9RYUhhcFhGVU1ucTMtQmJKYXpFTHNlTG14TFROcTZ2eVc2YjVmYVQ4MXVQdGt6Vzh5YXJtbHBKZTJSdVRXeHplZmJnbnlzdmNyVkZTa0dTSzZabVZqdmJMQ0FFOGRlY1JIOU1MamtrcW1GQWZyYXc5MjJ1RXlVRlZfdC1ESXFH?oc=5\" target=\"_blank\">Vietnam hosts first international quantum computing hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Báo VietNamNet</font>",
-      "title": "Vietnam hosts first international quantum computing hackathon - Báo VietNamNet",
-      "type": "internships",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOS15bWFJYUxRLXpxd3hSSHlLSDJ6cGlZMm9RYUhhcFhGVU1ucTMtQmJKYXpFTHNlTG14TFROcTZ2eVc2YjVmYVQ4MXVQdGt6Vzh5YXJtbHBKZTJSdVRXeHplZmJnbnlzdmNyVkZTa0dTSzZabVZqdmJMQ0FFOGRlY1JIOU1MamtrcW1GQWZyYXc5MjJ1RXlVRlZfdC1ESXFH?oc=5"
-    },
-    {
-      "id": "bd426641b4f64c36",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-07-14T07:00:00Z",
-      "query": "quantum computing grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQekxldEVZeGt6TlhweHVxSzZjVnlnbjhDQkZrMWRnSzFzak5ZYjU2Rk9sMnBJdndMMXk2ZjBVaXdoUF96ZTdQWEM2MkRZRjJGSFRwM29pUlVoc1N1SDhJdnY4WURSNTVINlQzNlN0YVk2LTNpVElvWUtYVjlRZGNSSjEtZ0gzUm9YTlU1dC1n?oc=5\" target=\"_blank\">CT quantum initiative wins NSF award, unlocking millions in federal funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CT Mirror</font>",
-      "title": "CT quantum initiative wins NSF award, unlocking millions in federal funding - CT Mirror",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekxldEVZeGt6TlhweHVxSzZjVnlnbjhDQkZrMWRnSzFzak5ZYjU2Rk9sMnBJdndMMXk2ZjBVaXdoUF96ZTdQWEM2MkRZRjJGSFRwM29pUlVoc1N1SDhJdnY4WURSNTVINlQzNlN0YVk2LTNpVElvWUtYVjlRZGNSSjEtZ0gzUm9YTlU1dC1n?oc=5"
-    },
-    {
-      "id": "3e8083d67e9dc70e",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-07-10T17:19:00Z",
-      "query": "quantum computing grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUNEYm5CZjNqWmRJUWhHNlUwZ05Yc1ZieDczTDBuMk5KWjhMMTJQeTcxYzQ1V0lRYk1IZ2RYS05ET2xNRU1lNENjamg4U003N0NqQThPTl9EaU11TGtMc2pHRENJN3BrdmU4M2R2Z3pxRFNFZTRGM25uOUxMb2lBZVZSaHBtWkI0ajMzd1R3TmVuRHV3di1FMFB5dEk5dVh4cmZ6OGwxQktQNjJVa2x4X013UlRMZw?oc=5\" target=\"_blank\">Federal funding adds fuel to theoretical and applied quantum research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Waterloo</font>",
-      "title": "Federal funding adds fuel to theoretical and applied quantum research - University of Waterloo",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcUNEYm5CZjNqWmRJUWhHNlUwZ05Yc1ZieDczTDBuMk5KWjhMMTJQeTcxYzQ1V0lRYk1IZ2RYS05ET2xNRU1lNENjamg4U003N0NqQThPTl9EaU11TGtMc2pHRENJN3BrdmU4M2R2Z3pxRFNFZTRGM25uOUxMb2lBZVZSaHBtWkI0ajMzd1R3TmVuRHV3di1FMFB5dEk5dVh4cmZ6OGwxQktQNjJVa2x4X013UlRMZw?oc=5"
     }
   ]
 }
