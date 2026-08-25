@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 PhD Candidate in Physics at the City University of New York. My research
-focuses on **quantum information theory** — scalable quantum algorithms,
-error correction, and what quantum technology means for cryptography and
-information security.
+focuses on **quantum information theory** — specifically quantum cryptography, 
+scalable quantum algorithms, quantum networking and distributed quantum computing.
 
 {% include hero-cards.html %}
 
@@ -24,14 +23,13 @@ or a collaboration idea. You can also find my articles on
 
 Quantum Computing
 ======
-My research sits at the intersection of scalable quantum algorithms, error
-correction, and the practical implications of quantum technologies for
-cryptography and information security. I am just as interested in the
-day-to-day engineering challenges of building useful quantum systems as I am
-in the deeper theoretical questions about what quantum information tells us
-about physics. The [Quantum Radar](/quantum-radar/) page collects the
-hand-picked opportunities, news, and people I keep an eye on — it might be a
-useful starting point if you are exploring the field too. If you are new to
+My research sits at the intersection of crpytography, scalable quantum algorithms, 
+and the practical implications of quantum technologies for for networking and
+distributed computing. I am just as interested in the day-to-day engineering challenges 
+of building useful quantum systems as I am in the deeper theoretical questions about what 
+quantum information tells us about physics. The [Quantum Radar](/quantum-radar/) page 
+collects the hand-picked opportunities, news, and people I keep an eye on — it might 
+be a useful starting point if you are exploring the field too. If you are new to
 the area, the short [Quantum 101](/quantum-101/) glossary may help.
 
 The Rest
