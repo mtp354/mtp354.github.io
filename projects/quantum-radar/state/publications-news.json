@@ -1,399 +1,406 @@
 {
-  "generated_at": "2026-08-25T11:24:13Z",
+  "generated_at": "2026-08-27T14:54:40Z",
   "news": [
     {
-      "id": "81df55797c1a0e92",
+      "id": "c24cbe9243b84236",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-08-25T10:30:00Z",
+      "published": "2026-08-27T11:51:22Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFB5Nk1Va2k1emRabU9XbjhTM3JSOHl5dTVlWFFRcExkVEt3eVpNLXMzMHprTTNwZ2dyT1Vxc0Z1eEt6N1JuRkZlcDIzNFlQc0RGWXIxdS1zbkVzcTR5WkdQc3ROR0Ffc3o4bVFzZHI2a0lWOWpn?oc=5\" target=\"_blank\">Infleqtion’s Chip Powers Japan’s First Full Quantum System</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Infleqtion’s Chip Powers Japan’s First Full Quantum System - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5Nk1Va2k1emRabU9XbjhTM3JSOHl5dTVlWFFRcExkVEt3eVpNLXMzMHprTTNwZ2dyT1Vxc0Z1eEt6N1JuRkZlcDIzNFlQc0RGWXIxdS1zbkVzcTR5WkdQc3ROR0Ffc3o4bVFzZHI2a0lWOWpn?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNS3JCQlAwa2lOVEM1eExrdll1WEVuWjhhMjA2SFlJYnFnbnNVTlBqTGhUdGl6RDZrazMxMXkxTms0T1Zpa09sbXQydWNQQ1R1RHlUS1h0UUlMYmJRSUxzVnhoWDdhdnFjS2FBc1ppZFM5WE94ZlpaOXlmdjh0cnBhOFFSNUdvQkJHcmpXVjlLX2Y0cXUtZTV1Njl1MTJ0aXF1enRmZ3dHZWxST0ZuOWhiMTBlV3lqVFkwU2c?oc=5\" target=\"_blank\">Infleqtion Stock: Can Quantum Sensing Fund The Qubit Future (NYSE:INFQ)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+      "title": "Infleqtion Stock: Can Quantum Sensing Fund The Qubit Future (NYSE:INFQ) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS3JCQlAwa2lOVEM1eExrdll1WEVuWjhhMjA2SFlJYnFnbnNVTlBqTGhUdGl6RDZrazMxMXkxTms0T1Zpa09sbXQydWNQQ1R1RHlUS1h0UUlMYmJRSUxzVnhoWDdhdnFjS2FBc1ppZFM5WE94ZlpaOXlmdjh0cnBhOFFSNUdvQkJHcmpXVjlLX2Y0cXUtZTV1Njl1MTJ0aXF1enRmZ3dHZWxST0ZuOWhiMTBlV3lqVFkwU2c?oc=5"
     },
     {
-      "id": "fd82cfb7c476d0f7",
+      "id": "72122890eac28f04",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-08-25T09:49:58Z",
+      "published": "2026-08-26T10:38:44Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1g5MGd6Rk53OGFLM1hsdWdfNnNFd0hhR1dkajRkWENpbVJfVjQ5Uzg1UkJkRWV0dFBsNmRCcGpSVmFaU1RUSXFLX2k3QWc2OXRmeE03eGRISjVWOC1zdHo1Y3k0SzNVdXdHWEVaUk1ESlJXVDlRU2M0VGswM0dPdy1MV3hjTDI2NVdWbWZPM2p4Ykk3RDhubUktT25EeGRSMUN0d0RzekR1OGstSHc?oc=5\" target=\"_blank\">Japan Switches On Its First Full-Stack Neutral-Atom Quantum Computer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The European Magazine</font>",
-      "title": "Japan Switches On Its First Full-Stack Neutral-Atom Quantum Computer - The European Magazine",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd1g5MGd6Rk53OGFLM1hsdWdfNnNFd0hhR1dkajRkWENpbVJfVjQ5Uzg1UkJkRWV0dFBsNmRCcGpSVmFaU1RUSXFLX2k3QWc2OXRmeE03eGRISjVWOC1zdHo1Y3k0SzNVdXdHWEVaUk1ESlJXVDlRU2M0VGswM0dPdy1MV3hjTDI2NVdWbWZPM2p4Ykk3RDhubUktT25EeGRSMUN0d0RzekR1OGstSHc?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1SMWtWaWdrUXIxYlI4blZyRjFpS2h1enVOOEN5X203Yk41c0RnQnd3RGd0dmlPQ1NIaWlNWnN5cHdPT3ZYdHRWTGpuWGduTW9GblkxQVI1S1BXSFdYSVNyZF82bVgtSjNMNExLYlhTWmV1M2t2bXRB?oc=5\" target=\"_blank\">EuroHPC JU Opens Quantum Calls For 3.5-year Projects, Applications Due In November</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "EuroHPC JU Opens Quantum Calls For 3.5-year Projects, Applications Due In November - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SMWtWaWdrUXIxYlI4blZyRjFpS2h1enVOOEN5X203Yk41c0RnQnd3RGd0dmlPQ1NIaWlNWnN5cHdPT3ZYdHRWTGpuWGduTW9GblkxQVI1S1BXSFdYSVNyZF82bVgtSjNMNExLYlhTWmV1M2t2bXRB?oc=5"
     },
     {
-      "id": "859fe3bc40bccef2",
+      "id": "e9715b5c31a5dc1d",
       "matched_keywords": [
         "quantum computing",
-        "neutral atom"
+        "modular quantum"
       ],
-      "published": "2026-08-25T09:22:01Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOS21pWFlOS1M4WEhUQWRkUHFBRzRUQXl4eTJRbWw1RG5HcnJJTWozdng2V29jZXluYmVHVTBsNkxUM0YwUk5OaDlUaC1iX2IteE5YbDFOSFM1bHplSWh4THZYcWQ1Z1VQT0J5SG1BSnlWVTBQOU5CQkpmMnFfd1dyTWJSZTJKLURiTmJubWg1YTZxdw?oc=5\" target=\"_blank\">Infleqtion supports Japan’s first neutral-atom quantum computer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Engineer Live</font>",
-      "title": "Infleqtion supports Japan’s first neutral-atom quantum computer - Engineer Live",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS21pWFlOS1M4WEhUQWRkUHFBRzRUQXl4eTJRbWw1RG5HcnJJTWozdng2V29jZXluYmVHVTBsNkxUM0YwUk5OaDlUaC1iX2IteE5YbDFOSFM1bHplSWh4THZYcWQ1Z1VQT0J5SG1BSnlWVTBQOU5CQkpmMnFfd1dyTWJSZTJKLURiTmJubWg1YTZxdw?oc=5"
-    },
-    {
-      "id": "498c38699d5dea1c",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-08-25T09:16:42Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQVW04Z0VsMXA1RTJXQ0VVX1Z6Ql9JS1JLNGs2LUl0NmxlSURXRFpNTFJ1RnVqcTlpSFZFUHFmaHowM3JxZGNBbFNlbnAyS3dQbTBOVFFmSmRyZE1BM2poWGNvZUVQTktiWlk4c1JYamVhcFdQamhjMngtOG5lRWwwZGJCRzhTV0k5cnp4RTNXVEZzS2l6TG1QbUctQzJfbkdueEpN?oc=5\" target=\"_blank\">EuroHPC Joint Undertaking launches six new quantum calls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Innovation News Network</font>",
-      "title": "EuroHPC Joint Undertaking launches six new quantum calls - Innovation News Network",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVW04Z0VsMXA1RTJXQ0VVX1Z6Ql9JS1JLNGs2LUl0NmxlSURXRFpNTFJ1RnVqcTlpSFZFUHFmaHowM3JxZGNBbFNlbnAyS3dQbTBOVFFmSmRyZE1BM2poWGNvZUVQTktiWlk4c1JYamVhcFdQamhjMngtOG5lRWwwZGJCRzhTV0k5cnp4RTNXVEZzS2l6TG1QbUctQzJfbkdueEpN?oc=5"
-    },
-    {
-      "id": "1d7c63766e6b5aa9",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-08-25T07:11:59Z",
+      "published": "2026-08-26T07:46:24Z",
       "query": "quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5VVkxhQzRad3NzQXBvemN2d1Q2QUJOWDdVRlhLRk50LWVuaHJEQkx4Qm5Bb1FBWkVCOFdaVllvM08yNXlTODk0RG1tOHVQazVQMnBzVFRZQVlqZXZBX1hfaEtrVzh6dThjSzI0M09Ycw?oc=5\" target=\"_blank\">Japanese Researchers Put Experimental Neutral Atom Quantum Computer Into Operation in Aichi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Межа. Новини України.</font>",
-      "title": "Japanese Researchers Put Experimental Neutral Atom Quantum Computer Into Operation in Aichi - Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VVkxhQzRad3NzQXBvemN2d1Q2QUJOWDdVRlhLRk50LWVuaHJEQkx4Qm5Bb1FBWkVCOFdaVllvM08yNXlTODk0RG1tOHVQazVQMnBzVFRZQVlqZXZBX1hfaEtrVzh6dThjSzI0M09Ycw?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXpseDdrS0x6UU42cTVubG1STXF2UDVFNFR2eE94NEdkTkFheDNPMmN1TTNvcU5xNmgzcmJqbHQyM00xZmVPNEdpQWNYaEJNZDd6WUxuMmNMbVdHTFluTDZHNzVYNkRlVnlPZEtDdjExWmxXYzZXUThtRlA5QVI0UDMtc3BhUWpBdDhzZTBDQXF3dmRNY1pUc1BlNDc3TXhXNkhzTQ?oc=5\" target=\"_blank\">NSF Renews Illinois-Led HQAN With $37.5M for Modular Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "NSF Renews Illinois-Led HQAN With $37.5M for Modular Quantum Computing - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXpseDdrS0x6UU42cTVubG1STXF2UDVFNFR2eE94NEdkTkFheDNPMmN1TTNvcU5xNmgzcmJqbHQyM00xZmVPNEdpQWNYaEJNZDd6WUxuMmNMbVdHTFluTDZHNzVYNkRlVnlPZEtDdjExWmxXYzZXUThtRlA5QVI0UDMtc3BhUWpBdDhzZTBDQXF3dmRNY1pUc1BlNDc3TXhXNkhzTQ?oc=5"
     },
     {
-      "id": "b4b7d587595dabcd",
+      "id": "b86c3aaed9977c38",
       "matched_keywords": [
         "quantum computing",
-        "neutral atom"
+        "error correction"
       ],
-      "published": "2026-08-24T19:05:39Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenVjRm4xVmowN2pXckFPajlTZ3hncFVEanVCcE1JbEJUUjNndjFkRE5LWjE2cWxLR2R2cnlVSzFpY2Mya3BFQk4xeUlubkY2UmJpRUZqT1FhN3ZxU2o2bVVXZ2pHeWVnYTdna0k4YzE1STJaMG9vcHRtcm1jNGs3WTBfQ3A0UzBRck1r?oc=5\" target=\"_blank\">Japan launches first neutral-atom quantum compu...</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pluang</font>",
-      "title": "Japan launches first neutral-atom quantum compu... - Pluang",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPenVjRm4xVmowN2pXckFPajlTZ3hncFVEanVCcE1JbEJUUjNndjFkRE5LWjE2cWxLR2R2cnlVSzFpY2Mya3BFQk4xeUlubkY2UmJpRUZqT1FhN3ZxU2o2bVVXZ2pHeWVnYTdna0k4YzE1STJaMG9vcHRtcm1jNGs3WTBfQ3A0UzBRck1r?oc=5"
-    },
-    {
-      "id": "2fd70e3f34440074",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-08-24T19:00:00Z",
-      "query": "fault tolerant quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZjF2N1B4RVUwSGJJa180RDRfZ2twQ2hiNVFJaWZFbEY0UjFLN0FTcjVtVjc3TExvSEx4QzBkVmxmeUtSNnQ1N2w5enVERlJNRmJyZHotWmZOSE5wZmgxbmpuQUtRQXZLUEFIRDBxYjl1SlpESkE5RkoxdGJGdXZJVkVQVGwwLTJjUDVxZWtMdTZISUNKNXVUMlFWTFhsVGVHNUpNbU9razFuUWNUWnpmVm5rRHBaWXEwSV9YRmt0T2FHX2dBeFpsUlNjSHVLUmtjeERGMkFlY0w3WVBhUkt4eUdHczVzVWFH?oc=5\" target=\"_blank\">Infleqtion Collaboration with Japan Moonshot Program Achieves Major Milestone: \"Shunkai\" Neutral Atom Quantum Computer Now Operational</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">01net</font>",
-      "title": "Infleqtion Collaboration with Japan Moonshot Program Achieves Major Milestone: \"Shunkai\" Neutral Atom Quantum Computer Now Operational - 01net",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZjF2N1B4RVUwSGJJa180RDRfZ2twQ2hiNVFJaWZFbEY0UjFLN0FTcjVtVjc3TExvSEx4QzBkVmxmeUtSNnQ1N2w5enVERlJNRmJyZHotWmZOSE5wZmgxbmpuQUtRQXZLUEFIRDBxYjl1SlpESkE5RkoxdGJGdXZJVkVQVGwwLTJjUDVxZWtMdTZISUNKNXVUMlFWTFhsVGVHNUpNbU9razFuUWNUWnpmVm5rRHBaWXEwSV9YRmt0T2FHX2dBeFpsUlNjSHVLUmtjeERGMkFlY0w3WVBhUkt4eUdHczVzVWFH?oc=5"
-    },
-    {
-      "id": "70eb58f536924851",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-08-24T17:44:44Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQNl9KV3RVMDNHamxFQjFPb3pnbV8wR2tFbV92TFM4QjBiejllWnRwMlhrSlIzZkdHVEZnQ3I2a2dxTGNjWEF6NWtMVVlwMDlvTEp6RkVOR3N4dVR0dmJzbUlCMHRqYzJLa1liTnRUNkpjZ0JwU2ZpcFZqY1JWNDN4T2lpcHl1emNRRC0zbVlfc3BQNzBvMWNXZ1ZHWkY3WnRUMmc?oc=5\" target=\"_blank\">Infleqtion Helps Launch Japan’s First Operational Neutral-Atom Quantum Computer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "Infleqtion Helps Launch Japan’s First Operational Neutral-Atom Quantum Computer - The Quantum Insider",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNl9KV3RVMDNHamxFQjFPb3pnbV8wR2tFbV92TFM4QjBiejllWnRwMlhrSlIzZkdHVEZnQ3I2a2dxTGNjWEF6NWtMVVlwMDlvTEp6RkVOR3N4dVR0dmJzbUlCMHRqYzJLa1liTnRUNkpjZ0JwU2ZpcFZqY1JWNDN4T2lpcHl1emNRRC0zbVlfc3BQNzBvMWNXZ1ZHWkY3WnRUMmc?oc=5"
-    },
-    {
-      "id": "d7ed68ded212253b",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-08-24T17:44:44Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzNHemZXdWU0eURoWkt0VXhpOF9iQlB2NmdQQmRyMmp4U0F1cVVRc3hqR0tYYTMzUEJFdG43VTBaVTYxM0Q1UHdzTFdFRTF4OEJjSkJYRzREenNua1Vhai1KMGpabUpLS3lPVzh0OWhrbWFIVDBkUDlhSHZkUDROa2N4a0k3WU9RelZfVHJ0T0FBMHc?oc=5\" target=\"_blank\">EuroHPC Opens €119M in Funding Calls for Quantum Technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "EuroHPC Opens €119M in Funding Calls for Quantum Technologies - The Quantum Insider",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzNHemZXdWU0eURoWkt0VXhpOF9iQlB2NmdQQmRyMmp4U0F1cVVRc3hqR0tYYTMzUEJFdG43VTBaVTYxM0Q1UHdzTFdFRTF4OEJjSkJYRzREenNua1Vhai1KMGpabUpLS3lPVzh0OWhrbWFIVDBkUDlhSHZkUDROa2N4a0k3WU9RelZfVHJ0T0FBMHc?oc=5"
-    },
-    {
-      "id": "5a9121ea182fd6ec",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-08-24T16:00:00Z",
+      "published": "2026-08-26T07:46:24Z",
       "query": "quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwJBVV95cUxOZjgzdlUwM3E1TVRSWnpXN0R0bklvb1AwajNjUFE5amlEWlN1TEtib2JmRUUweVMwbjYwX2RBaE1neWVjejVHdnRfbm5aYUYyVk9lTWNJclJ5MXJWZnl2WC00eUx3SGJzUk9CYXB2eU1adXBiOWdDLVZjajVqXzdBanNVWG5STGlaZnV2WGdmbTh0VkduWm5XOFV1a0lrT1ViWEdoVFQ1Q2JTM1lXS1JnNEUwZ0RVTURmMUpUOW9LcU0zY2RkUWZHazN0NXFFYXlGTnRRalFrOGlyZEEycnkwZ3Z5TThfVHBEMVZFdkx5MnFSN0pQT2ZOSEVLbWxwWk8tYjRNaklhQk5JRGp6M3A3N0pZQWpYeDA?oc=5\" target=\"_blank\">Infleqtion Collaboration with Japan Moonshot Program Achieves Major Milestone: \"Shunkai\" Neutral Atom Quantum Computer Now Operational</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Wire</font>",
-      "title": "Infleqtion Collaboration with Japan Moonshot Program Achieves Major Milestone: \"Shunkai\" Neutral Atom Quantum Computer Now Operational - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOZjgzdlUwM3E1TVRSWnpXN0R0bklvb1AwajNjUFE5amlEWlN1TEtib2JmRUUweVMwbjYwX2RBaE1neWVjejVHdnRfbm5aYUYyVk9lTWNJclJ5MXJWZnl2WC00eUx3SGJzUk9CYXB2eU1adXBiOWdDLVZjajVqXzdBanNVWG5STGlaZnV2WGdmbTh0VkduWm5XOFV1a0lrT1ViWEdoVFQ1Q2JTM1lXS1JnNEUwZ0RVTURmMUpUOW9LcU0zY2RkUWZHazN0NXFFYXlGTnRRalFrOGlyZEEycnkwZ3Z5TThfVHBEMVZFdkx5MnFSN0pQT2ZOSEVLbWxwWk8tYjRNaklhQk5JRGp6M3A3N0pZQWpYeDA?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1k5QnFBOVRnMW8ycmc4Z3puV2NfZzMydlF4R0RjRHE5cjhpMGVGRmJvQnZwdU5yX3I2UjQ0X05sUWdtVW1id0VFbWY0NGFZQUotYjE3WFVkLVZpNWptYmV3dDZadnZYX21ud0tYZDRnSExMMDMxX1R1Vzd2TGRWZGVUaFd4XzJlQ25Vbm1odkdiV3ZtcVUyZXRB?oc=5\" target=\"_blank\">NSF Awards Yale-Led Center $37.5M for Quantum Error Correction Research</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "NSF Awards Yale-Led Center $37.5M for Quantum Error Correction Research - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1k5QnFBOVRnMW8ycmc4Z3puV2NfZzMydlF4R0RjRHE5cjhpMGVGRmJvQnZwdU5yX3I2UjQ0X05sUWdtVW1id0VFbWY0NGFZQUotYjE3WFVkLVZpNWptYmV3dDZadnZYX21ud0tYZDRnSExMMDMxX1R1Vzd2TGRWZGVUaFd4XzJlQ25Vbm1odkdiV3ZtcVUyZXRB?oc=5"
     },
     {
-      "id": "2f210a3d2ae20bec",
+      "id": "0232a3e209dfafc8",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-08-24T15:31:52Z",
+      "published": "2026-08-26T03:03:14Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEhkZkUwMnJ6cllWUXdES201ZnVIeGNJbnNJV1JHRVBBaDFLWTNhUTNpSFhhODZBdWFUMWd5LTRtZVVNS3h0RVJHLXgzXzR3TS1fRDZnNDZhN1R1TDZ5VUR3dEtkNDZYY1RIQWRDMUU3Qllxcmt1ekdDYmVFeWhKVUc2c1dwSGtpbi1lc1B2MGI1a0cxbC1NTUk2MzNjVGhxdkVObDVMU3NySkEyODNHU0pn0gG3AUFVX3lxTE40ZThFS0tpb0E2eVFYZlJlbi1VZTJYSVN0dkxnQi1NaFhTZUNXeERjUkl0RngtZHZWUTJ1V1ZiZnl5d0hiVGg0WjJHc3NKNVA2c1pGRzlpTGR6LVBkSHVhUHd2NFNfTVJIV2EzRi1VWE1lcFNEcWNxVVZSbUFHeFJYOUN3Q1l5dkdqbU1sQmJEOGNveUNCMzlCRHpnNUcxaWExbjlzQ3pHN0NZVDNJdFpjbjN5ZURNTQ?oc=5\" target=\"_blank\">Japan Operationalizes First Full-Stack Neutral-Atom Quantum Computer “Shunkai”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
-      "title": "Japan Operationalizes First Full-Stack Neutral-Atom Quantum Computer “Shunkai” - Quantum Computing Report",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUEhkZkUwMnJ6cllWUXdES201ZnVIeGNJbnNJV1JHRVBBaDFLWTNhUTNpSFhhODZBdWFUMWd5LTRtZVVNS3h0RVJHLXgzXzR3TS1fRDZnNDZhN1R1TDZ5VUR3dEtkNDZYY1RIQWRDMUU3Qllxcmt1ekdDYmVFeWhKVUc2c1dwSGtpbi1lc1B2MGI1a0cxbC1NTUk2MzNjVGhxdkVObDVMU3NySkEyODNHU0pn0gG3AUFVX3lxTE40ZThFS0tpb0E2eVFYZlJlbi1VZTJYSVN0dkxnQi1NaFhTZUNXeERjUkl0RngtZHZWUTJ1V1ZiZnl5d0hiVGg0WjJHc3NKNVA2c1pGRzlpTGR6LVBkSHVhUHd2NFNfTVJIV2EzRi1VWE1lcFNEcWNxVVZSbUFHeFJYOUN3Q1l5dkdqbU1sQmJEOGNveUNCMzlCRHpnNUcxaWExbjlzQ3pHN0NZVDNJdFpjbjN5ZURNTQ?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNTmZhelJmaGwteDJhdTU1VDhpdzBDbEhLeDM3dGFfWE05d1kzQXA5SDVoZjU5Q25jQ1k4SlNvYlVOYUlHNkRkU3RUT1l5a3VEcE1BQjVtNG5wa3d4dkRNQlIydkNENnZsRS1sS2pYRDlnOVljNEk3U2xSZE0yZ1NRaFFSR2lkNjZfbkpyMENMd3JMNTVGU0w0SkZCdkVpUQ?oc=5\" target=\"_blank\">Pasqal & Eleven Ventures Form Saudi Quantum Computing Joint Venture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CairoScene</font>",
+      "title": "Pasqal & Eleven Ventures Form Saudi Quantum Computing Joint Venture - CairoScene",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmZhelJmaGwteDJhdTU1VDhpdzBDbEhLeDM3dGFfWE05d1kzQXA5SDVoZjU5Q25jQ1k4SlNvYlVOYUlHNkRkU3RUT1l5a3VEcE1BQjVtNG5wa3d4dkRNQlIydkNENnZsRS1sS2pYRDlnOVljNEk3U2xSZE0yZ1NRaFFSR2lkNjZfbkpyMENMd3JMNTVGU0w0SkZCdkVpUQ?oc=5"
     },
     {
-      "id": "225db9af1a636e34",
+      "id": "94dbf751332bff6f",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-08-24T15:15:11Z",
+      "published": "2026-08-26T01:54:39Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE04RU83UE5TZkZZem5sLVBPRUdmNXBPclJCZG03SVNPb2JCVmtjU2NGeGViN0dOWXRvcmlVU25JbjhXVVRBYkNKV0VQM1NKaTBPZ2tMWk1SWmU3bDlTZWs4dkN5Zm0xVFhvTjNxUEVqV2tTYV9LRWpKcUx3?oc=5\" target=\"_blank\">Institute For Molecular Science Leads Japan’s First Neutral-atom Quantum Computer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Institute For Molecular Science Leads Japan’s First Neutral-atom Quantum Computer - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04RU83UE5TZkZZem5sLVBPRUdmNXBPclJCZG03SVNPb2JCVmtjU2NGeGViN0dOWXRvcmlVU25JbjhXVVRBYkNKV0VQM1NKaTBPZ2tMWk1SWmU3bDlTZWs4dkN5Zm0xVFhvTjNxUEVqV2tTYV9LRWpKcUx3?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1iOWVDekRteU9Jekl2MDRNNnlSejhacUhyVC1mcUQ0d2Nvc3ZHUS1jT0gwMEs3SlJOcEp3NHhaYU11Z3A5Y0JUVWV2VnRkS3lSUTZvTTdpVUQ0TjFnSlFBSnVqTFRCVWlxOGc?oc=5\" target=\"_blank\">Japan's First Full-Stack Neutral-Atom Quantum Computer 'Shunkai' Goes Online, Moving Error-Correction Research to Real Hardware</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">XenoSpectrum</font>",
+      "title": "Japan's First Full-Stack Neutral-Atom Quantum Computer 'Shunkai' Goes Online, Moving Error-Correction Research to Real Hardware - XenoSpectrum",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iOWVDekRteU9Jekl2MDRNNnlSejhacUhyVC1mcUQ0d2Nvc3ZHUS1jT0gwMEs3SlJOcEp3NHhaYU11Z3A5Y0JUVWV2VnRkS3lSUTZvTTdpVUQ0TjFnSlFBSnVqTFRCVWlxOGc?oc=5"
+    },
+    {
+      "id": "5e6df9581e926675",
+      "matched_keywords": [
+        "quantum computing",
+        "fault tolerance"
+      ],
+      "published": "2026-08-26T00:29:16Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOTE9uZlBQMFMwVGYtNnNpd2w5YjBlclVpZFlyV1dSNV9QcExfLW1kR2ZmbDQwNEFMa29WcVBiTTdyVjgwUVNudDA3cDI1Zjk2WDNrNVI5WS1fNjVHSGNwcnNOWkpCQ09KbS1kVElIRmhKc09PY1BQQUdOMXlQZER5UDhDQU0zcU0xbVlWdnRrUDVGejI2SGF5Z3dpSkZKeDByd1NoUEJFWjQwZ0FJcmFzcGJORkdqYkQ1TnhtRWpQQUpqeFpId084S09kd9IB0AFBVV95cUxQemJTLTlNNHh1UVQ1SWo3djFFbGhkT1pBYzB2czJyS3ZJUDZKTEh5aDBPMTRyelVzVzNFTnhid1h0a0Q5dWwxb0UyLXBsb0pXeGVLYTJhZE5XZHdFbG9kZEk2N1UxeVROMGZrUlNldEhKR053NzVoTzFHR3VEN1JHOHZxY3g2dENXc0huNTE5dkRJMDlHVmtnYlBKeWNxdk9VaDN5ZnVKUWk2YVdfRVNoLTFtYlEzbVNKY2xHLUFoN25CVTA4cmE4WVBfVmpJZkl2?oc=5\" target=\"_blank\">NSF Awards $290M Across Eight Quantum Leap Challenge Institutes; Focuses on Sensing, Hardware Fabrication, and Fault Tolerance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "NSF Awards $290M Across Eight Quantum Leap Challenge Institutes; Focuses on Sensing, Hardware Fabrication, and Fault Tolerance - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTE9uZlBQMFMwVGYtNnNpd2w5YjBlclVpZFlyV1dSNV9QcExfLW1kR2ZmbDQwNEFMa29WcVBiTTdyVjgwUVNudDA3cDI1Zjk2WDNrNVI5WS1fNjVHSGNwcnNOWkpCQ09KbS1kVElIRmhKc09PY1BQQUdOMXlQZER5UDhDQU0zcU0xbVlWdnRrUDVGejI2SGF5Z3dpSkZKeDByd1NoUEJFWjQwZ0FJcmFzcGJORkdqYkQ1TnhtRWpQQUpqeFpId084S09kd9IB0AFBVV95cUxQemJTLTlNNHh1UVQ1SWo3djFFbGhkT1pBYzB2czJyS3ZJUDZKTEh5aDBPMTRyelVzVzNFTnhid1h0a0Q5dWwxb0UyLXBsb0pXeGVLYTJhZE5XZHdFbG9kZEk2N1UxeVROMGZrUlNldEhKR053NzVoTzFHR3VEN1JHOHZxY3g2dENXc0huNTE5dkRJMDlHVmtnYlBKeWNxdk9VaDN5ZnVKUWk2YVdfRVNoLTFtYlEzbVNKY2xHLUFoN25CVTA4cmE4WVBfVmpJZkl2?oc=5"
+    },
+    {
+      "id": "88d477c01025332f",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-08-25T20:53:30Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDlyUFNSS0dnZEt3Rkt6LWJHN1JCQldUN1Q1VDg0czJ0UW04bWJ2LUowU2VabmtTaVk5bXVEMFRyRnJxeWpFQjBmcmF5cVZxVk4tRmJGNWJ4bF83azVPZkVTRFZnMXU4NnlkcThDQVpndnIydGFfVkZ6WEcyWHo5Mi1KZEJfeVVPbW5PNjBMTnVlbjh4UGgwNkVoSjdpaEVoMFNjeHRMSGhLQm1zSnZaMkc1ODhwd2s?oc=5\" target=\"_blank\">How Has The U.S.-Versus-China Quantum Rivalry Changed Since 2019?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "title": "How Has The U.S.-Versus-China Quantum Rivalry Changed Since 2019? - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDlyUFNSS0dnZEt3Rkt6LWJHN1JCQldUN1Q1VDg0czJ0UW04bWJ2LUowU2VabmtTaVk5bXVEMFRyRnJxeWpFQjBmcmF5cVZxVk4tRmJGNWJ4bF83azVPZkVTRFZnMXU4NnlkcThDQVpndnIydGFfVkZ6WEcyWHo5Mi1KZEJfeVVPbW5PNjBMTnVlbjh4UGgwNkVoSjdpaEVoMFNjeHRMSGhLQm1zSnZaMkc1ODhwd2s?oc=5"
+    },
+    {
+      "id": "06acecd6c884e836",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-08-25T18:48:00Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE1GUlA2VmFoME14TERHTGN5VWlhZl93V01waGdHaUxQTU50NVYwcWRKVWdPTW53am9PTDY4VHhnd20tVkJXWW1MR0Z4WUFKS2xRMjRsemRHbTdJZTA3WkQzZDMtUVJWVzE0ZlFUaGh2aFJ3MWpJNnc?oc=5\" target=\"_blank\">Infleqtion Powers Japan's First Neutral-Atom Quantum Computer, Analysts See 61% Upside</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+      "title": "Infleqtion Powers Japan's First Neutral-Atom Quantum Computer, Analysts See 61% Upside - finance.biggo.com",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GUlA2VmFoME14TERHTGN5VWlhZl93V01waGdHaUxQTU50NVYwcWRKVWdPTW53am9PTDY4VHhnd20tVkJXWW1MR0Z4WUFKS2xRMjRsemRHbTdJZTA3WkQzZDMtUVJWVzE0ZlFUaGh2aFJ3MWpJNnc?oc=5"
+    },
+    {
+      "id": "d07344b833881112",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-08-25T17:44:00Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPcU00ZmloU3dGcDZkNWU2UHdwOEhNTzdfNGc3UWVlMWNjV3lCUDcyVlhDdjd6bnNlaTNLSW1veGZuUkY1UFRvcGtOX2NLNEpGNVBnNEhHVlhxbU1raDF2ZUxpM1hNVkJQbWJ1aEtnV0YxTTNIU0hUZFNkN2p5dGZwVzRJSWs5djFKWE1MUUNSc1Q4WDVRZ0hGZEI3WVd5aHEwNXRNQ2NHYm5ianYySnRkRUM5M2piQjFtYkJTU2w5NVhER2Q5?oc=5\" target=\"_blank\">First 50-qubit neutral-atom quantum computer goes live in Japan with US-made QPU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Interesting Engineering</font>",
+      "title": "First 50-qubit neutral-atom quantum computer goes live in Japan with US-made QPU - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcU00ZmloU3dGcDZkNWU2UHdwOEhNTzdfNGc3UWVlMWNjV3lCUDcyVlhDdjd6bnNlaTNLSW1veGZuUkY1UFRvcGtOX2NLNEpGNVBnNEhHVlhxbU1raDF2ZUxpM1hNVkJQbWJ1aEtnV0YxTTNIU0hUZFNkN2p5dGZwVzRJSWs5djFKWE1MUUNSc1Q4WDVRZ0hGZEI3WVd5aHEwNXRNQ2NHYm5ianYySnRkRUM5M2piQjFtYkJTU2w5NVhER2Q5?oc=5"
+    },
+    {
+      "id": "75f897b55ccb37aa",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-08-25T15:15:47Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdy1zT3FvZWE4ejdVOEdqLXE1QkpVOUFMZ3d6OEwtTTh2VVkxdURBLWVnSzhaNUJ5dzR2Q1RsMUdXdzZwcTZXZVFmelptN2R2VkJhNkxYTjdmZ0xYbEstS0J5dzJfelFRMDlxNFQ4d0NpYXhtU1BsN3E2YmNPYVZlXzJxMVBiVVlvTXhfbjQ3RVRCenVIZTN5M1BtNnlsVkkwcXJyUngwLXRYekd4SmVXSUZsam1UUkhvcDlRaGladWt4Q2FJRUZ6MzQtSjhYU2NM?oc=5\" target=\"_blank\">Middle East Claims First Quantum Joint Venture as Saudi Arabia Moves from Cloud to On-Premises</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tech Times</font>",
+      "title": "Middle East Claims First Quantum Joint Venture as Saudi Arabia Moves from Cloud to On-Premises - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdy1zT3FvZWE4ejdVOEdqLXE1QkpVOUFMZ3d6OEwtTTh2VVkxdURBLWVnSzhaNUJ5dzR2Q1RsMUdXdzZwcTZXZVFmelptN2R2VkJhNkxYTjdmZ0xYbEstS0J5dzJfelFRMDlxNFQ4d0NpYXhtU1BsN3E2YmNPYVZlXzJxMVBiVVlvTXhfbjQ3RVRCenVIZTN5M1BtNnlsVkkwcXJyUngwLXRYekd4SmVXSUZsam1UUkhvcDlRaGladWt4Q2FJRUZ6MzQtSjhYU2NM?oc=5"
+    },
+    {
+      "id": "5618844ddb463390",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-08-25T15:14:30Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOSS1pMERqbW9iQWVVWU1uU3FKclJjbDVEbHQxckFmTDlxSzROU1pHdWRFVUc4V0FqWV9IaVdsbjhqOEVLRVdrejNhV2o3cks4ejgxclR2YmhlUU1MckxOaXBZdC1UZ3VjVmxaeU83VVdnQzZtVno3MGVGSWR2MWZUbmxFSUxFdGR3a21UdDN4c0VCd1czakdMVHRtRkE2Zw?oc=5\" target=\"_blank\">Pasqal Welcomes Kingdom of Saudi Arabia Ministerial Delegation to French Headquarters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "Pasqal Welcomes Kingdom of Saudi Arabia Ministerial Delegation to French Headquarters - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSS1pMERqbW9iQWVVWU1uU3FKclJjbDVEbHQxckFmTDlxSzROU1pHdWRFVUc4V0FqWV9IaVdsbjhqOEVLRVdrejNhV2o3cks4ejgxclR2YmhlUU1MckxOaXBZdC1UZ3VjVmxaeU83VVdnQzZtVno3MGVGSWR2MWZUbmxFSUxFdGR3a21UdDN4c0VCd1czakdMVHRtRkE2Zw?oc=5"
     }
   ],
   "publications": [
     {
       "authors": [
-        "Ben DalFavero",
-        "William M. Watkins",
-        "Margarite L. LaBorde",
-        "Vincent Russo",
-        "Ethan Egger",
-        "Gregory Quiroz",
-        "Ryan LaRose"
+        "Dan-Bo Zhang"
       ],
-      "id": "59acab6052bacee4",
+      "id": "09149069c6be69a0",
+      "matched_keywords": [
+        "quantum computing",
+        "quantum algorithm"
+      ],
+      "published": "2026-08-26T12:11:43Z",
+      "score": 6,
+      "source": "arXiv",
+      "summary": "Glueball spectroscopy with quantum computing requires both a correlated gauge vacuum and a systematic construction of its low-lying pure-gauge excitations. We develop a physics-informed quantum-computing framework for these tasks in a $(2+1)$-dimensional $\\mathbb{Z}_2$ lattice gauge theory. We use the term \\emph{glueball-like} for localized closed-flux excitations on the confining side of this Abelian model, without identifying them with the non-Abelian glueballs of QCD. The central strategy is to organize the computation around the physical structure of the glueball-like state rather than to search a generic many-body excitation space. We prepare the gauge vacuum variationally and use Wilson-loop quantum subspace expansion to construct and characterize the low-lying excitations. Moreover, eigenvector continuation uses nearby ground states to capture the growing loop dressing without a rapidly enlarged Wilson-loop basis, while a Bethe--Salpeter-type radius quantifies the associated spatial broadening. We further use quench dynamics to probe nonequilibrium production. Although demonstrated in an Abelian model, the framework is built from gauge-invariant vacuum and excitation structures and is naturally transferable to non-Abelian lattice gauge theories.",
+      "title": "Physics-informed quantum algorithms for glueball-like excitations in a $\\mathbb{Z}_2$ lattice gauge theory",
+      "url": "http://arxiv.org/abs/2608.25696v1"
+    },
+    {
+      "authors": [
+        "Min Ye",
+        "Andrii Maksymov",
+        "Nicolas Delfosse"
+      ],
+      "id": "95547b78960e6de8",
       "matched_keywords": [
         "error correction",
-        "surface code"
-      ],
-      "published": "2026-08-24T16:29:28Z",
-      "score": 6,
-      "source": "arXiv",
-      "summary": "Although quantum error correction is widely believed to be necessary for impactful applications of quantum computers, the design of quantum error correction codes is largely done by hand, without respect to problem or hardware constraints. In this work, we present a highly general and flexible framework for the computational design of both physics-inspired and hardware-aware quantum codes. To do so, we formulate code design as a Boolean satisfiability (SAT) problem and show how to incorporate all required error correction criteria. We prove that code design is NP-complete, ruling out any efficient algorithm for designing codes in general. Nonetheless, we show that state-of-the-art SAT solvers are able to effectively find solutions for many practical problems. Notably, we are able to design physics-inspired codes with up to 100 physical qubits in minutes, and we design new hardware-aware codes for biased noise which have a lower logical error rate than state-of-the-art surface codes.",
-      "title": "Satisfying Quantum Codes: Physics-Informed and Hardware-Aware Code Design with SAT Solvers",
-      "url": "http://arxiv.org/abs/2608.23460v1"
-    },
-    {
-      "authors": [
-        "James Bate",
-        "Johannes Helgert",
-        "Marco Canteri",
-        "Victor Krutyanskiy",
-        "Benjamin Peter Lanyon"
-      ],
-      "id": "cefd4ebd3b619294",
-      "matched_keywords": [
-        "trapped ion",
-        "quantum network"
-      ],
-      "published": "2026-08-22T16:17:03Z",
-      "score": 6,
-      "source": "arXiv",
-      "summary": "Scalable quantum networks require generating remote entanglement faster than decoherence erases it, calling for nodes that combine efficient light-matter interfaces with long coherence times. Cavity-coupled trapped ions are a promising platform for network nodes, offering high-efficiency extraction of photons. Here, we report multi-second coherence for a qubit register in a cavity-integrated ion trap. First, using dynamical decoupling on spin ground states, the coherence times of five co-trapped ion qubits are extended into the multi-second regime. Second, cavity-collected ion-photon entanglement is faithfully stored in these protected ion-memory states for multiple seconds. Third, we show that ion-memory qubits can be robust to the generation over a thousand cavity photons by a co-trapped ion, with decoherence limited by laser crosstalk. Finally, we estimate that a modestly improved and duplicated ion-cavity system could enable the simultaneous establishment of multiple remote Bell pairs between two remote ion registers, representing a step toward networking multi-qubit prototype trapped-ion quantum processors.",
-      "title": "A Cavity-Interfaced Register of Trapped-Ion Qubits with Multi-Second Coherence",
-      "url": "http://arxiv.org/abs/2608.22030v1"
-    },
-    {
-      "authors": [
-        "Niharika Verma",
-        "Utpal Roy"
-      ],
-      "id": "7dbf963dc8b6084b",
-      "matched_keywords": [
-        "error correction",
-        "surface code"
-      ],
-      "published": "2026-08-22T13:59:27Z",
-      "score": 6,
-      "source": "arXiv",
-      "summary": "Polar molecules trapped in optical tweezer arrays offer a promising platform for quantum information processing, providing precise control and long-range interactions that enable high-fidelity gate operations. We investigate quantum error correction in this system and show the influence of underlying physical noise. A mapping is constructed from a molecular tweezer array onto a rotated surface code in which a single specification of the array, namely, which code qubits share a molecule and where those molecules are located, determines both the correlated erasure structure and the dipolar exchange graph. We compare molecular encodings with rotational qudit dimensions (D), two and four under heralded molecular loss, coherent dipolar exchange, and imperfect heralding. It is found that a D= 4 encoding with spatially dispersed pairing exhibits a finite distance crossing at approximately the same per molecule loss rate as D= 2, while using 48-49 % fewer molecules, at the cost of a 6-10 % increase in sub-threshold logical error. Fixing the encoding and varying only the spatial embedding produces substantially larger effects: pairing the two co-located qubits along a lattice direction yields a logical-sector asymmetry of approximately fifty times. Over the simulated distances (d = 5, 7, 9), the disfavoured sector shows little or no suppression of logical error with increasing code distance, whereas the favoured sector improves by a factor of 1.5-2.3. We also find that Pauli twirl of the exchange interaction overestimates the logical error rate, which we attribute to the excitation-conserving structure of the interaction. These results reveal that the spatial embedding of correlated loss units is an important design parameter for molecular architectures and that single-sector benchmarks may be insufficient when correlated loss has directional structure.",
-      "title": "Surface-Code Quantum Error Correction for Molecular Tweezer Arrays: Encoding, Layout, and Correlated Noise",
-      "url": "http://arxiv.org/abs/2608.21961v1"
-    },
-    {
-      "authors": [
-        "A. Martínez de Velasco",
-        "V. P. J. Barbé",
-        "E. L. Gründeman",
-        "A. Díaz Calderon",
-        "M. Collombon",
-        "J. J. Krauth",
-        "C. F. Roth",
-        "M. Favier",
-        "R. Taieb",
-        "T. E. Mehlstäubler",
-        "P. O. Schmidt",
-        "L. S. Dreissen",
-        "K. S. E. Eikema"
-      ],
-      "id": "c1feb07e7d4b063c",
-      "matched_keywords": [
-        "trapped ion"
-      ],
-      "published": "2026-08-24T17:22:25Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Extreme-ultraviolet (XUV) spectroscopy represents an important new direction in precision physics, with potential applications ranging from the metrology of fundamental constants to tests of physics beyond the Standard Model. However, the application of quantum control methods for precision spectroscopy remains an open challenge in the XUV range. Here we present a novel quantum logic (QL) spectroscopy method for precision spectroscopy of weak XUV transitions, and numerically validate its feasibility for the $1S-2S$ transition at 40.81\\,eV in singly-ionized helium (He$^{+}$). We propose a scheme based on a single He$^{+}$ ion co-trapped with a Be$^{+}$ ion in a Paul trap, and He$^{+}$ excitation with pairs of frequency-comb (FC) laser pulses upconverted to the XUV via High-Harmonic Generation (HHG). We investigate a nondestructive QL scheme to detect $1S-2S$ excitation, and compare its performance with a destructive readout based on state-selective ionization. Phase coherence of the XUV light is modelled and an optical cavity is used to filter the FC pulses prior to HHG. We model the motional excitation dynamics of trapped ions outside the Lamb-Dicke regime, and numerically validate a scheme we proposed in \\cite{Grundeman} to cancel the first-order Doppler broadening and the recoil shift by synchronizing the ion's secular period with the time delay between the two excitation pulses. We show that precision spectroscopy of the $1S-2S$ transition in He$^{+}$ at the 10 kHz level is feasible, for improved tests of quantum electrodynamics (QED), a measurement of the Rydberg constant $R_{\\infty}$ independent of hydrogen measurements, or an improved determination of the alpha particle and helion charge radii. The proposed method may also be applied to XUV spectroscopy of other ions outside the Lamb-Dicke regime.",
-      "title": "Extreme-ultraviolet spectroscopy using quantum logic: a feasibility study for singly-ionized helium",
-      "url": "http://arxiv.org/abs/2608.23516v1"
-    },
-    {
-      "authors": [
-        "Ahmad Salmanogli"
-      ],
-      "id": "16c6031eed16f3ab",
-      "matched_keywords": [
-        "quantum computing"
-      ],
-      "published": "2026-08-24T09:30:43Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Accurate identification of unknown quantum systems is essential for quantum computing, sensing, and control because the Hamiltonian governs quantum state evolution. This work proposes a QNN based framework for black box Hamiltonian learning and quantum system emulation using full density matrix trajectory learning. Unlike approaches based only on final states or selected observables, the method exploits the complete temporal evolution of the density matrix under Lindblad dynamics. A synthetic dataset of physically admissible Hamiltonians and dissipation parameters is generated to emulate experimental measurements. The QNN learns a nonlinear mapping from control inputs to a 32-dimensional Hamiltonian coefficient vector, enabling reconstruction and differentiable emulation of the unknown system. Chirped excitation and randomized initial quantum states are incorporated to improve robustness and provide richer dynamical information. Performance is evaluated using trajectory density loss, quantum-state fidelity, and trace distance. Randomized initialization improves state-level reconstruction, increasing fidelity to 0.929 for the single qubit benchmark and 0.787 for the unknown system, while reducing trace distance to 0.124 and 0.316, respectively. In contrast, chirped excitation primarily improves optimization by accelerating convergence and reducing trajectory density loss. Finally, the learned Hamiltonian is mapped onto a physical two qubit bus resonator architecture in the dispersive regime, yielding key circuit parameters including transmon capacitances, Josephson inductances, qubit separation, and bus-resonator length. The framework therefore establishes a data-driven pathway from black box quantum system identification to physical quantum emulation, with potential applications in quantum digital twin modeling.",
-      "title": "A Unified Quantum Neural Network Framework for Hamiltonian Learning and Emulation of Unknown Quantum Systems",
-      "url": "http://arxiv.org/abs/2608.23025v1"
-    },
-    {
-      "authors": [
-        "John Burke",
-        "Ciaran McGoldrick"
-      ],
-      "id": "ead6454fda9eaba6",
-      "matched_keywords": [
-        "quantum algorithm"
-      ],
-      "published": "2026-08-24T09:05:00Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Current approaches to quantum search fail to deeply exploit extant structure in the underlying Hilbert space. Decomposing the search by this structure empowers new strategies and formulations for quantum search and algorithm design. We present a new decomposition technique acting directly on this structure by recursively decomposing the Hilbert space and constructing the search operator from reflections over the resulting partition. When initial and target states factorise over this partition, dynamics reduce to a single rotation in a two-dimensional plane at each level, with angle given by a scalar recurrence. This recurrence avoids error accumulation from separately bounding success probabilities at each level, yielding an exact state description enabling treatment of the recursion as a whole. We obtain the target state deterministically and derive oracle and non-oracle costs independently of the search setting. For unstructured search, our approach attains the simultaneously optimal $Θ(\\sqrt{N})$ oracle and non-oracle gate counts. For spatial search on $d$-dimension grids, it recovers the $O(\\sqrt{N})$ time for $d\\geq3$ and the $O\\bigl(\\sqrt{N}(\\log N)^{3/2}\\bigr)$ bound of Aaronson and Ambainis for $d=2$. The exact description of the recursion extends over our decomposition to new subdivision structures and provides a new approach for applying and analysing recursion in quantum algorithm design.",
-      "title": "Exact and Optimal Recursive Quantum Search via Hilbert-Space Decomposition",
-      "url": "http://arxiv.org/abs/2608.23002v1"
-    },
-    {
-      "authors": [
-        "Wenxuan Tao",
-        "Jianan Wang",
-        "Fen Zuo"
-      ],
-      "id": "8e382cf06c4c3bc7",
-      "matched_keywords": [
-        "quantum algorithm"
-      ],
-      "published": "2026-08-24T07:22:49Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Quantum states with conserved total spins, or spin eigenfunctions, are important for studying quantum chemistry and quantum manybody physics problems. A typical class of spin eigenfunctions are Dicke states, which attain maximal spins. While we already have many efficient quantum algorithms to prepare Dicke states, it is not yet clear if we could do so for arbitrary spin eigenfunctions deterministically. Generalizing Bärtschi and Eidenbenz's elegant algorithms for Dicke state preparation, we successfully prepare arbitrary spin eigenfunctions characterized by branching paths and binary spin trees. As a byproduct, we also develop the corresponding classical algorithms to reconstruct all these spin states.",
-      "title": "Deterministic Preparation of Arbitrary Spin Eigenfunctions",
-      "url": "http://arxiv.org/abs/2608.22892v1"
-    },
-    {
-      "authors": [
-        "Ying Xia",
-        "Xin Wang"
-      ],
-      "id": "c2b2f8a839601932",
-      "matched_keywords": [
-        "quantum network"
-      ],
-      "published": "2026-08-24T02:09:42Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Nonlinear waveguide QED serves as a platform for studying correlated photon dynamics, where its interplay with topological bound states can give rise to unconventional phenomena. We investigate a triangular ladder waveguide in which a pair of emitters forms a doublon bound state through strong nearest-neighbor interactions. By mapping the doublon dynamics onto an effective SSH chain, we show that the system is equivalent to an effective emitter coupled to a topological doublon bath. Using the vacancy-like dressed state approach, we demonstrate the existence of a chiral bound state with a node at the coupling site and an exponentially localized wave function inherited from the SSH edge states. Extending this picture to two emitter pairs, we derive an effective four-body interaction whose strength is determined by the relative chirality and the separation parity of the bound states. When the two bound states face each other, coherent Rabi oscillations emerge; when they are arranged back-to-back or have an even separation, the interaction vanishes. Our results provide a route toward engineering tunable many-body interactions between correlated photon pairs and realizing nonlinear quantum networks based on flying doublons.",
-      "title": "Chiral doublon bound states in a synthetic topological waveguide",
-      "url": "http://arxiv.org/abs/2608.22718v1"
-    },
-    {
-      "authors": [
-        "Manaki Arihara",
-        "Mio Murao"
-      ],
-      "id": "8fa282e367f1e171",
-      "matched_keywords": [
-        "quantum algorithm"
-      ],
-      "published": "2026-08-23T15:49:12Z",
-      "score": 3,
-      "source": "arXiv",
-      "summary": "Block encoding embeds a matrix as a sub-block of a unitary matrix and serves as a fundamental input model for quantum algorithms based on quantum singular value transformation, enabling polynomial transformations of matrices encoded in unitary operators. Block encoding of unknown quantum states can be useful for quantum learning; however, the fundamental limits on converting between unknown quantum states and their block-encoding unitary channels remain poorly understood. In this paper, we investigate this convertibility in both directions. First, we prove that implementing an $\\varepsilon$-approximate block-encoding unitary channel of an unknown quantum state requires $Ω(1/\\varepsilon)$ copies of the state, matching known upper bounds up to logarithmic factors. Second, we show that recovering a rank-$r$, $d$-dimensional quantum state $ρ$ given query access to its block-encoding unitary channel generally requires $Ω((1/λ_{\\max}(ρ))\\sqrt{d/r})$ queries, where $λ_{\\max}(ρ)$ is the maximum eigenvalue of $ρ$, revealing an unavoidable dependence on the dimension of the state. Our results identify inherent limitations of block encoding as a representation of unknown quantum states and reveal a separation between learning properties of a quantum state and generating the state itself. Using our techniques, we further establish lower bounds for specific state-generation tasks, including ground-state preparation and Gibbs-state preparation.",
-      "title": "Sample-Query Interconversion of Block Encoding of Unknown Quantum States",
-      "url": "http://arxiv.org/abs/2608.22470v1"
-    },
-    {
-      "authors": [
-        "Yuan Liu",
-        "Ke-Mi Xu"
-      ],
-      "id": "10ca13557d7ddb8d",
-      "matched_keywords": [
         "logical qubit"
       ],
-      "published": "2026-08-22T15:40:06Z",
-      "score": 3,
+      "published": "2026-08-25T18:15:58Z",
+      "score": 6,
       "source": "arXiv",
-      "summary": "Fault-tolerant quantum computation requires non-Clifford gates, which stabilizer codes cannot supply transversally. Non-stabilizer codes are the natural place to look for them, yet no quantitative theory of the nonstabilizerness (or magic) carried by such a code has existed. We develop one for codeword-stabilized (CWS) codes and show that the key quantity is classical: a code's nonstabilizerness is fixed by how its codewords collide under translation, a question that belongs to additive combinatorics. We show that the most magical codes are exactly the Sidon sets whenever a Sidon set of the required size exists, whose pairwise differences are all distinct. No code carries more than twice its number of logical qubits of nonstabilizerness however large it is physically. Furthermore, the same reduction gives structural and operational results. Nonstabilizerness is unchanged by coset closure, which yields non-stabilizer codes with arbitrarily many logical qubits and constant nonstabilizerness as the number of logical qubits grows. A diagonal transversal gate with $k$ logic qubits that is non-Clifford on $t$ coordinates forces the code's nonstabilizerness to be at most $2(k-t)$; thus the nonstabilizerness also bounds the non-Clifford gates needed to build the code and the cost of classically simulating it. Finally, entire families become exactly computable, and we obtain closed-form values for the Kerdock codes. Together these results turn the search for magic-rich codes and transversal non-Clifford gates into classical counting problems, which can be approached with standard tools from additive combinatorics.",
-      "title": "Quantifying Nonstabilizerness of Codeword-Stabilized Codes",
-      "url": "http://arxiv.org/abs/2608.22017v1"
+      "summary": "As quantum computers advance toward the regime of MegaQuOp machines executing millions of gates, a decoding system capable of real-time error correction in such a device will be crucial. Recent efforts have been focused on decoding an error-corrected memory or a small number of logical operations. Here we demonstrate an end-to-end real-time decoding stack for a universal fault-tolerant trapped-ion quantum computer architecture capable of decoding real workloads with millions of logical gates over hundreds of logical qubits. The complete pipeline, including on the fly detector error model generation, decoding of all logical qubits, logical operations, and magic-state factories, runs on a single CPU. We benchmark the decoder on practically relevant quantum applications spanning up to 408 logical qubits, and up to one million $T$ gates. Assuming a trapped-ion architecture with 1 to 5 ms cycle time, the decoding delay stretches the computation by less than $0.3\\%$ at $p_{\\mathrm{CNOT}}=10^{-4}$ and less than $12\\%$ at $p_{\\mathrm{CNOT}}=5\\times 10^{-4}$ for all workloads studied. These results demonstrate real-time decoding at MegaQuOp scale on a single conventional CPU.",
+      "title": "Real-time decoder for a MegaQuOp quantum computer using a single CPU",
+      "url": "http://arxiv.org/abs/2608.25027v1"
     },
     {
       "authors": [
-        "Rama Khalil",
-        "Cameron J. Kopas",
-        "Avinash Pathapati",
-        "Rory Cochrane",
-        "Xiqiao Wang",
-        "Hossein Taghinejad",
-        "Vito Iaia",
-        "Josh Mutus",
-        "Yaniv J. Rosen",
-        "Jared H. Cole",
-        "David P. Pappas",
-        "Alexander V. Balatsky"
+        "Mateo Uldemolins",
+        "Pranav Nair",
+        "Emlyn Graham",
+        "Shinichi Sunami",
+        "Thierry Martinez",
+        "Maxime Garnier"
       ],
-      "id": "063812c8cd78cce3",
+      "id": "77a2cd5300c4b9e9",
       "matched_keywords": [
-        "superconducting qubit"
+        "quantum computing",
+        "mbqc"
       ],
-      "published": "2026-08-22T14:32:16Z",
-      "score": 3,
+      "published": "2026-08-25T16:23:22Z",
+      "score": 5,
       "source": "arXiv",
-      "summary": "Microscopic two-level system (TLS) defects remain a primary mechanism of decoherence and operational instability in superconducting transmon qubits, necessitating scalable and automated methods for their characterization. Here, we present and benchmark two complementary analysis pipelines for extracting TLS statistics directly from time-resolved SWAP spectroscopy: one-dimensional decay-rate fitting (1D-DRF), which detects defects via localized enhancements in the qubit relaxation rate, and a deterministic, non-parametric computer-vision framework (2D-CV) that achieves two-dimensional spectral localization by exploiting the temporal persistence of coherent population suppression. We deploy both methods on SWAP spectroscopy measurements from 52 flux-tunable transmon qubits on Rigetti processors with and without moderate ($\\sim 10\\%$) post-fabrication frequency trimming via Alternating-Bias Assisted Annealing (ABAA). We show that both pipelines converge on a consistent global characterization of the defect landscape while exhibiting complementary sensitivity across distinct coupling regimes. Crucially, both methods independently reveal a count--loss decoupling under moderate annealing: while the total detectable TLS defect density remains statistically unchanged, the span-integrated dielectric loss is reduced by approximately a factor of two, demonstrating selective suppression of the most strongly dissipative defect channels. These results establish an automated, non-parametric analysis framework for high-throughput hardware diagnostics and provide a statistical baseline for post-fabrication defect engineering in large-scale superconducting quantum processors.",
-      "title": "Automating detection of Two-Level Systems in Superconducting Qubits",
-      "url": "http://arxiv.org/abs/2608.21983v1"
+      "summary": "Measurement-based quantum computing (MBQC) is a powerful model for quantum computation, but dedicated software tools that bridge its theoretical foundations with practical research workflows remain limited. We present Graphix, a software framework for MBQC written in Python that provides a unified environment for developing, integrating, and exploring measurement-based protocols and algorithms. Graphix establishes a modular, extensible, and user-friendly architecture for the compilation and simulation of quantum computations in the MBQC model with abstractions closely aligned with the theoretical formulations of MBQC. Through examples drawn from recent research on MBQC, we demonstrate Graphix's ability to reproduce and extend previous results. Graphix thus provides a software infrastructure for MBQC, supporting education and research while enabling collaborative development and accelerating the transition toward practical implementations.",
+      "title": "Graphix: A software framework for Measurement-Based Quantum Computation",
+      "url": "http://arxiv.org/abs/2608.24781v2"
     },
     {
       "authors": [
-        "Shuyun Su",
-        "Shengshi Pang"
+        "Ian Yang",
+        "Francesco Adinolfi",
+        "Alessandro Bruno",
+        "Venus Hasanuzzaman Kamrul",
+        "Daniel Z. Haxell",
+        "Alexander Grimm"
       ],
-      "id": "4ea2cdd8077da585",
+      "id": "2bdef331fb9041bd",
       "matched_keywords": [
         "error correction"
       ],
-      "published": "2026-08-22T08:24:50Z",
+      "published": "2026-08-26T17:00:42Z",
       "score": 3,
       "source": "arXiv",
-      "summary": "Quantum error correction (QEC) codes have emerged as a powerful tool to protect quantum-enhanced metrology against noise. However, the ability to correct errors alone does not guarantee high metrological sensitivity, as the encoded states may become insensitive to the parameter of interest. Here we show that this limitation can be overcome by exploiting an intrinsic freedom of QEC codes: for a fixed set of correctable errors, the Knill-Laflamme conditions admit an equivalence class of encodings. When the correctable noise possesses unitary symmetries, these symmetries generate continuous transformations within this class, allowing systematic optimization of the encoding to increase the quantum Fisher information while preserving the correctable set of noise. Based on this observation, we develop a symmetry-based optimization approach and derive criteria identifying when such optimization can enhance metrological sensitivity. In particular, for stabilizer-sum Hamiltonians, symmetry optimization can convert a code with vanishing QFI into one achieving the standard quantum limit in general or even Heisenberg scaling in specific cases, illustrating the power of symmetry optimization for QEC-assisted quantum metrology.",
-      "title": "Noise-Symmetry Optimization of Quantum Error-Corrected Metrology",
-      "url": "http://arxiv.org/abs/2608.21842v1"
+      "summary": "The interaction between a qubit and its environment can be engineered such that one error channel dominates over all others, resulting in noise bias. This property enables error correction codes to focus on the dominant error type, thereby significantly reducing the number of physical systems required for fault-tolerant quantum computation. However, engineering noise bias typically introduces complexity at the physical system level, which decreases its usefulness by limiting scalability. Here, we introduce and experimentally realize a noise-biased qubit in a standard transmon-readout resonator circuit, one of the most common superconducting architectures, by only adding a single microwave tone. We encode the qubit in the transmon $|\\mathrm{g}\\rangle$- and $|\\mathrm{f}\\rangle$-states, and engineer a frequency-selective gain channel that counteracts single-photon loss errors between the computational states. We demonstrate an order-of-magnitude enhancement in relaxation time compared to the $|\\mathrm{g}\\rangle-|\\mathrm{e}\\rangle$ encoding, conceding only a factor-of-two decrease in the echo-coherence time. Furthermore, we show that this qubit is compatible with fast, high-fidelity operations. Our results open a path towards using this system as a simple building-block for hardware-efficient quantum error detection and correction schemes.",
+      "title": "The Gain-Engineered Transmon",
+      "url": "http://arxiv.org/abs/2608.26018v1"
+    },
+    {
+      "authors": [
+        "Su Direkci",
+        "Simon Lieu",
+        "Kyungjoo Noh",
+        "Connor T. Hann"
+      ],
+      "id": "f87d752d5b9900d4",
+      "matched_keywords": [
+        "quantum computing"
+      ],
+      "published": "2026-08-26T16:20:43Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "Noise-biased qubits have bit-flip errors that are exponentially suppressed relative to phase-flip errors, and offer a promising route toward fault-tolerant quantum computing. However, this bias can be compromised during gate operations with non-biased control qubits. To address this limitation, we propose a \"0-n\" Fock qubit architecture that maintains the noise bias by encoding information in the ground state and n-th excited state of a nonlinear multi-level system, such as a transmon. This encoding is achieved via a dissipative stabilization that acts as decay and gain for lower and upper intermediate levels, respectively. We first analytically demonstrate that bit-flip errors are exponentially suppressed with the number of levels. Then, we present a practical implementation using a multi-mode lossy filter to achieve the frequency-selective dissipation. Finally, we numerically demonstrate that bit-flip probabilities approaching $10^{-8}$ are achievable for controlled-X gates on cat qubits using the 0-n qubit as an ancilla with $n \\geq 9$ (i.e. ten or more levels), for realistic experimental parameters. Building on this, we simulate syndrome extraction in a repetition code, achieving logical error rates in the megaquop regime with only a distance of $d=9$.",
+      "title": "Dissipatively Stabilized 0-n Fock Qubits for Noise-Biased Quantum Computing",
+      "url": "http://arxiv.org/abs/2608.25959v1"
+    },
+    {
+      "authors": [
+        "Yixiang Li",
+        "Dong An"
+      ],
+      "id": "f0e96d5b8631f649",
+      "matched_keywords": [
+        "quantum algorithm"
+      ],
+      "published": "2026-08-26T14:03:50Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "We study a fast-forwarded quantum algorithm for solving weakly nonlinear dissipative ordinary differential equations. Our approach is a combination of the Carleman embedding technique and the linear combination of Hamiltonian simulation algorithm for linearized systems with fast-forwarded scaling. The complexity of our algorithm does not explicitly depend on the evolution time $T$, thus greatly improving the previous state-of-the-art $\\widetilde{\\mathcal{O}}(\\sqrt{T})$ to $\\mathcal{O}(1)$, and any remaining time dependence enters through the output norm and forcing parameters. We rigorously analyze the performance of this approach by convergence guarantees of the Carleman embedding for time-dependent coefficient matrices and detailed complexity estimates, and improve the realization of the Carleman-embedding-based algorithms by simplifying the post-selection step. In addition, we perform a numerical study on differential equations beyond the weakly nonlinear case, and identify possibility of achieving fast-forwarding scaling for systems with stronger nonlinearity or linear non-resonant effect.",
+      "title": "Fast-forwarding quantum algorithms for weakly nonlinear dissipative differential equations and beyond",
+      "url": "http://arxiv.org/abs/2608.25822v1"
+    },
+    {
+      "authors": [
+        "Berat Yenilen",
+        "Markus Müller",
+        "Manuel Rispler"
+      ],
+      "id": "b6663b17b845d612",
+      "matched_keywords": [
+        "fault tolerance"
+      ],
+      "published": "2026-08-26T13:48:38Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "Magic-state injection is a standard route to realize universal fault-tolerant quantum computation. Whereas the set of Clifford gates in combination with the non-Clifford T gate is a widely used universal gate set, extending the available set of non-Clifford primitives can reduce compilation overhead, provided that the additional primitives can be prepared fault-tolerantly with competitive resource costs and at sufficiently low logical noise rates. In this work, we introduce flag fault-tolerant protocols for preparing logical $|\\sqrt{\\mathrm{T}} \\rangle $ magic states on the 3D tetrahedral color code and its smaller morphed variant. Our simulations under circuit-level noise verify fault tolerance, quantify acceptance and logical error rates, and we reconstruct the effective logical channels of the corresponding circuits for gate injection via logical process tomography. We find that access to $\\sqrt{\\mathrm{T}}$ reduces the average space-time cost of synthesizing Haar-random single-qubit unitaries by approximately $20$-$30$% relative to the Clifford+T gate set across practically relevant approximation regimes. These results demonstrate how expanding the set of fault-tolerant non-Clifford primitives can improve computational efficiency and broaden the design space for universal quantum computation in the early fault-tolerant era.",
+      "title": "Fault-tolerant $|\\sqrt{ \\mathrm{T} }\\rangle$ state preparation and injection for more efficient fine-grained quantum circuit synthesis",
+      "url": "http://arxiv.org/abs/2608.25797v1"
+    },
+    {
+      "authors": [
+        "Ragavi Krishnamoorthy",
+        "Florian Gerhardt",
+        "Johannes Knaute",
+        "Thomas Klir",
+        "Stefan Raimund Maschek",
+        "Erik Schulze",
+        "Tomislav Maras",
+        "Alexander Dotterweich",
+        "Loong Kuan Lee",
+        "Christian Bauckhage",
+        "Nico Piatkowski"
+      ],
+      "id": "210eff88ec11a563",
+      "matched_keywords": [
+        "surface code"
+      ],
+      "published": "2026-08-26T08:57:01Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "Quantum low-density parity-check (qLDPC) codes reduce the qubit overhead of fault-tolerant quantum computation by an order of magnitude, but their decoding is harder than its classical counterpart: because many physical errors are equivalent up to stabilizers, the degenerate maximum-likelihood (ML) decoder must compare the probabilities of entire equivalence classes of errors, that is, partition functions, rather than single errors. The workhorse decoder BP+OSD sidesteps degeneracy heuristically and offers no guarantees. We treat degenerate decoding as probabilistic inference in an undirected graphical model: the probability of each logical class is the partition function of an unconstrained, strictly positive Markov random field over the code's check variables, a construction that generalizes the random-bond Ising mapping of the surface code to arbitrary CSS codes and to spacetime decoding with measurement errors and circuit-level noise. On this model we build two decoders. The first estimates all class partition functions by annealed importance sampling with common random numbers and attaches to every decision a certificate of optimality: a paired bootstrap test, or, composed with constant-factor estimators such as WISH, an exact optimality proof. The second is region-based: the Bethe free energy, whose bias cancels between classes, reproduces exact ML decoding on every tested surface-code instance at millisecond cost, and enlarging the regions to elimination clusters makes exact degenerate ML decoding of the [[72,12,6]] bivariate bicycle code feasible. Across surface codes and the bivariate bicycle codes [[72,12,6]] and [[144,12,12]], under code-capacity, phenomenological, and circuit-level noise, the sampling decoder matches or exceeds BP+OSD while certifying the bulk of its decisions, and the certificate flags exactly the syndromes on which any fast decoder should be distrusted.",
+      "title": "Certified decoding of quantum LDPC codes",
+      "url": "http://arxiv.org/abs/2608.25545v1"
+    },
+    {
+      "authors": [
+        "J. Schirk",
+        "N. Bruckmoser",
+        "S. M. Taubenberger",
+        "F. Wallner",
+        "N. J. Glaser",
+        "M. Zetzl",
+        "L. Huang",
+        "I. Tsitsilin",
+        "M. Werninghaus",
+        "L. Södergren",
+        "K. Liegener",
+        "C. M. F. Schneider",
+        "Stefan Filipp"
+      ],
+      "id": "27d71fc15b7da3ed",
+      "matched_keywords": [
+        "error correction"
+      ],
+      "published": "2026-08-26T08:14:21Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "A central challenge in fluxonium-based quantum processors is the extension of the qubit connectivity to two-dimensional lattices compatible with quantum code-error correction. Here, we present a fluxonium quantum processor that employs lumped-element resonator couplers which realizes, for the first time, a connectivity-four unit cell with suppressed parasitic interactions. We achieve parallel single-qubit gate fidelities exceeding 99.9 % in simultaneous randomized benchmarking experiments, while maintaining residual static ZZ interactions below 1 kHz across all coupled qubit pairs. We implement resonator-induced phase (RIP) gates and benchmark two-qubit gate fidelities exceeding 99 % using interleaved randomized benchmarking. To cancel spectator errors observed in two-qubit operations, we implement a refocused RIP gate, recovering coherent control in the presence of multi-qubit connectivity. Furthermore, we prepare Greenberger-Horne-Zeilinger states of up to five qubits with a tomographic fidelity of 90 %, verifying multi-qubit entanglement within the unit cell. These results establish the fluxonium-resonator-fluxonium architecture as a viable approach to realizing densely connected fluxonium processors and provide a scalable path toward quantum error-correction-compatible processor architectures.",
+      "title": "High-Fidelity Entangled States in a Connectivity-Four Fluxonium Quantum Processor",
+      "url": "http://arxiv.org/abs/2608.25503v1"
+    },
+    {
+      "authors": [
+        "Peter A. Spring",
+        "Adrian L. Hesse",
+        "Shiyu Wang",
+        "Shuhei Tamate",
+        "Yasunobu Nakamura"
+      ],
+      "id": "3766373e196258df",
+      "matched_keywords": [
+        "error correction"
+      ],
+      "published": "2026-08-26T07:54:02Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "Fast, accurate, and low-leakage qubit measurement is a key requirement for quantum error correction. Here, we demonstrate measurement of a superconducting transmon qubit with a total duration of 97(1) ns, defined as the time from the start of the measurement pulse until the measurement-induced error on a subsequent $π$-pulse operation falls below $10^{-4}$. By combining a large state-averaged resonator decay rate of $κ_\\mathrm{eff}/2π$ = 30.8 MHz with a dispersive shift close to the optimal SNR-per-photon condition, we achieve an assignment error of 0.17(1)% using a 58-ns measurement pulse, with residual readout photons depleting passively in tens of nanoseconds without an active depletion pulse. Using a repeated-measurement sequence together with a leakage-sensitive measurement, we benchmark the measurement-induced state transitions, finding a per-measurement leakage rate of $2.7(2) \\times 10^{-5}$, only twice the background rate and two orders of magnitude below the measurement-induced relaxation rate, which dominates the assignment error. Floquet simulations indicate that the multiphoton resonances present at the operating point are weakly coupled and traversed diabatically, without causing leakage. These results demonstrate that a large resonator decay rate, combined with a dispersive shift close to the optimal SNR-per-photon condition, can enable fast, high-fidelity, low-leakage dispersive readout at small qubit-resonator detuning.",
+      "title": "Low-leakage superconducting-qubit measurement with sub-100-ns total duration",
+      "url": "http://arxiv.org/abs/2608.25484v1"
+    },
+    {
+      "authors": [
+        "Kevin Dougherty",
+        "Ji Liu"
+      ],
+      "id": "1ec621d509a0efbc",
+      "matched_keywords": [
+        "quantum computing"
+      ],
+      "published": "2026-08-25T18:32:00Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "Decoherence imposes severe limits on quantum circuit depth, motivating methods to reduce circuit depth. Operator backpropagation has recently been proposed as a way to lower circuit depth by classically backpropagating observables through subcircuits. While it lowers the circuit depth, it also significantly increases the number of backpropagated observables that must be measured. This calls for an efficient measurement protocol tailored to these backpropagated observables. Moreover, errors arise both during the backpropagation procedure and during measurement, and they accumulate in the final computation. No prior work has examined how to integrate operator backpropagation with advanced measurement protocols, and how to jointly optimize the combined process. In this paper, we introduce a comprehensive framework to determine the appropriate measurement protocol to achieve a desired level of accuracy with the fewest number of measurements based on the number of qubit-wise commuting (QWC) groups formed from operator backpropagation. We analyze and categorize the primary sources of error that arise through our workflow, including error incurred from the backpropagation algorithm, truncation error, and shot noise variation. We also examine truncation strategies to reduce the number of backpropagated observables by characterizing the structure of the set of backpropagated observables.",
+      "title": "A Unified Framework for Operator Backpropagation and Observable Measurement in Quantum Computing",
+      "url": "http://arxiv.org/abs/2608.25042v1"
+    },
+    {
+      "authors": [
+        "Alessio Esposito",
+        "Andrea Giachero",
+        "Zoltàn Zimboràs",
+        "Leonardo Banchi"
+      ],
+      "id": "ec3da659cd1bdf93",
+      "matched_keywords": [
+        "quantum computing"
+      ],
+      "published": "2026-08-25T18:10:49Z",
+      "score": 3,
+      "source": "arXiv",
+      "summary": "Quantum simulation of strongly correlated fermionic systems is among the most promising near- term applications of quantum computing, but its practical efficiency depends critically on the choice of fermion-to-qubit mapping and on the connectivity of the underlying hardware. In this work we address this problem in the context of the two-dimensional Hubbard model, simulated on IBM superconducting quantum processors with heavy-hexagon connectivity. We numerically benchmark the Jordan-Wigner, Bravyi-Kitaev, and Bonsai transformations, evaluating their Pauli weight and SWAP overhead across seven heavy-hexagon chips of increasing size. We show that, while the Bravyi-Kitaev mapping initially exhibits a lower Pauli weight, this advantage is eliminated once routing costs are taken into account, confirming the Bonsai mapping as the most hardware-efficient baseline transformation for this architecture. We then use the Bonsai mapping to construct the qubit Hamiltonian of the 2D spinful Fermi-Hubbard model, introducing a simulated annealing algorithm that optimizes the assignment of Majorana strings to lattice sites, reducing the cost function by nearly 50% percent. Finally, we simulate on quantum hardware the time evolution of fermionic states up to 6x6 lattices, confirming the viability of the Bonsai encoding for hardware-aware large-scale two-dimensional simulations.",
+      "title": "Hardware-Aware Fermion-to-Qubit Mappings for Simulating the 2D Hubbard Model on Heavy-Hexagon Quantum Processors",
+      "url": "http://arxiv.org/abs/2608.25024v1"
     }
   ]
 }
