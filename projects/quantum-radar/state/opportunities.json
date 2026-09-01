@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T13:37:06Z",
+  "generated_at": "2026-09-01T13:36:44Z",
   "items": [
     {
       "id": "0bf03e4698fa4da1",
@@ -36,6 +36,22 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemYxRGtsRTZLRzkxeDJLUkUxSjZFdjI0YTdFelp5Zy1TVzFTa013aHZjajVTNmhjSkllN19nSnkzbG5RNnBhTHRkY09mUkZQNlh0Znp5NEZTbFNNdjlRU1luV2p4VHFQWWdzbFFZV0ctbGxWTWVsNDRNT2k5QnJYbk5iWEY5a2VMSkd6Tmh2M2F5Z0VLcHZYVGk5Q0lBOFk4eHNfVnF3Umpwb1VWMWEtMzhBV0kteV9Wa1ViVDhtTkxIYTBZNU1YbDRXSjU3WFpWT1A0NEUzb0w?oc=5"
     },
     {
+      "id": "1fa0e29ebf6d0544",
+      "matched_keywords": [
+        "grant",
+        "quantum",
+        "quantum computing",
+        "quantum technology"
+      ],
+      "published": "2026-08-30T01:11:36Z",
+      "query": "quantum technology grant",
+      "score": 10,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMHg2YTE4bTlPVnE2VUNISHM4ZHVJNE1xaWp2aEluM2ZldkVITV95VlhFcEZiMEhNLW9KNnNBTHNITkZLRFY4SkVBY1Z3MmZyY3hCLURfbUszZ0JvNnMtdlNWcjZwLTFlLXgxc002ZDFiaHlIdnJWOXc0dXg1azdIbWVHb29ZcmMtOUctTXItZVM0cDduLXVMbk9PN3BSQmpBSGhRaWNmRHd3Y2toZGhXTEtYTXFnMmh5VGx2bk5sYTJIemQ0M0E4VWJ6S2NhejI5eFBGM0NvcDVRMUZZb2EwTVVuZw?oc=5\" target=\"_blank\">D-Wave Selected for $1.5 Million NSF Grant to Provide Dual-Rail Hardware for Yale-Led Fault-Tolerant 'ERASE' Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "D-Wave Selected for $1.5 Million NSF Grant to Provide Dual-Rail Hardware for Yale-Led Fault-Tolerant 'ERASE' Project - Quantum Computing Report",
+      "type": "grants",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMHg2YTE4bTlPVnE2VUNISHM4ZHVJNE1xaWp2aEluM2ZldkVITV95VlhFcEZiMEhNLW9KNnNBTHNITkZLRFY4SkVBY1Z3MmZyY3hCLURfbUszZ0JvNnMtdlNWcjZwLTFlLXgxc002ZDFiaHlIdnJWOXc0dXg1azdIbWVHb29ZcmMtOUctTXItZVM0cDduLXVMbk9PN3BSQmpBSGhRaWNmRHd3Y2toZGhXTEtYTXFnMmh5VGx2bk5sYTJIemQ0M0E4VWJ6S2NhejI5eFBGM0NvcDVRMUZZb2EwTVVuZw?oc=5"
+    },
+    {
       "id": "35cb3b20ba4fb7a6",
       "matched_keywords": [
         "grant",
@@ -66,6 +82,22 @@
       "title": "Quantum Key Distribution Summer School - University of Waterloo",
       "type": "summer_programs",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU5wUmhpSm01NFFxNWJzaUItbExqM3dIUWFRVGxEYlRBSG50ZlZxN0M4S0NqWWFvbXVwdHdZdDJpU2NOcjJfM0pSbDNVcU1WeUJ4WjQ2a3Q5WnVCYzhhUG1RV1dIbVVTWkZlZWxPU0NZOVZGV2tUTW1KTi1KTE1DdV9aenE1OGNuQk1lOGZlWmNZTTFqSU5qVTV5QU9JNUZKZko2b1ZvZVUyRTdQ?oc=5"
+    },
+    {
+      "id": "7067782666378725",
+      "matched_keywords": [
+        "grant",
+        "funding",
+        "quantum",
+        "quantum technology"
+      ],
+      "published": "2026-08-31T13:00:00Z",
+      "query": "quantum technology grant",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDJMVlpGNEZmYkxoXzlBT2E5ME0wWVZjZG84T1RPQTE4MEh4d0p3NVozcmhUQm5oLUNKRzRTT2JXb196MG9sSUxBd0J1ekRJaDR2S0llYktOTzEzRDFEakJQVERhb2tqU2ZCT2VfcTBxaGg5eXdOd2JGS2VCOUlIaWRKSnQxNFU?oc=5\" target=\"_blank\">Diffraqtion raises funding for quantum imaging technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SpaceNews</font>",
+      "title": "Diffraqtion raises funding for quantum imaging technology - SpaceNews",
+      "type": "grants",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDJMVlpGNEZmYkxoXzlBT2E5ME0wWVZjZG84T1RPQTE4MEh4d0p3NVozcmhUQm5oLUNKRzRTT2JXb196MG9sSUxBd0J1ekRJaDR2S0llYktOTzEzRDFEakJQVERhb2tqU2ZCT2VfcTBxaGg5eXdOd2JGS2VCOUlIaWRKSnQxNFU?oc=5"
     },
     {
       "id": "15b43b64c9444a0c",
@@ -228,6 +260,22 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQVZXVVZlMmNvZDNZZk5VYmRlSktTbnJtR29Tc1RscFRBN2NFZzJ4aXU4ZnA0VkVZbTMyTU1idWUxdEZJV3JNQWZydjVnY3JRT21memFUOXlhMHZ1NGlUaEI1NklFbzlhd05xOGUyMHF3MExQamVRbkdjY3gtTUdxZDdVdTY5R24yczRWNks4UUo4LUZtZHJCNzJlelYyUdIBowFBVV95cUxOaXNsV3h5TXpfYWN4WEJnd0VnRVJUTUJ2OFM3dkZIYkdvOHdfUDgxelN1c2NKR3MtYnp5UnN4WkNTV3M1aXRYOEJuTmxGMFhwX1VBSnBNa0dCSXpENWZtZEhZTmU5ZnFSNi13OEpxUXVRaXhSaTRkOW5Id0poWWpqVS1sTTUyOFNydWlobmFnRWRFTkhjYUpmZk5ZN25lRG03WHhv?oc=5"
     },
     {
+      "id": "e61882b167055edf",
+      "matched_keywords": [
+        "grant",
+        "funding",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-07-28T07:00:00Z",
+      "query": "quantum computing grant",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOOElENlpTOWU0ZzVQYlJmVS0xeUI2TGRoU2VIYmRHNGJqRjVTMnk1UWR3VGhYLWgzQjA4RHFWaXk5ZllJNTJBUTNWQTZsUWFoS1JIc3ZPYjh2YV9nM3hXZEdjbnFULTZ1NW1pRGZLQjJpYWs3Z0xKZnM2d3pkTHhvTk8ta1JEc2NuNXYzTVF6V1V1SWtIOW8tV1hqNFRORGc?oc=5\" target=\"_blank\">Pittsburgh Supercomputing Center earned NSF funding to build a new hybrid quantum-classical computer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Pittsburgh</font>",
+      "title": "Pittsburgh Supercomputing Center earned NSF funding to build a new hybrid quantum-classical computer - University of Pittsburgh",
+      "type": "grants",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOElENlpTOWU0ZzVQYlJmVS0xeUI2TGRoU2VIYmRHNGJqRjVTMnk1UWR3VGhYLWgzQjA4RHFWaXk5ZllJNTJBUTNWQTZsUWFoS1JIc3ZPYjh2YV9nM3hXZEdjbnFULTZ1NW1pRGZLQjJpYWs3Z0xKZnM2d3pkTHhvTk8ta1JEc2NuNXYzTVF6V1V1SWtIOW8tV1hqNFRORGc?oc=5"
+    },
+    {
       "id": "ba83d67f5d5b88a4",
       "matched_keywords": [
         "grant",
@@ -260,22 +308,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPREZCcFJlcV82SGJVYkNyQ2xocjZBVjdYU0k5bGh3Tk43S1JQMldreENuMDZiX0RrWThaLUllVHJaMXdyQklfMkttdEQ5dWM1TEREd1lGYVVmNlo5ZVR4THhNb3czdlAxdXRTaDhVZHB2SnczY3I1eExjQXhnMF83emlKcmtMNGNHQU80TmVVOThvTmJmdlZHOTVUTVZDdldiaC1nLXJ0azNYZ1V5?oc=5"
     },
     {
-      "id": "e552f55a543c4017",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-07-22T07:00:00Z",
-      "query": "quantum computing grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFBUeGJrb1EtbGRMOE56RkF2YTlrNkNIc0RCYWZld1VWaHNRdkdyczVuTWg5Z1FSTHJEUHBZQXZldzVqcUE0cTdtcmtiU2V1ajU5cXk4N2ppeWQ5ZXhKVkwtYU1kQlRfQmp1MGthMFRBZVlIMndiNTRKT21aMWpxeWs?oc=5\" target=\"_blank\">Which Quantum Computing Stocks Get the Most Government Funding – and Does it Matter?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
-      "title": "Which Quantum Computing Stocks Get the Most Government Funding – and Does it Matter? - The Motley Fool",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUeGJrb1EtbGRMOE56RkF2YTlrNkNIc0RCYWZld1VWaHNRdkdyczVuTWg5Z1FSTHJEUHBZQXZldzVqcUE0cTdtcmtiU2V1ajU5cXk4N2ppeWQ5ZXhKVkwtYU1kQlRfQmp1MGthMFRBZVlIMndiNTRKT21aMWpxeWs?oc=5"
-    },
-    {
       "id": "f57cd9a324db4bd2",
       "matched_keywords": [
         "grant",
@@ -290,38 +322,6 @@
       "title": "Illinois Governor announces $30M secured in grant funding for quantum technology - WCIA.com",
       "type": "grants",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVi1qaWppUV9wVnAyWkJMMTFEemxFRWd4UjUxdE5FemtjR1Z6Q0xBUllpU0hhVnh2LU11RlRTT1ptSG5OZ3R2bHJFcEFVWXNiRV9tQWNuRXBETVZ2bkpsb3d3WW1nSWtyWXdrdGQ0bUFVRHZwRFpNNTZtN1k3SGVacjZiZ2ZfNjMxZGVCM241SzMzNGMySlVSSWFtdi1HZ0lraVFlR0d2OU9kZTRrZUpHcl9ZS2VsVTg?oc=5"
-    },
-    {
-      "id": "765d62609e2872d6",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum technology"
-      ],
-      "published": "2026-07-21T07:00:00Z",
-      "query": "quantum technology grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUVySmpDNVk5MWNYbjE3eFBmRGM1TWI2NElJWUt1bjNjMzVxTDBMWHQ0d2s2dG4taVRETl9oUlU3aWc3Ynd1U25BN1NyVkw4VV9KSXZ1UmxITGtZT0szaVdNN0RpZk9sNlNnZmdiNm9jeGNmT3ZqdERRV1NXREs3X0J6a2NSZFl2ZXhjT3J3QU9SOXJWM2p6anFnZG10Ync?oc=5\" target=\"_blank\">Illinois Governor announces $30M secured in grant funding for quantum technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo</font>",
-      "title": "Illinois Governor announces $30M secured in grant funding for quantum technology - Yahoo",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUVySmpDNVk5MWNYbjE3eFBmRGM1TWI2NElJWUt1bjNjMzVxTDBMWHQ0d2s2dG4taVRETl9oUlU3aWc3Ynd1U25BN1NyVkw4VV9KSXZ1UmxITGtZT0szaVdNN0RpZk9sNlNnZmdiNm9jeGNmT3ZqdERRV1NXREs3X0J6a2NSZFl2ZXhjT3J3QU9SOXJWM2p6anFnZG10Ync?oc=5"
-    },
-    {
-      "id": "cc72ef9cb7a2edf9",
-      "matched_keywords": [
-        "intern",
-        "hackathon",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-07-21T07:00:00Z",
-      "query": "quantum hackathon",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNOS15bWFJYUxRLXpxd3hSSHlLSDJ6cGlZMm9RYUhhcFhGVU1ucTMtQmJKYXpFTHNlTG14TFROcTZ2eVc2YjVmYVQ4MXVQdGt6Vzh5YXJtbHBKZTJSdVRXeHplZmJnbnlzdmNyVkZTa0dTSzZabVZqdmJMQ0FFOGRlY1JIOU1MamtrcW1GQWZyYXc5MjJ1RXlVRlZfdC1ESXFH?oc=5\" target=\"_blank\">Vietnam hosts first international quantum computing hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Báo VietNamNet</font>",
-      "title": "Vietnam hosts first international quantum computing hackathon - Báo VietNamNet",
-      "type": "internships",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOS15bWFJYUxRLXpxd3hSSHlLSDJ6cGlZMm9RYUhhcFhGVU1ucTMtQmJKYXpFTHNlTG14TFROcTZ2eVc2YjVmYVQ4MXVQdGt6Vzh5YXJtbHBKZTJSdVRXeHplZmJnbnlzdmNyVkZTa0dTSzZabVZqdmJMQ0FFOGRlY1JIOU1MamtrcW1GQWZyYXc5MjJ1RXlVRlZfdC1ESXFH?oc=5"
     }
   ]
 }
