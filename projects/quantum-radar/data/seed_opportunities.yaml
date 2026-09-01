@@ -161,14 +161,14 @@ grants:
   deadline: '2026-04-30'
   link: https://research.google/programs-and-events/phd-fellowship/
   notes: ''
+summer_programs:
 - name: Quantum Computing Summer School
   organization: Los Alamos National Laboratory
   location: Los Alamos, NM, USA
-  type: grants
+  type: summer_programs
   deadline: null
   link: https://academicjobsonline.org/ajo/jobs/31108
   notes: Funded summer program (paid).
-summer_programs:
 - name: Complex Systems Summer School
   organization: Santa Fe Institute
   location: Santa Fe, NM, USA

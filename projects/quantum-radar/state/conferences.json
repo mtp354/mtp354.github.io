@@ -1,0 +1,136 @@
+{
+  "generated_at": "2026-09-01T19:24:04Z",
+  "items": [
+    {
+      "category": "academic",
+      "end_date": "2027-02-26",
+      "id": "5bf3953c935a72f3",
+      "location": "Singapore",
+      "name": "Quantum Information Processing (QIP)",
+      "notes": "Flagship theoretical quantum information and computation conference.",
+      "organizer": "QIP Steering Committee",
+      "source": "curated",
+      "start_date": "2027-02-20",
+      "url": "https://qipconference.org/"
+    },
+    {
+      "category": "academic",
+      "end_date": "2026-09-04",
+      "id": "0841701879ec0cc5",
+      "location": "Sherbrooke, QC, Canada",
+      "name": "Theory of Quantum Computation, Communication and Cryptography (TQC)",
+      "notes": "Research conference spanning quantum computation, communication, and cryptography.",
+      "organizer": "TQC",
+      "source": "curated",
+      "start_date": "2026-08-31",
+      "url": "https://tqc-conference.org/"
+    },
+    {
+      "category": "academic",
+      "end_date": "2026-09-18",
+      "id": "69f9e3fce6097dd8",
+      "location": "Toronto, ON, Canada",
+      "name": "IEEE International Conference on Quantum Computing and Engineering (QCE / Quantum Week)",
+      "notes": "Peer-reviewed research, tutorials, workshops, and an industry program.",
+      "organizer": "IEEE",
+      "source": "curated",
+      "start_date": "2026-09-13",
+      "url": "https://qce.quantum.ieee.org/"
+    },
+    {
+      "category": "academic",
+      "end_date": "2027-06-10",
+      "id": "4f47e4afe12dc511",
+      "location": "Copenhagen, Denmark",
+      "name": "Optica Quantum 2.0 Conference and Exhibition",
+      "notes": "Research across quantum computing, communication, sensing, devices, and metrology.",
+      "organizer": "Optica",
+      "source": "curated",
+      "start_date": "2027-06-07",
+      "url": "https://www.optica.org/events/topical_meetings/quantum/"
+    },
+    {
+      "category": "academic",
+      "end_date": "2027-04-16",
+      "id": "062cdc45945cdbc7",
+      "location": "Atlanta, GA, USA / online",
+      "name": "APS Global Physics Summit",
+      "notes": "Broad physics meeting with major AMO and quantum-information programs.",
+      "organizer": "American Physical Society",
+      "source": "curated",
+      "start_date": "2027-04-11",
+      "url": "https://summit.aps.org/"
+    },
+    {
+      "category": "industry",
+      "end_date": "2026-09-10",
+      "id": "0efae173e7745ded",
+      "location": "Copenhagen, Denmark",
+      "name": "Q2B Copenhagen",
+      "notes": "Commercial quantum computing and applications conference series.",
+      "organizer": "QC Ware",
+      "scrape": false,
+      "source": "curated",
+      "start_date": "2026-09-09",
+      "url": "https://q2b.qcware.com/"
+    },
+    {
+      "category": "industry",
+      "end_date": "2026-12-10",
+      "id": "ca057e962a537d5f",
+      "location": "Chicago, IL, USA",
+      "name": "Q2B Chicago",
+      "notes": "Commercial quantum computing and applications conference series.",
+      "organizer": "QC Ware",
+      "scrape": false,
+      "source": "curated",
+      "start_date": "2026-12-08",
+      "url": "https://q2b.qcware.com/"
+    },
+    {
+      "category": "industry",
+      "end_date": "2026-06-17",
+      "id": "f7ecd43ef9b4dc8b",
+      "location": "London, UK",
+      "name": "Commercialising Quantum Global",
+      "notes": "Executive and industry-focused quantum technology conference.",
+      "organizer": "Economist Impact",
+      "source": "curated",
+      "start_date": "2026-06-16",
+      "url": "https://events.economist.com/commercialising-quantum/"
+    },
+    {
+      "category": "industry",
+      "end_date": "2026-06-26",
+      "id": "a6f0487861edb51e",
+      "location": "Boston, MA, USA",
+      "name": "Quantum.Tech",
+      "notes": "Enterprise, government, investor, and quantum supplier summit.",
+      "organizer": "Alpha Events",
+      "source": "curated",
+      "start_date": "2026-06-25",
+      "url": "https://www.alphaevents.com/events-quantumtech"
+    },
+    {
+      "category": "industry",
+      "end_date": "2026-09-25",
+      "id": "2a378a418ed6ed00",
+      "location": "College Park, MD, USA",
+      "name": "Quantum World Congress",
+      "notes": "Global ecosystem, policy, commercialization, and technology event.",
+      "organizer": "Potomac Quantum Innovation Center",
+      "source": "curated",
+      "start_date": "2026-09-23",
+      "url": "https://www.quantumworldcongress.com/"
+    },
+    {
+      "category": "industry",
+      "id": "60edde333360720b",
+      "name": "Inside Quantum Technology (IQT)",
+      "notes": "Regional quantum business, policy, cybersecurity, and technology events.",
+      "organizer": "Inside Quantum Technology",
+      "source": "curated",
+      "url": "https://iqtevent.com/"
+    }
+  ]
+}

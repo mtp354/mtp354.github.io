@@ -34,8 +34,8 @@ _publications/              Publication entries (one Markdown file per paper)
 _talks/                     Talk entries
 _resources/                 Curated learning-resource entries (Quantum 101 hub)
 _quantum_radar/             Auto-generated Quantum Radar report entries
-                            (opportunities, publications-news, publicly-traded,
-                             movers-shakers)
+                            (opportunities, jobs, conferences, publications-news,
+                             quantum-industry, movers-shakers)
 
 files/                      PDFs and BibTeX files linked from publications
 images/                     Site images, favicons, and the web manifest
@@ -63,13 +63,17 @@ The site is then available at <http://localhost:4000>. See <https://academicpage
 
 ## Quantum Radar data project (`projects/quantum-radar/`)
 
-A small Python pipeline that aggregates quantum-tech opportunities, publications/news, and stock prices, then emits Markdown into `_quantum_radar/` for Jekyll to render at `/quantum-radar/`. Run locally with:
+A small Python pipeline that aggregates quantum-tech opportunities, jobs,
+conferences, publications/news, grant awards, and stock prices, then emits
+Markdown into `_quantum_radar/` for Jekyll to render at `/quantum-radar/`. Run locally with:
 
 ```bash
 cd projects/quantum-radar
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 python scripts/fetch_opportunities.py
+python scripts/fetch_jobs.py
+python scripts/fetch_conferences.py
 python scripts/fetch_publications_news.py
 python scripts/fetch_stock_prices.py
 ```
@@ -83,6 +87,8 @@ Configuration lives under `projects/quantum-radar/config/`. Persistent state (de
 | Workflow | Trigger | Purpose |
 |---|---|---|
 | `quantum-radar-opportunities.yml` | every 3 days | Refresh RSS → enrich deadlines → render opportunity tables |
+| `quantum-radar-jobs.yml` | daily | Aggregate public LinkedIn quantum-job links from an approved feed |
+| `quantum-radar-conferences.yml` | every 3 days | Scrape official event metadata and aggregate conference announcements |
 | `quantum-radar-publications-news.yml` | every 2 days | arXiv + Google News digest → publish to `_quantum_radar/` |
 | `quantum-radar-stocks.yml` | daily, post US close | Pull yfinance closes → write publicly-traded report |
 | `og-images.yml` | on push | Regenerate Open Graph share images |

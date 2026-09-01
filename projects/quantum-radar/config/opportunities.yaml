@@ -2,8 +2,6 @@ opportunities:
   max_age_days: 45
   keep_top_n: 20
   rss_queries:
-    - quantum computing grant
-    - quantum technology grant
     - quantum internship
     - quantum computing internship
     - quantum hackathon
@@ -13,13 +11,33 @@ opportunities:
     - quantum computing workshop students
     - quantum computing undergraduate research
 
+  grants_gov_terms:
+    - quantum computing
+    - quantum information science
+    - quantum technology
+    - quantum sensing
+  eligible_applicant_terms:
+    - individuals
+    - institutions of higher education
+    - nonprofits
+    - unrestricted
+
+  award_news_queries:
+    - quantum computing grant awarded
+    - quantum technology grant awarded
+    - quantum research receives grant
+    - quantum funding secured
+
   type_keywords:
     grants:
       - grant
       - funding
-      - fellowship
       - proposal
       - call for proposals
+      - application deadline
+      - applications open
+      - request for proposals
+      - rfp
     internships:
       - internship
       - intern
@@ -35,3 +53,6 @@ opportunities:
       - workshop
       - bootcamp
       - academy
+    fellowships:
+      - fellowship
+      - fellowships

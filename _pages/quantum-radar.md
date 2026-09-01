@@ -14,16 +14,20 @@ is useful to you too.
 
 Here is what it currently tracks:
 
-- **Opportunities** — a curated list of grants, internships, summer schools,
-  hackathons, and fellowships I am watching, with deadlines pulled from each
-  program's page where possible. Refreshed every three days.
+- **Opportunities** — grants with an identifiable open call/application, plus
+  internships, summer schools, hackathons, and fellowships I am watching. Grant
+  award news is excluded. Refreshed every three days.
+- **Quantum Jobs** — public LinkedIn quantum-job links supplied through an
+  approved RSS/Atom feed. Refreshed daily once the feed is configured.
+- **Conferences** — upcoming quantum-adjacent academic conferences plus quantum
+  industry conferences and summits. Refreshed every three days.
 - **Publications & news** — a quantum publications and news digest, every
   two days.
 - **Movers & Shakers** — a hand-curated list of leading quantum companies,
   influential university labs, and people doing notable work in the field.
 - **Quantum Industry** — publicly listed quantum companies, broad quantum ETFs,
-  and directional investment/workforce estimates refreshed with the daily
-  market snapshot.
+  catalogued grant awards with captured values, and directional investment/workforce
+  estimates refreshed with the daily market snapshot.
 
 The orchestrator code lives at
 [`projects/quantum-radar/`]({{ site.repository | prepend: 'https://github.com/' }}/tree/main/projects/quantum-radar)
@@ -33,8 +37,8 @@ in this same repo.
 
 {% include base_path %}
 
-{% assign report_types = "opportunities,publications-news,movers-shakers,quantum-industry" | split: "," %}
-{% assign type_labels = "Opportunities,Publications & news,Movers & Shakers,Quantum Industry" | split: "," %}
+{% assign report_types = "opportunities,jobs,conferences,publications-news,movers-shakers,quantum-industry" | split: "," %}
+{% assign type_labels = "Opportunities,Quantum Jobs,Conferences,Publications & news,Movers & Shakers,Quantum Industry" | split: "," %}
 
 {% for rt in report_types %}
   {% assign idx = forloop.index0 %}

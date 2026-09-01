@@ -1,0 +1,23 @@
+jobs:
+  max_age_days: 45
+  keep_top_n: 60
+  # Use these when creating the authorized RSS/Atom alert feed supplied through
+  # LINKEDIN_JOBS_FEED_URL. The radar never signs in to or scrapes LinkedIn.
+  suggested_alert_queries:
+    - site:linkedin.com/jobs/view "quantum computing"
+    - site:linkedin.com/jobs/view "quantum information"
+    - site:linkedin.com/jobs/view "quantum error correction"
+    - site:linkedin.com/jobs/view "quantum scientist"
+    - site:linkedin.com/jobs/view "quantum engineer"
+  relevance_terms:
+    - quantum computing
+    - quantum information
+    - quantum scientist
+    - quantum engineer
+    - quantum hardware
+    - quantum software
+    - quantum error correction
+    - quantum algorithms
+    - quantum sensing
+    - quantum photonics
+    - qubit

@@ -32,6 +32,7 @@ from opportunities_common import (
     load_seed,
     md_escape_cell,
 )
+from funding_common import grant_disposition
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE_ROOT = ROOT.parents[1]
@@ -66,6 +67,12 @@ def _rss_to_entry(item: dict[str, Any]) -> dict[str, Any] | None:
     bucket = RSS_TYPE_MAP.get(item.get("type", ""))
     if not bucket:
         return None
+    if bucket == "grants":
+        if item.get("application_source") != "Grants.gov":
+            return None
+        text = f"{item.get('title', '')}\n{item.get('summary', '')}"
+        if grant_disposition(text) != "actionable":
+            return None
     title = (item.get("title") or "").strip()
     if not title:
         return None
@@ -78,17 +85,24 @@ def _rss_to_entry(item: dict[str, Any]) -> dict[str, Any] | None:
             organization = tail
     return {
         "name": title,
-        "organization": organization,
+        "organization": item.get("organization") or organization,
         "location": "",
         "type": bucket,
-        "deadline": None,
+        "deadline": item.get("deadline"),
         "link": item.get("url", ""),
-        "notes": "",
+        "notes": (
+            "Eligible applicants: " + "; ".join(item.get("eligibility", []))
+            if item.get("eligibility")
+            else ""
+        ),
     }
 
 
 def _merge(seed: dict[str, list[dict[str, Any]]], rss: list[dict[str, Any]]) -> dict[str, list[dict[str, Any]]]:
     merged = {key: list(seed.get(key, [])) for key in SECTION_KEYS}
+    # Closed grants are historical records, not something the reader can apply
+    # for now. Other opportunity types retain the existing open/closed display.
+    merged["grants"] = [entry for entry in merged["grants"] if is_open(entry.get("deadline"))]
     seen = {entry.get("link", "") for entries in merged.values() for entry in entries}
     seen.discard("")
     for raw in rss:

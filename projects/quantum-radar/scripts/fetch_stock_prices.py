@@ -23,6 +23,7 @@ import yfinance as yf
 
 SITE_ROOT = Path(__file__).resolve().parents[3]
 COLLECTION_DIR = SITE_ROOT / "_quantum_radar"
+AWARDED_GRANTS_STATE = SITE_ROOT / "projects" / "quantum-radar" / "state" / "awarded-grants.json"
 
 # (ticker, company name, hq, focus, kind)
 TICKERS: list[tuple[str, str, str, str, str]] = [
@@ -191,6 +192,79 @@ def _fmt_money_range(values: tuple[int, int] | None, suffix: str = "") -> str:
     if low == high:
         return f"{_fmt_money(low)}{suffix}"
     return f"{_fmt_money(low)}-{_fmt_money(high)}{suffix}"
+
+
+def _load_awarded_grants() -> list[dict]:
+    if not AWARDED_GRANTS_STATE.exists():
+        return []
+    try:
+        data = json.loads(AWARDED_GRANTS_STATE.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return []
+    return data.get("items", []) or []
+
+
+def _fmt_currency(amount: int, currency: str) -> str:
+    if currency == "USD":
+        return _fmt_money(amount)
+    symbols = {"CAD": "C$", "AUD": "A$", "GBP": "£", "EUR": "€"}
+    symbol = symbols.get(currency, f"{currency} ")
+    return f"{symbol}{_fmt_money(amount).lstrip('$')}"
+
+
+def _awarded_grant_lines(events: list[dict]) -> list[str]:
+    totals: dict[str, int] = {}
+    valued_events = 0
+    for event in events:
+        amounts = event.get("amounts", []) or []
+        if amounts:
+            valued_events += 1
+        for entry in amounts:
+            currency = entry.get("currency", "")
+            amount = int(entry.get("amount", 0) or 0)
+            if currency and amount:
+                totals[currency] = totals.get(currency, 0) + amount
+
+    total_text = ", ".join(
+        _fmt_currency(value, currency)
+        for currency, value in sorted(totals.items())
+    ) or "No explicit award values captured yet"
+
+    rows = []
+    for event in events[:15]:
+        title = str(event.get("title", "")).replace("|", "\\|")
+        url = event.get("url", "")
+        linked_title = f"[{title}]({url})" if url else title
+        published = str(event.get("published", ""))[:10] or "—"
+        amounts = event.get("amounts", []) or []
+        amount_text = ", ".join(
+            _fmt_currency(int(a.get("amount", 0)), a.get("currency", ""))
+            for a in amounts
+            if a.get("amount") and a.get("currency")
+        ) or "Not stated"
+        rows.append(f"| {published} | {linked_title} | {amount_text} |")
+
+    if not rows:
+        rows.append("| — | No award announcements captured yet. | — |")
+
+    return [
+        "## Awarded quantum grants",
+        "",
+        "Grant award announcements are catalogued here rather than presented "
+        "as open opportunities. Totals use only an explicit award value in the "
+        "headline (or, when absent, the feed summary), are deduplicated by story, "
+        "and are kept separate by currency without applying exchange rates. They "
+        "are a captured-news total, not a complete funding census, and may overlap "
+        "the public-program commitments above.",
+        "",
+        f"**Captured total:** {total_text} across {valued_events} valued announcements "
+        f"({len(events)} announcements catalogued).",
+        "",
+        "| Announced | Award | Captured value |",
+        "|---|---|---:|",
+        *rows,
+        "",
+    ]
 
 
 def _estimate_lines(total_market_cap: float | None, market_cap_count: int) -> list[str]:
@@ -376,6 +450,8 @@ def main() -> int:
         "",
     ]
 
+    awarded_grants = _load_awarded_grants()
+
     body_lines = [
         f"_Generated: {date} UTC. Prices and market caps are latest available "
         "Yahoo Finance data and are informational only — not investment advice._",
@@ -402,6 +478,7 @@ def main() -> int:
         *rows_etf,
         "",
         *_estimate_lines(total_market_cap, len(market_caps)),
+        *_awarded_grant_lines(awarded_grants),
         *_diversified_program_lines(),
         *leaderboard_lines,
         '<script type="application/json" id="qr-spark-data">',
@@ -415,11 +492,11 @@ def main() -> int:
         f'title: "Quantum Industry — {date}"',
         f"date: {date}",
         "report_type: quantum-industry",
-        'excerpt: "Daily public-market quantum company data, broad quantum ETFs, and directional quantum-industry investment and workforce estimates."',
+        'excerpt: "Daily public-market data, quantum funding awards, and directional quantum-industry investment and workforce estimates."',
         "tags:",
         "  - quantum-industry",
         "  - quantum-radar",
-        'plain_summary: "What this is. A daily Quantum Industry snapshot: closing prices and market caps for publicly listed quantum-primary and quantum-adjacent companies, a couple of broad quantum-tech ETFs, and directional investment/workforce estimates. Diversified mega-caps with quantum divisions are intentionally excluded. Informational only — not investment advice."',
+        'plain_summary: "What this is. A daily Quantum Industry snapshot: public-market data, captured quantum grant awards, and directional investment/workforce estimates. Award totals are deduplicated captured-news values, not a complete funding census. Informational only — not investment advice."',
         "---",
         "",
     ]
