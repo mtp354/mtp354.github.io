@@ -37,6 +37,7 @@ from funding_common import grant_disposition
 ROOT = Path(__file__).resolve().parents[1]
 SITE_ROOT = ROOT.parents[1]
 STATE_FILE = ROOT / "state" / "opportunities.json"
+JOBS_STATE_FILE = ROOT / "state" / "jobs.json"
 COLLECTION_DIR = SITE_ROOT / "_quantum_radar"
 
 # Map RSS-discovered "type" buckets to our section keys.
@@ -58,6 +59,16 @@ def _load_rss_items() -> list[dict[str, Any]]:
         return []
     try:
         data = json.loads(STATE_FILE.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return []
+    return data.get("items", []) or []
+
+
+def _load_jobs_items() -> list[dict[str, Any]]:
+    if not JOBS_STATE_FILE.exists():
+        return []
+    try:
+        data = json.loads(JOBS_STATE_FILE.read_text(encoding="utf-8"))
     except json.JSONDecodeError:
         return []
     return data.get("items", []) or []
@@ -86,14 +97,14 @@ def _rss_to_entry(item: dict[str, Any]) -> dict[str, Any] | None:
     return {
         "name": title,
         "organization": item.get("organization") or organization,
-        "location": "",
+        "location": item.get("location") or "",
         "type": bucket,
         "deadline": item.get("deadline"),
         "link": item.get("url", ""),
         "notes": (
             "Eligible applicants: " + "; ".join(item.get("eligibility", []))
             if item.get("eligibility")
-            else ""
+            else (item.get("summary") or "")
         ),
     }
 
@@ -146,7 +157,79 @@ def _render_table(entries: list[dict[str, Any]]) -> str:
     return header + sep + "\n".join(rows) + "\n"
 
 
-def render(merged: dict[str, list[dict[str, Any]]]) -> str:
+def _render_jobs_table(entries: list[dict[str, Any]]) -> str:
+    if not entries:
+        return "_No entries._\n"
+    header = "| Role | Organization | Location | Source | Indexed / posted | Link | Notes |\n"
+    sep = "|---|---|---|---|---|---|---|\n"
+    rows = []
+    for e in entries:
+        role = md_escape_cell(e.get("name", ""))
+        org = md_escape_cell(e.get("organization", ""))
+        location = md_escape_cell(e.get("location", ""))
+        source = md_escape_cell(e.get("source", ""))
+        posted = md_escape_cell(e.get("posted", "")) or "—"
+        link = (e.get("link") or "").strip()
+        link_md = f"[view / apply]({link})" if link else "—"
+        notes = md_escape_cell(e.get("notes", ""))
+        rows.append(
+            f"| {role or '—'} | {org or '—'} | {location or '—'} | {source or '—'} | {posted} | {link_md} | {notes or '—'} |"
+        )
+    return header + sep + "\n".join(rows) + "\n"
+
+
+def _job_entries_from_linkedin(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    out = []
+    for item in items:
+        out.append(
+            {
+                "name": item.get("title", ""),
+                "organization": item.get("company", ""),
+                "location": item.get("location", ""),
+                "source": item.get("source", "LinkedIn approved feed"),
+                "posted": str(item.get("published", ""))[:10] if item.get("published") else "—",
+                "link": item.get("url", ""),
+                "notes": f"Kind: {item.get('employment_type', 'Job')}",
+            }
+        )
+    return out
+
+
+def _job_entries_from_hiring_cafe(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    out = []
+    for item in items:
+        if (item.get("application_source") or "").lower() != "hiringcafe":
+            continue
+        out.append(
+            {
+                "name": item.get("title", ""),
+                "organization": item.get("organization", ""),
+                "location": item.get("location", ""),
+                "source": "HiringCafe",
+                "posted": str(item.get("published", ""))[:10] if item.get("published") else "—",
+                "link": item.get("url", ""),
+                "notes": "Discovered via HiringCafe search.",
+            }
+        )
+    return out
+
+
+def _dedupe_jobs(entries: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    seen = set()
+    out = []
+    for item in entries:
+        key = item.get("link") or f"{item.get('name', '')}|{item.get('organization', '')}"
+        if key in seen:
+            continue
+        seen.add(key)
+        out.append(item)
+    return out
+
+
+def render(
+    merged: dict[str, list[dict[str, Any]]],
+    jobs_entries: list[dict[str, Any]],
+) -> str:
     today = _today()
     lines = [f"_Generated: {today} UTC_", ""]
     section_order = ["internships", "grants", "summer_programs", "hackathons", "fellowships"]
@@ -156,6 +239,11 @@ def render(merged: dict[str, list[dict[str, Any]]]) -> str:
         lines.append("")
         lines.append(_render_table(entries).rstrip())
         lines.append("")
+
+    lines.append("## Jobs")
+    lines.append("")
+    lines.append(_render_jobs_table(jobs_entries).rstrip())
+    lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 
 
@@ -181,12 +269,17 @@ def write_collection_entry(body: str) -> Path:
 def main() -> int:
     seed = load_seed()
     rss = _load_rss_items()
+    jobs_state = _load_jobs_items()
     merged = _merge(seed, rss)
-    body = render(merged)
+    jobs_entries = _dedupe_jobs([
+        *_job_entries_from_linkedin(jobs_state),
+        *_job_entries_from_hiring_cafe(rss),
+    ])
+    body = render(merged, jobs_entries)
     out = write_collection_entry(body)
     rel = out.relative_to(SITE_ROOT)
     total = sum(len(v) for v in merged.values())
-    print(f"[render_opportunity_tables] wrote {rel} with {total} entries.")
+    print(f"[render_opportunity_tables] wrote {rel} with {total} opportunity entries and {len(jobs_entries)} job entries.")
     return 0
 
 

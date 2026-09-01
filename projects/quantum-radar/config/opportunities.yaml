@@ -28,6 +28,16 @@ opportunities:
     - quantum research receives grant
     - quantum funding secured
 
+  hiring_cafe:
+    enabled: true
+    base_url: https://hiringcafe.com/
+    search_query: quantum
+    date_fetched_past_n_days: -1
+    max_pages: 2
+    max_items: 30
+    max_detail_fetches: 12
+    min_items_in_state: 5
+
   type_keywords:
     grants:
       - grant

@@ -1,22 +1,122 @@
 {
-  "generated_at": "2026-09-01T13:36:44Z",
+  "generated_at": "2026-09-01T22:17:15Z",
   "items": [
     {
-      "id": "0bf03e4698fa4da1",
+      "application_source": "HiringCafe",
+      "id": "ce15e5a97a1e1dcf",
+      "location": "",
+      "matched_keywords": [
+        "quantum",
+        "quantum computing"
+      ],
+      "organization": "",
+      "published": "",
+      "query": "quantum",
+      "score": 5,
+      "summary": "",
+      "title": "Quantum Computing Coach Leland United States",
+      "type": "internships",
+      "url": "https://hiringcafe.com/job/quantum-computing-coach-leland-united-states-y0kwgpswop1afxl3"
+    },
+    {
+      "application_source": "HiringCafe",
+      "id": "85cdf03739842c21",
+      "location": "Remote",
+      "matched_keywords": [
+        "quantum"
+      ],
+      "organization": "SandboxAQ",
+      "published": "",
+      "query": "quantum",
+      "score": 2,
+      "summary": "Apply for Quantum Resident at SandboxAQ. Remote, Full Time, $69k-$130k/yr. Enrolled in or recently completed a PhD in a relevant technical field, with research experience…",
+      "title": "Quantum Resident",
+      "type": "internships",
+      "url": "https://hiringcafe.com/job/quantum-resident-sandboxaq-united-states-mwgvwgzqbpypikh6"
+    },
+    {
+      "application_source": "HiringCafe",
+      "id": "f318314a4e477755",
+      "location": "Onsite",
+      "matched_keywords": [
+        "quantum"
+      ],
+      "organization": "QuEra Computing",
+      "published": "",
+      "query": "quantum",
+      "score": 2,
+      "summary": "Apply for Quantum Scientist at QuEra Computing in Boston, MA. Onsite, Full Time. Ph.D. in AMO physics, quantum information, or related field; hands-on quantum-system…",
+      "title": "Quantum Scientist",
+      "type": "internships",
+      "url": "https://hiringcafe.com/job/quantum-scientist-quera-computing-boston-massachusetts-whpoeqz86nxd8hwe"
+    },
+    {
+      "application_source": "HiringCafe",
+      "id": "0f682236b9af1418",
+      "location": "Remote",
+      "matched_keywords": [
+        "quantum"
+      ],
+      "organization": "Allstate",
+      "published": "",
+      "query": "quantum",
+      "score": 2,
+      "summary": "Apply for Quantum Algorithm Developer Expert at Allstate. Remote, Full Time, $152k-$222k/yr. Preferred 7+ years of experience developing and evaluating quantum…",
+      "title": "Quantum Algorithm Developer Expert",
+      "type": "internships",
+      "url": "https://hiringcafe.com/job/quantum-algorithm-developer-expert-allstate-illinois-united-states-uqextwmodvwbd1w6"
+    },
+    {
+      "application_source": "HiringCafe",
+      "id": "c048e049f744ed61",
+      "location": "Onsite",
+      "matched_keywords": [
+        "quantum"
+      ],
+      "organization": "Logiqal",
+      "published": "",
+      "query": "quantum",
+      "score": 2,
+      "summary": "Apply for Quantum Scientist at Logiqal in Princeton, NJ. Onsite, Full Time, $180k-$250k/yr. Experience with neutral-atom or experimental quantum platforms, strong…",
+      "title": "Quantum Scientist",
+      "type": "internships",
+      "url": "https://hiringcafe.com/job/quantum-scientist-logiqal-princeton-new-jersey-koeobsx0md2suw8h"
+    },
+    {
+      "application_source": "Grants.gov",
+      "deadline": "2027-04-30",
+      "eligibility": [
+        "Independent school districts",
+        "Individuals",
+        "Private institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "For profit organizations other than small businesses",
+        "Public and State controlled institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Small businesses"
+      ],
+      "grant_disposition": "actionable",
+      "id": "1a7530639af44b85",
       "matched_keywords": [
         "grant",
+        "funding",
         "proposal",
-        "call for proposals",
+        "internship",
+        "intern",
+        "fellowship",
+        "fellowships",
         "quantum",
-        "quantum technology"
+        "quantum computing"
       ],
-      "published": "2026-07-31T05:02:55Z",
-      "query": "quantum technology grant",
-      "score": 13,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlA1Z25HcEExQTducklYc05XcDRwU1ZSTGhTaEIzcU9qb2xUTi1tUERIQWRwcXdxQjgwOVVwWEVOcHJCNTd2WVYtZVJOT1JNdTU5M3hIeTRUWXhxZllRMXA2TzdiYUpyWFpzWHkwWVVzMzJGaGlSXzJTN3BCMExDYkpnMktiQ1JtcXZJWGJNbUJUMl8ybFRmWGZTMWVzY3ZPTWNJWEsySERkM3E2YU14amU4X1nSAboBQVVfeXFMTVJ1MVpHQjVzWkhYR1F6OFpoMENzTHdFOFViU1J3V3JEV3I0ZVN6X3NXQVBfX2c4ZHRBX3ZCbUZoZWNLOXJvdEpjSzdYMFB1NVVmbFZ6MW5ENzVkcjdGeFpIWDBMSVRVSXlNRTh3SXZWT0dlWUZ4Z201SEVTUzI2b1lyc09zeGNBZXR5TFBhME9ydHphUlNxSEV3aVVzaWFyZk42VlE0TF8xTzJubTF4VG9wTzE1WjdhS2V3?oc=5\" target=\"_blank\">Call for Proposals: Canada G7–Nordic-Quantum Technologies Grants (Germany)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fundsforNGOs</font>",
-      "title": "Call for Proposals: Canada G7–Nordic-Quantum Technologies Grants (Germany) - fundsforNGOs",
+      "opportunity_number": "W911NF21S0009",
+      "organization": "Dept of the Army -- Materiel Command",
+      "published": "",
+      "query": "quantum computing",
+      "score": 19,
+      "summary": "<p>The U.S. Army Research Office (ARO) in partnership with NSA’s Laboratory for Physical Science (LPS) is soliciting Incubator, Collaboration, and Fellowship research proposals for participation in the LPS Qubit Collaboratory (LQC). The mission of the LQC can be captured in three broad goals: 1) pursue disruptive fundamental research and enabling technologies with a focus on qubit development for quantum computing and other applications (such as sensing); 2) grow deep, collaborative partnerships to tackle the most difficult and relevant long-term problems in quantum information science and technology; and 3) build a quantum workforce of tomorrow through research experiences in government at LPS and at LQC partners. The LQC will offer a mechanism for collaborative research between LPS and academia, industry, FFRDCs, and Government Laboratories to advance foundational and transformative research on challenging problems that have hindered progress in quantum information processing and associated technologies.</p><p><br></p><p>The goal of this BAA is to seek proposals that bring together expertise from the public and private sectors and their respective research infrastructures to advance solutions that may be best approached as a collaborative team. A Collaboratory is “a center without walls, in which the nation’s researchers can perform their research without regard to physical location, interacting with colleagues, accessing instrumentation, sharing data and computational resources, [and] accessing information in&nbsp;digital libraries.&nbsp;This BAA introduces LQC Research Thrusts (<strong>A.1.1</strong>) which are the technical areas of interest—which will be updated periodically—where partners of the LQC will pursue joint research with LPS through Incubator (<strong>A.1.2</strong>) and Collaboration (<strong>A.1.3</strong>) collaborative agreements. The LQC BAA also fulfills the Government’s overarching interest--through the proposed research and on-site research experiences--in creating and training a workforce in quantum science and technology, generating pathways of solutions that feed technology development, establishing partnerships, and creating transition opportunities. In further support of training through research, <strong>Section A.1.4</strong> calls for Quantum Computing Research (QuaCR) Graduate and Postdoctoral Fellowships for US citizens working in areas of interest.</p><p><br></p><p>Substantial progress on solving the most difficult and long-term Quantum Information Science &amp; Technology (QIST) research problems that unleash further rapid progress in the field will constitute LQC success.&nbsp;Examples of such research problems include (but are not limited to): limits of performance due to device design, material selection, and/or control, the exploration of alternative qubit physics (e.g., different approaches to qubit encoding or types of gates) and lowering of barriers to such approaches, advances in materials that improve qubit gate fidelity, reducing the overhead of classical components in quantum information technology and optimizing classical performance, and the exploration of applications of quantum technologies to new domains.</p><p><br></p><p>Three categories of proposals are sought for this BAA:</p><p><strong>1.Incubator</strong> opportunities seek partnership proposals from single investigators and small research groups, including teaching colleges, who may have unique skillsets to contribute toward the pursuit of the research thrusts presented in A.1.1.&nbsp;Incubator proposals may also be the development of concepts into a detailed technical research approach to advance solution of problems of high interest to quantum information science research.&nbsp;Incubator proposals would avail themselves of the collaboration opportunities with LPS research staff and infrastructure made available at the Laboratory for Physical Sciences (LPS) to lay the groundwork for concepts that may be suitable for a Collaboratory proposal or responses to other DoD quantum information science research opportunities.</p><p><strong>2.Collaboratory</strong> proposals seek research proposals that bring together a strong significant collaboration--researchers from academia, industry, FFRDCs, and/or Government Laboratories--to pursue long-term projects focused on fundamental problems of interest to qubit development and/or associated science and technology.&nbsp;These collaborative groups will propose to work together in a focused manner for a period of time expected to be one to three years in order to demonstrate a proof-of-concept experiment and/or theory exploration to determine the feasibility of their creative idea.</p><p><strong>3.QuaCR Research Fellowship</strong> proposals seek to support talented U.S. citizen graduate students and postdoctoral researchers in the field of quantum information processing (primary interest) and quantum sensing (secondary interest). Applicants with a background from either within or outside QIS are encouraged. The proposed research areas are described in this BAA and must enhance active Quantum Information Science research efforts being supported by the Army Research Office and/or LPS. Research fellows are encouraged to complete an LPS Internship during their graduate career or visit during their postdoctoral fellowship.</p><p><br></p><p><strong><u>Funding Opportunity Title: LPS Qubit Collaboratory Special Research Topics Announcement: W911NF21S0009-SPECIALNOTICE-1</u></strong></p><p>The U.S. Army Combat Capabilities Development Command (DEVCOM), Army Research Laboratory (ARL)-Army Research Office (ARO) is looking for proposed research and development solutions under the Broad Agency Announcement (BAA) W911NF21S0009-2 for Basic and Applied Scientific Research in Quantum Computing. The title for this Special Notice is “LPS Qubit Collaboratory Special Topics.” Upon receipt, compliant proposals will be reviewed through a technical and programmatic process in accordance with the evaluation criteria referenced in the W911NF21S0009-2 LQC BAA to determine which proposal may be awarded Grant, Cooperative Agreement, or Procurement Contract under this topic.</p>",
+      "title": "LPS Qubit Collaboratory (LQC)",
       "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlA1Z25HcEExQTducklYc05XcDRwU1ZSTGhTaEIzcU9qb2xUTi1tUERIQWRwcXdxQjgwOVVwWEVOcHJCNTd2WVYtZVJOT1JNdTU5M3hIeTRUWXhxZllRMXA2TzdiYUpyWFpzWHkwWVVzMzJGaGlSXzJTN3BCMExDYkpnMktiQ1JtcXZJWGJNbUJUMl8ybFRmWGZTMWVzY3ZPTWNJWEsySERkM3E2YU14amU4X1nSAboBQVVfeXFMTVJ1MVpHQjVzWkhYR1F6OFpoMENzTHdFOFViU1J3V3JEV3I0ZVN6X3NXQVBfX2c4ZHRBX3ZCbUZoZWNLOXJvdEpjSzdYMFB1NVVmbFZ6MW5ENzVkcjdGeFpIWDBMSVRVSXlNRTh3SXZWT0dlWUZ4Z201SEVTUzI2b1lyc09zeGNBZXR5TFBhME9ydHphUlNxSEV3aVVzaWFyZk42VlE0TF8xTzJubTF4VG9wTzE1WjdhS2V3?oc=5"
+      "url": "https://www.grants.gov/search-results-detail/332894"
     },
     {
       "id": "a7ae1c562a1e8b85",
@@ -32,40 +132,33 @@
       "score": 12,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemYxRGtsRTZLRzkxeDJLUkUxSjZFdjI0YTdFelp5Zy1TVzFTa013aHZjajVTNmhjSkllN19nSnkzbG5RNnBhTHRkY09mUkZQNlh0Znp5NEZTbFNNdjlRU1luV2p4VHFQWWdzbFFZV0ctbGxWTWVsNDRNT2k5QnJYbk5iWEY5a2VMSkd6Tmh2M2F5Z0VLcHZYVGk5Q0lBOFk4eHNfVnF3Umpwb1VWMWEtMzhBV0kteV9Wa1ViVDhtTkxIYTBZNU1YbDRXSjU3WFpWT1A0NEUzb0w?oc=5\" target=\"_blank\">Bloq Quantum Partners With Sree Buddha College of Engineering to Establish a Quantum Technology Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
       "title": "Bloq Quantum Partners With Sree Buddha College of Engineering to Establish a Quantum Technology Hub - The Quantum Insider",
-      "type": "internships",
+      "type": "other",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemYxRGtsRTZLRzkxeDJLUkUxSjZFdjI0YTdFelp5Zy1TVzFTa013aHZjajVTNmhjSkllN19nSnkzbG5RNnBhTHRkY09mUkZQNlh0Znp5NEZTbFNNdjlRU1luV2p4VHFQWWdzbFFZV0ctbGxWTWVsNDRNT2k5QnJYbk5iWEY5a2VMSkd6Tmh2M2F5Z0VLcHZYVGk5Q0lBOFk4eHNfVnF3Umpwb1VWMWEtMzhBV0kteV9Wa1ViVDhtTkxIYTBZNU1YbDRXSjU3WFpWT1A0NEUzb0w?oc=5"
     },
     {
-      "id": "1fa0e29ebf6d0544",
+      "application_source": "Grants.gov",
+      "deadline": "2026-09-30",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "grant_disposition": "actionable",
+      "id": "4b117ca5704f01e9",
       "matched_keywords": [
         "grant",
+        "funding",
+        "proposal",
         "quantum",
-        "quantum computing",
-        "quantum technology"
+        "quantum computing"
       ],
-      "published": "2026-08-30T01:11:36Z",
-      "query": "quantum technology grant",
-      "score": 10,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMHg2YTE4bTlPVnE2VUNISHM4ZHVJNE1xaWp2aEluM2ZldkVITV95VlhFcEZiMEhNLW9KNnNBTHNITkZLRFY4SkVBY1Z3MmZyY3hCLURfbUszZ0JvNnMtdlNWcjZwLTFlLXgxc002ZDFiaHlIdnJWOXc0dXg1azdIbWVHb29ZcmMtOUctTXItZVM0cDduLXVMbk9PN3BSQmpBSGhRaWNmRHd3Y2toZGhXTEtYTXFnMmh5VGx2bk5sYTJIemQ0M0E4VWJ6S2NhejI5eFBGM0NvcDVRMUZZb2EwTVVuZw?oc=5\" target=\"_blank\">D-Wave Selected for $1.5 Million NSF Grant to Provide Dual-Rail Hardware for Yale-Led Fault-Tolerant 'ERASE' Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
-      "title": "D-Wave Selected for $1.5 Million NSF Grant to Provide Dual-Rail Hardware for Yale-Led Fault-Tolerant 'ERASE' Project - Quantum Computing Report",
+      "opportunity_number": "N00173-24-S-BA01",
+      "organization": "Naval Research Laboratory",
+      "published": "",
+      "query": "quantum computing",
+      "score": 11,
+      "summary": "<p>Amendment 0007</p><p><br></p><p>The purpose of this amendment is to add Summary Topic 61-24-06 - AFFF ALTERNATIVE PROGRAM COMPATIBILITY OF FLUORINE-FREE FOAM (F3) WITH NON-ASPIRATING SPRINKLER NOZZLES to Appendix 1 in it’s entirety. All other terms and conditions remain unchanged.</p><p><br></p><p>--------------------------------------------------------------</p><p>Amendment 0006</p><p><br></p><p>The purpose of this amendment is to extend the due date for acceptance of White Papers. All other terms and conditions remain unchanged.</p><p>--------------------------------------------------------------</p><p><br></p><p>Amendment 0005</p><p><br></p><p>The purpose of this amendment is to provide a searchable list of Summary Topics contained in Appendix 1. Expanded descriptions of each topic can be found in the full announcement pdf.</p><p><br></p><p>APPENDIX 1 – RESEARCH DESCRIPTION - SUMMARY TOPICS</p><p><strong>&nbsp;</strong></p><p><strong>II. Detailed information about the funding opportunity</strong></p><p><strong>&nbsp;</strong></p><p>The Naval Research Laboratory (NRL) is the Navy's corporate laboratory. NRL conducts basic and applied research for the Navy in a variety of scientific and technical disciplines. The basic research program is driven by perceptions about future requirements of the Navy.</p><p><br></p><p>The Navy's operational effectiveness depends on its ability to keep pace with rapidly developing technologies. NRL contributes to this requirement by conducting research in the following areas, organized into NRL'S three research directorates and Naval Center for Space Technology:</p><p><br></p><p>Systems Directorate Code 5000</p><p>Materials Science and Component Technology Directorate Code 6000 Ocean and Atmospheric Science and Technology Directorate Code 7000 Naval Center for Space Technology Code 8000</p><p><br></p><p>A.&nbsp;&nbsp;&nbsp;SYSTEMS DIRECTORATE - CODE 5000</p><p><u>53-24-01</u> - HIGH FREQUENCY RADAR</p><p><u>53-24-01C</u> - HIGH FREQUENCY RADAR (CLASSIFIED)</p><p><u>53-24-02</u> - LOW-COST WIDEBAND ANTENNA ARRAY TECHNOLOGIES</p><p><u>53-24-03</u> - ADVANCED COMPUTATIONAL ELECTROMAGNETICS</p><p><u>55-24-01</u> - INFORMATION AND DECISION SCIENCES</p><p><u>55-24-02</u> - MATHEMATICAL FOUNDATIONS OF HIGH ASSURANCE COMPUTING</p><p><u>55-24-03</u> - HIGH ASSURANCE ENGINEERING AND COMPUTING</p><p><u>55-24-04</u> - ADVANCED NAVAL NETWORK SOLUTIONS</p><p><u>55-24-05</u> - FEDERATED, DISTRIBUTED COMPUTING/NETWORK INFRASTRUCTURE</p><p><u>56-24-01</u> - OPTICAL SCIENCES R&amp;D</p><p><u>57-24-01</u>&nbsp;- ELECTROMAGNETIC TECHNIQUES AND TECHNOLOGY RESEARCH AND DEVELOPMENT</p><p><u>57-24-02&nbsp;&nbsp;​</u>- SHIPBOARD ELECTRONIC WARFARE</p><p><strong>&nbsp;</strong></p><p><strong>B.&nbsp;MATERIALS SCIENCE AND COMPONENT TECHNOLOGY DIRECTORATE CODE 6000</strong></p><p><u>60-24-01</u> - HIGH PERFORMANCE COMPUTING ON MASSIVELY PARALLEL ARCHITECTURES</p><p><u>61-24-01</u> - ELECTROCHEMICAL ENERGY STORAGE, CONVERSION AND COMMAND/CONTROL</p><p><u>61-24-02 </u>- CORROSION PROCESSES, CONTROL, MITIGATION, AND TECHNOLOGY</p><p><u>61-24-03</u> - APPLICATIONS OF MOLECULAR BIOLOGY, BIOCHEMISTRY, ANALYTICAL CHEMISTRY AND ADVANCED LASER TECHNIQUES</p><p><u>61-24-04</u> - MULTIECHELON DIAGNOSTICS (MEDx) TECHNOLOGY DEVELOPMENT AND TIERED EVALUATION</p><p><u>63-24-01</u> - MATERIALS PERFORMANCE, PROCESSING, AND MODELING</p><p><u>67-24-01</u> - BASIC AND APPLIED RESEARCH IN PLASMA SCIENCE</p><p><u>68-24-01</u> - RADIATION EFFECTS RESEARCH</p><p><u>68-24-02</u> - PHOTOVOLTAICS FOR PORTABLE POWER</p><p><strong>&nbsp;</strong></p><p><strong>C.&nbsp;&nbsp;&nbsp;OCEAN AND ATMOSPHERIC SCIENCE AND TECHNOLOGY DIRECTORATE CODE 7000</strong></p><p><u>71-24-01</u> - ACOUSTIC SIMULATION AND TACTICS</p><p><u>72-24-01</u> - LOW FREQUENCY RADIO INTERFEROMETRY</p><p><u>72-24-02</u> - OPTICAL REMOTE SENSING OF THE COASTAL REGIME</p><p><u>72-24-03</u> - REMOTE SENSORS AND IMAGING SYSTEMS</p><p><u>72-24-04</u> - AIRBORNE, SHIPBOARD, AND OVERHEAD DATA ACQUISITION AND ANALYSIS</p><p><u>73-24-01</u> - OCEAN DYNAMICS AND PREDICTION OCEANOGRAPHY</p><p><u>73-24-02</u> - SEAFLOOR SCIENCES</p><p><u>73-24-03</u> - GEOSPATIAL SCIENCES AND TECHNOLOGY</p><p><u>75-24-01</u> - ATMOSPHERIC EFFECTS, ANALYSIS, AND PREDICTION</p><p><u>76-24-01</u> - RESEARCH INTO SPACE, BACKGROUNDS, IMAGING AND MODELING</p><p><strong>&nbsp;</strong></p><p><strong>D.&nbsp;&nbsp;&nbsp;NAVAL CENTER FOR SPACE TECHNOLOGY CODE 8000</strong></p><p><u>82-24-01</u> - SPACECRAFT &amp; SPACE SYSTEMS TECHNOLOGY</p><p><br></p><p>--------------------------------------------------------------</p><p>Amendment 0004</p><p><br></p><p>The purpose of this amendment is to extend the due date for acceptance of White Papers and revise Appendix 1 Summary Topics and email addresses in it’s entirety.</p><p>--------------------------------------------------------------</p><p>Amendment 0003</p><p><br></p><p>The purpose of this amendment is to extend the due date for acceptance of White Papers.&nbsp;All other terms and conditions remain unchanged.</p><p><br></p><p>-------------------------------------------------------------</p><p>Amendment 0002</p><p><br></p><p>The purpose of this amendment is to extend the due date for acceptance of White Papers.&nbsp;All other terms and conditions remain unchanged.</p><p><br></p><p>-------------------------------------------------------------</p><p>Amendment 0001</p><p><br></p><p>The purpose of this amendment is to extend the due date for acceptance of White Papers.&nbsp;All other terms and conditions remain unchanged.</p><p><br></p><p>--------------------------------------------------------------</p><p>The Naval Research Laboratory is interested in receiving innovative proposals that offer potential for advancement and improvement in the technical topic areas listed. This notice constitutes a Broad Agency Announcement (BAA) as contemplated in FAR 6.302(d) that provides for the competitive selection of research proposals. The Government reserves the right to select for award all, some, or none of the proposals received. Awards under this BAA are expected to take the form of Contracts, Grants, Cooperative Agreements and Other Transactions may also be awarded if appropriate. NRL encourages Educational Institutions, Small Businesses (SBs), Small Disadvantaged Business Concerns (SDBs) and Historically Black Colleges and Universities (HBCUs) and Minority Institutions (MIs) to submit proposals under this BAA.</p><p>In order to conserve valuable offeror and Government resources, prospective offerors shall first submit a White Paper (WP) to the email address identified in the individual Summary Topics contained in Appendix 1, to include a rough cost estimate. If there is interest in the proposed research the offeror will be invited to submit a Formal Proposal.&nbsp;The selection of proposals for award will be based on a scientific review of proposals submitted in response to each BAA Summary Topic. The major purpose of the evaluation will be to determine the relative merit of the technical approach of each proposal. Business and contractual aspects, including proposed&nbsp;cost and cost realism, will also be considered as part of the evaluation. Selection of proposals for award will be based on the potential benefits to the Government weighed against the cost of the proposals, in view of the availability of funds. The complete BAA including proposal preparation instructions, award considerations, and evaluation criteria is also available at https://www.nrl.navy.mil/Doing-Business/Contracts/Broad-Agency-Announcements/ .</p><p><br></p>",
+      "title": "NRL Long Range Broad Agency Announcement (BAA) for Basic and Applied Research",
       "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMHg2YTE4bTlPVnE2VUNISHM4ZHVJNE1xaWp2aEluM2ZldkVITV95VlhFcEZiMEhNLW9KNnNBTHNITkZLRFY4SkVBY1Z3MmZyY3hCLURfbUszZ0JvNnMtdlNWcjZwLTFlLXgxc002ZDFiaHlIdnJWOXc0dXg1azdIbWVHb29ZcmMtOUctTXItZVM0cDduLXVMbk9PN3BSQmpBSGhRaWNmRHd3Y2toZGhXTEtYTXFnMmh5VGx2bk5sYTJIemQ0M0E4VWJ6S2NhejI5eFBGM0NvcDVRMUZZb2EwTVVuZw?oc=5"
-    },
-    {
-      "id": "35cb3b20ba4fb7a6",
-      "matched_keywords": [
-        "grant",
-        "quantum",
-        "quantum computing",
-        "quantum technology"
-      ],
-      "published": "2026-08-27T20:23:32Z",
-      "query": "quantum technology grant",
-      "score": 10,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNRklwTGFCbVNpRHVfRlBWaXdxSFVDZlV6bHBwZjdBcjE2V081NmRIZHpyUGIwOXhwY25sSERYeloxQkZOSEVKZERRRUt0dmZ1d1h0V2ZxNUhibm5rdmVmX285MjdEdlNOc19fc2c3OWlwTmpWTXU1eXB1d3FNMXA0QXF6NndyYWpsM1h6dldFNDNFWF9abjAzRGVFbjhHNGtudHN0Rksyd2duYlI0eDBpVUQwTEkxOU1PQ0RtajI3dElLZkhY?oc=5\" target=\"_blank\">Harvard awarded $37M National Science Foundation grant for fault-tolerant quantum computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Harvard University</font>",
-      "title": "Harvard awarded $37M National Science Foundation grant for fault-tolerant quantum computing - Harvard University",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRklwTGFCbVNpRHVfRlBWaXdxSFVDZlV6bHBwZjdBcjE2V081NmRIZHpyUGIwOXhwY25sSERYeloxQkZOSEVKZERRRUt0dmZ1d1h0V2ZxNUhibm5rdmVmX285MjdEdlNOc19fc2c3OWlwTmpWTXU1eXB1d3FNMXA0QXF6NndyYWpsM1h6dldFNDNFWF9abjAzRGVFbjhHNGtudHN0Rksyd2duYlI0eDBpVUQwTEkxOU1PQ0RtajI3dElLZkhY?oc=5"
+      "url": "https://www.grants.gov/search-results-detail/352741"
     },
     {
       "id": "3710a40e8bc1477f",
@@ -84,54 +177,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU5wUmhpSm01NFFxNWJzaUItbExqM3dIUWFRVGxEYlRBSG50ZlZxN0M4S0NqWWFvbXVwdHdZdDJpU2NOcjJfM0pSbDNVcU1WeUJ4WjQ2a3Q5WnVCYzhhUG1RV1dIbVVTWkZlZWxPU0NZOVZGV2tUTW1KTi1KTE1DdV9aenE1OGNuQk1lOGZlWmNZTTFqSU5qVTV5QU9JNUZKZko2b1ZvZVUyRTdQ?oc=5"
     },
     {
-      "id": "7067782666378725",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum technology"
-      ],
-      "published": "2026-08-31T13:00:00Z",
-      "query": "quantum technology grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDJMVlpGNEZmYkxoXzlBT2E5ME0wWVZjZG84T1RPQTE4MEh4d0p3NVozcmhUQm5oLUNKRzRTT2JXb196MG9sSUxBd0J1ekRJaDR2S0llYktOTzEzRDFEakJQVERhb2tqU2ZCT2VfcTBxaGg5eXdOd2JGS2VCOUlIaWRKSnQxNFU?oc=5\" target=\"_blank\">Diffraqtion raises funding for quantum imaging technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SpaceNews</font>",
-      "title": "Diffraqtion raises funding for quantum imaging technology - SpaceNews",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDJMVlpGNEZmYkxoXzlBT2E5ME0wWVZjZG84T1RPQTE4MEh4d0p3NVozcmhUQm5oLUNKRzRTT2JXb196MG9sSUxBd0J1ekRJaDR2S0llYktOTzEzRDFEakJQVERhb2tqU2ZCT2VfcTBxaGg5eXdOd2JGS2VCOUlIaWRKSnQxNFU?oc=5"
-    },
-    {
-      "id": "15b43b64c9444a0c",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-29T02:16:17Z",
-      "query": "quantum computing grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVEpNWUpteXZNYU1PUkYwNEs2SEdwMEhOOEZiTUVZOWRXb2FoYUM5MTFVTjFVV1A4Z3lqSjd1ZmVxbWlOY1FOOU40UVRydlE2ZmJnT0k1UkVMMnoyTHAwZ0FWaTNHeFEwTUFxS2RRbXM4cHBOQmNjVDBsYWE2b2ZGelZXbjN2dERXVm91Q1praEdKQ1REaXB5VThrbmJFLXJpNGVjeGx5bm40SlgteWljcEZ2MlQyVW1IX3dVNGUzSHVWdW1mYVBBdXVaMHcwVVdFLVZLSzdMNk_SAd4BQVVfeXFMTm1wMFF4M0xDZUV3TlJ3cmUtaTdKT1lORnRwVC1kSng1Tk9jR2xFLTNRdDRhamhZeWY3NXA3S3dBdFk0T09FQ3A1eG5XY3hURElvUEMyeENFSHVKTmI0bG44UTNnSjRCMUZubWhzWlMxcmJwZ2Z0WThqR2xWVnJOT3Bad0NpcVNGdk5WaXplRFBqWWlQUG9tWElVM1JLNnBYa0ZBQ2RxOU5HRFV3a040MHF4bnlDTndCaFFCUE94TjJlVHNVQ1Y2cXMtQ1ZCaTdFMHBMUVNSY2puVkRDSWV3?oc=5\" target=\"_blank\">Canada-Japan Binational Funding Advances Xanadu and Mitsubishi Chemical Quantum Semiconductor Partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
-      "title": "Canada-Japan Binational Funding Advances Xanadu and Mitsubishi Chemical Quantum Semiconductor Partnership - Quantum Computing Report",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVEpNWUpteXZNYU1PUkYwNEs2SEdwMEhOOEZiTUVZOWRXb2FoYUM5MTFVTjFVV1A4Z3lqSjd1ZmVxbWlOY1FOOU40UVRydlE2ZmJnT0k1UkVMMnoyTHAwZ0FWaTNHeFEwTUFxS2RRbXM4cHBOQmNjVDBsYWE2b2ZGelZXbjN2dERXVm91Q1praEdKQ1REaXB5VThrbmJFLXJpNGVjeGx5bm40SlgteWljcEZ2MlQyVW1IX3dVNGUzSHVWdW1mYVBBdXVaMHcwVVdFLVZLSzdMNk_SAd4BQVVfeXFMTm1wMFF4M0xDZUV3TlJ3cmUtaTdKT1lORnRwVC1kSng1Tk9jR2xFLTNRdDRhamhZeWY3NXA3S3dBdFk0T09FQ3A1eG5XY3hURElvUEMyeENFSHVKTmI0bG44UTNnSjRCMUZubWhzWlMxcmJwZ2Z0WThqR2xWVnJOT3Bad0NpcVNGdk5WaXplRFBqWWlQUG9tWElVM1JLNnBYa0ZBQ2RxOU5HRFV3a040MHF4bnlDTndCaFFCUE94TjJlVHNVQ1Y2cXMtQ1ZCaTdFMHBMUVNSY2puVkRDSWV3?oc=5"
-    },
-    {
-      "id": "d9e3a1488a42a87f",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-28T17:46:43Z",
-      "query": "quantum computing grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWhaRS1UNDFWS0V4dmRuMy1zX0Y2S3A0WTBiTnZYbUNXdmZDT1oycV9ISE5qYUxSbHJkT2ZTTUhiSjRCSk4wQ0VtSTcwcnNlQVFfMnU3WXdWOEJZMDZYX1hHQWs3STZGTDZTRVFmSHlCQnJucld6VFZkVjFLT1lNUE82UklDaUt6azRGc2g5dk1jWHBKV2d4SmxRdVFKMWVkVWctQjRteEZnT1hRdktsZmxxZE9kci1lMGlzMg?oc=5\" target=\"_blank\">Canada and Japan back Xanadu's quantum chip research, building on $800K in prior funding</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Dealroom</font>",
-      "title": "Canada and Japan back Xanadu's quantum chip research, building on $800K in prior funding - Dealroom",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWhaRS1UNDFWS0V4dmRuMy1zX0Y2S3A0WTBiTnZYbUNXdmZDT1oycV9ISE5qYUxSbHJkT2ZTTUhiSjRCSk4wQ0VtSTcwcnNlQVFfMnU3WXdWOEJZMDZYX1hHQWs3STZGTDZTRVFmSHlCQnJucld6VFZkVjFLT1lNUE82UklDaUt6azRGc2g5dk1jWHBKV2d4SmxRdVFKMWVkVWctQjRteEZnT1hRdktsZmxxZE9kci1lMGlzMg?oc=5"
-    },
-    {
       "id": "0cd109dbd0d8aabc",
       "matched_keywords": [
         "hackathon",
@@ -146,150 +191,6 @@
       "title": "MegazoneCloud, KISTI co-host quantum computing hackathon to seek solutions to industry challenges - 디지털투데이",
       "type": "hackathons",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDZ6WVlqa2lHbXU2UkJmWGk0dHdNWWIyOXUtQ0lIZnplbUtySTVrTkxyUUlPS01BM085S25SRGhWOEMtWnFqS28yenNMRmtwVG9TaHhwQWV2MzdKQWxpRHdNSE9GdU5kODFpVHM4b1BKLUpOWmxkRDJzNVZUVnRKQmNWT0NNb1haNklMclh0cHN1VHhhQ2l1Q0dweks2cGJfTHFtZEUwQWlNd0h6d2JHX3pEMlJ5QXlKYllPcnRYX01HbTVfdlhNbGxpeWdhX3Z4ZTVlWEtIZ3I?oc=5"
-    },
-    {
-      "id": "16bbd4c5aae5f604",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-26T16:03:36Z",
-      "query": "quantum computing grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPYkppaVVHenRNVlhCbVRTQXRMUzJ2c1QxV215cloxd2l2TE5aaWpmMlFoeElZUmU0MllCVEJIV3MzTVlUNzVQUEppdU1nQlRmdWl2cXlKWVZTY2dKck1sM2ZLUzBNMllLOVpWSklleFlBNmdpLWhFaUNHNWw4MzUxLWdSSThjMC1nT2NzdGNJd2FrU19hVDMxSTFRLW5wUQ?oc=5\" target=\"_blank\">Sparrow Quantum Receives EuroHPC Funding for Photonic Quantum Project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "Sparrow Quantum Receives EuroHPC Funding for Photonic Quantum Project - The Quantum Insider",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYkppaVVHenRNVlhCbVRTQXRMUzJ2c1QxV215cloxd2l2TE5aaWpmMlFoeElZUmU0MllCVEJIV3MzTVlUNzVQUEppdU1nQlRmdWl2cXlKWVZTY2dKck1sM2ZLUzBNMllLOVpWSklleFlBNmdpLWhFaUNHNWw4MzUxLWdSSThjMC1nT2NzdGNJd2FrU19hVDMxSTFRLW5wUQ?oc=5"
-    },
-    {
-      "id": "d7ed68ded212253b",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum technology"
-      ],
-      "published": "2026-08-24T17:44:44Z",
-      "query": "quantum technology grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzNHemZXdWU0eURoWkt0VXhpOF9iQlB2NmdQQmRyMmp4U0F1cVVRc3hqR0tYYTMzUEJFdG43VTBaVTYxM0Q1UHdzTFdFRTF4OEJjSkJYRzREenNua1Vhai1KMGpabUpLS3lPVzh0OWhrbWFIVDBkUDlhSHZkUDROa2N4a0k3WU9RelZfVHJ0T0FBMHc?oc=5\" target=\"_blank\">EuroHPC Opens €119M in Funding Calls for Quantum Technologies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "EuroHPC Opens €119M in Funding Calls for Quantum Technologies - The Quantum Insider",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzNHemZXdWU0eURoWkt0VXhpOF9iQlB2NmdQQmRyMmp4U0F1cVVRc3hqR0tYYTMzUEJFdG43VTBaVTYxM0Q1UHdzTFdFRTF4OEJjSkJYRzREenNua1Vhai1KMGpabUpLS3lPVzh0OWhrbWFIVDBkUDlhSHZkUDROa2N4a0k3WU9RelZfVHJ0T0FBMHc?oc=5"
-    },
-    {
-      "id": "c95854193ecfe029",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-18T07:00:00Z",
-      "query": "quantum computing grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0ZIV0NNa2d3c1dqcWdzaUNwNm1UR1R5dy13X3E1bWphZGJOYnJIZ19XaE5JNWRUQ0s5MldQekZWQmtqTjdsd0NEZ0VpUzdLOVlRNGRSSlpzZEZHd1h4aG1hRkNXMUZ5RnpxZ2lkR3VqQVJkbm1GYVpabUF1OE56SW12aW56NEpfT3JIMWxqTXh5UUg3WUlScWYzVklyd210dm1yc1MyX195MG96amVqUnpFTFlwSmFPeTlmZ0VvVktIVjDSAcgBQVVfeXFMTmtsQVJKcm9KUzlzUXVsS3A5VmtIdnY5TThteFc5dU1EZHhSYjV2OUJJc256N2ZSd1JrR1B0dEd3TjJiaURSeEpEa240RndWeVRHWXJWS1ptN2Y3NGtJYnZ4Z0c0S0tiUDlDTmJBVzJ0UkdsY1E4WWo5QTgtWGkwM0puQ29RVnp1OVhSSmxyS2p1Nzc1SW44YllDYXZFc25VZmRwaU4xWUk3b01heG00STk2TEsxSFpUdWZFekFBdjF2RkpRSnJUSF8?oc=5\" target=\"_blank\">Quantinuum Secures $1.5M in City and State LEDA Funding to Expand R&amp;D Center in Albuquerque</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
-      "title": "Quantinuum Secures $1.5M in City and State LEDA Funding to Expand R&D Center in Albuquerque - Quantum Computing Report",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0ZIV0NNa2d3c1dqcWdzaUNwNm1UR1R5dy13X3E1bWphZGJOYnJIZ19XaE5JNWRUQ0s5MldQekZWQmtqTjdsd0NEZ0VpUzdLOVlRNGRSSlpzZEZHd1h4aG1hRkNXMUZ5RnpxZ2lkR3VqQVJkbm1GYVpabUF1OE56SW12aW56NEpfT3JIMWxqTXh5UUg3WUlScWYzVklyd210dm1yc1MyX195MG96amVqUnpFTFlwSmFPeTlmZ0VvVktIVjDSAcgBQVVfeXFMTmtsQVJKcm9KUzlzUXVsS3A5VmtIdnY5TThteFc5dU1EZHhSYjV2OUJJc256N2ZSd1JrR1B0dEd3TjJiaURSeEpEa240RndWeVRHWXJWS1ptN2Y3NGtJYnZ4Z0c0S0tiUDlDTmJBVzJ0UkdsY1E4WWo5QTgtWGkwM0puQ29RVnp1OVhSSmxyS2p1Nzc1SW44YllDYXZFc25VZmRwaU4xWUk3b01heG00STk2TEsxSFpUdWZFekFBdjF2RkpRSnJUSF8?oc=5"
-    },
-    {
-      "id": "87ec2bb2dd22d23c",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-12T07:00:00Z",
-      "query": "quantum computing grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1JtN3pORjBfaUpOdHJzMFFHY0NIdUp6d0pIOUJMdEt2UGlJZUxQMjlyRVgteEVFV2VGRFotSWFiaHlOWVdHSDBtSVVzV2VNcEVHR2N5Q2YyMFN2YU9MWHgxLWpEN0NSc3VBMHZ0N2dHTHU2QzFWNjRHQ20zTkk2bW1kanc2dDdVS3EtQWJRbGpPYkVZV1U5NVpqWkU1NW5xVW9DUzg3SXFtTXk1RkRfZTVXUjNGbUxsSmfSAb8BQVVfeXFMT3VES2FaV0kwQXp6eHNTRDBPNlFNZ3RmN3BGdVpXQV9KRUhRWndIREkwRFdDU2VIYThjZ3RTTlB3R09FV0ktSW9QNEtjTTlLMXRaYjdXb24zVTJsTXlIdVZOZXkwbEJESi1OcVRrckk2czE4NTR2NUNhSVE2dU1IUE9sUHZaU09fWGRoOFJSYzRUR19CUW9rRVFTNF9UZmxmeGV1WlZUT09Jbm5qOXdfS2k1cnIwelNSTGZ2bjdZS3M?oc=5\" target=\"_blank\">D-Wave Awarded NRC Funding to Advance Commercial Annealing Algorithms and Software</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
-      "title": "D-Wave Awarded NRC Funding to Advance Commercial Annealing Algorithms and Software - Quantum Computing Report",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR1JtN3pORjBfaUpOdHJzMFFHY0NIdUp6d0pIOUJMdEt2UGlJZUxQMjlyRVgteEVFV2VGRFotSWFiaHlOWVdHSDBtSVVzV2VNcEVHR2N5Q2YyMFN2YU9MWHgxLWpEN0NSc3VBMHZ0N2dHTHU2QzFWNjRHQ20zTkk2bW1kanc2dDdVS3EtQWJRbGpPYkVZV1U5NVpqWkU1NW5xVW9DUzg3SXFtTXk1RkRfZTVXUjNGbUxsSmfSAb8BQVVfeXFMT3VES2FaV0kwQXp6eHNTRDBPNlFNZ3RmN3BGdVpXQV9KRUhRWndIREkwRFdDU2VIYThjZ3RTTlB3R09FV0ktSW9QNEtjTTlLMXRaYjdXb24zVTJsTXlIdVZOZXkwbEJESi1OcVRrckk2czE4NTR2NUNhSVE2dU1IUE9sUHZaU09fWGRoOFJSYzRUR19CUW9rRVFTNF9UZmxmeGV1WlZUT09Jbm5qOXdfS2k1cnIwelNSTGZ2bjdZS3M?oc=5"
-    },
-    {
-      "id": "0390b16ac37f28db",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum technology"
-      ],
-      "published": "2026-08-10T07:00:00Z",
-      "query": "quantum technology grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE50NVJ4a0pKV0U2S0hmTEZIZmdCMEN4M1pvbnlMRGlNMFBQU0JXMGp6UG83ODBEYUpqanRDWWdPdHlvY3gydU81N2VWQWlkdEd2TDFmWVNmMlNUdDk2V1UyYm9SY0VibkZFa0JBMzgweVdsSHVnWDE2RGNOTlc?oc=5\" target=\"_blank\">With up to $281M in public funding, CT bets big on quantum future</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hartford Business Journal</font>",
-      "title": "With up to $281M in public funding, CT bets big on quantum future - Hartford Business Journal",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50NVJ4a0pKV0U2S0hmTEZIZmdCMEN4M1pvbnlMRGlNMFBQU0JXMGp6UG83ODBEYUpqanRDWWdPdHlvY3gydU81N2VWQWlkdEd2TDFmWVNmMlNUdDk2V1UyYm9SY0VibkZFa0JBMzgweVdsSHVnWDE2RGNOTlc?oc=5"
-    },
-    {
-      "id": "1c860b0c905735ad",
-      "matched_keywords": [
-        "internship",
-        "intern",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-04T07:00:00Z",
-      "query": "quantum computing internship",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnVBOEdXOEJuVHRLWGt0ZVVOUl9XOXVUNEYwbWgyWmxiV0JPTEFRWmlzS3FmOGdPN1drTFFUSGstUVlqejZzTFBTMVdjR0tyT0dOTHNFNDJKdEJKRk9uUkdsTThHb0o2WmpGdmoxU3RfSFFFTF8wSHdaMDIzV0NCZGo5SkpCazA2SmhDbw?oc=5\" target=\"_blank\">Building the Quantum Workforce of Tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "Building the Quantum Workforce of Tomorrow - The Quantum Insider",
-      "type": "internships",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnVBOEdXOEJuVHRLWGt0ZVVOUl9XOXVUNEYwbWgyWmxiV0JPTEFRWmlzS3FmOGdPN1drTFFUSGstUVlqejZzTFBTMVdjR0tyT0dOTHNFNDJKdEJKRk9uUkdsTThHb0o2WmpGdmoxU3RfSFFFTF8wSHdaMDIzV0NCZGo5SkpCazA2SmhDbw?oc=5"
-    },
-    {
-      "id": "968ab4c7251656ec",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum technology"
-      ],
-      "published": "2026-07-30T06:22:45Z",
-      "query": "quantum technology grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQVZXVVZlMmNvZDNZZk5VYmRlSktTbnJtR29Tc1RscFRBN2NFZzJ4aXU4ZnA0VkVZbTMyTU1idWUxdEZJV3JNQWZydjVnY3JRT21memFUOXlhMHZ1NGlUaEI1NklFbzlhd05xOGUyMHF3MExQamVRbkdjY3gtTUdxZDdVdTY5R24yczRWNks4UUo4LUZtZHJCNzJlelYyUdIBowFBVV95cUxOaXNsV3h5TXpfYWN4WEJnd0VnRVJUTUJ2OFM3dkZIYkdvOHdfUDgxelN1c2NKR3MtYnp5UnN4WkNTV3M1aXRYOEJuTmxGMFhwX1VBSnBNa0dCSXpENWZtZEhZTmU5ZnFSNi13OEpxUXVRaXhSaTRkOW5Id0poWWpqVS1sTTUyOFNydWlobmFnRWRFTkhjYUpmZk5ZN25lRG03WHhv?oc=5\" target=\"_blank\">Applications open for Quantum Technologies Funding Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">fundsforNGOs</font>",
-      "title": "Applications open for Quantum Technologies Funding Program - fundsforNGOs",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQVZXVVZlMmNvZDNZZk5VYmRlSktTbnJtR29Tc1RscFRBN2NFZzJ4aXU4ZnA0VkVZbTMyTU1idWUxdEZJV3JNQWZydjVnY3JRT21memFUOXlhMHZ1NGlUaEI1NklFbzlhd05xOGUyMHF3MExQamVRbkdjY3gtTUdxZDdVdTY5R24yczRWNks4UUo4LUZtZHJCNzJlelYyUdIBowFBVV95cUxOaXNsV3h5TXpfYWN4WEJnd0VnRVJUTUJ2OFM3dkZIYkdvOHdfUDgxelN1c2NKR3MtYnp5UnN4WkNTV3M1aXRYOEJuTmxGMFhwX1VBSnBNa0dCSXpENWZtZEhZTmU5ZnFSNi13OEpxUXVRaXhSaTRkOW5Id0poWWpqVS1sTTUyOFNydWlobmFnRWRFTkhjYUpmZk5ZN25lRG03WHhv?oc=5"
-    },
-    {
-      "id": "e61882b167055edf",
-      "matched_keywords": [
-        "grant",
-        "funding",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-07-28T07:00:00Z",
-      "query": "quantum computing grant",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOOElENlpTOWU0ZzVQYlJmVS0xeUI2TGRoU2VIYmRHNGJqRjVTMnk1UWR3VGhYLWgzQjA4RHFWaXk5ZllJNTJBUTNWQTZsUWFoS1JIc3ZPYjh2YV9nM3hXZEdjbnFULTZ1NW1pRGZLQjJpYWs3Z0xKZnM2d3pkTHhvTk8ta1JEc2NuNXYzTVF6V1V1SWtIOW8tV1hqNFRORGc?oc=5\" target=\"_blank\">Pittsburgh Supercomputing Center earned NSF funding to build a new hybrid quantum-classical computer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Pittsburgh</font>",
-      "title": "Pittsburgh Supercomputing Center earned NSF funding to build a new hybrid quantum-classical computer - University of Pittsburgh",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOElENlpTOWU0ZzVQYlJmVS0xeUI2TGRoU2VIYmRHNGJqRjVTMnk1UWR3VGhYLWgzQjA4RHFWaXk5ZllJNTJBUTNWQTZsUWFoS1JIc3ZPYjh2YV9nM3hXZEdjbnFULTZ1NW1pRGZLQjJpYWs3Z0xKZnM2d3pkTHhvTk8ta1JEc2NuNXYzTVF6V1V1SWtIOW8tV1hqNFRORGc?oc=5"
-    },
-    {
-      "id": "ba83d67f5d5b88a4",
-      "matched_keywords": [
-        "grant",
-        "fellowship",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-07-28T07:00:00Z",
-      "query": "quantum fellowship",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQlVLT1k1dFZpTGJGdi1mVVZINjNvZWxoSjFYSW1HZmEwNUI3enFyY2FfcFFqSWduVGFxcjg2dnRMMWkxLUhuc3k2NGs3TWJ3VVZzOWJvazNPNEF4aUdhSHFYWW5QQ09hZzhBdHhWZFlNYlNsdnQ0dXJLcDA3QVpTVjFhN3dxTGYwTy1aR0hTZGZqeXhod0hER096QXplUWp1bFhnUlN5UkNWdldmem05QjQyNVFZT3JteG8wQXp3bjJBUHduWW9jQUVjOEhOdG9uZ0F3QjdBRQ?oc=5\" target=\"_blank\">Innovation Research Fellow Grants Advance Breakthrough Research Across Healthcare and Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Hofstra University News</font>",
-      "title": "Innovation Research Fellow Grants Advance Breakthrough Research Across Healthcare and Quantum Computing - Hofstra University News",
-      "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQlVLT1k1dFZpTGJGdi1mVVZINjNvZWxoSjFYSW1HZmEwNUI3enFyY2FfcFFqSWduVGFxcjg2dnRMMWkxLUhuc3k2NGs3TWJ3VVZzOWJvazNPNEF4aUdhSHFYWW5QQ09hZzhBdHhWZFlNYlNsdnQ0dXJLcDA3QVpTVjFhN3dxTGYwTy1aR0hTZGZqeXhod0hER096QXplUWp1bFhnUlN5UkNWdldmem05QjQyNVFZT3JteG8wQXp3bjJBUHduWW9jQUVjOEhOdG9uZ0F3QjdBRQ?oc=5"
     },
     {
       "id": "ea0d4ec785642fdd",
@@ -308,20 +209,194 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPREZCcFJlcV82SGJVYkNyQ2xocjZBVjdYU0k5bGh3Tk43S1JQMldreENuMDZiX0RrWThaLUllVHJaMXdyQklfMkttdEQ5dWM1TEREd1lGYVVmNlo5ZVR4THhNb3czdlAxdXRTaDhVZHB2SnczY3I1eExjQXhnMF83emlKcmtMNGNHQU80TmVVOThvTmJmdlZHOTVUTVZDdldiaC1nLXJ0azNYZ1V5?oc=5"
     },
     {
-      "id": "f57cd9a324db4bd2",
+      "id": "cc72ef9cb7a2edf9",
       "matched_keywords": [
-        "grant",
+        "intern",
+        "hackathon",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-07-21T07:00:00Z",
+      "query": "quantum hackathon",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNOS15bWFJYUxRLXpxd3hSSHlLSDJ6cGlZMm9RYUhhcFhGVU1ucTMtQmJKYXpFTHNlTG14TFROcTZ2eVc2YjVmYVQ4MXVQdGt6Vzh5YXJtbHBKZTJSdVRXeHplZmJnbnlzdmNyVkZTa0dTSzZabVZqdmJMQ0FFOGRlY1JIOU1MamtrcW1GQWZyYXc5MjJ1RXlVRlZfdC1ESXFH?oc=5\" target=\"_blank\">Vietnam hosts first international quantum computing hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Báo VietNamNet</font>",
+      "title": "Vietnam hosts first international quantum computing hackathon - Báo VietNamNet",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOS15bWFJYUxRLXpxd3hSSHlLSDJ6cGlZMm9RYUhhcFhGVU1ucTMtQmJKYXpFTHNlTG14TFROcTZ2eVc2YjVmYVQ4MXVQdGt6Vzh5YXJtbHBKZTJSdVRXeHplZmJnbnlzdmNyVkZTa0dTSzZabVZqdmJMQ0FFOGRlY1JIOU1MamtrcW1GQWZyYXc5MjJ1RXlVRlZfdC1ESXFH?oc=5"
+    },
+    {
+      "application_source": "Grants.gov",
+      "deadline": "2076-08-19",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "grant_disposition": "actionable",
+      "id": "604b14259592f8c6",
+      "matched_keywords": [
         "funding",
+        "proposal",
+        "quantum",
+        "quantum computing"
+      ],
+      "opportunity_number": "26-514",
+      "organization": "U.S. National Science Foundation",
+      "published": "",
+      "query": "quantum computing",
+      "score": 9,
+      "summary": "<p>The U.S. National Science Foundation Directorate for Engineering (NSF ENG) supports foundational research for electrical, communications and computing systems through the following programs:&nbsp;</p><ul><li><p>The <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/epmqd-electronic-photonic-magnetic-quantum-devices\"><strong>Electronic, Photonic, Magnetic, and Quantum Devices (EPMQD) program</strong></a>&nbsp;supports foundational engineering research on novel classical and quantum devices, exploring matter’s electronic, photonic, and magnetic properties&nbsp;to enable new applications.&nbsp;</p></li><li><p>The <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/cscs-circuits-systems-communications-sensing\"><strong>Circuits and Systems for Communications and Sensing (CSCS) program</strong></a> supports foundational engineering research on classical and quantum aspects of advanced components, systems, and signal processing for communications and sensing.</p></li><li><p>The <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/epcl-energy-power-control-learning\"><strong>Energy, Power, Control, and Learning (EPCL) program</strong></a> supports foundational research on systems and control, learning, optimization, artificial intelligence, and networked multi-agent systems, and their applications, with emphasis on power and energy systems.</p></li></ul><p>NSF ENG anticipates a portfolio of ENG: Electrical, Communications, and Computing Systems (ECCS) awards with a range of budgets and durations. Estimated program budget, number of awards, and average award size/duration are subject to the availability of funds.</p><p>NSF ENG is particularly interested in intellectually ambitious and potentially transformative foundational research. Proposals need not promise a near-term product, deployment, or commercial outcome, nor need they address later-stage development to be competitive.</p>",
+      "title": "Engineering (ENG): Electrical, Communications, and Computing Systems (ECCS)",
+      "type": "grants",
+      "url": "https://www.grants.gov/search-results-detail/363613"
+    },
+    {
+      "application_source": "Grants.gov",
+      "deadline": null,
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "grant_disposition": "actionable",
+      "id": "a3d7e7ee01f8bc80",
+      "matched_keywords": [
+        "proposal",
+        "intern",
+        "quantum",
+        "quantum computing"
+      ],
+      "opportunity_number": "PD-26-367Y",
+      "organization": "U.S. National Science Foundation",
+      "published": "",
+      "query": "quantum computing",
+      "score": 9,
+      "summary": "Society relies on chemical processes to turn raw materials into useful products. The Chemical Process Systems (CPS) program invests in fundamental research on chemical and biochemical processes to make them more efficient, sustainable, and resilient. New CPS technologies for manufacturing, biotechnology, critical minerals, energy, food, and other national priorities will help make the U.S. more competitive and secure.\n\n\nResearch supported by the CPS program covers the full breadth of chemical and biochemical process innovation. It spans reaction engineering and molecular thermodynamics; reactor design; catalysis; electrochemical systems; separations; and process design. The program encourages proposals that connect the molecular scale to process and plant scales.\n\n\nThe CPS program explores active-site structure and function, reaction mechanisms, in situ and operando characterization, durability, and device-level integration. Microreactors, membrane and catalytic reactors, atmospheric plasmas, and other novel configurations are of interest.\n\n\nThe program supports research in catalysis and electrochemical systems to produce, use, and store energy, to reduce waste, to process polymers, and to synthesize fuels and chemicals. This includes process and materials innovation to support the nuclear fuel cycle.\n\n\nThe CPS program also targets chemical and biological separations that are efficient and scalable. Research includes the design of membranes, sorbents, and specialized interfaces. Advances can be used in gas separations, the recovery of critical minerals, bioprocessing, and protein and water purification.\n\n\nThe program supports research in process design and optimization that uses tools such as artificial intelligence, machine learning, and uncertainty quantification. CPS research also explores quantum information science and engineering; quantum simulation and sensing, for example, may accelerate the discovery of materials and improve process models.\n\n\nPartnerships: To speed discovery and innovation, NSF partners with federal agencies, industry, international groups, and others. Current opportunities are at <a href=\"https://www.nsf.gov/eng/partnerships\">NSF ENG Partnerships.</a>",
+      "title": "Chemical Process Systems (CPS)",
+      "type": "grants",
+      "url": "https://www.grants.gov/search-results-detail/362061"
+    },
+    {
+      "application_source": "Grants.gov",
+      "deadline": "2076-08-17",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "grant_disposition": "actionable",
+      "id": "adc65ef018dbe916",
+      "matched_keywords": [
+        "funding",
+        "proposal",
+        "quantum",
+        "quantum computing"
+      ],
+      "opportunity_number": "26-523",
+      "organization": "U.S. National Science Foundation",
+      "published": "",
+      "query": "quantum computing",
+      "score": 9,
+      "summary": "<p>The U.S. National Science Foundation Directorate for Mathematical and Physical Sciences (NSF MPS) supports multiple research programs at the frontiers of discovery in physics. Physics research supported by NSF MPS enables understanding of the fundamental aspects of nature at all scales, from the quantum effects inside atoms to the mysterious dark energy spanning the entire universe.&nbsp;</p><p>The core research programs covered by this funding opportunity are:&nbsp;&nbsp;</p><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/atomic-molecular-optical-physics-experiment\">Atomic, Molecular, and Optical Physics - Experiment</a>&nbsp;(AMO-Experiment)</p></li></ul><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/atomic-molecular-optical-physics-theory\">Atomic, Molecular, and Optical Physics - Theory</a>&nbsp;(AMO-Theory)</p></li></ul><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/elementary-particle-physics-experiment\">Elementary Particle Physics - Experiment</a>&nbsp;(EPP-Experiment)</p></li></ul><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/elementary-particle-physics-astrophysics-cosmology-theory\">Elementary Particle Physics, Astrophysics and Cosmology - Theory</a>&nbsp;(EPP/Cosmology-Theory)</p></li></ul><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/gp-gravitational-physics\">Gravitational Physics</a>&nbsp;</p></li></ul><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/integrative-activities-physics\">Integrative Activities in Physics</a>&nbsp;(IAP)</p></li></ul><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/nuclear-physics-experiment\">Nuclear Physics - Experiment</a>&nbsp;(NP-Experiment)</p></li></ul><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/nuclear-physics-theory\">Nuclear Physics - Theory</a>&nbsp;(NP-Theory)</p></li></ul><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/particle-astrophysics-experiment\">Particle Astrophysics - Experiment</a>&nbsp;(PA-Experiment)</p></li></ul><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/pols-physics-living-systems\">Physics of Living Systems</a>&nbsp;(PoLS)</p></li></ul><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/plasma-physics\">Plasma Physics</a>&nbsp;</p></li></ul><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/quantum-information-science\">Quantum Information Science</a>&nbsp;(QIS)</p></li></ul><p>&nbsp;The&nbsp;cross-cutting&nbsp;research programs&nbsp;covered by this funding opportunity are:&nbsp;</p><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/api-advanced-physics-instrumentation\">Advanced Physics Instrumentation</a>&nbsp;(API)</p></li></ul><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/frhtp-focused-research-hubs-theoretical-physics\">Focused Research Hubs in Theoretical Physics</a>&nbsp;(FRHTP)</p></li></ul><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/funding/opportunities/pif-physics-information-frontier\">Physics at the Information Frontier</a>&nbsp;(PIF)&nbsp;</p></li></ul><p>NSF MPS is particularly interested in intellectually ambitious and potentially transformative foundational research. Proposals need not promise a near-term product, deployment, or commercial outcome, nor need they address later-stage development to be competitive.</p>",
+      "title": "MPS Physics Research Programs (MPS Physics)",
+      "type": "grants",
+      "url": "https://www.grants.gov/search-results-detail/363621"
+    },
+    {
+      "application_source": "Grants.gov",
+      "deadline": "2076-08-20",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "grant_disposition": "actionable",
+      "id": "5c63eba3c58e5813",
+      "matched_keywords": [
+        "proposal",
+        "intern",
+        "quantum",
+        "quantum computing"
+      ],
+      "opportunity_number": "PD-26-366Y",
+      "organization": "U.S. National Science Foundation",
+      "published": "",
+      "query": "quantum computing",
+      "score": 9,
+      "summary": "<p>The Transport Phenomena (TP) program supports fundamental research to understand, model, and control the transport of mass, momentum, energy, and species across multiple scales. Innovative TP research supports advances in artificial intelligence; manufacturing; biotechnology; microelectronics; energy generation, extraction, and utilization; nuclear energy; quantum science and engineering; and other national priorities.</p><p>TP projects involve experiments, theory, and/or computational modeling. They aim to improve understanding and to create novel analytical techniques. While projects focus on fundamental principles, they also have a clear vision of how research outcomes will benefit applications in engineering.</p><p>TP supports research on the dynamics of single- and multiphase systems. Special interests include flow separation, transition to turbulence, drag reduction, cavitation, instabilities, and reactive flows. The program encourages research on the connection between dynamics at the microscale and material and flow properties at the macroscale. Fluids of interest include liquids, gases, suspensions, emulsions, granular materials, active fluids, biological fluids, colloids, aerosols, bubbles and drops, and fluids with surfactants.</p><p>TP supports research on physicochemical phenomena at the interfaces between fluids and between fluids and solids. These phenomena include adsorption and desorption of nanoparticles and surfactants; bulk and interfacial rheology; wetting and capillarity phenomena; electrokinetics; flow in porous media; and directed and self-assembly of particles.</p><p>TP supports research on thermodynamics and thermal transport involving conduction, diffusion, convection, phase transition, and radiation. Research may be across scales, in complex structures and at interfaces, in microelectronic devices, and in biological systems. Projects involving phonon transport and quantum thermal phenomena are welcome.</p><p>TP encourages proposals focused on combustion of gas, liquid and solid fuels. Combustion topics of interest include chemical kinetic modeling, turbulence-chemistry interactions, detonations, plasma assisted reacting flows, sustainable fuels, mechanisms for pollutant control, and in-situ diagnostic methods. The program also supports research on wildland fire behavior that aims to prevent wildfire spread, inhibit its growth, and/or predict and mitigate fires at the wildland-urban interface.</p><p>Partnerships: To speed discovery and innovation, NSF partners with federal agencies, industry, international groups, and others. Current opportunities are at <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/eng/partnerships\">NSF ENG Partnerships. </a></p>",
+      "title": "Transport Phenomena (TP)",
+      "type": "grants",
+      "url": "https://www.grants.gov/search-results-detail/362063"
+    },
+    {
+      "application_source": "Grants.gov",
+      "deadline": null,
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "grant_disposition": "actionable",
+      "id": "cac0d5731c61faff",
+      "matched_keywords": [
+        "proposal",
+        "intern",
         "quantum",
         "quantum technology"
       ],
-      "published": "2026-07-22T01:44:01Z",
-      "query": "quantum technology grant",
+      "opportunity_number": "PD-18-7564",
+      "organization": "U.S. National Science Foundation",
+      "published": "",
+      "query": "quantum technology",
       "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNVi1qaWppUV9wVnAyWkJMMTFEemxFRWd4UjUxdE5FemtjR1Z6Q0xBUllpU0hhVnh2LU11RlRTT1ptSG5OZ3R2bHJFcEFVWXNiRV9tQWNuRXBETVZ2bkpsb3d3WW1nSWtyWXdrdGQ0bUFVRHZwRFpNNTZtN1k3SGVacjZiZ2ZfNjMxZGVCM241SzMzNGMySlVSSWFtdi1HZ0lraVFlR0d2OU9kZTRrZUpHcl9ZS2VsVTg?oc=5\" target=\"_blank\">Illinois Governor announces $30M secured in grant funding for quantum technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">WCIA.com</font>",
-      "title": "Illinois Governor announces $30M secured in grant funding for quantum technology - WCIA.com",
+      "summary": "The Communications, Circuits, and Sensing-Systems (CCSS) Program supports innovative research in circuit and system hardware and signal processing techniques. CCSS also supports system and network architectures for communications and sensing to enable the next-generation cyber-physical systems (CPS) that leverage computation, communication, and sensing integrated with physical domains. CCSS invests in micro- and nano-electromechanical systems (MEMS/NEMS), physical, chemical, and biological sensing systems, neurotechnologies, and communication &amp; sensing circuits and systems. The goal is to create new complex and hybrid systems ranging from nano- to macro-scale with innovative engineering principles and solutions for a variety of applications including but not limited to healthcare, medicine, environmental and biological monitoring, communications, disaster mitigation, homeland security, intelligent transportation, manufacturing, energy, and smart buildings. CCSS encourages research proposals based on emerging technologies and applications for communications and sensing such as high-speed communications of terabits per second and beyond, sensing and imaging covering microwave to terahertz frequencies, personalized health monitoring and assistance, secured wireless connectivity and sensing for the Internet of Things, and dynamic-data-enabled autonomous systems through real-time sensing and learning.\n\r\n\nAreas managed by CCSS Program Directors (please contact Program Directors listed in the <a href=\"https://www.nsf.gov/staff/staff_list.jsp?orgId=96&amp;subDiv=y&amp;org=ECCS&amp;from_org=ECCS\">CCSS staff directory</a> for areas of interest):\n\r\n\nRF Circuits and Antennas for Communications and Sensing\n\r\n<ul>\r\n<li>RF Communications and Sensing Technologies from kHz to THz</li>\r\n<li>Antennas and Wave Propagation for Communications and Sensing</li>\r\n<li>Circuits and Systems for Secured Communications and Sensing</li>\r\n<li>Trusted Microelectronic Circuits</li>\r\n<li>RF Biomedical Applications and Remote Sensing</li>\r\n<li>Bio-mimetic Circuits and Systems</li>\r\n<li>Dynamic-data-enabled Reconfigurable RF Subsystems through Sensing and Machine Learning</li>\r\n<li>Wireless Energy Transfer and RF Energy Harvesting</li>\r\n</ul>\r\n\nCommunication Systems and Signal Processing\n\r\n<ul>\r\n<li>Wireless, Optical, and Hybrid Communications and Networking</li>\r\n<li>Full-duplex, massive MIMO, mm-Wave, and THz communications</li>\r\n<li>Spectrum Access and Sharing</li>\r\n<li>Integrated Sensing, Communication, and Computational Systems</li>\r\n<li>Signal Processing, image processing, and Compressive Sampling</li>\r\n<li>Cyber Physical Systems and Hardware-controlled Secured Communications</li>\r\n<li>Dynamic-data-enabled Communication Systems through Sensing and Machine Learning</li>\r\n<li>Quantum Communication Systems</li>\r\n</ul>\r\n\nDynamic Bio-Sensing Systems\n\r\n<ul>\r\n<li>Micro, Nano, and Bio Systems (MEMS/NEMS)</li>\r\n<li>Chemical, Biological, and Physical Diagnostics</li>\r\n<li>Sensors, Actuators, and Electronic Interfaces</li>\r\n<li>Ultra-Low Power Wearable and Implantable Sensing Systems</li>\r\n<li>Dynamic-data-enabled Reconfigurable Sensing Systems</li>\r\n<li>Personalized Health Monitoring Systems through Sensing and Machine Learning</li>\r\n<li>Neuroengineering and Brain-Inspired Concepts and Designs</li>\r\n</ul>",
+      "title": "Communications, Circuits, and Sensing-Systems",
       "type": "grants",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVi1qaWppUV9wVnAyWkJMMTFEemxFRWd4UjUxdE5FemtjR1Z6Q0xBUllpU0hhVnh2LU11RlRTT1ptSG5OZ3R2bHJFcEFVWXNiRV9tQWNuRXBETVZ2bkpsb3d3WW1nSWtyWXdrdGQ0bUFVRHZwRFpNNTZtN1k3SGVacjZiZ2ZfNjMxZGVCM241SzMzNGMySlVSSWFtdi1HZ0lraVFlR0d2OU9kZTRrZUpHcl9ZS2VsVTg?oc=5"
+      "url": "https://www.grants.gov/search-results-detail/346204"
+    },
+    {
+      "id": "219732b192165ca5",
+      "matched_keywords": [
+        "summer school",
+        "summer camp",
+        "quantum"
+      ],
+      "published": "2026-08-14T07:00:00Z",
+      "query": "quantum summer school",
+      "score": 8,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVlsYXhDdUtSSFpJQ0VHVTNsTl9UWjUxZWpzaVV2X3BydWtGVjdWckRzNUdUdE1HTGlwNTVLOVZtNHJta2ZJbVFudEhLU29maHVLR0xhajBmZnczMDRoYWpUNzBKM3MtVFVxY19HYlRjMkxvX0hJZEp1MjZmOGJwUFdmWXEwZFRkRlctS1RqRTJWMkR0OU9lUnZsdmxLWEJYSWo4WmFPOWpZaHUxYmhxX2RPbmNNSl9MeEV3WlM3b0cyby1yQ1VVMw?oc=5\" target=\"_blank\">Summer camp introduces students to quantum science</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rome Sentinel</font>",
+      "title": "Summer camp introduces students to quantum science - Rome Sentinel",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVlsYXhDdUtSSFpJQ0VHVTNsTl9UWjUxZWpzaVV2X3BydWtGVjdWckRzNUdUdE1HTGlwNTVLOVZtNHJta2ZJbVFudEhLU29maHVLR0xhajBmZnczMDRoYWpUNzBKM3MtVFVxY19HYlRjMkxvX0hJZEp1MjZmOGJwUFdmWXEwZFRkRlctS1RqRTJWMkR0OU9lUnZsdmxLWEJYSWo4WmFPOWpZaHUxYmhxX2RPbmNNSl9MeEV3WlM3b0cyby1yQ1VVMw?oc=5"
+    },
+    {
+      "id": "9472b90d17df0878",
+      "matched_keywords": [
+        "summer school",
+        "summer camp",
+        "quantum"
+      ],
+      "published": "2026-07-24T07:00:00Z",
+      "query": "quantum summer school",
+      "score": 8,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9uUVRxRC1ZYUNfTGY5QUhDQmpPZURpT1FZYi1LclFYMnZRcks2S1NmeEFya3U4a3l3VkQ5QWF1U3NGMVQ3VFMxQ2lGcHAtaERqaG5mQVJUUVVSWS1pSGppd3JMRXM3NHFFeDE5ZlNWRQ?oc=5\" target=\"_blank\">Quantum Summer Camp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Calabria Straordinaria</font>",
+      "title": "Quantum Summer Camp - Calabria Straordinaria",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uUVRxRC1ZYUNfTGY5QUhDQmpPZURpT1FZYi1LclFYMnZRcks2S1NmeEFya3U4a3l3VkQ5QWF1U3NGMVQ3VFMxQ2lGcHAtaERqaG5mQVJUUVVSWS1pSGppd3JMRXM3NHFFeDE5ZlNWRQ?oc=5"
+    },
+    {
+      "application_source": "Grants.gov",
+      "deadline": "2026-11-03",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "grant_disposition": "actionable",
+      "id": "cb3dc3e44ab474ff",
+      "matched_keywords": [
+        "proposal",
+        "intern",
+        "workshop",
+        "quantum"
+      ],
+      "opportunity_number": "PD-22-1267",
+      "organization": "U.S. National Science Foundation",
+      "published": "",
+      "query": "quantum information science",
+      "score": 8,
+      "summary": "The Topology program supports research on algebraic topology, including chromatic, equivariant, motivic, and (un)stable homotopy, homology and cohomology theories; bordism and K-theory; topological manifolds; knots and links; geometric topology; differential topology; transformation groups; topological quantum field theories; contact and symplectic structures; infinity and model categories; and topological data analysis.\n\n\nConferences\n\n\nTopology proposals for conferences, workshops, summer/winter schools, and similar activities must be submitted to PD 22-1267 using the \"Conference\" or &ldquo;Travel&rdquo; proposal type in research.gov.\n\n\nThe program&rsquo;ssubmission windows for conference/travel proposalsare September 1-30 and April 1-30. Proposals with budgets not exceeding $50,000 should be submitted during a submission window that occursat least six months prior to the event. Proposals with budget requests that exceed $50,000 should be submitted during a submission window that occursat least eight months prior to the event.\n\n\nPrincipal Investigators should carefully read the relevant sections of the PAPPG to obtain important information regarding the substance of such proposals and note the additional requirements for travel support requests for international events.",
+      "title": "Topology",
+      "type": "grants",
+      "url": "https://www.grants.gov/search-results-detail/340544"
     }
   ]
 }

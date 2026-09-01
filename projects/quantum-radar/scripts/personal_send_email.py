@@ -27,6 +27,8 @@ def _build_text_body(digest: dict) -> str:
     lines = [
         f"Personal Radar Weekly Digest for {digest.get('candidate_name', 'Candidate')}",
         f"Generated at: {digest.get('generated_at', '')}",
+        f"Selection mode: {digest.get('selection_mode', 'unknown')}",
+        f"Selection note: {digest.get('selection_note', '')}",
         "",
     ]
     recs = digest.get("recommendations", [])
@@ -40,7 +42,7 @@ def _build_text_body(digest: dict) -> str:
             [
                 f"{idx}. {rec.get('name', 'Opportunity')} - {rec.get('organization', '')}",
                 f"   Link: {rec.get('link', '')}",
-                f"   Fit score: {rec.get('score', 0)}",
+                f"   Fit score: {rec.get('fit_score_100', 0)}/100",
                 f"   Likely first reader: {reader.get('name', 'Unknown')} ({reader.get('title', 'Unknown')})",
                 "   CV suggestions:",
             ]

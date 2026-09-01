@@ -160,6 +160,8 @@ def _source_score(source: str) -> int:
         return 5
     if lowered == "rss":
         return 2
+    if "hiringcafe" in lowered:
+        return 3
     return 1
 
 
@@ -229,7 +231,7 @@ def _score_item(
     open_flag = is_open(item.get("deadline"))
     open_penalty = 0 if open_flag else -25
 
-    total = (
+    raw_score = (
         keyword_points
         + role_points
         + location_points
@@ -241,6 +243,19 @@ def _score_item(
         + open_penalty
     )
 
+    max_possible = (
+        sum(int(v) for v in keyword_weights.values())
+        + (max((int(v) for v in role_weights.values()), default=0))
+        + 4
+        + 5
+        + 10
+        + 2
+        + len(keyword_weights)
+    )
+    fit_score_100 = 0
+    if max_possible > 0:
+        fit_score_100 = int(round(max(0, min(raw_score, max_possible)) * 100 / max_possible))
+
     host = ""
     try:
         host = urlparse(item.get("link", "")).netloc
@@ -249,7 +264,8 @@ def _score_item(
 
     return {
         **item,
-        "score": total,
+        "score": raw_score,
+        "fit_score_100": fit_score_100,
         "days_left": days_left,
         "matched_keywords": matched_keywords,
         "domain": host,
@@ -264,8 +280,65 @@ def _score_item(
             "open_penalty": open_penalty,
             "disqualify_penalty": disqualify_penalty,
             "disqualify_hits": disqualify_hits,
+            "max_possible": max_possible,
         },
     }
+
+
+def _passes_required_terms(item: dict[str, Any], profile: dict[str, Any]) -> bool:
+    required_all = [str(x).lower() for x in profile.get("required_terms_all", [])]
+    if not required_all:
+        return True
+    text = "\n".join(
+        [
+            item.get("name", ""),
+            item.get("organization", ""),
+            item.get("summary", ""),
+            item.get("notes", ""),
+            item.get("type", ""),
+            item.get("link", ""),
+        ]
+    ).lower()
+    return all(term in text for term in required_all)
+
+
+def _passes_fallback_terms(item: dict[str, Any], profile: dict[str, Any]) -> bool:
+    terms_any = [str(x).lower() for x in profile.get("fallback_required_any", [])]
+    if not terms_any:
+        return True
+    text = "\n".join(
+        [
+            item.get("name", ""),
+            item.get("organization", ""),
+            item.get("summary", ""),
+            item.get("notes", ""),
+            item.get("type", ""),
+            item.get("link", ""),
+        ]
+    ).lower()
+    return any(term in text for term in terms_any)
+
+
+def _filter_candidates(
+    opportunities: list[dict[str, Any]],
+    profile: dict[str, Any],
+    strict_mode: bool,
+    fallback_mode: bool,
+) -> list[dict[str, Any]]:
+    fallback_types = {str(x) for x in profile.get("fallback_role_types", [])}
+    filtered = []
+    for item in opportunities:
+        if not is_open(item.get("deadline")):
+            continue
+        if strict_mode and not _passes_required_terms(item, profile):
+            continue
+        if fallback_mode:
+            if fallback_types and item.get("type") not in fallback_types:
+                continue
+            if not _passes_fallback_terms(item, profile):
+                continue
+        filtered.append(item)
+    return filtered
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -297,14 +370,39 @@ def main(argv: list[str] | None = None) -> int:
     prior = read_json(STATE / "personal_radar_selected.json", {"selected": []})
     previous_ids = {row.get("id") for row in prior.get("selected", []) if row.get("id")}
 
-    scored = [
-        _score_item(item, profile, applicant_text, now, previous_ids)
-        for item in opportunities
-    ]
-    scored = [row for row in scored if row.get("score", 0) > 0]
+    strict_mode = bool(profile.get("strict_mode", False))
+
+    def _rank(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+        ranked = [_score_item(item, profile, applicant_text, now, previous_ids) for item in items]
+        ranked = [row for row in ranked if row.get("score", 0) > 0 and row.get("fit_score_100", 0) > 0]
+        ranked.sort(
+            key=lambda row: (
+                row.get("fit_score_100", 0),
+                -9999 if row.get("days_left") is None else -row.get("days_left"),
+                row.get("name", ""),
+            ),
+            reverse=True,
+        )
+        return ranked
+
+    filtered_strict = _filter_candidates(opportunities, profile, strict_mode=strict_mode, fallback_mode=False)
+    scored = _rank(filtered_strict)
+    selection_mode = "strict"
+    selection_note = "Strict filter (required terms) applied."
+
+    if not scored and strict_mode and bool(profile.get("fallback_enabled", True)):
+        filtered_fallback = _filter_candidates(opportunities, profile, strict_mode=False, fallback_mode=True)
+        scored = _rank(filtered_fallback)
+        selection_mode = "fallback"
+        selection_note = "Fallback filter applied because strict mode returned zero matches."
+
+    if not scored:
+        selection_mode = "none"
+        selection_note = "No opportunities passed strict/fallback filters."
+
     scored.sort(
         key=lambda row: (
-            row.get("score", 0),
+            row.get("fit_score_100", 0),
             -9999 if row.get("days_left") is None else -row.get("days_left"),
             row.get("name", ""),
         ),
@@ -320,6 +418,8 @@ def main(argv: list[str] | None = None) -> int:
             "target_time_zone": profile.get("target_time_zone", "America/New_York"),
             "top_n": top_n,
         },
+        "selection_mode": selection_mode,
+        "selection_note": selection_note,
         "selected_count": len(selected),
         "selected": selected,
     }

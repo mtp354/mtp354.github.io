@@ -97,6 +97,7 @@ def _recommendations_for_item(item: dict[str, Any], cv_text: str, cl_text: str, 
         "organization": org,
         "link": item.get("link"),
         "score": item.get("score"),
+        "fit_score_100": item.get("fit_score_100", 0),
         "likely_first_reader": first_reader,
         "missing_keywords": missing,
         "cv_suggestions": cv_suggestions,
@@ -106,13 +107,20 @@ def _recommendations_for_item(item: dict[str, Any], cv_text: str, cl_text: str, 
     }
 
 
-def _render_markdown(profile: dict[str, Any], recommendations: list[dict[str, Any]]) -> str:
+def _render_markdown(
+    profile: dict[str, Any],
+    recommendations: list[dict[str, Any]],
+    selection_mode: str,
+    selection_note: str,
+) -> str:
     date_str = today_str()
     lines = [
         f"# Personal Radar Weekly Digest - {date_str}",
         "",
         f"Generated for: {profile.get('candidate_name', 'Candidate')}",
         f"Generated at (UTC): {iso_utc(utc_now())}",
+        f"Selection mode: {selection_mode}",
+        f"Selection note: {selection_note}",
         "",
     ]
 
@@ -133,7 +141,7 @@ def _render_markdown(profile: dict[str, Any], recommendations: list[dict[str, An
                 f"## {idx}. {rec.get('name', 'Opportunity')} - {rec.get('organization', '')}",
                 "",
                 f"- Link: {rec.get('link', '')}",
-                f"- Personal fit score: {rec.get('score', 0)}",
+                f"- Personal fit score: {rec.get('fit_score_100', 0)}/100",
                 f"- Likely first CV reader: {reader.get('name', 'Unknown')} ({reader.get('title', 'Unknown')}), confidence {reader.get('confidence', 0):.2f}",
                 f"- First-reader evidence: {reader.get('evidence', 'N/A')}",
                 "",
@@ -155,6 +163,11 @@ def _render_markdown(profile: dict[str, Any], recommendations: list[dict[str, An
 def main() -> int:
     profile, cv_text, cl_text = _load_profile_and_docs()
 
+    selected_path = STATE / "personal_radar_selected.json"
+    selected_payload = {}
+    if selected_path.exists():
+        selected_payload = json.loads(selected_path.read_text(encoding="utf-8"))
+
     enriched_path = STATE / "personal_radar_enriched.json"
     if not enriched_path.exists():
         payload = {"items": []}
@@ -170,6 +183,8 @@ def main() -> int:
     digest = {
         "generated_at": iso_utc(utc_now()),
         "candidate_name": profile.get("candidate_name", "Candidate"),
+        "selection_mode": selected_payload.get("selection_mode", "unknown"),
+        "selection_note": selected_payload.get("selection_note", ""),
         "recommendation_count": len(recommendations),
         "recommendations": recommendations,
     }
@@ -177,7 +192,12 @@ def main() -> int:
 
     out_dir = REPORTS / "personal-radar" / today_str()
     out_dir.mkdir(parents=True, exist_ok=True)
-    md = _render_markdown(profile, recommendations)
+    md = _render_markdown(
+        profile,
+        recommendations,
+        digest.get("selection_mode", "unknown"),
+        digest.get("selection_note", ""),
+    )
     write_text(out_dir / "weekly-digest.md", md)
     write_json(out_dir / "weekly-digest.json", digest)
     print(f"Generated personal radar digest with {len(recommendations)} recommendations.")

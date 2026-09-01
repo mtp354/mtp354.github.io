@@ -2,8 +2,10 @@ from __future__ import annotations
 
 import argparse
 import calendar
+import json
 from datetime import datetime, timezone
 from typing import Any
+from urllib.parse import quote_plus
 
 from common import (
     ROOT,
@@ -37,7 +39,7 @@ def fetch_items(rss_queries: list[str]) -> list[dict[str, Any]]:
         for entry in feed.entries:
             published = ""
             if getattr(entry, "published_parsed", None):
-                dt = datetime.utcfromtimestamp(calendar.timegm(entry.published_parsed)).replace(tzinfo=timezone.utc)
+                dt = datetime.fromtimestamp(calendar.timegm(entry.published_parsed), tz=timezone.utc)
                 published = iso_utc(dt)
             out.append(
                 {
@@ -49,6 +51,160 @@ def fetch_items(rss_queries: list[str]) -> list[dict[str, Any]]:
                 }
             )
     return out
+
+
+def _hiring_cafe_search_url(base_url: str, query: str, date_fetched_past_n_days: int, page: int) -> str:
+    search_state = {
+        "searchQuery": query,
+        "dateFetchedPastNDays": date_fetched_past_n_days,
+    }
+    encoded = quote_plus(json.dumps(search_state, separators=(",", ":")))
+    return f"{base_url}?searchState={encoded}&page={page}"
+
+
+def _slug_to_title(slug: str) -> str:
+    parts = [p for p in slug.split("-") if p]
+    if not parts:
+        return ""
+    if len(parts) > 6:
+        parts = parts[:-1]
+    return " ".join(part.capitalize() for part in parts)
+
+
+def _classify_hiring_cafe_type(title: str, summary: str) -> str:
+    text = f"{title}\n{summary}".lower()
+    if "intern" in text:
+        return "internships"
+    if "fellow" in text:
+        return "fellowships"
+    if "summer" in text and "school" in text:
+        return "summer_programs"
+    if "hackathon" in text:
+        return "hackathons"
+    return "internships"
+
+
+def fetch_hiring_cafe(section: dict[str, Any]) -> list[dict[str, Any]]:
+    import requests
+    from bs4 import BeautifulSoup
+
+    cfg = section.get("hiring_cafe", {})
+    if not isinstance(cfg, dict) or not cfg.get("enabled", False):
+        return []
+
+    base_url = str(cfg.get("base_url", "https://hiringcafe.com/")).rstrip("/") + "/"
+    query = str(cfg.get("search_query", "quantum")).strip() or "quantum"
+    date_window = int(cfg.get("date_fetched_past_n_days", -1))
+    max_pages = max(1, int(cfg.get("max_pages", 2)))
+    max_items = max(1, int(cfg.get("max_items", 30)))
+    max_detail_fetches = max(0, int(cfg.get("max_detail_fetches", 12)))
+
+    headers = {"User-Agent": "quantum-radar/1.0 (+https://www.mtprest.com)"}
+    discovered: list[dict[str, Any]] = []
+    seen_urls: set[str] = set()
+
+    for page in range(max_pages):
+        search_url = _hiring_cafe_search_url(base_url, query, date_window, page)
+        try:
+            response = requests.get(search_url, timeout=25, headers=headers)
+            response.raise_for_status()
+        except requests.RequestException:
+            continue
+
+        soup = BeautifulSoup(response.text, "html.parser")
+        for anchor in soup.find_all("a", href=True):
+            href = anchor.get("href", "")
+            if "/job/" not in href:
+                continue
+            absolute = href if href.startswith("http") else f"{base_url.rstrip('/')}{href}"
+            if absolute in seen_urls:
+                continue
+            seen_urls.add(absolute)
+            slug = absolute.rsplit("/job/", 1)[-1]
+            discovered.append(
+                {
+                    "url": absolute,
+                    "slug": slug,
+                    "query": query,
+                }
+            )
+            if len(discovered) >= max_items:
+                break
+        if len(discovered) >= max_items:
+            break
+
+    results: list[dict[str, Any]] = []
+    for idx, entry in enumerate(discovered):
+        url = entry["url"]
+        title = _slug_to_title(entry["slug"])
+        organization = ""
+        location = ""
+        summary = ""
+
+        if idx < max_detail_fetches:
+            try:
+                detail = requests.get(url, timeout=25, headers=headers)
+                detail.raise_for_status()
+            except requests.RequestException:
+                detail = None
+            if detail is not None:
+                soup = BeautifulSoup(detail.text, "html.parser")
+                if soup.title and soup.title.string:
+                    page_title = soup.title.string.strip()
+                    if " at " in page_title:
+                        left, _, right = page_title.partition(" at ")
+                        title = left.strip(" -") or title
+                        organization = right.split(" — ", 1)[0].strip()
+                    else:
+                        title = page_title.split(" — ", 1)[0].strip() or title
+
+                description = ""
+                for meta in soup.find_all("meta"):
+                    prop = (meta.get("property") or meta.get("name") or "").lower()
+                    if prop in {"og:description", "description"}:
+                        description = (meta.get("content") or "").strip()
+                        if description:
+                            break
+                summary = description
+
+                if description:
+                    pieces = [p.strip() for p in description.split(".") if p.strip()]
+                    if pieces:
+                        first = pieces[0]
+                        # "Apply for X at Company. Remote, Full Time, ..."
+                        if " at " in first and "apply for " in first.lower():
+                            _, _, at_part = first.partition(" at ")
+                            if at_part and not organization:
+                                organization = at_part.strip()
+                        if len(pieces) > 1 and not location:
+                            loc_part = pieces[1]
+                            location = loc_part.split(",", 1)[0].strip()
+
+                h1 = soup.find("h1")
+                if h1:
+                    candidate_title = h1.get_text(" ", strip=True)
+                    if candidate_title:
+                        title = candidate_title
+
+        if not title:
+            title = "Quantum Role"
+
+        results.append(
+            {
+                "id": stable_id("hiring_cafe", url),
+                "query": query,
+                "title": title,
+                "summary": summary,
+                "url": url,
+                "published": "",
+                "type": _classify_hiring_cafe_type(title, summary),
+                "application_source": "HiringCafe",
+                "organization": organization,
+                "location": location,
+            }
+        )
+
+    return results
 
 
 def _grants_gov_date(value: str) -> str | None:
@@ -202,7 +358,11 @@ def main(argv: list[str] | None = None) -> int:
         print(f"Catalogued {count} awarded-grant announcements for the industry report.")
         return 0
 
-    items = [*fetch_items(queries), *fetch_grants_gov(grant_terms, eligible_terms)]
+    items = [
+        *fetch_items(queries),
+        *fetch_grants_gov(grant_terms, eligible_terms),
+        *fetch_hiring_cafe(section),
+    ]
     scored = []
     funding_events = []
 
@@ -252,7 +412,30 @@ def main(argv: list[str] | None = None) -> int:
                 continue
         scored.append(item)
 
-    scored = dedupe_by_key(sorted(scored, key=lambda x: (x["score"], x.get("published", "")), reverse=True), "url")[:keep_top_n]
+    sorted_scored = dedupe_by_key(
+        sorted(scored, key=lambda x: (x["score"], x.get("published", "")), reverse=True),
+        "url",
+    )
+
+    hiring_cfg = section.get("hiring_cafe", {}) if isinstance(section.get("hiring_cafe", {}), dict) else {}
+    min_hiring = max(0, int(hiring_cfg.get("min_items_in_state", 0)))
+    hiring_items = [it for it in sorted_scored if (it.get("application_source") or "").lower() == "hiringcafe"]
+    other_items = [it for it in sorted_scored if (it.get("application_source") or "").lower() != "hiringcafe"]
+
+    selected = list(hiring_items[:min_hiring])
+    seen_urls = {it.get("url", "") for it in selected}
+
+    for item in sorted_scored:
+        if len(selected) >= keep_top_n:
+            break
+        url = item.get("url", "")
+        if url in seen_urls:
+            continue
+        selected.append(item)
+        if url:
+            seen_urls.add(url)
+
+    scored = selected[:keep_top_n]
 
     write_json(
         state_path,

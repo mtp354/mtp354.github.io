@@ -4,6 +4,18 @@ personal_profile:
   target_run_weekday: 0
   target_run_hour: 8
   top_n: 2
+  strict_mode: true
+  required_terms_all:
+    - 2027
+    - summer
+    - intern
+  fallback_enabled: true
+  fallback_role_types:
+    - internships
+  fallback_required_any:
+    - summer
+    - intern
+    - internship
 
   preferred_role_types:
     internships: 9
@@ -23,6 +35,8 @@ personal_profile:
     - unpaid
     - volunteer only
     - unrelated field
+    - qiskit advocate
+    - advocate program
 
   keyword_weights:
     quantum cryptography: 8
