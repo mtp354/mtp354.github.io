@@ -1,4 +1,4 @@
-name: Quantum Radar — Jobs
+name: Quantum Radar — Jobs Feed
 
 on:
   workflow_dispatch:
@@ -29,19 +29,25 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Aggregate LinkedIn quantum jobs
+        id: jobs_feed
         env:
           LINKEDIN_JOBS_FEED_URL: ${{ secrets.LINKEDIN_JOBS_FEED_URL }}
         run: python scripts/fetch_jobs.py
 
+      - name: Render opportunities with latest jobs
+        if: steps.jobs_feed.outputs.run_render == 'true'
+        run: python scripts/render_opportunity_tables.py
+
       - name: Commit updates
+        if: steps.jobs_feed.outputs.run_render == 'true'
         working-directory: ${{ github.workspace }}
         run: |
-          if [ -z "$(git status --porcelain -- projects/quantum-radar/state/jobs.json _quantum_radar)" ]; then
+          if [ -z "$(git status --porcelain -- projects/quantum-radar/state/jobs.json _quantum_radar/opportunities-*.md)" ]; then
             echo "No job changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add projects/quantum-radar/state/jobs.json _quantum_radar
+          git add projects/quantum-radar/state/jobs.json _quantum_radar/opportunities-*.md
           git commit -m "chore(quantum-radar): refresh jobs"
           git push origin HEAD:${{ github.ref_name }}

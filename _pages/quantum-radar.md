@@ -2,8 +2,6 @@
 title: "Quantum Radar"
 permalink: /quantum-radar/
 author_profile: true
-toc: true
-toc_sticky: true
 ---
 
 **Quantum Radar** is a small in-repo automation that I use to keep tabs on
@@ -15,10 +13,9 @@ is useful to you too.
 Here is what it currently tracks:
 
 - **Opportunities** — grants with an identifiable open call/application, plus
-  internships, summer schools, hackathons, and fellowships I am watching. Grant
-  award news is excluded. Refreshed every three days.
-- **Quantum Jobs** — public LinkedIn quantum-job links supplied through an
-  approved RSS/Atom feed. Refreshed daily once the feed is configured.
+  internships, summer schools, hackathons, fellowships, and a collapsible jobs
+  section sourced from approved public job feeds. Grant award news is excluded.
+  Refreshed every three days, with job listings refreshed daily once configured.
 - **Conferences** — upcoming quantum-adjacent academic conferences plus quantum
   industry conferences and summits. Refreshed every three days.
 - **Publications & news** — a quantum publications and news digest, every
@@ -37,8 +34,8 @@ in this same repo.
 
 {% include base_path %}
 
-{% assign report_types = "opportunities,jobs,conferences,publications-news,movers-shakers,quantum-industry" | split: "," %}
-{% assign type_labels = "Opportunities,Quantum Jobs,Conferences,Publications & news,Movers & Shakers,Quantum Industry" | split: "," %}
+{% assign report_types = "opportunities,conferences,publications-news,movers-shakers,quantum-industry" | split: "," %}
+{% assign type_labels = "Opportunities,Conferences,Publications & news,Movers & Shakers,Quantum Industry" | split: "," %}
 
 {% for rt in report_types %}
   {% assign idx = forloop.index0 %}

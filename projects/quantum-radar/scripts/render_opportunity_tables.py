@@ -178,6 +178,22 @@ def _render_jobs_table(entries: list[dict[str, Any]]) -> str:
     return header + sep + "\n".join(rows) + "\n"
 
 
+def _render_jobs_section(entries: list[dict[str, Any]]) -> str:
+    count = len(entries)
+    noun = "listing" if count == 1 else "listings"
+    return "\n".join(
+        [
+            "<details>",
+            f"<summary>Jobs ({count} {noun})</summary>",
+            "",
+            _render_jobs_table(entries).rstrip(),
+            "",
+            "</details>",
+            "",
+        ]
+    )
+
+
 def _job_entries_from_linkedin(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     out = []
     for item in items:
@@ -240,9 +256,7 @@ def render(
         lines.append(_render_table(entries).rstrip())
         lines.append("")
 
-    lines.append("## Jobs")
-    lines.append("")
-    lines.append(_render_jobs_table(jobs_entries).rstrip())
+    lines.append(_render_jobs_section(jobs_entries).rstrip())
     lines.append("")
     return "\n".join(lines).rstrip() + "\n"
 
@@ -256,7 +270,7 @@ def write_collection_entry(body: str) -> Path:
         f'title: "Opportunities — {today}"\n'
         f"date: {today}\n"
         "report_type: opportunities\n"
-        'excerpt: "Grants, internships, summer schools, and fellowships."\n'
+        'excerpt: "Grants, internships, summer schools, fellowships, and job listings."\n'
         "tags:\n"
         "  - opportunities\n"
         "  - quantum-radar\n"

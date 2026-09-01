@@ -2,7 +2,7 @@
 title: "Opportunities — 2026-09-01"
 date: 2026-09-01
 report_type: opportunities
-excerpt: "Grants, internships, summer schools, and fellowships."
+excerpt: "Grants, internships, summer schools, fellowships, and job listings."
 tags:
   - opportunities
   - quantum-radar
@@ -75,7 +75,8 @@ _Generated: 2026-09-01 UTC_
 
 _No entries._
 
-## Jobs
+<details>
+<summary>Jobs (5 listings)</summary>
 
 | Role | Organization | Location | Source | Indexed / posted | Link | Notes |
 |---|---|---|---|---|---|---|
@@ -84,3 +85,5 @@ _No entries._
 | Quantum Scientist | QuEra Computing | Onsite | HiringCafe | — | [view / apply](https://hiringcafe.com/job/quantum-scientist-quera-computing-boston-massachusetts-whpoeqz86nxd8hwe) | Discovered via HiringCafe search. |
 | Quantum Algorithm Developer Expert | Allstate | Remote | HiringCafe | — | [view / apply](https://hiringcafe.com/job/quantum-algorithm-developer-expert-allstate-illinois-united-states-uqextwmodvwbd1w6) | Discovered via HiringCafe search. |
 | Quantum Scientist | Logiqal | Onsite | HiringCafe | — | [view / apply](https://hiringcafe.com/job/quantum-scientist-logiqal-princeton-new-jersey-koeobsx0md2suw8h) | Discovered via HiringCafe search. |
+
+</details>

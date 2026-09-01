@@ -57,6 +57,9 @@ jobs:
           PERSONAL_REPORT_FROM_EMAIL: ${{ secrets.PERSONAL_REPORT_FROM_EMAIL }}
           PERSONAL_REPORT_REPLY_TO: ${{ secrets.PERSONAL_REPORT_REPLY_TO }}
           PERSONAL_REPORT_SUBJECT_PREFIX: Personal Radar Weekly
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+          GA4_SERVICE_ACCOUNT_JSON: ${{ secrets.GA4_SERVICE_ACCOUNT_JSON }}
+          GA4_ANALYTICS_DAYS: "7"
         run: python scripts/personal_send_email.py
 
       - name: Upload digest artifacts

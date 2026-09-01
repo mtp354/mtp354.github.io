@@ -4,27 +4,25 @@ In-tree automation for `/quantum-radar/` on the website. These scripts and
 configs live inside the website repo and are driven by the workflows under
 `.github/workflows/quantum-radar-*.yml`.
 
-Six radar tracks:
+Five public radar tracks:
 
 1. **Opportunities digests** every three days
    (`fetch_opportunities.py` → `enrich_deadlines.py` →
-   `render_opportunity_tables.py`) — open/application-based grants, internships, hackathons,
-   summer schools, fellowships, with deadlines scraped from each program's
-   page where possible. Award-announcement news is diverted into
-   `state/awarded-grants.json`.
-2. **Publications & news digests** every two days
-   (`fetch_publications_news.py`).
-3. **Movers & Shakers** — a hand-curated list of leading quantum companies,
-   influential university labs, and notable people in the field. Updated by
-   editing `_quantum_radar/movers-shakers-*.md` directly.
-4. **Quantum Industry** — daily public-market snapshot for listed quantum
-   companies, broad quantum ETFs, captured grant-award totals, and directional
-   investment/workforce estimates (`fetch_stock_prices.py`).
-5. **Conferences** — curated official conference pages plus newly announced
+   `render_opportunity_tables.py`) — open/application-based grants,
+   internships, hackathons, summer schools, fellowships, and a collapsible jobs
+   section. Deadlines are scraped from each program's page where possible.
+   Award-announcement news is diverted into `state/awarded-grants.json`.
+2. **Conferences** — curated official conference pages plus newly announced
    academic and industry events (`fetch_conferences.py`). Official pages are
    read for schema.org Event dates and locations when available.
-6. **Quantum Jobs** — public LinkedIn job URLs ingested from an approved
-   RSS/Atom feed (`fetch_jobs.py`). The workflow does not scrape LinkedIn.
+3. **Publications & news digests** every two days
+   (`fetch_publications_news.py`).
+4. **Movers & Shakers** — a hand-curated list of leading quantum companies,
+   influential university labs, and notable people in the field. Updated by
+   editing `_quantum_radar/movers-shakers-*.md` directly.
+5. **Quantum Industry** — daily public-market snapshot for listed quantum
+   companies, broad quantum ETFs, captured grant-award totals, and directional
+   investment/workforce estimates (`fetch_stock_prices.py`).
 
 ## Layout
 
@@ -38,7 +36,9 @@ projects/quantum-radar/
 ```
 
 The fetchers publish Jekyll-friendly entries into the site collection at
-`_quantum_radar/`, which is what `_pages/quantum-radar.md` renders.
+`_quantum_radar/`, which is what `_pages/quantum-radar.md` renders. Jobs are
+stored in state and rendered inside the Opportunities entry rather than as a
+standalone public track.
 
 ## Updating opportunities
 
@@ -65,8 +65,28 @@ applied.
 Add a repository Actions secret named `LINKEDIN_JOBS_FEED_URL` containing the
 URL of an RSS or Atom job feed that you are authorized to consume. Multiple
 feed URLs can be newline- or comma-separated in the same secret. Until that
-secret exists, the jobs workflow exits without publishing an empty report.
+secret exists, the jobs workflow exits without changing the Opportunities
+report.
 LinkedIn does not provide a generally available job-search API; its Talent APIs
 require partner approval, and automated page scraping is not used here. The
 suggested alert queries are in `config/jobs.yaml` for use when provisioning the
-feed.
+feed. `fetch_jobs.py` writes `state/jobs.json`; `render_opportunity_tables.py`
+publishes those listings in the collapsible Jobs section.
+
+## Personal Radar
+
+The weekly personal digest is intentionally separate from the public
+`/quantum-radar/` pages. It reads the profile in `config/personal_profile.yaml`,
+uses the CV and cover-letter sources listed there, writes ignored artifacts
+under `state/personal_radar_*.json` and `reports/personal-radar/`, and emails
+the result from GitHub Actions secrets.
+
+The Monday email can append Google Analytics 4 website metrics when
+`GA4_PROPERTY_ID` and `GA4_SERVICE_ACCOUNT_JSON` are set as repository secrets.
+Use the numeric GA4 property ID, not the `G-...` measurement ID, and grant the
+service account read access to the analytics property. By default the email
+summarizes the last seven days ending yesterday.
+
+Before the workflow runs, `scripts/check_applicant_privacy.py` confirms that the
+top-level `Applicant/` directory is excluded from Jekyll output and that no
+generated public Quantum Radar entry links back to it.

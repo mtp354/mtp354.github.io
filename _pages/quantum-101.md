@@ -2,8 +2,6 @@
 title: "Quantum 101"
 permalink: /quantum-101/
 author_profile: true
-toc: true
-toc_sticky: true
 ---
 
 A short, opinionated glossary of terms that come up constantly in quantum

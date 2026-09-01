@@ -18,7 +18,7 @@
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}
 {% endif %}
 
-<title>{{ seo_title | default: site.title }}{% if paginator %}{% unless paginator.page == 1 %} {{ site.title_separator }} {{ site.data.ui-text[site.locale].page | default: "Page" }} {{ paginator.page }}{% endunless %}{% endif %}</title>
+<title>{{ seo_title | default: site.title }}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% if seo_description %}
@@ -76,13 +76,6 @@
   {% if site.facebook.app_id %}
     <meta property="fb:app_id" content="{{ site.facebook.app_id }}">
   {% endif %}
-{% endif %}
-
-{% if paginator.previous_page %}
-  <link rel="prev" href="{{ paginator.previous_page_path | prepend: seo_url }}">
-{% endif %}
-{% if paginator.next_page %}
-  <link rel="next" href="{{ paginator.next_page_path | prepend: seo_url }}">
 {% endif %}
 
 {% if site.social %}

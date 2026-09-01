@@ -5,8 +5,11 @@ import os
 import smtplib
 import ssl
 from email.message import EmailMessage
+from typing import Any
 
 from common import STATE
+
+GA4_ANALYTICS_SCOPE = "https://www.googleapis.com/auth/analytics.readonly"
 
 
 def _required_env(name: str) -> str:
@@ -65,6 +68,154 @@ def _build_html_body(text_body: str) -> str:
     return f"<pre style=\"font-family:Arial,sans-serif;white-space:pre-wrap\">{escaped}</pre>"
 
 
+def _analytics_days() -> int:
+    raw = os.getenv("GA4_ANALYTICS_DAYS", "7").strip()
+    try:
+        days = int(raw)
+    except ValueError:
+        return 7
+    return min(max(days, 1), 90)
+
+
+def _format_count(value: str) -> str:
+    try:
+        return f"{int(float(value)):,}"
+    except (TypeError, ValueError):
+        return value or "0"
+
+
+def _format_seconds(value: str) -> str:
+    try:
+        total_seconds = int(round(float(value)))
+    except (TypeError, ValueError):
+        return value or "0s"
+    minutes, seconds = divmod(total_seconds, 60)
+    if minutes == 0:
+        return f"{seconds}s"
+    hours, minutes = divmod(minutes, 60)
+    if hours == 0:
+        return f"{minutes}m {seconds:02d}s"
+    return f"{hours}h {minutes:02d}m"
+
+
+def _metric(row: dict[str, Any], index: int) -> str:
+    values = row.get("metricValues", [])
+    if index >= len(values):
+        return "0"
+    return values[index].get("value", "0")
+
+
+def _dimension(row: dict[str, Any], index: int) -> str:
+    values = row.get("dimensionValues", [])
+    if index >= len(values):
+        return ""
+    return values[index].get("value", "")
+
+
+def _ga4_session(credentials_json: str) -> tuple[Any | None, str]:
+    try:
+        from google.auth.transport.requests import AuthorizedSession
+        from google.oauth2 import service_account
+    except ImportError:
+        return None, "google-auth is not installed; run `pip install -r requirements.txt`."
+
+    try:
+        service_account_info = json.loads(credentials_json)
+    except json.JSONDecodeError as exc:
+        return None, f"GA4_SERVICE_ACCOUNT_JSON is not valid JSON: {exc}"
+
+    try:
+        credentials = service_account.Credentials.from_service_account_info(
+            service_account_info,
+            scopes=[GA4_ANALYTICS_SCOPE],
+        )
+    except (KeyError, ValueError) as exc:
+        return None, f"GA4 service-account credentials could not be loaded: {exc}"
+    return AuthorizedSession(credentials), ""
+
+
+def _ga4_property_id(raw: str) -> str:
+    value = raw.strip()
+    return value.removeprefix("properties/")
+
+
+def _run_ga4_report(session: Any, property_id: str, body: dict[str, Any]) -> dict[str, Any]:
+    url = f"https://analyticsdata.googleapis.com/v1beta/properties/{property_id}:runReport"
+    response = session.post(url, json=body, timeout=30)
+    response.raise_for_status()
+    return response.json()
+
+
+def _build_analytics_section() -> str:
+    property_id = _ga4_property_id(os.getenv("GA4_PROPERTY_ID", ""))
+    credentials_json = os.getenv("GA4_SERVICE_ACCOUNT_JSON", "").strip()
+    if not property_id or not credentials_json:
+        return (
+            "Website Analytics\n"
+            "Not configured. Add GA4_PROPERTY_ID and GA4_SERVICE_ACCOUNT_JSON "
+            "repository secrets to include Google Analytics metrics."
+        )
+
+    days = _analytics_days()
+    session, error = _ga4_session(credentials_json)
+    if error:
+        return f"Website Analytics\nCould not fetch GA4 metrics: {error}"
+
+    date_range = {"startDate": f"{days}daysAgo", "endDate": "yesterday"}
+    try:
+        totals = _run_ga4_report(
+            session,
+            property_id,
+            {
+                "dateRanges": [date_range],
+                "metrics": [
+                    {"name": "activeUsers"},
+                    {"name": "sessions"},
+                    {"name": "screenPageViews"},
+                    {"name": "engagedSessions"},
+                    {"name": "averageSessionDuration"},
+                ],
+            },
+        )
+        top_pages = _run_ga4_report(
+            session,
+            property_id,
+            {
+                "dateRanges": [date_range],
+                "dimensions": [{"name": "pagePath"}],
+                "metrics": [{"name": "screenPageViews"}],
+                "orderBys": [{"metric": {"metricName": "screenPageViews"}, "desc": True}],
+                "limit": 5,
+            },
+        )
+    except Exception as exc:  # pragma: no cover - depends on the remote GA4 API.
+        return f"Website Analytics\nCould not fetch GA4 metrics: {exc}"
+
+    total_row = (totals.get("rows") or [{}])[0]
+    lines = [
+        f"Website Analytics (last {days} days, ending yesterday)",
+        f"Active users: {_format_count(_metric(total_row, 0))}",
+        f"Sessions: {_format_count(_metric(total_row, 1))}",
+        f"Page views: {_format_count(_metric(total_row, 2))}",
+        f"Engaged sessions: {_format_count(_metric(total_row, 3))}",
+        f"Avg. session duration: {_format_seconds(_metric(total_row, 4))}",
+        "",
+        "Top pages by views:",
+    ]
+
+    rows = top_pages.get("rows", [])
+    if not rows:
+        lines.append("- No page data returned.")
+    for row in rows[:5]:
+        page = _dimension(row, 0) or "/"
+        lines.append(f"- {page}: {_format_count(_metric(row, 0))} views")
+    return "\n".join(lines)
+
+
+def _append_section(body: str, section: str) -> str:
+    return f"{body.rstrip()}\n\n{section.rstrip()}\n"
+
+
 def _smtp_port() -> int:
     raw = os.getenv("SMTP_PORT", "587").strip()
     try:
@@ -85,7 +236,7 @@ def main() -> int:
 
     digest = _load_digest()
     subject = f"{subject_prefix}: top {digest.get('recommendation_count', 0)} matches"
-    text_body = _build_text_body(digest)
+    text_body = _append_section(_build_text_body(digest), _build_analytics_section())
     html_body = _build_html_body(text_body)
 
     message = EmailMessage()

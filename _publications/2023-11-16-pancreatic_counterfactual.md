@@ -3,12 +3,11 @@ title: "Quantifying the potential benefits of early detection for pancreatic can
 collection: publications
 category: manuscripts
 permalink: /publication/2023-11-16-pancreatic_counterfactual
-excerpt: 'Counterfactuals and causality, along with programming and methodologic similarities, are two features that overlap between my physics research and background and my statistical modelling work at Columbia. This project was a really cool idea, as counterfactual simulation should really be more widely adopting when thinking of anything related to policy.'
+excerpt: 'Counterfactuals and causality, along with programming and methodologic similarities, are two features that overlap between my physics research background and my statistical modelling work at Columbia. This project was a really cool idea, as counterfactual simulation should be more widely adopted when thinking about policy.'
 date: 2023-11-16
 venue: 'Nature Scientific Reports'
-paperurl: 'http://mtp354.github.io/files/pancreatic_counterfactual.pdf'
-bibtexurl: 'http://mtp354.github.io/files/pancreatic_counterfactual.bib'
-citation: #
+paperurl: '/files/pancreatic_counterfactual.pdf'
+bibtexurl: '/files/pancreatic_counterfactual.bib'
 plain_summary: "Plain-language summary (draft — please review). Pancreatic cancer is usually caught too late — the 5-year survival rate is only 3%. We built a 'what if?' simulator that asks: how much earlier would we need to detect it for screening to actually save lives? The answer is a sweet spot of about 4–6 years before symptoms appear; pushing detection earlier than that gives diminishing returns, especially for fast-growing tumors."
 ---
 

@@ -3,12 +3,11 @@ title: "Trends in uterine cancer incidence in the United States: The contributio
 collection: publications
 category: manuscripts
 permalink: /publication/2024-04-26-uterine_apc
-excerpt: 'This paper was inspired by some of the work I saw at an earlier CISNET conference. It was a cool opportunity to employee information theory techniques toward new applications and to use new visualization tools to convey trends.'
+excerpt: 'This paper was inspired by some of the work I saw at an earlier CISNET conference. It was a cool opportunity to use information theory techniques in a new application and to use new visualization tools to convey trends.'
 date: 2024-04-26
 venue: 'Gynecologic Oncology'
-paperurl: 'http://academicpages.github.io/files/uterine_apc.pdf'
-bibtexurl: 'http://mtp354.github.io/files/uterine_apc.bib'
-citation: #
+paperurl: '/files/uterine_apc.pdf'
+bibtexurl: '/files/uterine_apc.bib'
 plain_summary: "Plain-language summary (draft — please review). Uterine cancer rates in the U.S. are rising, and not equally across groups. Using 28 years of registry data and an information-theory tool, we separated the trend into the contributions of age, calendar year, and birth-cohort. Age dominates, but a meaningful share comes from the birth cohort you happen to belong to — which points to long-acting risk factors changing across generations."
 ---
 Objective

@@ -18,8 +18,7 @@ import datetime as _dt
 import json
 import sys
 from pathlib import Path
-
-import yfinance as yf
+from typing import Any
 
 SITE_ROOT = Path(__file__).resolve().parents[3]
 COLLECTION_DIR = SITE_ROOT / "_quantum_radar"
@@ -109,7 +108,18 @@ def _today() -> str:
     return _dt.datetime.now(_dt.timezone.utc).strftime("%Y-%m-%d")
 
 
-def _fetch_market_cap(ticker_obj: yf.Ticker) -> float | None:
+def _load_yfinance() -> Any:
+    try:
+        import yfinance as yf  # type: ignore[import-not-found]
+    except ImportError as exc:
+        raise SystemExit(
+            "Missing dependency: yfinance. Install project requirements with "
+            "`pip install -r projects/quantum-radar/requirements.txt`."
+        ) from exc
+    return yf
+
+
+def _fetch_market_cap(ticker_obj: Any) -> float | None:
     """Return latest yfinance market cap metadata when available."""
     try:
         fast_info = getattr(ticker_obj, "fast_info", None)
@@ -132,6 +142,7 @@ def _fetch_market_cap(ticker_obj: yf.Ticker) -> float | None:
 
 def _fetch_one(ticker: str) -> tuple[float | None, float | None, list[float], float | None]:
     """Return (last_price, change_pct_vs_prev_close, last_30d_closes, market_cap)."""
+    yf = _load_yfinance()
     try:
         t = yf.Ticker(ticker)
         hist = t.history(period="2mo", interval="1d", auto_adjust=False)

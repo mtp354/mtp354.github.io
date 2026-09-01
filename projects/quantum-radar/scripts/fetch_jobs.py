@@ -2,7 +2,8 @@
 
 An approved RSS or Atom feed is supplied in ``LINKEDIN_JOBS_FEED_URL``. This is
 the integration boundary for a LinkedIn Talent Solutions/ATS partner or an
-authorized alert-export feed.
+authorized alert-export feed. The script writes state for the Opportunities
+renderer; it does not publish a standalone jobs page.
 """
 
 from __future__ import annotations
@@ -17,8 +18,6 @@ from urllib.parse import parse_qs, unquote, urlparse
 
 from common import ROOT, iso_utc, keyword_score, load_yaml, read_json, stable_id, utc_now, write_json
 
-SITE_ROOT = ROOT.parents[1]
-COLLECTION_DIR = SITE_ROOT / "_quantum_radar"
 STATE_FILE = ROOT / "state" / "jobs.json"
 JOB_ID = re.compile(r"/jobs/view/(?:[^/?]+-)?(?P<id>\d+)")
 
@@ -57,6 +56,13 @@ def _unwrap_link(url: str) -> str:
 def _key(url: str, title: str) -> str:
     match = JOB_ID.search(url)
     return f"linkedin:{match.group('id')}" if match else stable_id(url, title)
+
+
+def _set_github_output(name: str, value: str) -> None:
+    path = os.environ.get("GITHUB_OUTPUT")
+    if path:
+        with open(path, "a", encoding="utf-8") as handle:
+            handle.write(f"{name}={value}\n")
 
 
 def _split_title(raw: str) -> tuple[str, str]:
@@ -101,34 +107,6 @@ def fetch_feed(url: str, source: str, relevance_terms: list[str]) -> list[dict[s
     return items
 
 
-def _cell(value: Any) -> str:
-    return str(value or "—").replace("|", "\\|").replace("\n", " ")
-
-
-def render(items: list[dict[str, Any]], today: str) -> str:
-    lines = [
-        f"_Generated: {today} UTC._",
-        "",
-        "Public LinkedIn job links come from an authorized RSS/Atom feed. "
-        "Quantum Radar does not sign in to or scrape LinkedIn. "
-        "Listings can close before the next refresh; confirm availability on the linked page.",
-        "",
-        "| Role | Company | Location | Kind | Indexed / posted | Source | Link |",
-        "|---|---|---|---|---|---|---|",
-    ]
-    if not items:
-        lines.append("| — | — | — | — | — | — | No matching listings found this run. |")
-    for item in items:
-        published = str(item.get("published", ""))[:10] or "—"
-        link = f"[view / apply]({item['url']})" if item.get("url") else "—"
-        lines.append(
-            f"| {_cell(item.get('title'))} | {_cell(item.get('company'))} | "
-            f"{_cell(item.get('location'))} | {_cell(item.get('employment_type'))} | "
-            f"{published} | {_cell(item.get('source'))} | {link} |"
-        )
-    return "\n".join(lines) + "\n"
-
-
 def main() -> int:
     cfg = load_yaml(ROOT / "config" / "jobs.yaml").get("jobs", {})
     relevance = list(cfg.get("relevance_terms", []))
@@ -136,6 +114,7 @@ def main() -> int:
     items = []
     approved_feeds = os.environ.get("LINKEDIN_JOBS_FEED_URL", "").strip()
     if not approved_feeds:
+        _set_github_output("run_render", "false")
         print("[fetch_jobs] LINKEDIN_JOBS_FEED_URL is not configured; skipping.")
         return 0
     for approved_feed in filter(None, re.split(r"[\r\n,]+", approved_feeds)):
@@ -169,20 +148,8 @@ def main() -> int:
     )[: int(cfg.get("keep_top_n", 60))]
 
     write_json(STATE_FILE, {"generated_at": iso_utc(now), "items": ranked})
-    today = now.strftime("%Y-%m-%d")
-    front = (
-        "---\n"
-        f'title: "Quantum Jobs — {today}"\n'
-        f"date: {today}\n"
-        "report_type: jobs\n"
-        'excerpt: "Quantum jobs and internships found on LinkedIn through an approved feed."\n'
-        "tags:\n  - jobs\n  - quantum-radar\n"
-        "---\n\n"
-    )
-    out = COLLECTION_DIR / f"jobs-{today}.md"
-    out.parent.mkdir(parents=True, exist_ok=True)
-    out.write_text(front + render(ranked, today), encoding="utf-8")
-    print(f"[fetch_jobs] wrote {out.relative_to(SITE_ROOT)} with {len(ranked)} listings")
+    _set_github_output("run_render", "true")
+    print(f"[fetch_jobs] wrote {STATE_FILE.relative_to(ROOT)} with {len(ranked)} listings")
     return 0
 
 

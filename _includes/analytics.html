@@ -1,9 +1,9 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-979B8LMLWV"></script>
+{% if site.analytics.provider == "google-analytics-4" and site.analytics.google.tracking_id %}
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.google.tracking_id }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag() { dataLayer.push(arguments); }
   gtag('js', new Date());
-
-  gtag('config', 'G-979B8LMLWV');
+  gtag('config', '{{ site.analytics.google.tracking_id }}');
 </script>
+{% endif %}
