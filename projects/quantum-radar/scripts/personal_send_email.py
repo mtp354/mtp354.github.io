@@ -2,13 +2,11 @@ from __future__ import annotations
 
 import json
 import os
-
-import requests
+import smtplib
+import ssl
+from email.message import EmailMessage
 
 from common import STATE
-
-
-SENDGRID_ENDPOINT = "https://api.sendgrid.com/v3/mail/send"
 
 
 def _required_env(name: str) -> str:
@@ -65,8 +63,19 @@ def _build_html_body(text_body: str) -> str:
     return f"<pre style=\"font-family:Arial,sans-serif;white-space:pre-wrap\">{escaped}</pre>"
 
 
+def _smtp_port() -> int:
+    raw = os.getenv("SMTP_PORT", "587").strip()
+    try:
+        return int(raw)
+    except ValueError as exc:
+        raise SystemExit(f"Invalid SMTP_PORT value: {raw}") from exc
+
+
 def main() -> int:
-    sendgrid_api_key = _required_env("SENDGRID_API_KEY")
+    smtp_host = _required_env("SMTP_HOST")
+    smtp_port = _smtp_port()
+    smtp_username = _required_env("SMTP_USERNAME")
+    smtp_password = _required_env("SMTP_PASSWORD")
     to_email = _required_env("PERSONAL_REPORT_TO_EMAIL")
     from_email = _required_env("PERSONAL_REPORT_FROM_EMAIL")
     reply_to = os.getenv("PERSONAL_REPORT_REPLY_TO", "").strip()
@@ -77,35 +86,22 @@ def main() -> int:
     text_body = _build_text_body(digest)
     html_body = _build_html_body(text_body)
 
-    payload = {
-        "personalizations": [
-            {
-                "to": [{"email": to_email}],
-                "subject": subject,
-            }
-        ],
-        "from": {"email": from_email},
-        "content": [
-            {"type": "text/plain", "value": text_body},
-            {"type": "text/html", "value": html_body},
-        ],
-    }
+    message = EmailMessage()
+    message["Subject"] = subject
+    message["From"] = from_email
+    message["To"] = to_email
     if reply_to:
-        payload["reply_to"] = {"email": reply_to}
+        message["Reply-To"] = reply_to
+    message.set_content(text_body)
+    message.add_alternative(html_body, subtype="html")
 
-    response = requests.post(
-        SENDGRID_ENDPOINT,
-        headers={
-            "Authorization": f"Bearer {sendgrid_api_key}",
-            "Content-Type": "application/json",
-        },
-        json=payload,
-        timeout=20,
-    )
-    if response.status_code >= 300:
-        raise SystemExit(f"SendGrid request failed ({response.status_code}): {response.text}")
+    context = ssl.create_default_context()
+    with smtplib.SMTP(smtp_host, smtp_port, timeout=30) as smtp:
+        smtp.starttls(context=context)
+        smtp.login(smtp_username, smtp_password)
+        smtp.send_message(message)
 
-    print("Personal radar email sent successfully.")
+    print("Personal radar email sent successfully via SMTP.")
     return 0
 
 

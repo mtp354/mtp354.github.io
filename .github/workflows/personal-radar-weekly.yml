@@ -49,7 +49,10 @@ jobs:
       - name: Email personal digest
         if: steps.select.outputs.run_pipeline == 'true'
         env:
-          SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           PERSONAL_REPORT_TO_EMAIL: ${{ secrets.PERSONAL_REPORT_TO_EMAIL }}
           PERSONAL_REPORT_FROM_EMAIL: ${{ secrets.PERSONAL_REPORT_FROM_EMAIL }}
           PERSONAL_REPORT_REPLY_TO: ${{ secrets.PERSONAL_REPORT_REPLY_TO }}
