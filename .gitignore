@@ -18,3 +18,5 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+projects/quantum-radar/reports/personal-radar/
+projects/quantum-radar/state/personal_radar_*.json

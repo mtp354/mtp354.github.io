@@ -1,0 +1,61 @@
+% Project:  TeX Cover Letter Template
+% Author:   Sid Lacy
+
+% EDIT info.tex, body.tex
+
+\documentclass[11pt]{letter}
+\usepackage[utf8]{inputenc}
+\usepackage[empty]{fullpage}
+\usepackage[hidelinks]{hyperref}
+\usepackage{graphicx}
+\usepackage{fontawesome5}
+\usepackage{eso-pic}
+\usepackage{charter}
+\usepackage[a4paper, total={16cm, 25cm}]{geometry}
+
+\addtolength{\topmargin}{-0.3in}
+\addtolength{\textheight}{1.0in}
+\definecolor{gr}{RGB}{225,225,225}
+
+\input{info}
+
+\begin{document}
+
+% Shaded header banner
+\AddToShipoutPictureBG{%
+\color{gr}
+\AtPageUpperLeft{\rule[-3cm]{\paperwidth}{1.3in}}
+}
+
+% Header
+\begin{center}
+{\fontsize{28}{0}\selectfont\scshape \myname}
+\end{center}
+
+\vspace{0.02in}
+
+% Opening block
+\today $\hspace{0.5cm} \mid \hspace{0.5cm}$ \company\\
+
+\vspace{-0.1in}
+\greeting\ \recipient,\\
+\vspace{-0.05in}
+
+% Body
+\vspace{-0.2in}\setlength\parindent{20pt}
+\noindent\input{body}
+
+% Closer
+\vspace{-0.1in}
+\vfill
+
+\begin{flushright}
+\closer,
+
+\vspace{-0.1in}\includegraphics[width=1.4in]{sig.png}\vspace{-0.3in}
+
+\myname\\
+
+\end{flushright}
+
+\end{document}

@@ -185,6 +185,7 @@ exclude:
   - node_modules
   - package.json*
   - projects
+  - Applicant
   - Rakefile
   - README
   - tmp

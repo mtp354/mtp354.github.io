@@ -1,0 +1,46 @@
+personal_profile:
+  candidate_name: Matthew Prest
+  target_time_zone: America/New_York
+  target_run_weekday: 0
+  target_run_hour: 8
+  top_n: 2
+
+  preferred_role_types:
+    internships: 9
+    fellowships: 8
+    summer_programs: 7
+    grants: 6
+    hackathons: 5
+
+  preferred_locations:
+    - remote
+    - new york
+    - nyc
+    - united states
+    - usa
+
+  disqualify_keywords:
+    - unpaid
+    - volunteer only
+    - unrelated field
+
+  keyword_weights:
+    quantum cryptography: 8
+    quantum information: 7
+    fault tolerance: 7
+    error correction: 6
+    distributed quantum computing: 8
+    quantum networking: 7
+    quantum algorithms: 6
+    qiskit: 6
+    python: 5
+    verification: 5
+    byzantine: 5
+    phd: 4
+
+  applicant_sources:
+    cv_paths:
+      - Applicant/Matthew_Prest_CV/resume.tex
+    cover_letter_paths:
+      - Applicant/Cover_Letter/body.tex
+      - Applicant/Cover_Letter/info.tex
