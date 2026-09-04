@@ -1,98 +1,17 @@
 {
-  "generated_at": "2026-09-01T22:17:15Z",
+  "generated_at": "2026-09-04T13:36:38Z",
   "items": [
-    {
-      "application_source": "HiringCafe",
-      "id": "ce15e5a97a1e1dcf",
-      "location": "",
-      "matched_keywords": [
-        "quantum",
-        "quantum computing"
-      ],
-      "organization": "",
-      "published": "",
-      "query": "quantum",
-      "score": 5,
-      "summary": "",
-      "title": "Quantum Computing Coach Leland United States",
-      "type": "internships",
-      "url": "https://hiringcafe.com/job/quantum-computing-coach-leland-united-states-y0kwgpswop1afxl3"
-    },
-    {
-      "application_source": "HiringCafe",
-      "id": "85cdf03739842c21",
-      "location": "Remote",
-      "matched_keywords": [
-        "quantum"
-      ],
-      "organization": "SandboxAQ",
-      "published": "",
-      "query": "quantum",
-      "score": 2,
-      "summary": "Apply for Quantum Resident at SandboxAQ. Remote, Full Time, $69k-$130k/yr. Enrolled in or recently completed a PhD in a relevant technical field, with research experience…",
-      "title": "Quantum Resident",
-      "type": "internships",
-      "url": "https://hiringcafe.com/job/quantum-resident-sandboxaq-united-states-mwgvwgzqbpypikh6"
-    },
-    {
-      "application_source": "HiringCafe",
-      "id": "f318314a4e477755",
-      "location": "Onsite",
-      "matched_keywords": [
-        "quantum"
-      ],
-      "organization": "QuEra Computing",
-      "published": "",
-      "query": "quantum",
-      "score": 2,
-      "summary": "Apply for Quantum Scientist at QuEra Computing in Boston, MA. Onsite, Full Time. Ph.D. in AMO physics, quantum information, or related field; hands-on quantum-system…",
-      "title": "Quantum Scientist",
-      "type": "internships",
-      "url": "https://hiringcafe.com/job/quantum-scientist-quera-computing-boston-massachusetts-whpoeqz86nxd8hwe"
-    },
-    {
-      "application_source": "HiringCafe",
-      "id": "0f682236b9af1418",
-      "location": "Remote",
-      "matched_keywords": [
-        "quantum"
-      ],
-      "organization": "Allstate",
-      "published": "",
-      "query": "quantum",
-      "score": 2,
-      "summary": "Apply for Quantum Algorithm Developer Expert at Allstate. Remote, Full Time, $152k-$222k/yr. Preferred 7+ years of experience developing and evaluating quantum…",
-      "title": "Quantum Algorithm Developer Expert",
-      "type": "internships",
-      "url": "https://hiringcafe.com/job/quantum-algorithm-developer-expert-allstate-illinois-united-states-uqextwmodvwbd1w6"
-    },
-    {
-      "application_source": "HiringCafe",
-      "id": "c048e049f744ed61",
-      "location": "Onsite",
-      "matched_keywords": [
-        "quantum"
-      ],
-      "organization": "Logiqal",
-      "published": "",
-      "query": "quantum",
-      "score": 2,
-      "summary": "Apply for Quantum Scientist at Logiqal in Princeton, NJ. Onsite, Full Time, $180k-$250k/yr. Experience with neutral-atom or experimental quantum platforms, strong…",
-      "title": "Quantum Scientist",
-      "type": "internships",
-      "url": "https://hiringcafe.com/job/quantum-scientist-logiqal-princeton-new-jersey-koeobsx0md2suw8h"
-    },
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Independent school districts",
-        "Individuals",
         "Private institutions of higher education",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses",
         "Public and State controlled institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Individuals",
+        "For profit organizations other than small businesses",
         "Small businesses"
       ],
       "grant_disposition": "actionable",
@@ -117,23 +36,6 @@
       "title": "LPS Qubit Collaboratory (LQC)",
       "type": "grants",
       "url": "https://www.grants.gov/search-results-detail/332894"
-    },
-    {
-      "id": "a7ae1c562a1e8b85",
-      "matched_keywords": [
-        "internship",
-        "intern",
-        "quantum",
-        "quantum computing",
-        "quantum technology"
-      ],
-      "published": "2026-07-24T07:00:00Z",
-      "query": "quantum computing internship",
-      "score": 12,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemYxRGtsRTZLRzkxeDJLUkUxSjZFdjI0YTdFelp5Zy1TVzFTa013aHZjajVTNmhjSkllN19nSnkzbG5RNnBhTHRkY09mUkZQNlh0Znp5NEZTbFNNdjlRU1luV2p4VHFQWWdzbFFZV0ctbGxWTWVsNDRNT2k5QnJYbk5iWEY5a2VMSkd6Tmh2M2F5Z0VLcHZYVGk5Q0lBOFk4eHNfVnF3Umpwb1VWMWEtMzhBV0kteV9Wa1ViVDhtTkxIYTBZNU1YbDRXSjU3WFpWT1A0NEUzb0w?oc=5\" target=\"_blank\">Bloq Quantum Partners With Sree Buddha College of Engineering to Establish a Quantum Technology Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "Bloq Quantum Partners With Sree Buddha College of Engineering to Establish a Quantum Technology Hub - The Quantum Insider",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemYxRGtsRTZLRzkxeDJLUkUxSjZFdjI0YTdFelp5Zy1TVzFTa013aHZjajVTNmhjSkllN19nSnkzbG5RNnBhTHRkY09mUkZQNlh0Znp5NEZTbFNNdjlRU1luV2p4VHFQWWdzbFFZV0ctbGxWTWVsNDRNT2k5QnJYbk5iWEY5a2VMSkd6Tmh2M2F5Z0VLcHZYVGk5Q0lBOFk4eHNfVnF3Umpwb1VWMWEtMzhBV0kteV9Wa1ViVDhtTkxIYTBZNU1YbDRXSjU3WFpWT1A0NEUzb0w?oc=5"
     },
     {
       "application_source": "Grants.gov",
@@ -168,7 +70,7 @@
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-08-19T07:00:00Z",
+      "published": "2026-08-11T07:00:00Z",
       "query": "quantum computing workshop students",
       "score": 10,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU5wUmhpSm01NFFxNWJzaUItbExqM3dIUWFRVGxEYlRBSG50ZlZxN0M4S0NqWWFvbXVwdHdZdDJpU2NOcjJfM0pSbDNVcU1WeUJ4WjQ2a3Q5WnVCYzhhUG1RV1dIbVVTWkZlZWxPU0NZOVZGV2tUTW1KTi1KTE1DdV9aenE1OGNuQk1lOGZlWmNZTTFqSU5qVTV5QU9JNUZKZko2b1ZvZVUyRTdQ?oc=5\" target=\"_blank\">Quantum Key Distribution Summer School</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Waterloo</font>",
@@ -177,20 +79,52 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU5wUmhpSm01NFFxNWJzaUItbExqM3dIUWFRVGxEYlRBSG50ZlZxN0M4S0NqWWFvbXVwdHdZdDJpU2NOcjJfM0pSbDNVcU1WeUJ4WjQ2a3Q5WnVCYzhhUG1RV1dIbVVTWkZlZWxPU0NZOVZGV2tUTW1KTi1KTE1DdV9aenE1OGNuQk1lOGZlWmNZTTFqSU5qVTV5QU9JNUZKZko2b1ZvZVUyRTdQ?oc=5"
     },
     {
-      "id": "0cd109dbd0d8aabc",
+      "id": "77e01c652cdd7f1c",
       "matched_keywords": [
-        "hackathon",
-        "challenge",
+        "workshop",
+        "quantum",
+        "quantum computing",
+        "quantum technology"
+      ],
+      "published": "2026-07-22T07:00:00Z",
+      "query": "quantum computing workshop students",
+      "score": 10,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaUtVN0s2NjNodDlvUU1IREljUC1qVFRmbjV5S0RhR0lnalpwSlpzVVlrMWFWc05EN1Y2ZGFlZzlabWFSMXdFQTdOeDJZVXBLVG5uSzNCVTVYQkVmVnR6bFU5Q0lVdjBhSFNfdFd2Y005bjZLa25KSlBoYXpPNXFjRzFNaV9pZFk3NVZENDNnQVVSOVQ1eFM2Ri1wZWNRRUFuNFBueno0SkPSAawBQVVfeXFMTWFfTUI0ZjNQaVZTRm10Rzgtc0FJVExmNlNIUVN1WWxybWVzSm1TLUMyT0VWLTlEZEVfODJRSVRxSzdERFZBZ1oycFVfV1dtZDlrLVFYWDBnZ29JYzE3Z0hQTWhxT0FNMllwdnVFR3lyZzNWR0tVLVVCNFVONGVWNC1Dc0NnQ3pnSnVKWXdMT0dOcDhTTnpWUThYMnd0WVVSYmRVUkxPbHJQdDdYdQ?oc=5\" target=\"_blank\">IIIT-Una hosts workshop to boost quantum technology awareness</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Tribune</font>",
+      "title": "IIIT-Una hosts workshop to boost quantum technology awareness - The Tribune",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaUtVN0s2NjNodDlvUU1IREljUC1qVFRmbjV5S0RhR0lnalpwSlpzVVlrMWFWc05EN1Y2ZGFlZzlabWFSMXdFQTdOeDJZVXBLVG5uSzNCVTVYQkVmVnR6bFU5Q0lVdjBhSFNfdFd2Y005bjZLa25KSlBoYXpPNXFjRzFNaV9pZFk3NVZENDNnQVVSOVQ1eFM2Ri1wZWNRRUFuNFBueno0SkPSAawBQVVfeXFMTWFfTUI0ZjNQaVZTRm10Rzgtc0FJVExmNlNIUVN1WWxybWVzSm1TLUMyT0VWLTlEZEVfODJRSVRxSzdERFZBZ1oycFVfV1dtZDlrLVFYWDBnZ29JYzE3Z0hQTWhxT0FNMllwdnVFR3lyZzNWR0tVLVVCNFVONGVWNC1Dc0NnQ3pnSnVKWXdMT0dOcDhTTnpWUThYMnd0WVVSYmRVUkxPbHJQdDdYdQ?oc=5"
+    },
+    {
+      "id": "baa7157d6e815148",
+      "matched_keywords": [
+        "internship",
+        "intern",
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-08-27T06:33:16Z",
-      "query": "quantum hackathon",
+      "published": "2026-07-31T07:00:00Z",
+      "query": "quantum computing internship",
       "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDZ6WVlqa2lHbXU2UkJmWGk0dHdNWWIyOXUtQ0lIZnplbUtySTVrTkxyUUlPS01BM085S25SRGhWOEMtWnFqS28yenNMRmtwVG9TaHhwQWV2MzdKQWxpRHdNSE9GdU5kODFpVHM4b1BKLUpOWmxkRDJzNVZUVnRKQmNWT0NNb1haNklMclh0cHN1VHhhQ2l1Q0dweks2cGJfTHFtZEUwQWlNd0h6d2JHX3pEMlJ5QXlKYllPcnRYX01HbTVfdlhNbGxpeWdhX3Z4ZTVlWEtIZ3I?oc=5\" target=\"_blank\">MegazoneCloud, KISTI co-host quantum computing hackathon to seek solutions to industry challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
-      "title": "MegazoneCloud, KISTI co-host quantum computing hackathon to seek solutions to industry challenges - 디지털투데이",
-      "type": "hackathons",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDZ6WVlqa2lHbXU2UkJmWGk0dHdNWWIyOXUtQ0lIZnplbUtySTVrTkxyUUlPS01BM085S25SRGhWOEMtWnFqS28yenNMRmtwVG9TaHhwQWV2MzdKQWxpRHdNSE9GdU5kODFpVHM4b1BKLUpOWmxkRDJzNVZUVnRKQmNWT0NNb1haNklMclh0cHN1VHhhQ2l1Q0dweks2cGJfTHFtZEUwQWlNd0h6d2JHX3pEMlJ5QXlKYllPcnRYX01HbTVfdlhNbGxpeWdhX3Z4ZTVlWEtIZ3I?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTBmSmttUWFfNXRuMlJrNF9MX2o3azVGYTVJLThaS0IwaVIybU1xdmRXNFZpYmJXRGs5RmRYVWJGeFZvQldmV1hfN3hHQWdnUkZKdjBLMXdUVHhvMmpoLVJjY0JvNTR5eVhSQUM1Ri1hUHM2cnBtRHFrWEVURUNWU3MwM0k4WEFISmZhdzVVNG1fQUxP0gGaAUFVX3lxTE9sUGxvS2xLR0VCYzhrRlpXWHc5UjBNUVFqVFpTN0RWeGZoanJSRzBsNUdlNjkyVUd1YmtOVkgzWTQyajhRN1hGZzhjc0pEUHlzZElGclU1ekVCaGNlaUpLU1dUNlpvNTV6V3FTVzJUaUFxRUJaWjZxaEFmWUw5N3V2OVVxWm4wS3Z6eDZPNzF2Q0hvNTRJWm5MVVE?oc=5\" target=\"_blank\">Indian Army opens applications for paid internship 2026-27</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Siasat Daily</font>",
+      "title": "Indian Army opens applications for paid internship 2026-27 - The Siasat Daily",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRTBmSmttUWFfNXRuMlJrNF9MX2o3azVGYTVJLThaS0IwaVIybU1xdmRXNFZpYmJXRGs5RmRYVWJGeFZvQldmV1hfN3hHQWdnUkZKdjBLMXdUVHhvMmpoLVJjY0JvNTR5eVhSQUM1Ri1hUHM2cnBtRHFrWEVURUNWU3MwM0k4WEFISmZhdzVVNG1fQUxP0gGaAUFVX3lxTE9sUGxvS2xLR0VCYzhrRlpXWHc5UjBNUVFqVFpTN0RWeGZoanJSRzBsNUdlNjkyVUd1YmtOVkgzWTQyajhRN1hGZzhjc0pEUHlzZElGclU1ekVCaGNlaUpLU1dUNlpvNTV6V3FTVzJUaUFxRUJaWjZxaEFmWUw5N3V2OVVxWm4wS3Z6eDZPNzF2Q0hvNTRJWm5MVVE?oc=5"
+    },
+    {
+      "id": "a7ae1c562a1e8b85",
+      "matched_keywords": [
+        "internship",
+        "intern",
+        "quantum",
+        "quantum technology"
+      ],
+      "published": "2026-07-24T07:00:00Z",
+      "query": "quantum internship",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemYxRGtsRTZLRzkxeDJLUkUxSjZFdjI0YTdFelp5Zy1TVzFTa013aHZjajVTNmhjSkllN19nSnkzbG5RNnBhTHRkY09mUkZQNlh0Znp5NEZTbFNNdjlRU1luV2p4VHFQWWdzbFFZV0ctbGxWTWVsNDRNT2k5QnJYbk5iWEY5a2VMSkd6Tmh2M2F5Z0VLcHZYVGk5Q0lBOFk4eHNfVnF3Umpwb1VWMWEtMzhBV0kteV9Wa1ViVDhtTkxIYTBZNU1YbDRXSjU3WFpWT1A0NEUzb0w?oc=5\" target=\"_blank\">Bloq Quantum Partners With Sree Buddha College of Engineering to Establish a Quantum Technology Hub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "Bloq Quantum Partners With Sree Buddha College of Engineering to Establish a Quantum Technology Hub - The Quantum Insider",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQemYxRGtsRTZLRzkxeDJLUkUxSjZFdjI0YTdFelp5Zy1TVzFTa013aHZjajVTNmhjSkllN19nSnkzbG5RNnBhTHRkY09mUkZQNlh0Znp5NEZTbFNNdjlRU1luV2p4VHFQWWdzbFFZV0ctbGxWTWVsNDRNT2k5QnJYbk5iWEY5a2VMSkd6Tmh2M2F5Z0VLcHZYVGk5Q0lBOFk4eHNfVnF3Umpwb1VWMWEtMzhBV0kteV9Wa1ViVDhtTkxIYTBZNU1YbDRXSjU3WFpWT1A0NEUzb0w?oc=5"
     },
     {
       "id": "ea0d4ec785642fdd",
@@ -360,7 +294,7 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVlsYXhDdUtSSFpJQ0VHVTNsTl9UWjUxZWpzaVV2X3BydWtGVjdWckRzNUdUdE1HTGlwNTVLOVZtNHJta2ZJbVFudEhLU29maHVLR0xhajBmZnczMDRoYWpUNzBKM3MtVFVxY19HYlRjMkxvX0hJZEp1MjZmOGJwUFdmWXEwZFRkRlctS1RqRTJWMkR0OU9lUnZsdmxLWEJYSWo4WmFPOWpZaHUxYmhxX2RPbmNNSl9MeEV3WlM3b0cyby1yQ1VVMw?oc=5"
     },
     {
-      "id": "9472b90d17df0878",
+      "id": "5887d466dce0d3b8",
       "matched_keywords": [
         "summer school",
         "summer camp",
@@ -369,8 +303,8 @@
       "published": "2026-07-24T07:00:00Z",
       "query": "quantum summer school",
       "score": 8,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9uUVRxRC1ZYUNfTGY5QUhDQmpPZURpT1FZYi1LclFYMnZRcks2S1NmeEFya3U4a3l3VkQ5QWF1U3NGMVQ3VFMxQ2lGcHAtaERqaG5mQVJUUVVSWS1pSGppd3JMRXM3NHFFeDE5ZlNWRQ?oc=5\" target=\"_blank\">Quantum Summer Camp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Calabria Straordinaria</font>",
-      "title": "Quantum Summer Camp - Calabria Straordinaria",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9uUVRxRC1ZYUNfTGY5QUhDQmpPZURpT1FZYi1LclFYMnZRcks2S1NmeEFya3U4a3l3VkQ5QWF1U3NGMVQ3VFMxQ2lGcHAtaERqaG5mQVJUUVVSWS1pSGppd3JMRXM3NHFFeDE5ZlNWRQ?oc=5\" target=\"_blank\">Quantum Summer Camp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">calabriastraordinaria.it</font>",
+      "title": "Quantum Summer Camp - calabriastraordinaria.it",
       "type": "summer_programs",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uUVRxRC1ZYUNfTGY5QUhDQmpPZURpT1FZYi1LclFYMnZRcks2S1NmeEFya3U4a3l3VkQ5QWF1U3NGMVQ3VFMxQ2lGcHAtaERqaG5mQVJUUVVSWS1pSGppd3JMRXM3NHFFeDE5ZlNWRQ?oc=5"
     },
@@ -397,6 +331,66 @@
       "title": "Topology",
       "type": "grants",
       "url": "https://www.grants.gov/search-results-detail/340544"
+    },
+    {
+      "id": "5c768a23c894fc43",
+      "matched_keywords": [
+        "fellowship",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-09-01T23:21:53Z",
+      "query": "quantum fellowship",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX254bnEwT3ppRHJRbnN5NTJvQ3VyZDM4S1V2X3QyNEN4MlJtWU42Q1VfZnVMWGs3eEZUUzhqalVEczAzNHpMN0ZvbkVuY3dpZThxcGw1RnJKdC01WlBZX1JqaEVfYnpHQTdYOU9jWEVaMEhuTEF1eE1EM0NwUWYzdXpjUEo0cTFOS0RfRkNYaXY0dWJPWVVxd0hra2t4b3FjSE5TZUVkTmVjUDhGRXhRU3VIQmpSUV83TlhnYV8xWGJQUWc3UXUtQmd3b1RwcTRrZnfSAdIBQVVfeXFMTV9ueG5xME96aURyUW5zeTUyb0N1cmQzOEtVdl90MjRDeDJSbVlONkNVX2Z1TFhrN3hGVFM4ampVRHMwMzR6TDdGb25FbmN3aWU4cXBsNUZySnQtNVpQWV9SamhFX2J6R0E3WDlPY1hFWjBIbkxBdXhNRDNDcFFmM3V6Y1BKNHExTktEX0ZDWGl2NHViT1lVcXdIa2treG9xY0hOU2VFZE5lY1A4RkV4UVN1SEJqUlFfN05YZ2FfMVhiUFFnN1F1LUJnd29UcHE0a2Z3?oc=5\" target=\"_blank\">MIT Quantum Initiative Launches Gordon and Betty Moore Foundation-Backed Postdoctoral Fellowship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "MIT Quantum Initiative Launches Gordon and Betty Moore Foundation-Backed Postdoctoral Fellowship - Quantum Computing Report",
+      "type": "fellowships",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX254bnEwT3ppRHJRbnN5NTJvQ3VyZDM4S1V2X3QyNEN4MlJtWU42Q1VfZnVMWGs3eEZUUzhqalVEczAzNHpMN0ZvbkVuY3dpZThxcGw1RnJKdC01WlBZX1JqaEVfYnpHQTdYOU9jWEVaMEhuTEF1eE1EM0NwUWYzdXpjUEo0cTFOS0RfRkNYaXY0dWJPWVVxd0hra2t4b3FjSE5TZUVkTmVjUDhGRXhRU3VIQmpSUV83TlhnYV8xWGJQUWc3UXUtQmd3b1RwcTRrZnfSAdIBQVVfeXFMTV9ueG5xME96aURyUW5zeTUyb0N1cmQzOEtVdl90MjRDeDJSbVlONkNVX2Z1TFhrN3hGVFM4ampVRHMwMzR6TDdGb25FbmN3aWU4cXBsNUZySnQtNVpQWV9SamhFX2J6R0E3WDlPY1hFWjBIbkxBdXhNRDNDcFFmM3V6Y1BKNHExTktEX0ZDWGl2NHViT1lVcXdIa2treG9xY0hOU2VFZE5lY1A4RkV4UVN1SEJqUlFfN05YZ2FfMVhiUFFnN1F1LUJnd29UcHE0a2Z3?oc=5"
+    },
+    {
+      "id": "ec4d2b5c3a1ee076",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-29T00:50:00Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQNXV4NmxTblUxR0pPZW56a3duaW04ODlqeDgwSXZuMy10NEpGR0MxamQ5NWVuc05Pd0VCUGh5aThsNWVob3I0dVlBMVhYNHlULWJNNzJ3RUJMbWJYNUY1SEVlMGVXblh3SUtCUW5wUTZfU1ViN0tyTnViT3lGWjNyeUlpSVA2Y0dfcXJRZjRBeFVlVGRieEgtejljRFR0SnNxN1pJYV9Fa3dxeGRmT2gw0gGvAUFVX3lxTFA1dXg2bFNuVTFHSk9lbnprd25pbTg4OWp4ODBJdm4zLXQ0SkZHQzFqZDk1ZW5zTk93RUJQaHlpOGw1ZWhvcjR1WUExWFg0eVQtYk03MndFQkxtYlg1RjVIRWUwZVduWHdJS0JRbnBRNl9TVWI3S3JOdWJPeUZaM3J5SWlJUDZjR19xclFmNEF4VWVUZGJ4SC16OWNEVHRKc3E3WklhX0Vrd3F4ZGZPaDA?oc=5\" target=\"_blank\">Open Source, Big Ideas: Scientific Computing Community Heading to Georgia Tech | Newswise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Newswise</font>",
+      "title": "Open Source, Big Ideas: Scientific Computing Community Heading to Georgia Tech | Newswise - Newswise",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNXV4NmxTblUxR0pPZW56a3duaW04ODlqeDgwSXZuMy10NEpGR0MxamQ5NWVuc05Pd0VCUGh5aThsNWVob3I0dVlBMVhYNHlULWJNNzJ3RUJMbWJYNUY1SEVlMGVXblh3SUtCUW5wUTZfU1ViN0tyTnViT3lGWjNyeUlpSVA2Y0dfcXJRZjRBeFVlVGRieEgtejljRFR0SnNxN1pJYV9Fa3dxeGRmT2gw0gGvAUFVX3lxTFA1dXg2bFNuVTFHSk9lbnprd25pbTg4OWp4ODBJdm4zLXQ0SkZHQzFqZDk1ZW5zTk93RUJQaHlpOGw1ZWhvcjR1WUExWFg0eVQtYk03MndFQkxtYlg1RjVIRWUwZVduWHdJS0JRbnBRNl9TVWI3S3JOdWJPeUZaM3J5SWlJUDZjR19xclFmNEF4VWVUZGJ4SC16OWNEVHRKc3E3WklhX0Vrd3F4ZGZPaDA?oc=5"
+    },
+    {
+      "id": "419e645b71af2bb1",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-28T07:00:00Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQl9KMlI1ZUwwUmZTc0djdWRxMU1ZUDlaR1U5UHFhbHowRC04QjJFOHRrTDB2clA3N0NSQWRWZjIwc1hhUF9EU1hOVmhVVDUzOEoxNndsckswQnl1Yk12cQ?oc=5\" target=\"_blank\">IEEE Quantum Week 2026, Essential Toronto Event, Register Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "IEEE Quantum Week 2026, Essential Toronto Event, Register Now - Quantum Zeitgeist",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQl9KMlI1ZUwwUmZTc0djdWRxMU1ZUDlaR1U5UHFhbHowRC04QjJFOHRrTDB2clA3N0NSQWRWZjIwc1hhUF9EU1hOVmhVVDUzOEoxNndsckswQnl1Yk12cQ?oc=5"
+    },
+    {
+      "id": "7c44b6fde5716e2a",
+      "matched_keywords": [
+        "hackathon",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-27T07:32:03Z",
+      "query": "quantum hackathon",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LekhGcUQycUQyaVF0NlVnTUhQYk5UUDVlUUtOZm0xZjNUNzFNbm1NSmdGUjJjVXBlUk03MlphUXZaMzV5ZmYzWVI2TEFBa0VzcVVPQ0h3SlA5enFpNGFmUU50bUY?oc=5\" target=\"_blank\">Megazone Cloud and KISTI Identify Catalyst Calculation Errors Using Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">아시아경제</font>",
+      "title": "Megazone Cloud and KISTI Identify Catalyst Calculation Errors Using Quantum Computing - 아시아경제",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LekhGcUQycUQyaVF0NlVnTUhQYk5UUDVlUUtOZm0xZjNUNzFNbm1NSmdGUjJjVXBlUk03MlphUXZaMzV5ZmYzWVI2TEFBa0VzcVVPQ0h3SlA5enFpNGFmUU50bUY?oc=5"
     }
   ]
 }
