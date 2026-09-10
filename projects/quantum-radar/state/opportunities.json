@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-07T13:37:25Z",
+  "generated_at": "2026-09-10T13:35:47Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
-        "Independent school districts",
-        "Private institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Individuals",
-        "For profit organizations other than small businesses",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Small businesses",
-        "Public and State controlled institutions of higher education"
+        "Private institutions of higher education",
+        "Independent school districts",
+        "Individuals",
+        "Public and State controlled institutions of higher education",
+        "For profit organizations other than small businesses"
       ],
       "grant_disposition": "actionable",
       "id": "1a7530639af44b85",
@@ -36,6 +36,37 @@
       "title": "LPS Qubit Collaboratory (LQC)",
       "type": "grants",
       "url": "https://www.grants.gov/search-results-detail/332894"
+    },
+    {
+      "application_source": "Grants.gov",
+      "deadline": "2026-12-04",
+      "eligibility": [
+        "Public and State controlled institutions of higher education",
+        "For profit organizations other than small businesses",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+      ],
+      "grant_disposition": "actionable",
+      "id": "c1c2bc0b077c471d",
+      "matched_keywords": [
+        "grant",
+        "funding",
+        "proposal",
+        "intern",
+        "challenge",
+        "competition",
+        "quantum"
+      ],
+      "opportunity_number": "FA955026S0003",
+      "organization": "Air Force Office of Scientific Research",
+      "published": "",
+      "query": "quantum information science",
+      "score": 14,
+      "summary": "<p>This is a special Notice of Funding Opportunity Announcement (NOFO) sponsored by the Air Force Office of Scientific Research (AFOSR), which will hereafter generally be referred to as “we”, “us”, “our”, or “AFOSR.” The Fiscal Year 2027 Air Force Young Investigator Research Program (YIP) intends to support individual early career scientists and engineers who have received their Ph.D. or equivalent degrees by 01 April 2019 or later showing exceptional ability and promise for conducting basic research. The program objective is to foster creative basic research in science and engineering; enhance early career development of outstanding young investigators; and increase opportunities for the young investigators to recognize the Air Force and Space Force mission and related challenges in science and engineering.</p>\n<p>Individual awards are made to U.S. institutions of higher education, industrial laboratories, for- profit, or non-profit research organizations where the principal investigator (PI) is employed on a full-time basis and holds a regular, non-contractor position. A YIP PI must be a U.S. citizen, national, or permanent resident. Researchers working at a Federally Funded Research and Development Center (FFRDC), or a Department of War (DoW) Laboratory are not eligible for this competition.</p>\n<p>YIP awards are funded up to $150,000 per year for three years, for a total of $450,000. No single year may exceed $150,000. Please review the remainder of this announcement for additional information.</p>\n<p>Under this competition, an anticipated thirty-seven (37) traditionally funded YIPs and three (3) YIPs funded in partnership with the Laboratory for Physical Sciences (LPS) in the Quantum Information Sciences research discipline may be awarded. There may be potential for an additional 37 YIPs funded from other AFOSR research funding.&nbsp;All actions are based on the availability of funds.</p>\n<p>Proposers are encouraged to confer with the designated AFOSR Program Officer(s) prior to submitting a full proposal. We will evaluate proposals using an internal review panel. AFOSR reserves the right to select and fund all, some, or none of the proposals from any of the topics below. AFOSR provides no funding for direct reimbursement of proposal development costs. Technical and budget proposals (or any other material) submitted in response to this NOFO will not be returned. It is the policy of AFOSR to treat all white papers and proposals submitted under this NOFO as sensitive competitive information and to disclose their contents only for the purposes of evaluation.</p>\n<p><strong>White papers briefly summarizing the proposed institution’s ideas are required</strong>. Submit white papers to our whitepaper portal, which is linked below. The topic points of contact (POCs) will coordinate to provide feedback on the white papers.</p>\n<p>The proposals will need to include a data management plan, outlining how samples and data collected in the program will be stored and managed. This includes but is not restricted to issues such as standards for data and metadata collection, content and format, data archiving, database management, and data sharing within, outside the awardee and beyond the lifetime of the grant. This precondition is modeled on the National Science Foundation Data Management Plan requirement (e.g., https://www.nsf.gov/eng/data-management-plans).</p>\n<p>IMPORTANT NOTE: Applicants should be alert for any amendments that may modify the announcement. Amendments to the original Notice of Funding Opportunity (NOFO) will be posted to the Grants.gov Webpage: https://www.grants.gov/.</p>\n<p>IMPORTANT DATES: Pre-proposal inquiries and questions, regarding white papers and the submission of those white papers, must be received in writing by electronic mail to the address(es) of this NOFO not later than <strong>17 September 2026</strong> at 11:59 PM Eastern Time to be considered. The Government will respond to any pre-proposal inquiries or questions via public posting, or individual responses, no later than COB on <strong>24 September 2026.</strong></p>\n<p>Whitepapers must be received by <strong>09 October 2026</strong> at 11:59 PM Eastern Time via submission to <a href=\"https://afosr.gov1.qualtrics.com/jfe/form/SV_eKuTqm9qezoDYep\" target=\"_blank\">https://afosr.gov1.qualtrics.com/jfe/form/SV_eKuTqm9qezoDYep</a> to be considered. White paper evaluation is meant to initially assess the capability of a proposed effort. White papers must be no more than five (5) pages in length. References and CV/bios will not count against the page limit. Please review this announcement in its entirety prior to submitting a white paper.</p>\n<p>The government will respond to the white paper determination before COB on <strong>06 November 2026</strong>.</p>\n<p>Proposals must be received electronically through Grants.gov by <strong>04 December 2026 </strong>at 11:59 PM Eastern Time to be considered.</p>\n<p>We anticipate that we will notify proposers of selection or non-selection for award no later than <strong>26 April 2027</strong>. We anticipate awards to be made by <strong>01 May 2027</strong>, barring delays.&nbsp;</p>\n<p><br></p>",
+      "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
+      "type": "grants",
+      "url": "https://www.grants.gov/search-results-detail/363829"
     },
     {
       "application_source": "Grants.gov",
@@ -63,7 +94,7 @@
       "url": "https://www.grants.gov/search-results-detail/352741"
     },
     {
-      "id": "3710a40e8bc1477f",
+      "id": "4789578113c6106e",
       "matched_keywords": [
         "summer school",
         "workshop",
@@ -73,8 +104,8 @@
       "published": "2026-08-11T07:00:00Z",
       "query": "quantum computing workshop students",
       "score": 10,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU5wUmhpSm01NFFxNWJzaUItbExqM3dIUWFRVGxEYlRBSG50ZlZxN0M4S0NqWWFvbXVwdHdZdDJpU2NOcjJfM0pSbDNVcU1WeUJ4WjQ2a3Q5WnVCYzhhUG1RV1dIbVVTWkZlZWxPU0NZOVZGV2tUTW1KTi1KTE1DdV9aenE1OGNuQk1lOGZlWmNZTTFqSU5qVTV5QU9JNUZKZko2b1ZvZVUyRTdQ?oc=5\" target=\"_blank\">Quantum Key Distribution Summer School</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Waterloo</font>",
-      "title": "Quantum Key Distribution Summer School - University of Waterloo",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU5wUmhpSm01NFFxNWJzaUItbExqM3dIUWFRVGxEYlRBSG50ZlZxN0M4S0NqWWFvbXVwdHdZdDJpU2NOcjJfM0pSbDNVcU1WeUJ4WjQ2a3Q5WnVCYzhhUG1RV1dIbVVTWkZlZWxPU0NZOVZGV2tUTW1KTi1KTE1DdV9aenE1OGNuQk1lOGZlWmNZTTFqSU5qVTV5QU9JNUZKZko2b1ZvZVUyRTdQ?oc=5\" target=\"_blank\">Quantum Key Distribution Summer School</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uwaterloo.ca</font>",
+      "title": "Quantum Key Distribution Summer School - uwaterloo.ca",
       "type": "summer_programs",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU5wUmhpSm01NFFxNWJzaUItbExqM3dIUWFRVGxEYlRBSG50ZlZxN0M4S0NqWWFvbXVwdHdZdDJpU2NOcjJfM0pSbDNVcU1WeUJ4WjQ2a3Q5WnVCYzhhUG1RV1dIbVVTWkZlZWxPU0NZOVZGV2tUTW1KTi1KTE1DdV9aenE1OGNuQk1lOGZlWmNZTTFqSU5qVTV5QU9JNUZKZko2b1ZvZVUyRTdQ?oc=5"
     },
@@ -95,20 +126,36 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDZ6WVlqa2lHbXU2UkJmWGk0dHdNWWIyOXUtQ0lIZnplbUtySTVrTkxyUUlPS01BM085S25SRGhWOEMtWnFqS28yenNMRmtwVG9TaHhwQWV2MzdKQWxpRHdNSE9GdU5kODFpVHM4b1BKLUpOWmxkRDJzNVZUVnRKQmNWT0NNb1haNklMclh0cHN1VHhhQ2l1Q0dweks2cGJfTHFtZEUwQWlNd0h6d2JHX3pEMlJ5QXlKYllPcnRYX01HbTVfdlhNbGxpeWdhX3Z4ZTVlWEtIZ3I?oc=5"
     },
     {
-      "id": "ea0d4ec785642fdd",
+      "id": "10bf157a40436f6d",
       "matched_keywords": [
+        "internship",
         "intern",
-        "hackathon",
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-07-24T07:00:00Z",
-      "query": "quantum hackathon",
+      "published": "2026-08-08T07:00:00Z",
+      "query": "quantum computing internship",
       "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPREZCcFJlcV82SGJVYkNyQ2xocjZBVjdYU0k5bGh3Tk43S1JQMldreENuMDZiX0RrWThaLUllVHJaMXdyQklfMkttdEQ5dWM1TEREd1lGYVVmNlo5ZVR4THhNb3czdlAxdXRTaDhVZHB2SnczY3I1eExjQXhnMF83emlKcmtMNGNHQU80TmVVOThvTmJmdlZHOTVUTVZDdldiaC1nLXJ0azNYZ1V5?oc=5\" target=\"_blank\">International Quantum Computing Hackathon kicks off in Việt Nam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">vietnamnews.vn</font>",
-      "title": "International Quantum Computing Hackathon kicks off in Việt Nam - vietnamnews.vn",
-      "type": "internships",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPREZCcFJlcV82SGJVYkNyQ2xocjZBVjdYU0k5bGh3Tk43S1JQMldreENuMDZiX0RrWThaLUllVHJaMXdyQklfMkttdEQ5dWM1TEREd1lGYVVmNlo5ZVR4THhNb3czdlAxdXRTaDhVZHB2SnczY3I1eExjQXhnMF83emlKcmtMNGNHQU80TmVVOThvTmJmdlZHOTVUTVZDdldiaC1nLXJ0azNYZ1V5?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBWT05tOFpndEV2ZVF6eXdVTTJmaC00emlnMFNCX0tqc3lvXzNfNGJTVjdwczd3UjJvbzN2ME5EQUtQVHBmWG9rSW52V1BiWEpqN1NuMnhyeWpWWnFuU05Nb3Z5WjlieFgyTXBJT3hpVjlOenlnVFE5alNSWQ?oc=5\" target=\"_blank\">UChicago Student Builds Quantum Skills At PsiQuantum This Summer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "UChicago Student Builds Quantum Skills At PsiQuantum This Summer - Quantum Zeitgeist",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWT05tOFpndEV2ZVF6eXdVTTJmaC00emlnMFNCX0tqc3lvXzNfNGJTVjdwczd3UjJvbzN2ME5EQUtQVHBmWG9rSW52V1BiWEpqN1NuMnhyeWpWWnFuU05Nb3Z5WjlieFgyTXBJT3hpVjlOenlnVFE5alNSWQ?oc=5"
+    },
+    {
+      "id": "46f69fcd80374900",
+      "matched_keywords": [
+        "internship",
+        "intern",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-04T07:00:00Z",
+      "query": "quantum computing internship",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVVQSHRWMVBYbFhsSXo4MzA3bi1Mc3hmWFY2S2FEYkx0eVFWLXBwVVVyMVJ2NDFXZUVBOFVFUHZvRmRiMzlsQVJWMzlJblFtU2dMYktYV29ZTWxaLURCVHdTRF9qY01faE02bXNTOHZ1S2p5R2dOTEMzS1NVdGFFZ2I0VQ?oc=5\" target=\"_blank\">The University of Oregon launches new master’s track bypassing PhD for quantum hardware jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "The University of Oregon launches new master’s track bypassing PhD for quantum hardware jobs - Quantum Zeitgeist",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVVQSHRWMVBYbFhsSXo4MzA3bi1Mc3hmWFY2S2FEYkx0eVFWLXBwVVVyMVJ2NDFXZUVBOFVFUHZvRmRiMzlsQVJWMzlJblFtU2dMYktYV29ZTWxaLURCVHdTRF9qY01faE02bXNTOHZ1S2p5R2dOTEMzS1NVdGFFZ2I0VQ?oc=5"
     },
     {
       "application_source": "Grants.gov",
@@ -231,6 +278,21 @@
       "url": "https://www.grants.gov/search-results-detail/346204"
     },
     {
+      "id": "be203f4de4628dc2",
+      "matched_keywords": [
+        "summer camp",
+        "quantum",
+        "quantum technology"
+      ],
+      "published": "2026-09-10T12:21:07Z",
+      "query": "quantum summer camp",
+      "score": 8,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPXzhYQURIY2I0ZTJKVHJuMlo3dV9sVEZnLWxRX2lzamFUejExTlRncHJvTFpqQkFTOTVmMzUwaWtSOExlbENwbjBaOXlsT2UtM0g0Y0dzaFM0Q3M5M3c1WFBnQ3RVaVRqWHZjX2p6ektFeHR0MWhKaTdNYzVXQjV4MnZnbjFLQXJuSGI3b2dRdVlKUUpmc3RZREF0eUZoYUxKMzJR?oc=5\" target=\"_blank\">Cal State East Bay Opens Pathways to Careers in Quantum Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "Cal State East Bay Opens Pathways to Careers in Quantum Technology - The Quantum Insider",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPXzhYQURIY2I0ZTJKVHJuMlo3dV9sVEZnLWxRX2lzamFUejExTlRncHJvTFpqQkFTOTVmMzUwaWtSOExlbENwbjBaOXlsT2UtM0g0Y0dzaFM0Q3M5M3c1WFBnQ3RVaVRqWHZjX2p6ektFeHR0MWhKaTdNYzVXQjV4MnZnbjFLQXJuSGI3b2dRdVlKUUpmc3RZREF0eUZoYUxKMzJR?oc=5"
+    },
+    {
       "id": "219732b192165ca5",
       "matched_keywords": [
         "summer school",
@@ -246,43 +308,19 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVlsYXhDdUtSSFpJQ0VHVTNsTl9UWjUxZWpzaVV2X3BydWtGVjdWckRzNUdUdE1HTGlwNTVLOVZtNHJta2ZJbVFudEhLU29maHVLR0xhajBmZnczMDRoYWpUNzBKM3MtVFVxY19HYlRjMkxvX0hJZEp1MjZmOGJwUFdmWXEwZFRkRlctS1RqRTJWMkR0OU9lUnZsdmxLWEJYSWo4WmFPOWpZaHUxYmhxX2RPbmNNSl9MeEV3WlM3b0cyby1yQ1VVMw?oc=5"
     },
     {
-      "id": "9472b90d17df0878",
+      "id": "3d0932164252f015",
       "matched_keywords": [
-        "summer school",
-        "summer camp",
-        "quantum"
-      ],
-      "published": "2026-07-24T07:00:00Z",
-      "query": "quantum summer school",
-      "score": 8,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9uUVRxRC1ZYUNfTGY5QUhDQmpPZURpT1FZYi1LclFYMnZRcks2S1NmeEFya3U4a3l3VkQ5QWF1U3NGMVQ3VFMxQ2lGcHAtaERqaG5mQVJUUVVSWS1pSGppd3JMRXM3NHFFeDE5ZlNWRQ?oc=5\" target=\"_blank\">Quantum Summer Camp</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Calabria Straordinaria</font>",
-      "title": "Quantum Summer Camp - Calabria Straordinaria",
-      "type": "summer_programs",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uUVRxRC1ZYUNfTGY5QUhDQmpPZURpT1FZYi1LclFYMnZRcks2S1NmeEFya3U4a3l3VkQ5QWF1U3NGMVQ3VFMxQ2lGcHAtaERqaG5mQVJUUVVSWS1pSGppd3JMRXM3NHFFeDE5ZlNWRQ?oc=5"
-    },
-    {
-      "application_source": "Grants.gov",
-      "deadline": "2026-11-03",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "grant_disposition": "actionable",
-      "id": "cb3dc3e44ab474ff",
-      "matched_keywords": [
-        "proposal",
-        "intern",
         "workshop",
-        "quantum"
+        "quantum",
+        "quantum computing"
       ],
-      "opportunity_number": "PD-22-1267",
-      "organization": "U.S. National Science Foundation",
-      "published": "",
-      "query": "quantum information science",
-      "score": 8,
-      "summary": "The Topology program supports research on algebraic topology, including chromatic, equivariant, motivic, and (un)stable homotopy, homology and cohomology theories; bordism and K-theory; topological manifolds; knots and links; geometric topology; differential topology; transformation groups; topological quantum field theories; contact and symplectic structures; infinity and model categories; and topological data analysis.\n\n\nConferences\n\n\nTopology proposals for conferences, workshops, summer/winter schools, and similar activities must be submitted to PD 22-1267 using the \"Conference\" or &ldquo;Travel&rdquo; proposal type in research.gov.\n\n\nThe program&rsquo;ssubmission windows for conference/travel proposalsare September 1-30 and April 1-30. Proposals with budgets not exceeding $50,000 should be submitted during a submission window that occursat least six months prior to the event. Proposals with budget requests that exceed $50,000 should be submitted during a submission window that occursat least eight months prior to the event.\n\n\nPrincipal Investigators should carefully read the relevant sections of the PAPPG to obtain important information regarding the substance of such proposals and note the additional requirements for travel support requests for international events.",
-      "title": "Topology",
-      "type": "grants",
-      "url": "https://www.grants.gov/search-results-detail/340544"
+      "published": "2026-09-06T15:39:28Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IVThzVWk1aW1LdGFNVThNMzBYZGJpRnlsT1BVYkhRc2pSd25tMFZiekFHS0dScVpMSGtSWkEzMzlHSDB2YXIxLTRJTVBqY3dDQVBnbHY0ckF6dknSAWBBVV95cUxQSk5ielVqblBZVkJOakJmSExSQjVWMFdJSkpETlpBYS0yQkp6cUU2ZGNyTi1rUjZuX2tXMmZWQXRaRlFoRXZIaXRhMlJidk9ESEJaYzM0d2ZpTzFuTHhVbWo?oc=5\" target=\"_blank\">Conferences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "Conferences - Quantum Computing Report",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IVThzVWk1aW1LdGFNVThNMzBYZGJpRnlsT1BVYkhRc2pSd25tMFZiekFHS0dScVpMSGtSWkEzMzlHSDB2YXIxLTRJTVBqY3dDQVBnbHY0ckF6dknSAWBBVV95cUxQSk5ielVqblBZVkJOakJmSExSQjVWMFdJSkpETlpBYS0yQkp6cUU2ZGNyTi1rUjZuX2tXMmZWQXRaRlFoRXZIaXRhMlJidk9ESEJaYzM0d2ZpTzFuTHhVbWo?oc=5"
     },
     {
       "id": "b6656687604f89b5",
@@ -291,7 +329,7 @@
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-09-01T23:21:56Z",
+      "published": "2026-09-01T07:00:00Z",
       "query": "quantum fellowship",
       "score": 7,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQTExXU0RMVXQwYW12eTF4UjhYNGdOZ25tenhlTWF6c0NhWE5wZDRyS1JVMnB2ckNUdlZ2bEUwSzJyUml6b19aTVNEWXhFa0RMX3Y1Y05HSUR6S2w2Rm12RkNkd1JaNHE4WnFhclAxa045aUxqdXU0a0FMc1p6U1dRR0JXMlVKdG50c3I3RWFzeWdrMDloTHVFME1jMjJKMmNSV2k1ZTBlWmhfR0xtUXY1eTJjbUFUN19SMFUyMlc5cDlJUEplVDlrUzhlSErSAdIBQVVfeXFMTV9ueG5xME96aURyUW5zeTUyb0N1cmQzOEtVdl90MjRDeDJSbVlONkNVX2Z1TFhrN3hGVFM4ampVRHMwMzR6TDdGb25FbmN3aWU4cXBsNUZySnQtNVpQWV9SamhFX2J6R0E3WDlPY1hFWjBIbkxBdXhNRDNDcFFmM3V6Y1BKNHExTktEX0ZDWGl2NHViT1lVcXdIa2treG9xY0hOU2VFZE5lY1A4RkV4UVN1SEJqUlFfN05YZ2FfMVhiUFFnN1F1LUJnd29UcHE0a2Z3?oc=5\" target=\"_blank\">MIT Quantum Initiative Launches Gordon and Betty Moore Foundation-Backed Postdoctoral Fellowship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
@@ -306,13 +344,28 @@
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-08-30T09:48:10Z",
+      "published": "2026-08-30T07:00:00Z",
       "query": "quantum hackathon",
       "score": 7,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeFNHc2stczFiX3FzV2lzcllFRWI1Z2Rzc05DRHo0eEtKOWRWZ0FyOWNFdGdOamR6RkdPVU1sX3EtUHFrODhmMUt5NXVnTndYWElHejFfUUV3ZUk0X05yZjhnWWtzTDJXQzV5cjJubEp5eGdXWmU0?oc=5\" target=\"_blank\">National Taiwan U & IBM Hosted A Quantum Computing Hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
       "title": "National Taiwan U & IBM Hosted A Quantum Computing Hackathon - Quantum Zeitgeist",
       "type": "hackathons",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeFNHc2stczFiX3FzV2lzcllFRWI1Z2Rzc05DRHo0eEtKOWRWZ0FyOWNFdGdOamR6RkdPVU1sX3EtUHFrODhmMUt5NXVnTndYWElHejFfUUV3ZUk0X05yZjhnWWtzTDJXQzV5cjJubEp5eGdXWmU0?oc=5"
+    },
+    {
+      "id": "419e645b71af2bb1",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-28T07:00:00Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQl9KMlI1ZUwwUmZTc0djdWRxMU1ZUDlaR1U5UHFhbHowRC04QjJFOHRrTDB2clA3N0NSQWRWZjIwc1hhUF9EU1hOVmhVVDUzOEoxNndsckswQnl1Yk12cQ?oc=5\" target=\"_blank\">IEEE Quantum Week 2026, Essential Toronto Event, Register Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "IEEE Quantum Week 2026, Essential Toronto Event, Register Now - Quantum Zeitgeist",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQl9KMlI1ZUwwUmZTc0djdWRxMU1ZUDlaR1U5UHFhbHowRC04QjJFOHRrTDB2clA3N0NSQWRWZjIwc1hhUF9EU1hOVmhVVDUzOEoxNndsckswQnl1Yk12cQ?oc=5"
     },
     {
       "id": "286f2447b744425d",
@@ -336,58 +389,13 @@
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-08-27T06:57:27Z",
+      "published": "2026-08-27T07:00:00Z",
       "query": "quantum hackathon",
       "score": 7,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JMkpCUEY1NEgtODhxbU5JQ0UwSUNSSmZEWU9LZ0lYS213Sjh4amF4UmE0bUVrY1AtOV9XNFdUVUNVU1dMbUxqY3Njcw?oc=5\" target=\"_blank\">In the quantum computing hackathon co-hosted by Mega Zone Cloud and the Korea Institute of Science a..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mk.co.kr</font>",
       "title": "In the quantum computing hackathon co-hosted by Mega Zone Cloud and the Korea Institute of Science a.. - mk.co.kr",
       "type": "hackathons",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JMkpCUEY1NEgtODhxbU5JQ0UwSUNSSmZEWU9LZ0lYS213Sjh4amF4UmE0bUVrY1AtOV9XNFdUVUNVU1dMbUxqY3Njcw?oc=5"
-    },
-    {
-      "id": "dced22fcb4919a5a",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-18T07:00:00Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzA1eVJxWThpajVaMWdyNC1XenRUS0lJbHlfOEdmNE1Pak1va1VITkJuVVJXQ005RHI5OWVuN19Pa0FkQ1NvUGxYc0VTM0tHYXhwZncycTNsaVFhczYyc29qbTE4S1ByN0FDLUF1NTZac3hIWURmNUtySTVMcldJM0pkSVowY1RVNDRYVTNXbE5WU2NvaC1IYUgtb3EwMzhVemlDSmpRWHFKU2xDeDBWZWdvNA?oc=5\" target=\"_blank\">IIT Alumni Centre Bengaluru to host workshop on quantum tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>",
-      "title": "IIT Alumni Centre Bengaluru to host workshop on quantum tech - Deccan Herald",
-      "type": "summer_programs",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzA1eVJxWThpajVaMWdyNC1XenRUS0lJbHlfOEdmNE1Pak1va1VITkJuVVJXQ005RHI5OWVuN19Pa0FkQ1NvUGxYc0VTM0tHYXhwZncycTNsaVFhczYyc29qbTE4S1ByN0FDLUF1NTZac3hIWURmNUtySTVMcldJM0pkSVowY1RVNDRYVTNXbE5WU2NvaC1IYUgtb3EwMzhVemlDSmpRWHFKU2xDeDBWZWdvNA?oc=5"
-    },
-    {
-      "id": "7175db3fb9f182fc",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-05T07:00:00Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFNCd1NDT1BLT2c2ZzZaMGxCMmcwWldnRXBxaFVFX1BOVkI3eXV1Rm04M0tOR1kxWDNoSVZjcmtxZFNDdEYwTGoxbnBfRk52N2VNSlJIdlktdFE3Wk1ZUFVDaUpoQ3RCM3BXTHhCTmhZTTlVUmM1YkFFOXMxdUdfUk1OdVZoQlNldThRWFRxZFVGa3dKUmh0YlN6LXZoZEdJNVZwMks2eXR4bkJLYkFWSklaMA?oc=5\" target=\"_blank\">What is quantum computing? Temple researchers explain computing’s next frontier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Temple Now</font>",
-      "title": "What is quantum computing? Temple researchers explain computing’s next frontier - Temple Now",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFNCd1NDT1BLT2c2ZzZaMGxCMmcwWldnRXBxaFVFX1BOVkI3eXV1Rm04M0tOR1kxWDNoSVZjcmtxZFNDdEYwTGoxbnBfRk52N2VNSlJIdlktdFE3Wk1ZUFVDaUpoQ3RCM3BXTHhCTmhZTTlVUmM1YkFFOXMxdUdfUk1OdVZoQlNldThRWFRxZFVGa3dKUmh0YlN6LXZoZEdJNVZwMks2eXR4bkJLYkFWSklaMA?oc=5"
-    },
-    {
-      "id": "4b5c678be443b576",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-02T02:09:29Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlAxaDcxaldBdktFSU9sSTZfRzE3bEo2X01OYzc5MXp0Z09zUXhXSGtick1Lek9zaFBXSW11YjVRMUNackY5a0pWQU9lc2RocDJuRWNjZU5YczdrN3NsWl9yZ0ppdVZONzZlNmhueDhVY2lJWXUycUlOMC1zc1llN3NFQ015TlpUU1U4?oc=5\" target=\"_blank\">Quantum Innovators 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Waterloo</font>",
-      "title": "Quantum Innovators 2026 - University of Waterloo",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlAxaDcxaldBdktFSU9sSTZfRzE3bEo2X01OYzc5MXp0Z09zUXhXSGtick1Lek9zaFBXSW11YjVRMUNackY5a0pWQU9lc2RocDJuRWNjZU5YczdrN3NsWl9yZ0ppdVZONzZlNmhueDhVY2lJWXUycUlOMC1zc1llN3NFQ015TlpUU1U4?oc=5"
     }
   ]
 }
