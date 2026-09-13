@@ -1,0 +1,180 @@
+
+> ctf-browser-starter@0.1.0 test
+> npm run build:rules && node --test packages/rules/test/*.test.mjs
+
+
+> ctf-browser-starter@0.1.0 build:rules
+> tsc -p packages/rules/tsconfig.json
+
+TAP version 13
+# Subtest: lobby requires both teams and only starts once
+ok 1 - lobby requires both teams and only starts once
+  ---
+  duration_ms: 1.293501
+  type: 'test'
+  ...
+# Subtest: roster limits, duplicates, team, and score validation
+ok 2 - roster limits, duplicates, team, and score validation
+  ---
+  duration_ms: 0.495459
+  type: 'test'
+  ...
+# Subtest: both teams are protected in overlapping central strip
+ok 3 - both teams are protected in overlapping central strip
+  ---
+  duration_ms: 0.285205
+  type: 'test'
+  ...
+# Subtest: north extra safe region is recognized
+ok 4 - north extra safe region is recognized
+  ---
+  duration_ms: 0.128685
+  type: 'test'
+  ...
+# Subtest: home-side players cannot be tagged
+ok 5 - home-side players cannot be tagged
+  ---
+  duration_ms: 0.412229
+  type: 'test'
+  ...
+# Subtest: friendly, self, long-range, and jailed-attacker tags are rejected
+ok 6 - friendly, self, long-range, and jailed-attacker tags are rejected
+  ---
+  duration_ms: 0.134303
+  type: 'test'
+  ...
+# Subtest: tag increments statistics once and sends victim to enemy jail
+ok 7 - tag increments statistics once and sends victim to enemy jail
+  ---
+  duration_ms: 0.23534
+  type: 'test'
+  ...
+# Subtest: carrier death drops flag at tag position before jail teleport
+ok 8 - carrier death drops flag at tag position before jail teleport
+  ---
+  duration_ms: 0.33984
+  type: 'test'
+  ...
+# Subtest: flag pickup rejects out-of-range and jailed players
+ok 9 - flag pickup rejects out-of-range and jailed players
+  ---
+  duration_ms: 0.370826
+  type: 'test'
+  ...
+# Subtest: only one carrier is permitted
+ok 10 - only one carrier is permitted
+  ---
+  duration_ms: 0.41224
+  type: 'test'
+  ...
+# Subtest: capture occurs on entering safe side, not only at flag stand
+ok 11 - capture occurs on entering safe side, not only at flag stand
+  ---
+  duration_ms: 0.284074
+  type: 'test'
+  ...
+# Subtest: own flag need not be home to capture
+ok 12 - own flag need not be home to capture
+  ---
+  duration_ms: 0.107359
+  type: 'test'
+  ...
+# Subtest: unsafe carrier and player without a flag cannot capture
+ok 13 - unsafe carrier and player without a flag cannot capture
+  ---
+  duration_ms: 0.075651
+  type: 'test'
+  ...
+# Subtest: duplicate or opposite-side scores in one round are blocked
+ok 14 - duplicate or opposite-side scores in one round are blocked
+  ---
+  duration_ms: 2.01891
+  type: 'test'
+  ...
+# Subtest: jailbreak releases all allies at home-side rescue spawn, not at jail
+ok 15 - jailbreak releases all allies at home-side rescue spawn, not at jail
+  ---
+  duration_ms: 0.220403
+  type: 'test'
+  ...
+# Subtest: jailed players cannot rescue, and wrong territory does not rescue allies
+ok 16 - jailed players cannot rescue, and wrong territory does not rescue allies
+  ---
+  duration_ms: 0.075029
+  type: 'test'
+  ...
+# Subtest: jailing the last free opponent ends the round
+ok 17 - jailing the last free opponent ends the round
+  ---
+  duration_ms: 0.093644
+  type: 'test'
+  ...
+# Subtest: empty team does not produce vacuous all-jailed score
+ok 18 - empty team does not produce vacuous all-jailed score
+  ---
+  duration_ms: 0.143037
+  type: 'test'
+  ...
+# Subtest: round reset restores objectives and free players, retaining statistics and score
+ok 19 - round reset restores objectives and free players, retaining statistics and score
+  ---
+  duration_ms: 0.252601
+  type: 'test'
+  ...
+# Subtest: target score finishes match; no further reset or point is possible
+ok 20 - target score finishes match; no further reset or point is possible
+  ---
+  duration_ms: 0.093318
+  type: 'test'
+  ...
+# Subtest: input validation rejects NaN, infinity, position injection and bad sequence
+ok 21 - input validation rejects NaN, infinity, position injection and bad sequence
+  ---
+  duration_ms: 0.310192
+  type: 'test'
+  ...
+# Subtest: diagonal motion is normalized to the configured speed
+ok 22 - diagonal motion is normalized to the configured speed
+  ---
+  duration_ms: 0.239204
+  type: 'test'
+  ...
+# Subtest: jailed and round-over players cannot move
+ok 23 - jailed and round-over players cannot move
+  ---
+  duration_ms: 0.097058
+  type: 'test'
+  ...
+# Subtest: server timestep is bounded and world bounds clamp movement
+ok 24 - server timestep is bounded and world bounds clamp movement
+  ---
+  duration_ms: 0.108459
+  type: 'test'
+  ...
+# Subtest: returning flags move toward home, can be intercepted, and stop exactly at home
+ok 25 - returning flags move toward home, can be intercepted, and stop exactly at home
+  ---
+  duration_ms: 0.299587
+  type: 'test'
+  ...
+# Subtest: moving carrier updates carried flag position
+ok 26 - moving carrier updates carried flag position
+  ---
+  duration_ms: 0.130596
+  type: 'test'
+  ...
+# Subtest: one jailbreak releases multiple teammates without releasing enemies
+ok 27 - one jailbreak releases multiple teammates without releasing enemies
+  ---
+  duration_ms: 0.090243
+  type: 'test'
+  ...
+1..27
+# tests 27
+# suites 0
+# pass 27
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 86.364334

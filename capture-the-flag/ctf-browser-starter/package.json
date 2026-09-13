@@ -1,0 +1,15 @@
+{
+  "name": "ctf-browser-starter",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "UNLICENSED",
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "build:rules": "tsc -p packages/rules/tsconfig.json",
+    "typecheck": "tsc -p packages/rules/tsconfig.json --noEmit",
+    "test": "npm run build:rules && node --test packages/rules/test/*.test.mjs"
+  },
+  "devDependencies": {"typescript": "5.8.3"},
+  "engines": {"node": ">=22"}
+}
