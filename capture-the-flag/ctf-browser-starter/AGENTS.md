@@ -4,8 +4,9 @@
 Read README.md, docs/CORE_RULES.md, docs/PROTOTYPE_PLAN.md, and docs/VALIDATION.md.
 The user wants a standalone in-browser multiplayer game, eventually hosted through
 his personal website. The old Warcraft III map is a design reference, not the runtime.
-This repository currently contains a tested TypeScript rules foundation, NOT a
-working Phaser client or Colyseus server. Implement those next; do not merely plan them.
+This repository now contains a tested TypeScript rules foundation, a working
+Phaser/Vite client, and a Colyseus server. See docs/VALIDATION.md for what has
+actually run and docs/6V6_CHECKLIST.md for the pending human playtest.
 
 ## Development decisions
 - Phaser + TypeScript + Vite client; Colyseus + Node/TypeScript authoritative server.
@@ -43,11 +44,13 @@ Do not deploy, create paid resources, publish a repository, change DNS, or acces
 website credentials without a separate explicit user request.
 
 ## Verify
-Run npm install once; generate and retain package-lock.json. Then run:
+The lockfile is retained; use `npm ci`. Then run:
 - npm test
 - npm run typecheck
-After implementing client/server, provide npm run dev and npm run build, network
-integration tests, and preferably a two-browser-context Playwright smoke test.
+- npm run build
+- npm run test:browser (after npm run install:browser on a fresh machine)
+Root `npm run dev` starts the client and server. Network integration and a
+two-browser-context Playwright smoke test are present; extend them for changes.
 Record exact commands/results and remaining failures in docs/VALIDATION.md.
 Do not describe the prototype as playable until the browser/network loop was tested.
 Commit small, reviewable local milestones. Do not push remote changes implicitly.

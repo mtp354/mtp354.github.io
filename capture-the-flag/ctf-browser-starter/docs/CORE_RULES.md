@@ -108,16 +108,16 @@ These are reversible development defaults, not confirmed original-map rules.
 - Returning flags move in a straight line at provisional speed 150 world units/s.
   This is not a claim about the inherited Warcraft flag unit's actual speed.
 - Multiple players initially share a team spawn in the rules foundation. The
-  browser/server implementation should add deterministic spread positions within
+  browser/server implementation adds deterministic spread positions within
   safe territory; this is not the original twelve-start-location layout.
 - Round scoring is atomic: one terminal result per round. The original's overlapping
-  waits and triggers are not a behavior to reproduce. A short intermission will be
+  waits and triggers are not a behavior to reproduce. A short intermission is
   implemented by the server. Statistics and match scores persist between rounds.
 - A lobby may test with 1v1 or 2v2 as well as 6v6. Empty teams do not automatically
-  count as all-jailed. Mid-match join, disconnect grace, and same-tick priorities
-  must be implemented/documented in the server, not guessed from these helpers.
+  count as all-jailed. Mid-match join is locked; disconnect grace and same-tick
+  priorities are documented below as new server policy, not guessed from helpers.
 
-## Remaining Stage 1 work
+## Remaining original-map unknowns
 
 The evidence is sufficient to build a core prototype, not to claim a faithful port
 of every system. Still unverified: all alternate-character trigger differences,
@@ -130,3 +130,27 @@ available, or keep each departure labeled.
 Economy, abilities, skins, shops, gambling, admin/novelty commands, and the cinematic
 tutorial are outside Stage 2. A public prototype should have original neutral UI text
 and no imported Warcraft/third-party art, sounds, or character models.
+
+## Stage 2 implementation: explicit departures and retained rules
+
+The browser/server prototype now uses the measured safe and jail rectangles above,
+including the central overlap. Its tag, rescue, flag, and score transitions call
+the pure helpers in `packages/rules`. The following are **prototype choices**, not
+new findings about the Warcraft map:
+
+| Prototype choice | Original evidence or unknown |
+|---|---|
+| WASD/arrows and Space send movement/tag intent; one hit tags within 120 units, with a 1-second server cooldown even after a miss. | R03 is Warcraft unit death; final engine attack range/acquisition was not established. |
+| Players move at 370 world units/s in a provisional rectangular, obstacle-free arena. Six teammates get deterministic 200-unit horizontal and 160-unit vertical spread offsets. | `H000` speed override is 370, but final engine speed and the twelve legacy starts are not established. Terrain/pathing is deferred. |
+| Safe state is recomputed each tick using inclusive measured rectangles, instead of reproducing enter/leave trigger ability timing. | R02 and the overlapping regions at L1061–1088 are verified; edge-order side effects need an in-engine playtest. |
+| Enemy flag pickup uses the source-backed 200-unit radius. A dropped flag returns along a straight line at 150 units/s and can be intercepted. Initial flags use reset-home centers. | R05/R06 verify proximity, drop, and a return move order; inherited flag movement/pathing is unknown. Preplaced versus reset positions differ as described above. |
+| A score freezes the round for 1500 ms and then performs one atomic reset, with spread starts restored. | R10 uses a multi-step cinematic reset. Exact concurrency and timing are not established. |
+| An invite-code lobby permits 1v1–6v6, balances teams by join order, locks the roster on host start, and transfers host on a lobby leave. | R01 verifies twelve slots and six-team counters, not this browser lobby policy. |
+| An unexpected disconnect drops a carried flag at once, retains a vulnerable body and jail state for 10 seconds, then removes the slot. If one team empties, the match ends with a disconnect reason and no point. A reconnect reclaims the same slot. | Legacy leaving logic exists around L17859–17960, but this exact grace/reconnect policy is new. |
+
+Source-backed behavior retained: all-team jailbreak at the named home-side spawn
+(R04); capture on returning to any home-safe region without needing the own flag
+home (R07); one point for a capture or all active opponents jailed (R08); and a
+first-to-five default match (R09). Statistics and scores survive round reset (R10).
+The simplified one-hit contact is a deliberate control/combat change, not a claim
+about effective Warcraft engine stats.

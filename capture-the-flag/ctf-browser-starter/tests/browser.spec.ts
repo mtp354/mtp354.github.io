@@ -116,6 +116,10 @@ test('two browser contexts render and act through the authoritative jail/flag/sc
     await expect(north.locator('#phase')).toContainText('Round 2',{timeout:5000});
     expect(model.canonical.flags.north.status).toBe('home');
     await north.screenshot({path:'test-results/ctf-playable.png',fullPage:true});
+    await north.reload();
+    await expect(north.locator('#room-label')).toContainText(code,{timeout:5000});
+    expect(model.canonical.players.length).toBe(4);
+    await expect(north.locator('#phase')).toContainText('Round 2');
     expect(errors).toEqual([]);
   } finally {
     await Promise.allSettled(extras.map(r=>r.leave()));

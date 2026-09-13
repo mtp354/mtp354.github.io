@@ -46,6 +46,7 @@ export class GameRoom extends Room<{ state: GameState }> {
   private endReason = '';
   private simulatedMs = 0;
   private roundEndsAt = 0;
+  private shuttingDown = false;
   private lastWall = performance.now();
   private accumulator = 0;
   private readonly tickMs = 1000 / TICK_HZ;
@@ -97,8 +98,13 @@ export class GameRoom extends Room<{ state: GameState }> {
     session.input = ZERO;
     session.pendingTag = false;
     dropCarriedFlag(this.canonical, client.sessionId);
-    this.allowReconnection(client, GRACE_SECONDS);
+    if (!this.shuttingDown) this.allowReconnection(client, GRACE_SECONDS);
     this.publish();
+  }
+
+  onBeforeShutdown(): void {
+    this.shuttingDown = true;
+    super.onBeforeShutdown();
   }
 
   onReconnect(client: Client): void {
@@ -256,5 +262,5 @@ export class GameRoom extends Room<{ state: GameState }> {
 
 function spread(team: Team, slot: number): Pick<Player, 'x' | 'y'> {
   const base = DEFAULT_CONFIG.spawn[team];
-  return { x: base.x + (slot % 3 - 1) * 96, y: base.y + Math.floor(slot / 3) * 96 };
+  return { x: base.x + (slot % 3 - 1) * 200, y: base.y + Math.floor(slot / 3) * 160 };
 }

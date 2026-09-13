@@ -59,3 +59,19 @@ https://raw.githubusercontent.com/eagleflo/mpyq/master/mpyq.py
 
 The included tooling fails on unsupported archive modes. It is not a claim of full
 MPQ/Warcraft compatibility and is not part of the eventual game runtime.
+
+## Version-matched implementation references
+
+Checked 12 September 2026 against the installed packages: Colyseus server
+`0.18.5`, SDK `0.18.2`, Schema `5.0.28`; Phaser `3.90.0`; Vite `8.3.0`.
+The Colyseus documentation shown here is explicitly marked **v0.18**. The
+Schema 5 builder uses `schema()` with `t.*`, and the room exposes `messages`,
+`onDrop`, `allowReconnection`, and `onReconnect` as used in the implementation.
+
+- [Colyseus 0.18 server setup](https://docs.colyseus.io/recipes/setup-server-from-scratch-typescript)
+- [Colyseus 0.18 rooms and message handling](https://docs.colyseus.io/room)
+- [Colyseus 0.18 Schema builder](https://docs.colyseus.io/state/schema)
+- [Colyseus 0.18 reconnection](https://docs.colyseus.io/room/reconnection)
+- [Colyseus 0.18 HTTP routes](https://docs.colyseus.io/server/http-routes)
+- [Phaser 3 npm installation and TypeScript types](https://docs.phaser.io/phaser/getting-started/installation)
+- [Vite base and build-time environment variables](https://vite.dev/guide/env-and-mode)

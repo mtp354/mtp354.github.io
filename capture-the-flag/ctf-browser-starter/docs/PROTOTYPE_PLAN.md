@@ -121,3 +121,49 @@ A `/health` endpoint should report service health without exposing private room 
 Keep any integration-test state injection in test harnesses, not remotely accessible
 production messages or an accidentally enabled debug endpoint. Public hosting,
 accounts, persistence, abilities, economy, cosmetics, and mobile controls are later tasks.
+
+## Implemented simulation contract (September 2026)
+
+`apps/server/src/GameRoom.ts` owns one canonical rules `Match` per Colyseus room.
+The synchronized Schema field is a read-only JSON projection of that match, not a
+second rule implementation. The server uses a monotonic-clock accumulator at 30
+fixed steps/s, caps catch-up to five steps, and publishes changed snapshots through
+Colyseus every 50 ms. Each session has one latest input; no input queue grows with
+message volume. Movement intent expires after 250 ms. A token bucket admits at
+most 45 input messages/s with a burst of 12; Colyseus additionally disconnects
+sessions exceeding 100 messages/s. Payloads over 160 serialized bytes, unknown
+fields, invalid numbers, and out-of-order/duplicate sequence numbers are ignored.
+Sequences restart only when a new socket reclaims a reserved session; the prior
+socket is already closed. Every actor is derived from its Colyseus session ID.
+
+Each fixed step runs in this exact order:
+
+1. Move free players using their latest fresh intent, sorted by session ID.
+2. Process one pending tag attempt per session, sorted by attacker session ID.
+   The target is the nearest valid enemy; distance ties use victim session ID.
+   A missed attempt still consumes the one-second cooldown.
+3. Free all jailed teammates for each connected rescuer in session-ID order.
+4. Advance returning flags toward home, then process pickups in session-ID order.
+5. Process captures in session-ID order. The first committed point stops the round.
+
+A last-opponent tag can therefore score before a same-step rescue. A same-step
+capture tie goes to the lexically first carrier session ID. Once any point changes
+the phase to `roundOver`, later proposals are ignored. The 1500 ms intermission
+freezes movement and actions, then `nextRound` resets flags and statuses while
+retaining score and statistics. Server-side spawn spreading runs after that reset.
+This deterministic priority is a **prototype policy**, not a reconstruction of
+legacy trigger scheduling.
+
+Room IDs are invite codes. A joining client supplies only a capped nickname; the
+server assigns a balanced team. The first connected player is host; if they leave
+in the lobby, the next join-order player becomes host. Starting requires both
+teams and locks the roster. An unexpected disconnect drops carried flags at once,
+zeros input, leaves a taggable body in place, and holds its seat for 10 seconds.
+A reconnect keeps team, jail, and stats. Permanent departure removes the slot;
+an empty team ends the match with a disconnect reason and no point. Consented
+leaves are immediate. The test-only mutation hook is in-process and guarded by
+`CTF_TEST_HARNESS=1`; no network message or HTTP endpoint invokes it.
+
+The first client uses server-authoritative positions with visual interpolation.
+Prediction, lag compensation, terrain, obstacles, collision bodies, and a human
+6v6 balance/playability assessment remain future work. See `docs/VALIDATION.md`.

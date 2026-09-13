@@ -1,45 +1,49 @@
 # Capture the Flag — standalone browser project
 
-A local project handoff for Codex. Prepared 12 September 2026.
+A local, playable zero-art prototype built from the audited Warcraft III map rules.
+The Phaser/Vite browser client and Colyseus server are implemented. The original map
+remains a private design reference, not a runtime dependency. Two browser contexts
+and a 12-client socket smoke test have passed; human 6v6 play and latency
+testing remain.
 
-**Current status:** core map evidence reviewed, a TypeScript rules foundation written,
-and 27 automated tests passing. **The browser client and multiplayer server have not
-yet been implemented.** Their concrete build task is in `CODEX_FIRST_TASK.md`.
+## Run locally
 
-## Start in Codex
-
-1. Extract `ctf-browser-starter.zip`.
-2. For local source verification, extract `ctf-private-reference.zip` beside it so
-   its contents merge into `ctf-browser-starter/reference-private/`. These files are
-   intentionally excluded from Git and browser builds.
-3. Open the `ctf-browser-starter` folder in Codex's local environment (desktop or IDE),
-   or run the Codex CLI from that directory. Read/paste `CODEX_FIRST_TASK.md`.
-
-The files are the handoff; do not depend on this chat or its attachments appearing
-automatically in another environment. Local development is the simplest first path.
-A cloud Codex environment instead needs a connected repository containing the source
-and docs. Ignored local reference files will not magically appear in that environment.
-Core build work can proceed from the specification; do not publish the old map just to
-make it available to an agent.
-
-## Run the existing checks
-
-Install Node.js with npm (Node 22 or newer), then in this folder:
+Install Node.js 22 or newer. From this folder:
 
 ```sh
-npm install
-npm test
-npm run typecheck
+npm ci
+npm run dev
 ```
 
-The handoff was tested with preinstalled Node 22.16.0 and TypeScript 5.8.3. A fresh
-npm dependency installation was not performed in the handoff environment. Codex
-should install dependencies, create `package-lock.json`, and retest from a clean
-checkout. The pinned compiler version is a tested baseline, not a claim of latest.
+Open `http://127.0.0.1:5173/`. Create a room, copy its invite link, and open it in
+another browser context. The server listens at `http://127.0.0.1:2567/` and exposes
+`/health`. The first player hosts and can start when both teams have a player. Click
+the arena to focus controls: WASD/arrows move, Space attempts a tag, Escape releases
+controls. The HUD and minimap show scores, jails, players, and flags. These controls
+and the rectangle terrain are explicit prototype choices, not old-map behavior.
 
-There is deliberately **no `npm run dev` yet**. That is a required deliverable of
-Codex's first implementation task. The Python reference tools use only the standard
-library; they are not required to run the game or the TypeScript tests.
+Checks and production artifacts:
+
+```sh
+npm test              # 27 preserved rules tests + real-socket integration test
+npm run typecheck
+npm run build         # apps/client/dist and apps/server/dist
+npm run install:browser  # once, downloads Chromium under .playwright-browsers/
+npm run test:browser  # two browser contexts, real client/server gameplay loop
+npm run start:server  # production Node server, after build
+```
+
+`npm run build` creates static client files; serve `apps/client/dist` with any static
+HTTP server and run `npm run start:server` separately. Vite's development server
+and preview command are not production hosting. Nothing is deployed by these commands.
+
+`CTF_PORT` changes the server port (default `2567`). Set `VITE_CTF_SERVER_URL` to the
+server's public HTTPS origin when building a client away from localhost; its default
+is `http://127.0.0.1:2567`. Set `CTF_BASE_PATH` at build time for a nested client URL,
+for example `/games/ctf/` (default `/`). The server also accepts validated
+`CTF_TICK_HZ`, `CTF_PATCH_MS`, `CTF_RECONNECT_GRACE_SECONDS`, and
+`CTF_INTERMISSION_MS` environment settings; defaults are 30 Hz, 50 ms, 10 seconds,
+and 1500 ms. A published HTTPS page requires an HTTPS/WSS game endpoint.
 
 ## Files
 
@@ -54,7 +58,9 @@ library; they are not required to run the game or the TypeScript tests.
 | `packages/rules/src/index.ts` | Engine-independent state and transition helpers |
 | `packages/rules/test/core.test.mjs` | Automated rule tests |
 | `tools/` | Read-only MPQ extraction and source indexing |
-| `apps/client/`, `apps/server/` | Reserved implementation locations; currently briefs only |
+| `apps/client/`, `apps/server/` | Phaser/Vite client and authoritative Colyseus room |
+| `apps/server/test/network.test.mjs` | Actual SDK socket and 12-client smoke tests |
+| `tests/browser.spec.ts` | Two-browser Playwright gameplay loop |
 
 ## Reproduce the private audit
 

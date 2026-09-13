@@ -36,6 +36,9 @@ class Arena extends Phaser.Scene {
     this.cameras.main.setBounds(0, 0, worldW, worldH).setZoom(0.62);
     const ground = this.add.graphics();
     ground.fillStyle(0x244638).fillRect(0, 0, worldW, worldH);
+    ground.lineStyle(2,0xffffff,0.075);
+    for(let x=0;x<=worldW;x+=256)ground.lineBetween(x,0,x,worldH);
+    for(let y=0;y<=worldH;y+=256)ground.lineBetween(0,y,worldW,y);
     const safe = (team:Team) => {
       for (const r of DEFAULT_CONFIG.safe[team]) {
         const at = project(r.minX, r.maxY);

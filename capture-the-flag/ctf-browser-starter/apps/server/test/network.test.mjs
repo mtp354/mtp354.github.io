@@ -152,7 +152,6 @@ test('real Colyseus sockets: isolated rooms, gameplay, safeguards, and twelve cl
     model.step();model.publish();
     await waitFor(south1,s=>s.flags.south.carrierId===north1.sessionId);
     model.testOnlyMutate(m => Object.assign(m.players.find(p=>p.id===north1.sessionId),{x:0,y:-1500}));
-    console.log('network stage: carrier disconnect');
     void north1.leave(false);
     v=await waitFor(south1,s=>s.flags.south.status==='returning'&&s.flags.south.carrierId===null);
     assert.equal(v.score.north,2);
@@ -172,7 +171,6 @@ test('real Colyseus sockets: isolated rooms, gameplay, safeguards, and twelve cl
     send(reclaimed,0,1);
     await waitFor(south1,s=>find(s,north1.sessionId).x>192);
 
-    console.log('network stage: twelve clients');
     const crowd=[await create('Player 1')];
     for(let i=2;i<=12;i++) crowd.push(await join(crowd[0].roomId,`Player ${i}`));
     v=await waitFor(crowd[0],s=>s.players.length===12,5000);
@@ -194,6 +192,19 @@ test('real Colyseus sockets: isolated rooms, gameplay, safeguards, and twelve cl
     v=await waitFor(crowd[0],s=>s.phase==='roundOver');
     assert.equal(v.score[first],1,'same-tick captures resolve by stable player ID order');
     assert.equal(v.score[first==='north'?'south':'north'],0,'only one point is committed');
+    for(let points=2;points<=5;points++) {
+      for(let i=0;i<60;i++) crowdModel.step();
+      crowdModel.testOnlyMutate(m=>{
+        const winnerId=first==='north'?northCarrier:southCarrier;
+        const flag=m.flags[first==='north'?'south':'north'];
+        const player=m.players.find(p=>p.id===winnerId);
+        Object.assign(player,{x:0,y:first==='north'?448:-1152});
+        Object.assign(flag,{x:player.x,y:player.y,status:'carried',carrierId:winnerId});
+      });
+      crowdModel.step();crowdModel.publish();
+      v=await waitFor(crowd[0],s=>s.score[first]===points);
+      assert.equal(v.phase,points===5?'finished':'roundOver','first-to-five match ends at five');
+    }
 
     const host=await create('Host');
     const successor=await join(host.roomId,'Successor');
@@ -207,7 +218,6 @@ test('real Colyseus sockets: isolated rooms, gameplay, safeguards, and twelve cl
     v=await waitFor(teammate,s=>s.phase==='finished');
     assert.equal(v.endReason,'disconnect');
     assert.deepEqual(v.score,{north:0,south:0},'empty team does not award a point');
-    console.log('network stage: cleanup');
   } finally {
     await Promise.allSettled(rooms.map(r=>Promise.race([r.leave(),sleep(2000)])));
     await server.gracefullyShutdown(false);
