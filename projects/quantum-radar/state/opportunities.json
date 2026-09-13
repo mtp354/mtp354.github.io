@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-10T13:35:47Z",
+  "generated_at": "2026-09-13T13:35:24Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
+        "Public and State controlled institutions of higher education",
+        "For profit organizations other than small businesses",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Small businesses",
-        "Private institutions of higher education",
         "Independent school districts",
         "Individuals",
-        "Public and State controlled institutions of higher education",
-        "For profit organizations other than small businesses"
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "1a7530639af44b85",
@@ -41,11 +41,11 @@
       "application_source": "Grants.gov",
       "deadline": "2026-12-04",
       "eligibility": [
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
-        "For profit organizations other than small businesses",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "For profit organizations other than small businesses",
+        "Private institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "c1c2bc0b077c471d",
@@ -94,7 +94,23 @@
       "url": "https://www.grants.gov/search-results-detail/352741"
     },
     {
-      "id": "4789578113c6106e",
+      "id": "3f4fd425d3e837bc",
+      "matched_keywords": [
+        "summer school",
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-09-11T19:07:05Z",
+      "query": "quantum computing workshop students",
+      "score": 10,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5JUWxsU2hBZDZ2SkRqSU5MRmk1elhGTTJwS09jeEl5QmNZd1JJNkpZZXltMk1MQV80Yldqa0l1Zm5TamI0cHpzMDdDWkNNaGdMbVdrRDFBXzdFZWFXbHpIbGwtVWdka1hqZk8xMWdXeFdZQkJ0a29wNA?oc=5\" target=\"_blank\">RCQI’s QUTE Summer School Welcomes A Record 80 Quantum Learners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "RCQI’s QUTE Summer School Welcomes A Record 80 Quantum Learners - Quantum Zeitgeist",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JUWxsU2hBZDZ2SkRqSU5MRmk1elhGTTJwS09jeEl5QmNZd1JJNkpZZXltMk1MQV80Yldqa0l1Zm5TamI0cHpzMDdDWkNNaGdMbVdrRDFBXzdFZWFXbHpIbGwtVWdka1hqZk8xMWdXeFdZQkJ0a29wNA?oc=5"
+    },
+    {
+      "id": "3710a40e8bc1477f",
       "matched_keywords": [
         "summer school",
         "workshop",
@@ -104,8 +120,8 @@
       "published": "2026-08-11T07:00:00Z",
       "query": "quantum computing workshop students",
       "score": 10,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU5wUmhpSm01NFFxNWJzaUItbExqM3dIUWFRVGxEYlRBSG50ZlZxN0M4S0NqWWFvbXVwdHdZdDJpU2NOcjJfM0pSbDNVcU1WeUJ4WjQ2a3Q5WnVCYzhhUG1RV1dIbVVTWkZlZWxPU0NZOVZGV2tUTW1KTi1KTE1DdV9aenE1OGNuQk1lOGZlWmNZTTFqSU5qVTV5QU9JNUZKZko2b1ZvZVUyRTdQ?oc=5\" target=\"_blank\">Quantum Key Distribution Summer School</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">uwaterloo.ca</font>",
-      "title": "Quantum Key Distribution Summer School - uwaterloo.ca",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU5wUmhpSm01NFFxNWJzaUItbExqM3dIUWFRVGxEYlRBSG50ZlZxN0M4S0NqWWFvbXVwdHdZdDJpU2NOcjJfM0pSbDNVcU1WeUJ4WjQ2a3Q5WnVCYzhhUG1RV1dIbVVTWkZlZWxPU0NZOVZGV2tUTW1KTi1KTE1DdV9aenE1OGNuQk1lOGZlWmNZTTFqSU5qVTV5QU9JNUZKZko2b1ZvZVUyRTdQ?oc=5\" target=\"_blank\">Quantum Key Distribution Summer School</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Waterloo</font>",
+      "title": "Quantum Key Distribution Summer School - University of Waterloo",
       "type": "summer_programs",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU5wUmhpSm01NFFxNWJzaUItbExqM3dIUWFRVGxEYlRBSG50ZlZxN0M4S0NqWWFvbXVwdHdZdDJpU2NOcjJfM0pSbDNVcU1WeUJ4WjQ2a3Q5WnVCYzhhUG1RV1dIbVVTWkZlZWxPU0NZOVZGV2tUTW1KTi1KTE1DdV9aenE1OGNuQk1lOGZlWmNZTTFqSU5qVTV5QU9JNUZKZko2b1ZvZVUyRTdQ?oc=5"
     },
@@ -140,6 +156,22 @@
       "title": "UChicago Student Builds Quantum Skills At PsiQuantum This Summer - Quantum Zeitgeist",
       "type": "other",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWT05tOFpndEV2ZVF6eXdVTTJmaC00emlnMFNCX0tqc3lvXzNfNGJTVjdwczd3UjJvbzN2ME5EQUtQVHBmWG9rSW52V1BiWEpqN1NuMnhyeWpWWnFuU05Nb3Z5WjlieFgyTXBJT3hpVjlOenlnVFE5alNSWQ?oc=5"
+    },
+    {
+      "id": "1c860b0c905735ad",
+      "matched_keywords": [
+        "internship",
+        "intern",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-04T07:00:00Z",
+      "query": "quantum computing internship",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnVBOEdXOEJuVHRLWGt0ZVVOUl9XOXVUNEYwbWgyWmxiV0JPTEFRWmlzS3FmOGdPN1drTFFUSGstUVlqejZzTFBTMVdjR0tyT0dOTHNFNDJKdEJKRk9uUkdsTThHb0o2WmpGdmoxU3RfSFFFTF8wSHdaMDIzV0NCZGo5SkpCazA2SmhDbw?oc=5\" target=\"_blank\">Building the Quantum Workforce of Tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "Building the Quantum Workforce of Tomorrow - The Quantum Insider",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnVBOEdXOEJuVHRLWGt0ZVVOUl9XOXVUNEYwbWgyWmxiV0JPTEFRWmlzS3FmOGdPN1drTFFUSGstUVlqejZzTFBTMVdjR0tyT0dOTHNFNDJKdEJKRk9uUkdsTThHb0o2WmpGdmoxU3RfSFFFTF8wSHdaMDIzV0NCZGo5SkpCazA2SmhDbw?oc=5"
     },
     {
       "id": "46f69fcd80374900",
@@ -314,7 +346,7 @@
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-09-06T15:39:28Z",
+      "published": "2026-09-11T14:56:06Z",
       "query": "quantum computing workshop students",
       "score": 7,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IVThzVWk1aW1LdGFNVThNMzBYZGJpRnlsT1BVYkhRc2pSd25tMFZiekFHS0dScVpMSGtSWkEzMzlHSDB2YXIxLTRJTVBqY3dDQVBnbHY0ckF6dknSAWBBVV95cUxQSk5ielVqblBZVkJOakJmSExSQjVWMFdJSkpETlpBYS0yQkp6cUU2ZGNyTi1rUjZuX2tXMmZWQXRaRlFoRXZIaXRhMlJidk9ESEJaYzM0d2ZpTzFuTHhVbWo?oc=5\" target=\"_blank\">Conferences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
@@ -353,21 +385,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeFNHc2stczFiX3FzV2lzcllFRWI1Z2Rzc05DRHo0eEtKOWRWZ0FyOWNFdGdOamR6RkdPVU1sX3EtUHFrODhmMUt5NXVnTndYWElHejFfUUV3ZUk0X05yZjhnWWtzTDJXQzV5cjJubEp5eGdXWmU0?oc=5"
     },
     {
-      "id": "419e645b71af2bb1",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-28T07:00:00Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQl9KMlI1ZUwwUmZTc0djdWRxMU1ZUDlaR1U5UHFhbHowRC04QjJFOHRrTDB2clA3N0NSQWRWZjIwc1hhUF9EU1hOVmhVVDUzOEoxNndsckswQnl1Yk12cQ?oc=5\" target=\"_blank\">IEEE Quantum Week 2026, Essential Toronto Event, Register Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "IEEE Quantum Week 2026, Essential Toronto Event, Register Now - Quantum Zeitgeist",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQl9KMlI1ZUwwUmZTc0djdWRxMU1ZUDlaR1U5UHFhbHowRC04QjJFOHRrTDB2clA3N0NSQWRWZjIwc1hhUF9EU1hOVmhVVDUzOEoxNndsckswQnl1Yk12cQ?oc=5"
-    },
-    {
       "id": "286f2447b744425d",
       "matched_keywords": [
         "hackathon",
@@ -381,21 +398,6 @@
       "title": "MegazoneCloud and KISTI Wrap Up Quantum Computing Hackathon; CO₂-to-Ethylene Catalyst Project Takes Top Prize - finance.biggo.com",
       "type": "hackathons",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ScTg5MFJDVjF0UWFYQVlMdE1tWnRveUhoaVJ2UHhudW0zTnJhSm9iTUoyV1JEX0E0UlBiVGNrOWZFcU9VQTU5bnRnUTVvUmJYZEVlaFBzWXFUV2F5ZThZY1lIaXI1MWhRXzJfSFJUMllnaUVJcmc?oc=5"
-    },
-    {
-      "id": "e47b1a159454335c",
-      "matched_keywords": [
-        "hackathon",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-27T07:00:00Z",
-      "query": "quantum hackathon",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JMkpCUEY1NEgtODhxbU5JQ0UwSUNSSmZEWU9LZ0lYS213Sjh4amF4UmE0bUVrY1AtOV9XNFdUVUNVU1dMbUxqY3Njcw?oc=5\" target=\"_blank\">In the quantum computing hackathon co-hosted by Mega Zone Cloud and the Korea Institute of Science a..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">mk.co.kr</font>",
-      "title": "In the quantum computing hackathon co-hosted by Mega Zone Cloud and the Korea Institute of Science a.. - mk.co.kr",
-      "type": "hackathons",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JMkpCUEY1NEgtODhxbU5JQ0UwSUNSSmZEWU9LZ0lYS213Sjh4amF4UmE0bUVrY1AtOV9XNFdUVUNVU1dMbUxqY3Njcw?oc=5"
     }
   ]
 }
