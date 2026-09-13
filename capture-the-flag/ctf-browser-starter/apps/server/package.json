@@ -1,0 +1,11 @@
+{
+  "name": "@ctf/server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@ctf/rules": "0.1.0",
+    "@colyseus/schema": "5.0.28",
+    "colyseus": "0.18.5"
+  }
+}

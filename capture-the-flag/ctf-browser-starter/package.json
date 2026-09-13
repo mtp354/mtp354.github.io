@@ -4,12 +4,19 @@
   "private": true,
   "type": "module",
   "license": "UNLICENSED",
-  "workspaces": ["packages/*"],
+  "workspaces": ["packages/*", "apps/*"],
   "scripts": {
     "build:rules": "tsc -p packages/rules/tsconfig.json",
-    "typecheck": "tsc -p packages/rules/tsconfig.json --noEmit",
-    "test": "npm run build:rules && node --test packages/rules/test/*.test.mjs"
+    "typecheck": "npm run build:rules && tsc -p apps/server/tsconfig.json --noEmit && tsc -p apps/client/tsconfig.json --noEmit",
+    "test": "npm run build:rules && tsc -p apps/server/tsconfig.json && node --test packages/rules/test/*.test.mjs apps/server/test/*.test.mjs",
+    "test:browser": "npm run build && node tools/run-playwright.mjs",
+    "dev": "npm run build:rules && tsc -p apps/server/tsconfig.json && concurrently -k \"npm:dev:server:compile\" \"npm:dev:server\" \"npm:dev:client\"",
+    "dev:server:compile": "tsc -p apps/server/tsconfig.json --watch --preserveWatchOutput",
+    "dev:server": "node --watch apps/server/dist/main.js",
+    "dev:client": "npm run dev -w @ctf/client",
+    "build": "npm run build:rules && tsc -p apps/server/tsconfig.json && npm run build -w @ctf/client",
+    "start:server": "node apps/server/dist/main.js"
   },
-  "devDependencies": {"typescript": "5.8.3"},
+  "devDependencies": {"typescript": "5.8.3", "@types/node": "22.18.6", "concurrently": "9.2.1", "@playwright/test": "1.63.0"},
   "engines": {"node": ">=22"}
 }

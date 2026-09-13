@@ -1,4 +1,8 @@
 node_modules/
+!package-lock.json
+.node/
+.node-v*.zip
+.playwright-browsers/
 **/dist/
 .env
 .env.*

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Capture the Flag — prototype</title>
+</head>
+<body>
+  <main>
+    <header><h1>Capture the Flag <small>zero-art prototype</small></h1><p id="status">Create or join a room.</p></header>
+    <section id="lobby" aria-label="Lobby">
+      <label>Nickname <input id="nickname" maxlength="18" value="Runner" /></label>
+      <button id="create">Create room</button>
+      <label>Room code <input id="room-code" maxlength="32" autocomplete="off" /></label>
+      <button id="join">Join room</button>
+      <div id="room-details" hidden>
+        <span id="room-label"></span> <button id="copy">Copy invite link</button>
+        <p id="roster"></p><button id="start" hidden>Start match</button>
+      </div>
+    </section>
+    <section id="game-shell" aria-label="Game">
+      <div id="game"></div>
+      <aside>
+        <h2 id="score">North 0 · South 0</h2>
+        <p id="phase">Lobby</p><p id="me">Join a room to play.</p><p id="flags">Flags home</p>
+        <p>Click the arena to control. WASD / arrows move; Space tags. Escape releases focus.</p>
+        <canvas id="minimap" width="170" height="305" aria-label="Arena minimap"></canvas>
+        <h3>Players</h3><ul id="players"></ul>
+        <p class="key">Blue: North · Orange: South · Gold: flag · Purple: jail</p>
+      </aside>
+    </section>
+  </main>
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>

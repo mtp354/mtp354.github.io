@@ -1,0 +1,13 @@
+{
+  "name": "@ctf/client",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"dev": "vite", "build": "vite build"},
+  "dependencies": {
+    "@ctf/rules": "0.1.0",
+    "@colyseus/sdk": "0.18.2",
+    "phaser": "3.90.0"
+  },
+  "devDependencies": {"vite": "8.3.0"}
+}
