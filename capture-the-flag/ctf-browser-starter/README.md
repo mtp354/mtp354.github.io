@@ -1,79 +1,93 @@
-# Capture the Flag — standalone browser project
+# Capture the Flag
 
-A local project handoff for Codex. Prepared 12 September 2026.
+A standalone browser prototype based on the core rules of your Warcraft III map.
+Phaser draws the arena; a Colyseus server owns movement, tags, jails, flags and scores.
+No Warcraft installation is needed.
 
-**Current status:** core map evidence reviewed, a TypeScript rules foundation written,
-and 27 automated tests passing. **The browser client and multiplayer server have not
-yet been implemented.** Their concrete build task is in `CODEX_FIRST_TASK.md`.
+## Play on Ubuntu
 
-## Start in Codex
-
-1. Extract `ctf-browser-starter.zip`.
-2. For local source verification, extract `ctf-private-reference.zip` beside it so
-   its contents merge into `ctf-browser-starter/reference-private/`. These files are
-   intentionally excluded from Git and browser builds.
-3. Open the `ctf-browser-starter` folder in Codex's local environment (desktop or IDE),
-   or run the Codex CLI from that directory. Read/paste `CODEX_FIRST_TASK.md`.
-
-The files are the handoff; do not depend on this chat or its attachments appearing
-automatically in another environment. Local development is the simplest first path.
-A cloud Codex environment instead needs a connected repository containing the source
-and docs. Ignored local reference files will not magically appear in that environment.
-Core build work can proceed from the specification; do not publish the old map just to
-make it available to an agent.
-
-## Run the existing checks
-
-Install Node.js with npm (Node 22 or newer), then in this folder:
+From the **website repository**:
 
 ```sh
-npm install
-npm test
+./play-ctf.sh
+```
+
+The launcher installs a private Node.js runtime if needed, installs locked dependencies,
+builds the game, starts the server, and opens **http://localhost:2567**. First launch
+needs Internet access, `curl`, and `tar`; later launches reuse the installation. It
+requires no `sudo` and makes no system-wide changes. Keep the terminal open while
+playing; press Ctrl+C to stop. Use `--no-open` to skip opening the browser.
+
+- **Play practice** starts immediately with bots. No account or room code needed.
+- **Create game** opens a lobby. Copy the invite link into another browser tab, or
+  share it with another player. The host starts when both teams have a player.
+- Use **WASD / arrow keys** to move and **Space** to tag. Click the arena to control
+  your runner. **Escape** releases controls; switching tabs stops movement.
+- Bring the enemy flag back to your protected home territory to score. Tag enemies
+  who are outside their safe territory. Enter the enemy jail to free all teammates.
+  Jailing the whole enemy team also scores. First to five wins.
+
+### Play with someone on the same network
+
+```sh
+./play-ctf.sh --lan
+```
+
+Open the host computer's local address (for example, `http://192.168.1.20:2567`)
+on both computers, then create a game and copy its invite link. The server prints
+local addresses when LAN mode is enabled. A `localhost` link works only on the
+computer that created it. If Ubuntu's firewall blocks access, allow TCP port 2567
+on your trusted local network. This is local network play, not public Internet hosting.
+
+## Development
+
+With Node.js 22+ installed, run these commands **inside this folder**. If you used
+the Ubuntu launcher, first run `export PATH="$PWD/.runtime/node/bin:$PATH"`.
+
+```sh
+npm ci
+npm run dev        # browser http://localhost:5173; game server 127.0.0.1:2567
+npm test           # rules, simulation and actual WebSocket integration tests
 npm run typecheck
+npm run build
+npm start          # built client + server at http://localhost:2567
 ```
 
-The handoff was tested with preinstalled Node 22.16.0 and TypeScript 5.8.3. A fresh
-npm dependency installation was not performed in the handoff environment. Codex
-should install dependencies, create `package-lock.json`, and retest from a clean
-checkout. The pinned compiler version is a tested baseline, not a claim of latest.
+`npm run dev` starts both processes and stops both on Ctrl+C. Production uses one
+Node process serving the built client and WebSockets on the same port.
 
-There is deliberately **no `npm run dev` yet**. That is a required deliverable of
-Codex's first implementation task. The Python reference tools use only the standard
-library; they are not required to run the game or the TypeScript tests.
+For browser checks, install Playwright's Chromium once with `npx playwright install
+chromium`, then run `npm run test:browser`. Alternatively set `CHROME_PATH` to a local
+Chrome/Chromium executable. The suite starts its own isolated server and browser
+contexts. Test-only state setup runs inside the test process; there is no game cheat
+endpoint or debug message.
 
-## Files
+### Configuration
 
-| Path | Purpose |
+| Variable | Default / purpose |
 |---|---|
-| `AGENTS.md` | Durable project constraints and instructions for coding agents |
-| `CODEX_FIRST_TASK.md` | First implementation prompt and completion conditions |
-| `docs/CORE_RULES.md` | Source-backed original behavior, unknowns, and prototype choices |
-| `docs/PROTOTYPE_PLAN.md` | Client/server architecture, networking work, acceptance tests |
-| `docs/WEBSITE_HOSTING.md` | Later static-client / persistent-server deployment split |
-| `docs/VALIDATION.md` | What has and has not actually been tested |
-| `packages/rules/src/index.ts` | Engine-independent state and transition helpers |
-| `packages/rules/test/core.test.mjs` | Automated rule tests |
-| `tools/` | Read-only MPQ extraction and source indexing |
-| `apps/client/`, `apps/server/` | Reserved implementation locations; currently briefs only |
+| `HOST` | `127.0.0.1`; use `0.0.0.0` for trusted LAN play |
+| `PORT` | `2567` |
+| `VITE_GAME_ENDPOINT` | Same origin in production; `/game` proxy during development. Override for a separate WebSocket host. |
+| `VITE_BASE_PATH` | `/`; set when building for a nested static path such as `/games/ctf/` |
+| `CTF_BASE_PATH` | `/`; set to match the built base path when serving a nested path through this server |
+| `GAME_PROXY_TARGET` | `http://127.0.0.1:2567`, development only |
+| `ALLOWED_ORIGINS` | Optional comma-separated browser origins for a future separately hosted server |
+| `RECONNECT_SECONDS` | `20`; grace period to restore the same player after a connection drop |
 
-## Reproduce the private audit
+Set server variables in your shell, for example `PORT=3000 npm start`. Vite variables
+can be shell variables or live in `apps/client/.env.local`; rebuild after changing
+them. Client variables are public configuration, never secrets. See
+[WEBSITE_HOSTING.md](docs/WEBSITE_HOSTING.md) before a future deployment.
 
-With the original map saved at the companion archive's location:
+## Scope and evidence
 
-```sh
-python tools/extract_reference.py "reference-private/wc3/Capture the Flag advanced(1).w3x"
-python tools/audit_reference.py reference-private/wc3/extracted
-```
+The measured safe zones, center overlap, jails, home-side rescue, moving flag return
+and scoring rules are retained. Movement controls, rectangle terrain, bot behavior
+and network policies are prototype choices. This is not a complete terrain,
+character, spell, or item port. See [CORE_RULES.md](docs/CORE_RULES.md),
+[PROTOTYPE_PLAN.md](docs/PROTOTYPE_PLAN.md), and [VALIDATION.md](docs/VALIDATION.md).
 
-The extractor only supports the legacy MPQ features needed for this supplied map.
-Unsupported encryption/compression fails explicitly. It is not a universal map parser.
-Extraction preserves script bytes and records SHA-256 hashes. No map script is run.
-
-## Boundaries
-
-This is a new implementation, not a Warcraft map converter. Phaser/Colyseus are the
-selected frameworks; the game does not need a Warcraft installation to run once built.
-The main starter archive contains no Warcraft models, textures, audio, preview art,
-or original map archive. The separate private reference archive is not a deployable.
-The code's public licensing and final game name remain decisions for the owner.
-Nothing has been deployed or pushed to a remote repository.
+The original map and companion archives are private reference inputs. They are not
+served by this game or included in its builds. The surrounding Jekyll website excludes
+the `capture-the-flag` source folder. Nothing is deployed or pushed by these commands.

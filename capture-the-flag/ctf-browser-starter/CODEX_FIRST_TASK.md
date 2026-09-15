@@ -1,3 +1,6 @@
+> Historical implementation brief. The browser/server milestone is now implemented;
+> see README.md to play and docs/VALIDATION.md for tested coverage and limitations.
+
 We are turning my old Warcraft III Capture the Flag custom map into a standalone
 in-browser multiplayer game, eventually accessible from my personal website.
 Continue from this folder rather than starting from a generic CTF template.

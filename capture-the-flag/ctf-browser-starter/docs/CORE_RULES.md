@@ -119,6 +119,21 @@ These are reversible development defaults, not confirmed original-map rules.
 
 ## Remaining Stage 1 work
 
+### Implemented browser policies
+
+The runnable server now implements spread spawns, fixed server steps, cooldowns,
+three-second intermissions, balanced lobbies, locked match rosters, host transfer,
+and a 20-second reconnect grace. Exact event order and same-tick tie handling are
+documented in [the server contract](../apps/server/README.md#prototype-decisions-and-deterministic-order).
+These remain explicit browser prototype choices, not additional map-source claims.
+
+Solo practice adds three deterministic bots for an immediate 2v2 test. They use the
+same movement, safety, tagging, jail and objective rules; their defense/flanking
+behavior is new. They do not reproduce Warcraft AI. Multiplayer remains available
+without bots and supports one to six players on each team.
+
+### Original-map unknowns
+
 The evidence is sufficient to build a core prototype, not to claim a faithful port
 of every system. Still unverified: all alternate-character trigger differences,
 actual flag speed/rooting/pathing, precise attack acquisition and range, first-round

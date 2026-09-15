@@ -1,5 +1,8 @@
 # Stage 2: first browser multiplayer build
 
+Implemented September 2026. This document retains the design and acceptance
+contract; see VALIDATION.md for actual results and remaining manual checks.
+
 ## One outcome
 
 Two real browser contexts join the same server room and complete movement → tag →

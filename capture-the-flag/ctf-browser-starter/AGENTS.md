@@ -4,8 +4,9 @@
 Read README.md, docs/CORE_RULES.md, docs/PROTOTYPE_PLAN.md, and docs/VALIDATION.md.
 The user wants a standalone in-browser multiplayer game, eventually hosted through
 his personal website. The old Warcraft III map is a design reference, not the runtime.
-This repository currently contains a tested TypeScript rules foundation, NOT a
-working Phaser client or Colyseus server. Implement those next; do not merely plan them.
+The Phaser client, Colyseus server, practice bots, Ubuntu launcher, and automated
+browser/network checks are implemented. Read docs/VALIDATION.md for current evidence
+and remaining manual checks before extending the prototype.
 
 ## Development decisions
 - Phaser + TypeScript + Vite client; Colyseus + Node/TypeScript authoritative server.
@@ -25,8 +26,9 @@ working Phaser client or Colyseus server. Implement those next; do not merely pl
   checking old behavior. Never execute JASS or unknown map scripts.
 
 ## Scope
-First deliver two browser tabs in one room playing the complete basic CTF/jail loop.
-Then verify 12 network clients and a 6v6 manual checklist. Shapes and labels only.
+Maintain two browser contexts playing the complete basic CTF/jail loop and the
+12-client network check. A six-versus-six human playtest is still a separate manual
+check. Preserve one-click solo practice and invite joining. Shapes and labels only.
 Do not add accounts, databases, shops, gold, gambling, cosmetics, wards, blink,
 invisibility, imported assets, public matchmaking, or website deployment yet.
 Use WASD/arrows + explicit tag action as a documented prototype control scheme.
