@@ -1,4 +1,7 @@
 node_modules/
+.runtime/
+.npm-cache/
+!package-lock.json
 **/dist/
 .env
 .env.*

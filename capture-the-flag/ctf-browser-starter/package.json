@@ -4,12 +4,16 @@
   "private": true,
   "type": "module",
   "license": "UNLICENSED",
-  "workspaces": ["packages/*"],
+  "workspaces": ["packages/*", "apps/*"],
   "scripts": {
     "build:rules": "tsc -p packages/rules/tsconfig.json",
-    "typecheck": "tsc -p packages/rules/tsconfig.json --noEmit",
-    "test": "npm run build:rules && node --test packages/rules/test/*.test.mjs"
+    "dev": "npm run build:rules && node scripts/dev.mjs",
+    "typecheck": "npm run build:rules && tsc -p packages/rules/tsconfig.json --noEmit && npm run typecheck --workspace @ctf/server && npm run typecheck --workspace @ctf/client",
+    "test": "npm run build:rules && npm run build --workspace @ctf/server && node --test packages/rules/test/*.test.mjs apps/server/test/*.test.mjs tests/*.test.mjs",
+    "build": "npm run build:rules && npm run build --workspace @ctf/server && npm run build --workspace @ctf/client",
+    "start": "node apps/server/dist/index.js",
+    "test:browser": "npm run build && node --test tests/browser.smoke.mjs"
   },
-  "devDependencies": {"typescript": "5.8.3"},
+  "devDependencies": {"typescript": "5.8.3", "tsx": "4.23.13", "@types/node": "22.20.3", "colyseus.js": "0.16.22", "playwright": "1.62.1"},
   "engines": {"node": ">=22"}
 }
