@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-13T13:35:24Z",
+  "generated_at": "2026-09-16T13:38:01Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
+        "Independent school districts",
+        "Small businesses",
+        "Individuals",
         "Public and State controlled institutions of higher education",
         "For profit organizations other than small businesses",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Small businesses",
-        "Independent school districts",
-        "Individuals",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education"
+        "Private institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "1a7530639af44b85",
@@ -43,9 +43,9 @@
       "eligibility": [
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
+        "Private institutions of higher education",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses",
-        "Private institutions of higher education"
+        "For profit organizations other than small businesses"
       ],
       "grant_disposition": "actionable",
       "id": "c1c2bc0b077c471d",
@@ -325,19 +325,19 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPXzhYQURIY2I0ZTJKVHJuMlo3dV9sVEZnLWxRX2lzamFUejExTlRncHJvTFpqQkFTOTVmMzUwaWtSOExlbENwbjBaOXlsT2UtM0g0Y0dzaFM0Q3M5M3c1WFBnQ3RVaVRqWHZjX2p6ektFeHR0MWhKaTdNYzVXQjV4MnZnbjFLQXJuSGI3b2dRdVlKUUpmc3RZREF0eUZoYUxKMzJR?oc=5"
     },
     {
-      "id": "219732b192165ca5",
+      "id": "937df72d2277986f",
       "matched_keywords": [
-        "summer school",
-        "summer camp",
-        "quantum"
+        "workshop",
+        "quantum",
+        "quantum computing"
       ],
-      "published": "2026-08-14T07:00:00Z",
-      "query": "quantum summer school",
-      "score": 8,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVlsYXhDdUtSSFpJQ0VHVTNsTl9UWjUxZWpzaVV2X3BydWtGVjdWckRzNUdUdE1HTGlwNTVLOVZtNHJta2ZJbVFudEhLU29maHVLR0xhajBmZnczMDRoYWpUNzBKM3MtVFVxY19HYlRjMkxvX0hJZEp1MjZmOGJwUFdmWXEwZFRkRlctS1RqRTJWMkR0OU9lUnZsdmxLWEJYSWo4WmFPOWpZaHUxYmhxX2RPbmNNSl9MeEV3WlM3b0cyby1yQ1VVMw?oc=5\" target=\"_blank\">Summer camp introduces students to quantum science</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rome Sentinel</font>",
-      "title": "Summer camp introduces students to quantum science - Rome Sentinel",
+      "published": "2026-09-15T10:57:34Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNOHBVU1hJSjFJNS0zb1lBakRkRmhuSFFoa1h3aXpPOGxhTXFVRXQ3S2FDNmhQazc2SGFEcDVleHJZVDlWeEhueThORjhXbEhhbEpXMHlPeDhxRzZRYzdkc3pXSGd3UG1XR1o4blJPbnR1Smg3Z1JRUTJPSl9IYU9QWWg0bw?oc=5\" target=\"_blank\">Kvantify Workshop Explores Tools For Efficient Quantum Programming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Kvantify Workshop Explores Tools For Efficient Quantum Programming - Quantum Zeitgeist",
       "type": "summer_programs",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVlsYXhDdUtSSFpJQ0VHVTNsTl9UWjUxZWpzaVV2X3BydWtGVjdWckRzNUdUdE1HTGlwNTVLOVZtNHJta2ZJbVFudEhLU29maHVLR0xhajBmZnczMDRoYWpUNzBKM3MtVFVxY19HYlRjMkxvX0hJZEp1MjZmOGJwUFdmWXEwZFRkRlctS1RqRTJWMkR0OU9lUnZsdmxLWEJYSWo4WmFPOWpZaHUxYmhxX2RPbmNNSl9MeEV3WlM3b0cyby1yQ1VVMw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOHBVU1hJSjFJNS0zb1lBakRkRmhuSFFoa1h3aXpPOGxhTXFVRXQ3S2FDNmhQazc2SGFEcDVleHJZVDlWeEhueThORjhXbEhhbEpXMHlPeDhxRzZRYzdkc3pXSGd3UG1XR1o4blJPbnR1Smg3Z1JRUTJPSl9IYU9QWWg0bw?oc=5"
     },
     {
       "id": "3d0932164252f015",
