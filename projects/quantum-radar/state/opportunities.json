@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-16T13:38:01Z",
+  "generated_at": "2026-09-19T13:35:06Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
         "Independent school districts",
-        "Small businesses",
-        "Individuals",
-        "Public and State controlled institutions of higher education",
-        "For profit organizations other than small businesses",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "For profit organizations other than small businesses",
+        "Small businesses",
+        "Public and State controlled institutions of higher education",
         "Private institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Individuals"
       ],
       "grant_disposition": "actionable",
       "id": "1a7530639af44b85",
@@ -41,11 +41,11 @@
       "application_source": "Grants.gov",
       "deadline": "2026-12-04",
       "eligibility": [
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
-        "Private institutions of higher education",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses"
+        "For profit organizations other than small businesses",
+        "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "c1c2bc0b077c471d",
@@ -156,38 +156,6 @@
       "title": "UChicago Student Builds Quantum Skills At PsiQuantum This Summer - Quantum Zeitgeist",
       "type": "other",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWT05tOFpndEV2ZVF6eXdVTTJmaC00emlnMFNCX0tqc3lvXzNfNGJTVjdwczd3UjJvbzN2ME5EQUtQVHBmWG9rSW52V1BiWEpqN1NuMnhyeWpWWnFuU05Nb3Z5WjlieFgyTXBJT3hpVjlOenlnVFE5alNSWQ?oc=5"
-    },
-    {
-      "id": "1c860b0c905735ad",
-      "matched_keywords": [
-        "internship",
-        "intern",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-04T07:00:00Z",
-      "query": "quantum computing internship",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnVBOEdXOEJuVHRLWGt0ZVVOUl9XOXVUNEYwbWgyWmxiV0JPTEFRWmlzS3FmOGdPN1drTFFUSGstUVlqejZzTFBTMVdjR0tyT0dOTHNFNDJKdEJKRk9uUkdsTThHb0o2WmpGdmoxU3RfSFFFTF8wSHdaMDIzV0NCZGo5SkpCazA2SmhDbw?oc=5\" target=\"_blank\">Building the Quantum Workforce of Tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "Building the Quantum Workforce of Tomorrow - The Quantum Insider",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnVBOEdXOEJuVHRLWGt0ZVVOUl9XOXVUNEYwbWgyWmxiV0JPTEFRWmlzS3FmOGdPN1drTFFUSGstUVlqejZzTFBTMVdjR0tyT0dOTHNFNDJKdEJKRk9uUkdsTThHb0o2WmpGdmoxU3RfSFFFTF8wSHdaMDIzV0NCZGo5SkpCazA2SmhDbw?oc=5"
-    },
-    {
-      "id": "46f69fcd80374900",
-      "matched_keywords": [
-        "internship",
-        "intern",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-04T07:00:00Z",
-      "query": "quantum computing internship",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVVQSHRWMVBYbFhsSXo4MzA3bi1Mc3hmWFY2S2FEYkx0eVFWLXBwVVVyMVJ2NDFXZUVBOFVFUHZvRmRiMzlsQVJWMzlJblFtU2dMYktYV29ZTWxaLURCVHdTRF9qY01faE02bXNTOHZ1S2p5R2dOTEMzS1NVdGFFZ2I0VQ?oc=5\" target=\"_blank\">The University of Oregon launches new master’s track bypassing PhD for quantum hardware jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "The University of Oregon launches new master’s track bypassing PhD for quantum hardware jobs - Quantum Zeitgeist",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOVVQSHRWMVBYbFhsSXo4MzA3bi1Mc3hmWFY2S2FEYkx0eVFWLXBwVVVyMVJ2NDFXZUVBOFVFUHZvRmRiMzlsQVJWMzlJblFtU2dMYktYV29ZTWxaLURCVHdTRF9qY01faE02bXNTOHZ1S2p5R2dOTEMzS1NVdGFFZ2I0VQ?oc=5"
     },
     {
       "application_source": "Grants.gov",
@@ -304,8 +272,8 @@
       "published": "",
       "query": "quantum technology",
       "score": 9,
-      "summary": "The Communications, Circuits, and Sensing-Systems (CCSS) Program supports innovative research in circuit and system hardware and signal processing techniques. CCSS also supports system and network architectures for communications and sensing to enable the next-generation cyber-physical systems (CPS) that leverage computation, communication, and sensing integrated with physical domains. CCSS invests in micro- and nano-electromechanical systems (MEMS/NEMS), physical, chemical, and biological sensing systems, neurotechnologies, and communication &amp; sensing circuits and systems. The goal is to create new complex and hybrid systems ranging from nano- to macro-scale with innovative engineering principles and solutions for a variety of applications including but not limited to healthcare, medicine, environmental and biological monitoring, communications, disaster mitigation, homeland security, intelligent transportation, manufacturing, energy, and smart buildings. CCSS encourages research proposals based on emerging technologies and applications for communications and sensing such as high-speed communications of terabits per second and beyond, sensing and imaging covering microwave to terahertz frequencies, personalized health monitoring and assistance, secured wireless connectivity and sensing for the Internet of Things, and dynamic-data-enabled autonomous systems through real-time sensing and learning.\n\r\n\nAreas managed by CCSS Program Directors (please contact Program Directors listed in the <a href=\"https://www.nsf.gov/staff/staff_list.jsp?orgId=96&amp;subDiv=y&amp;org=ECCS&amp;from_org=ECCS\">CCSS staff directory</a> for areas of interest):\n\r\n\nRF Circuits and Antennas for Communications and Sensing\n\r\n<ul>\r\n<li>RF Communications and Sensing Technologies from kHz to THz</li>\r\n<li>Antennas and Wave Propagation for Communications and Sensing</li>\r\n<li>Circuits and Systems for Secured Communications and Sensing</li>\r\n<li>Trusted Microelectronic Circuits</li>\r\n<li>RF Biomedical Applications and Remote Sensing</li>\r\n<li>Bio-mimetic Circuits and Systems</li>\r\n<li>Dynamic-data-enabled Reconfigurable RF Subsystems through Sensing and Machine Learning</li>\r\n<li>Wireless Energy Transfer and RF Energy Harvesting</li>\r\n</ul>\r\n\nCommunication Systems and Signal Processing\n\r\n<ul>\r\n<li>Wireless, Optical, and Hybrid Communications and Networking</li>\r\n<li>Full-duplex, massive MIMO, mm-Wave, and THz communications</li>\r\n<li>Spectrum Access and Sharing</li>\r\n<li>Integrated Sensing, Communication, and Computational Systems</li>\r\n<li>Signal Processing, image processing, and Compressive Sampling</li>\r\n<li>Cyber Physical Systems and Hardware-controlled Secured Communications</li>\r\n<li>Dynamic-data-enabled Communication Systems through Sensing and Machine Learning</li>\r\n<li>Quantum Communication Systems</li>\r\n</ul>\r\n\nDynamic Bio-Sensing Systems\n\r\n<ul>\r\n<li>Micro, Nano, and Bio Systems (MEMS/NEMS)</li>\r\n<li>Chemical, Biological, and Physical Diagnostics</li>\r\n<li>Sensors, Actuators, and Electronic Interfaces</li>\r\n<li>Ultra-Low Power Wearable and Implantable Sensing Systems</li>\r\n<li>Dynamic-data-enabled Reconfigurable Sensing Systems</li>\r\n<li>Personalized Health Monitoring Systems through Sensing and Machine Learning</li>\r\n<li>Neuroengineering and Brain-Inspired Concepts and Designs</li>\r\n</ul>",
-      "title": "Communications, Circuits, and Sensing-Systems",
+      "summary": "<p>The <strong>Communications, Circuits, and Sensing-Systems (CCSS) </strong>Program supports innovative research in circuit and system hardware and signal processing techniques. CCSS also supports system and network architectures for communications and sensing to enable the next-generation cyber-physical systems (CPS) that leverage computation, communication, and sensing integrated with physical domains. CCSS invests in micro- and nano-electromechanical systems (MEMS/NEMS), physical, chemical, and biological sensing systems, neurotechnologies, and communication &amp; sensing circuits and systems. The goal is to create new complex and hybrid systems ranging from nano- to macro-scale with innovative engineering principles and solutions for a variety of applications including but not limited to healthcare, medicine, environmental and biological monitoring, communications, disaster mitigation, homeland security, intelligent transportation, manufacturing, energy, and smart buildings. CCSS encourages research proposals based on emerging technologies and applications for communications and sensing such as high-speed communications of terabits per second and beyond, sensing and imaging covering microwave to terahertz frequencies, personalized health monitoring and assistance, secured wireless connectivity and sensing for the Internet of Things, and dynamic-data-enabled autonomous systems through real-time sensing and learning.</p>\n<p><em>Areas managed by CCSS Program Directors (please contact Program Directors listed in the <a href=\"https://www.nsf.gov/staff/staff_list.jsp?orgId=96&amp;subDiv=y&amp;org=ECCS&amp;from_org=ECCS\">CCSS staff directory</a> for areas of interest):</em></p>\n<p><strong>RF Circuits and Antennas for Communications and Sensing</strong>&nbsp;</p>\n<ul>\n<li>RF Communications and Sensing Technologies from kHz to THz</li>\n<li>Antennas and Wave Propagation for Communications and Sensing</li>\n<li>Circuits and Systems for Secured Communications and Sensing</li>\n<li>Trusted Microelectronic Circuits</li>\n<li>RF Biomedical Applications and Remote Sensing</li>\n<li>Bio-mimetic Circuits and Systems</li>\n<li>Dynamic-data-enabled Reconfigurable RF Subsystems through Sensing and Machine Learning</li>\n<li>Wireless Energy Transfer and RF Energy Harvesting</li>\n</ul>\n<p>&nbsp;<strong>Communication Systems and Signal Processing</strong>&nbsp;</p>\n<ul>\n<li>Wireless, Optical, and Hybrid Communications and Networking</li>\n<li>Full-duplex, massive MIMO, mm-Wave, and THz communications</li>\n<li>Spectrum Access and Sharing</li>\n<li>Integrated Sensing, Communication, and Computational Systems</li>\n<li>Signal Processing, image processing, and Compressive Sampling</li>\n<li>Cyber Physical Systems and Hardware-controlled Secured Communications</li>\n<li>Dynamic-data-enabled Communication Systems through Sensing and Machine Learning</li>\n<li>Quantum Communication Systems</li>\n</ul>\n<p>&nbsp;<strong>Dynamic Bio-Sensing Systems</strong></p>\n<ul>\n<li>Micro, Nano, and Bio Systems (MEMS/NEMS)</li>\n<li>Chemical, Biological, and Physical Diagnostics</li>\n<li>Sensors, Actuators, and Electronic Interfaces</li>\n<li>Ultra-Low Power Wearable and Implantable Sensing Systems</li>\n<li>Dynamic-data-enabled Reconfigurable Sensing Systems</li>\n<li>Personalized Health Monitoring Systems through Sensing and Machine Learning</li>\n<li>Neuroengineering and Brain-Inspired Concepts and Designs</li>\n</ul>",
+      "title": "Communications, Circuits, and Sensing-Systems (CCSS)",
       "type": "grants",
       "url": "https://www.grants.gov/search-results-detail/346204"
     },
@@ -325,6 +293,36 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPXzhYQURIY2I0ZTJKVHJuMlo3dV9sVEZnLWxRX2lzamFUejExTlRncHJvTFpqQkFTOTVmMzUwaWtSOExlbENwbjBaOXlsT2UtM0g0Y0dzaFM0Q3M5M3c1WFBnQ3RVaVRqWHZjX2p6ektFeHR0MWhKaTdNYzVXQjV4MnZnbjFLQXJuSGI3b2dRdVlKUUpmc3RZREF0eUZoYUxKMzJR?oc=5"
     },
     {
+      "id": "dc9c66002d796a0f",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-09-16T16:39:01Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8tc3VvQWtKMndhYWFhZlYzWDRrRUY5RVlRUHp4dy1LbmJNeGpxcVUyamdqV0JTUlVJS0I4a3NhRVF3LTRpTGQwMEx1djJxZEtVZ2RGcVdmVHdhX3prNklhWVVkaHBPS2F5VkI5cnFEdFdZWnNwUTRWNkpR?oc=5\" target=\"_blank\">Quantum Systems Aren’t Isolated, Workshop Explores How That Changes Chaos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Quantum Systems Aren’t Isolated, Workshop Explores How That Changes Chaos - Quantum Zeitgeist",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tc3VvQWtKMndhYWFhZlYzWDRrRUY5RVlRUHp4dy1LbmJNeGpxcVUyamdqV0JTUlVJS0I4a3NhRVF3LTRpTGQwMEx1djJxZEtVZ2RGcVdmVHdhX3prNklhWVVkaHBPS2F5VkI5cnFEdFdZWnNwUTRWNkpR?oc=5"
+    },
+    {
+      "id": "c2d0fa5a77492d38",
+      "matched_keywords": [
+        "hackathon",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-09-16T12:00:00Z",
+      "query": "quantum hackathon",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5zM2U4M2tYZHdkY1J4TC1Pbll1ZmpHT0VvS0FLRHBoSGI4SlkzWFlQT1FvQzM5Ny1TUG9yNTVYZmJQdTBKV1pWOHROTEo0SzRHZVJZcEhoRE9UWEZVOGE2MFdVUklXd1d3YW1qRmRPazJUSlU?oc=5\" target=\"_blank\">Want to explore Quantum Computing?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UPEI</font>",
+      "title": "Want to explore Quantum Computing? - UPEI",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zM2U4M2tYZHdkY1J4TC1Pbll1ZmpHT0VvS0FLRHBoSGI4SlkzWFlQT1FvQzM5Ny1TUG9yNTVYZmJQdTBKV1pWOHROTEo0SzRHZVJZcEhoRE9UWEZVOGE2MFdVUklXd1d3YW1qRmRPazJUSlU?oc=5"
+    },
+    {
       "id": "937df72d2277986f",
       "matched_keywords": [
         "workshop",
@@ -338,21 +336,6 @@
       "title": "Kvantify Workshop Explores Tools For Efficient Quantum Programming - Quantum Zeitgeist",
       "type": "summer_programs",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOHBVU1hJSjFJNS0zb1lBakRkRmhuSFFoa1h3aXpPOGxhTXFVRXQ3S2FDNmhQazc2SGFEcDVleHJZVDlWeEhueThORjhXbEhhbEpXMHlPeDhxRzZRYzdkc3pXSGd3UG1XR1o4blJPbnR1Smg3Z1JRUTJPSl9IYU9QWWg0bw?oc=5"
-    },
-    {
-      "id": "3d0932164252f015",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-09-11T14:56:06Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IVThzVWk1aW1LdGFNVThNMzBYZGJpRnlsT1BVYkhRc2pSd25tMFZiekFHS0dScVpMSGtSWkEzMzlHSDB2YXIxLTRJTVBqY3dDQVBnbHY0ckF6dknSAWBBVV95cUxQSk5ielVqblBZVkJOakJmSExSQjVWMFdJSkpETlpBYS0yQkp6cUU2ZGNyTi1rUjZuX2tXMmZWQXRaRlFoRXZIaXRhMlJidk9ESEJaYzM0d2ZpTzFuTHhVbWo?oc=5\" target=\"_blank\">Conferences</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
-      "title": "Conferences - Quantum Computing Report",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IVThzVWk1aW1LdGFNVThNMzBYZGJpRnlsT1BVYkhRc2pSd25tMFZiekFHS0dScVpMSGtSWkEzMzlHSDB2YXIxLTRJTVBqY3dDQVBnbHY0ckF6dknSAWBBVV95cUxQSk5ielVqblBZVkJOakJmSExSQjVWMFdJSkpETlpBYS0yQkp6cUU2ZGNyTi1rUjZuX2tXMmZWQXRaRlFoRXZIaXRhMlJidk9ESEJaYzM0d2ZpTzFuTHhVbWo?oc=5"
     },
     {
       "id": "b6656687604f89b5",
@@ -370,21 +353,6 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTExXU0RMVXQwYW12eTF4UjhYNGdOZ25tenhlTWF6c0NhWE5wZDRyS1JVMnB2ckNUdlZ2bEUwSzJyUml6b19aTVNEWXhFa0RMX3Y1Y05HSUR6S2w2Rm12RkNkd1JaNHE4WnFhclAxa045aUxqdXU0a0FMc1p6U1dRR0JXMlVKdG50c3I3RWFzeWdrMDloTHVFME1jMjJKMmNSV2k1ZTBlWmhfR0xtUXY1eTJjbUFUN19SMFUyMlc5cDlJUEplVDlrUzhlSErSAdIBQVVfeXFMTV9ueG5xME96aURyUW5zeTUyb0N1cmQzOEtVdl90MjRDeDJSbVlONkNVX2Z1TFhrN3hGVFM4ampVRHMwMzR6TDdGb25FbmN3aWU4cXBsNUZySnQtNVpQWV9SamhFX2J6R0E3WDlPY1hFWjBIbkxBdXhNRDNDcFFmM3V6Y1BKNHExTktEX0ZDWGl2NHViT1lVcXdIa2treG9xY0hOU2VFZE5lY1A4RkV4UVN1SEJqUlFfN05YZ2FfMVhiUFFnN1F1LUJnd29UcHE0a2Z3?oc=5"
     },
     {
-      "id": "c49d3ba2de4f20a3",
-      "matched_keywords": [
-        "hackathon",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-30T07:00:00Z",
-      "query": "quantum hackathon",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeFNHc2stczFiX3FzV2lzcllFRWI1Z2Rzc05DRHo0eEtKOWRWZ0FyOWNFdGdOamR6RkdPVU1sX3EtUHFrODhmMUt5NXVnTndYWElHejFfUUV3ZUk0X05yZjhnWWtzTDJXQzV5cjJubEp5eGdXWmU0?oc=5\" target=\"_blank\">National Taiwan U & IBM Hosted A Quantum Computing Hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "National Taiwan U & IBM Hosted A Quantum Computing Hackathon - Quantum Zeitgeist",
-      "type": "hackathons",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeFNHc2stczFiX3FzV2lzcllFRWI1Z2Rzc05DRHo0eEtKOWRWZ0FyOWNFdGdOamR6RkdPVU1sX3EtUHFrODhmMUt5NXVnTndYWElHejFfUUV3ZUk0X05yZjhnWWtzTDJXQzV5cjJubEp5eGdXWmU0?oc=5"
-    },
-    {
       "id": "286f2447b744425d",
       "matched_keywords": [
         "hackathon",
@@ -398,6 +366,36 @@
       "title": "MegazoneCloud and KISTI Wrap Up Quantum Computing Hackathon; CO₂-to-Ethylene Catalyst Project Takes Top Prize - finance.biggo.com",
       "type": "hackathons",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ScTg5MFJDVjF0UWFYQVlMdE1tWnRveUhoaVJ2UHhudW0zTnJhSm9iTUoyV1JEX0E0UlBiVGNrOWZFcU9VQTU5bnRnUTVvUmJYZEVlaFBzWXFUV2F5ZThZY1lIaXI1MWhRXzJfSFJUMllnaUVJcmc?oc=5"
+    },
+    {
+      "id": "6de96bcfcd461eba",
+      "matched_keywords": [
+        "hackathon",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-27T07:00:00Z",
+      "query": "quantum hackathon",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JMkpCUEY1NEgtODhxbU5JQ0UwSUNSSmZEWU9LZ0lYS213Sjh4amF4UmE0bUVrY1AtOV9XNFdUVUNVU1dMbUxqY3Njcw?oc=5\" target=\"_blank\">In the quantum computing hackathon co-hosted by Mega Zone Cloud and the Korea Institute of Science a..</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">매일경제</font>",
+      "title": "In the quantum computing hackathon co-hosted by Mega Zone Cloud and the Korea Institute of Science a.. - 매일경제",
+      "type": "hackathons",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JMkpCUEY1NEgtODhxbU5JQ0UwSUNSSmZEWU9LZ0lYS213Sjh4amF4UmE0bUVrY1AtOV9XNFdUVUNVU1dMbUxqY3Njcw?oc=5"
+    },
+    {
+      "id": "393603a752b4174d",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-25T09:28:40Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPc092MmhwWnR0OURyeGJFYVBxb3JySmNrOEZkM0dRb3ZwWUlBeTVSaDlHUzNEbXpvRjlib1pWTXJDX2JFdDZ4V0pVbnZ3ZTBRVWVFRmh1UEZZd0UtNGljbndHMW90WjNVYmVIR004THRjbF9JdnNCMHlMYnpBNVpORzJNU25YOUNGeGE5TXNrVWl5TFVGY25nRDMzdXVUWXpCZk1pc0RMNU5EMzdndGZmRGxSVXZmaVduQjVRcy1R?oc=5\" target=\"_blank\">OpenQSE workshop sets out deliverables for hybrid quantum-HPC software ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scientific Computing World</font>",
+      "title": "OpenQSE workshop sets out deliverables for hybrid quantum-HPC software ecosystem - Scientific Computing World",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc092MmhwWnR0OURyeGJFYVBxb3JySmNrOEZkM0dRb3ZwWUlBeTVSaDlHUzNEbXpvRjlib1pWTXJDX2JFdDZ4V0pVbnZ3ZTBRVWVFRmh1UEZZd0UtNGljbndHMW90WjNVYmVIR004THRjbF9JdnNCMHlMYnpBNVpORzJNU25YOUNGeGE5TXNrVWl5TFVGY25nRDMzdXVUWXpCZk1pc0RMNU5EMzdndGZmRGxSVXZmaVduQjVRcy1R?oc=5"
     }
   ]
 }
