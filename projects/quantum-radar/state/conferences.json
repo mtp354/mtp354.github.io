@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:57:25Z",
+  "generated_at": "2026-09-19T12:52:00Z",
   "items": [
     {
       "category": "academic",
@@ -133,17 +133,30 @@
       "url": "https://iqtevent.com/"
     },
     {
-      "category": "industry",
+      "category": "academic",
       "end_date": "",
-      "id": "1bde06de2194cd63",
+      "id": "34f43fc267a48535",
       "location": "",
-      "name": "FinQbit Returns To Q-Con, A Quantum Business Conference In Gdańsk - Quantum Zeitgeist",
+      "name": "IonQ (NYSE: IONQ) Wins Four Best Paper Awards At IEEE Quantum Conference Across Key Research Tracks - foreignpolicyjournal.com",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
-      "published": "2026-09-16T07:29:14Z",
+      "published": "2026-09-17T01:56:00Z",
       "source": "discovery",
       "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHWUNRYWZVNjNqVHNrbTA4Q1F5LXdMYVM4clJMRVBEbDIySlk0b0pJbllCZnJlbk81Y3RPUVJCYmpwQnByMm1pVGtscG1NRWZFc3VtTUxmUkpwd3p3TXQySEkxRkctZHFHWnU5SUlBLXQ3X3FINDBYV0RB?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU09uZjhQSzNOeTgycGVpV1ZPc2VaT3FxZGdHUnQxb2VfQ09sVmgxYzEzM3U5NmdYYXpZMlM3aWZuWjhvZl8waFp2cXJKUDVJWlpHTXhQSVpJaXpxYmlzaGJCTWo0RDNReUNtd1RhYW9sNGliMXByYmczTjBQWDFIbllJTnBlT1d1c1QyVU5BOGxaV0hHd0dBUlVnRnJIZUYwSzZzd21yQW5GNEw4OGs3bThvWml4aUViUjAybWFGMkdxb2trUHF3UHcxbzJnMVF6bW5UZ3RLVWpkR3FFa1E?oc=5"
+    },
+    {
+      "category": "industry",
+      "end_date": "",
+      "id": "6da84d057b1cbc4a",
+      "location": "",
+      "name": "D-Wave to Host Qubits Asia 2026 Quantum Computing User Conference in Seoul - Business Wire",
+      "notes": "Newly announced or indexed; verify dates on the linked page.",
+      "organizer": "",
+      "published": "2026-09-17T00:00:00Z",
+      "source": "discovery",
+      "start_date": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVzVURGVGZ251WV84ZWxzR3NBcktlcExHdXNlWndXZ0VHcjFuaUNCMDRaVF9fZVFIZU51NDJwNGtyMGUwZk1Zc0kyRHgwYUhydkVvRjRZRUhZajRBTDM4MXBQOGJ0YXlaT3FQZ0wzdE5nSW1pS0NNTXBvREZNN0RRLXhFS0NVMklsaXp2elh1MnhobWdMdl9qeEFiZ2hBNmU1SUEwcksxcnVDaGhpRFZJMjBDWEFNM2t6aU5tdTJtRklVUmpDY1pyanBYRQ?oc=5"
     },
     {
       "category": "academic",
@@ -174,19 +187,6 @@
     {
       "category": "industry",
       "end_date": "",
-      "id": "d53e3c63fc39d4b5",
-      "location": "",
-      "name": "Mountain West AI & HPC Summit - University of Wyoming",
-      "notes": "Newly announced or indexed; verify dates on the linked page.",
-      "organizer": "",
-      "published": "2026-09-02T07:00:00Z",
-      "source": "discovery",
-      "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWC1xRE0yeGJqa3dXUEd0N2NaWG9oWENfUm1IVTlfWVp0REtZV1ZiRFBVUXotaGdhRHNOYmF0TkpHS3VqX0pMUURld1dNZGhFOFBqdnppajNfRjRYSUhSNlNhT1A3dXNXMnhvWlllT3o0T0tVSmp2elV0U01KWWpSVl9B?oc=5"
-    },
-    {
-      "category": "industry",
-      "end_date": "",
       "id": "8727632349154eaa",
       "location": "",
       "name": "Carney’s summit to push Canadian resources, defence and tech to global investors - The Globe and Mail",
@@ -198,17 +198,17 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWmYxRkJRWmpEMmN2RTdLc3dyX1RjQmhGVVpHMHhDLVdZYi1Zd1JLM3BhYWVzUHgtU3RydVZOOHU2MmhPT2Qyc0JXdFIyYXJsRno5R1cxRFNVR05lLVVZdUxvWkFpMk5EY296UFNfd182VEVGWkJ2MjVBLTkxMm1acV9ocm1PV0Y4VjRyVGg4UExLd210ZDNOZHA4SDB2eV81aXE3R29IamhTTy1YTGhFdkQ0NA?oc=5"
     },
     {
-      "category": "academic",
+      "category": "industry",
       "end_date": "",
-      "id": "d4924c5af9967063",
+      "id": "d53e3c63fc39d4b5",
       "location": "",
-      "name": "Quantum Computing Inc. To Attend Lake Street Capital Markets 10th Annual Best Ideas Growth (Big10) Conference - PR Newswire",
+      "name": "Mountain West AI & HPC Summit - University of Wyoming",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
-      "published": "2026-08-31T07:00:00Z",
+      "published": "2026-09-02T07:00:00Z",
       "source": "discovery",
       "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNklWLWtZSnRvZHlIVVJ5SVFCOC15VXg3NjcwRlF1ZEgyWDU2X2k2V0VwY19wX205UTFfVzhhc29ZckEtUnBoSG80cXhjeWNpZmc2LWdqYmxSanBWenFIOVpEVVRTZnExUWNkd04wUGtxdXJna1N3QWlTYWJ4OTl2S01GcGk1Y21ST0x4YndsQTZpRm8yai1GT0xtNFNvUXVXYWR0cml1dDhyUXotVEI1b0Z4V1dEM3pxbVBvOGJOclJBOG9ERWFUV1llMWVxcHhuODlDS2xRTmxRQlVFbW1ad2NWV3VGdXdSamwwV2tnekM3dzFq?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWC1xRE0yeGJqa3dXUEd0N2NaWG9oWENfUm1IVTlfWVp0REtZV1ZiRFBVUXotaGdhRHNOYmF0TkpHS3VqX0pMUURld1dNZGhFOFBqdnppajNfRjRYSUhSNlNhT1A3dXNXMnhvWlllT3o0T0tVSmp2elV0U01KWWpSVl9B?oc=5"
     },
     {
       "category": "industry",
@@ -239,9 +239,9 @@
     {
       "category": "industry",
       "end_date": "",
-      "id": "85012d1f7e2891a2",
+      "id": "2db36a067b2a0e8d",
       "location": "",
-      "name": "Leaders of Quantum Revolution To Converge at Summit - News Center | UT Dallas",
+      "name": "Leaders of Quantum Revolution To Converge at Summit - The University of Texas at Dallas",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
       "published": "2026-08-04T07:00:00Z",
@@ -252,9 +252,9 @@
     {
       "category": "industry",
       "end_date": "",
-      "id": "8ae90d5df15982b1",
+      "id": "41de08315ebb05d6",
       "location": "",
-      "name": "The City Quantum & AI Summit to Examine How Industries Can Work Together as Quantum Computing and AI Advance - thequantuminsider.com",
+      "name": "The City Quantum & AI Summit to Examine How Industries Can Work Together as Quantum Computing and AI Advance - The Quantum Insider",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
       "published": "2026-07-28T07:00:00Z",
@@ -356,9 +356,9 @@
     {
       "category": "industry",
       "end_date": "",
-      "id": "196084177ad6e56f",
+      "id": "fed61e97ae6df12a",
       "location": "",
-      "name": "White House to Convene Quantum Industry Summit as Administration Pushes Innovation Agenda - thequantuminsider.com",
+      "name": "White House to Convene Quantum Industry Summit as Administration Pushes Innovation Agenda - The Quantum Insider",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
       "published": "2026-07-07T07:00:00Z",
@@ -369,9 +369,9 @@
     {
       "category": "industry",
       "end_date": "",
-      "id": "08f1bcd386b465ff",
+      "id": "2031f92fef3c4a33",
       "location": "",
-      "name": "White House to host quantum tech summit with industry Tuesday - nextgov.com",
+      "name": "White House to host quantum tech summit with industry Tuesday - Nextgov/FCW",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
       "published": "2026-07-06T07:00:00Z",
