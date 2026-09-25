@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-22T13:38:39Z",
+  "generated_at": "2026-09-25T13:38:09Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education",
-        "Individuals",
+        "Independent school districts",
         "Small businesses",
         "For profit organizations other than small businesses",
-        "Independent school districts",
-        "Private institutions of higher education"
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Individuals"
       ],
       "grant_disposition": "actionable",
       "id": "1a7530639af44b85",
@@ -41,11 +41,11 @@
       "application_source": "Grants.gov",
       "deadline": "2026-12-04",
       "eligibility": [
-        "Private institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Private institutions of higher education",
+        "For profit organizations other than small businesses",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "c1c2bc0b077c471d",
@@ -239,21 +239,6 @@
       "url": "https://www.grants.gov/search-results-detail/362063"
     },
     {
-      "id": "f17b6832ddc95a77",
-      "matched_keywords": [
-        "summer school",
-        "quantum",
-        "quantum technology"
-      ],
-      "published": "2026-08-25T07:00:00Z",
-      "query": "quantum summer school",
-      "score": 8,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9zVGNON2MwV2xfelJUVnFiaU1WX3RyT3V1cmIyTFdhTTlzVnA2aWVET3BET3JuZXJuZ1RGOTR5SEtFanAwcDdjX2lxRVpjWkV0bFRqaWtpQThEQVpHYl90T29URDdTWTAxX0Fj?oc=5\" target=\"_blank\">Quantum Technology in Focus as Minister Visits SDU</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">sdu.dk</font>",
-      "title": "Quantum Technology in Focus as Minister Visits SDU - sdu.dk",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zVGNON2MwV2xfelJUVnFiaU1WX3RyT3V1cmIyTFdhTTlzVnA2aWVET3BET3JuZXJuZ1RGOTR5SEtFanAwcDdjX2lxRVpjWkV0bFRqaWtpQThEQVpHYl90T29URDdTWTAxX0Fj?oc=5"
-    },
-    {
       "application_source": "Grants.gov",
       "deadline": "2026-11-03",
       "eligibility": [
@@ -293,7 +278,7 @@
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tc3VvQWtKMndhYWFhZlYzWDRrRUY5RVlRUHp4dy1LbmJNeGpxcVUyamdqV0JTUlVJS0I4a3NhRVF3LTRpTGQwMEx1djJxZEtVZ2RGcVdmVHdhX3prNklhWVVkaHBPS2F5VkI5cnFEdFdZWnNwUTRWNkpR?oc=5"
     },
     {
-      "id": "5eba276c08264765",
+      "id": "c2d0fa5a77492d38",
       "matched_keywords": [
         "hackathon",
         "quantum",
@@ -302,8 +287,8 @@
       "published": "2026-09-16T12:00:00Z",
       "query": "quantum hackathon",
       "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5zM2U4M2tYZHdkY1J4TC1Pbll1ZmpHT0VvS0FLRHBoSGI4SlkzWFlQT1FvQzM5Ny1TUG9yNTVYZmJQdTBKV1pWOHROTEo0SzRHZVJZcEhoRE9UWEZVOGE2MFdVUklXd1d3YW1qRmRPazJUSlU?oc=5\" target=\"_blank\">Want to explore Quantum Computing?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">upei.ca</font>",
-      "title": "Want to explore Quantum Computing? - upei.ca",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5zM2U4M2tYZHdkY1J4TC1Pbll1ZmpHT0VvS0FLRHBoSGI4SlkzWFlQT1FvQzM5Ny1TUG9yNTVYZmJQdTBKV1pWOHROTEo0SzRHZVJZcEhoRE9UWEZVOGE2MFdVUklXd1d3YW1qRmRPazJUSlU?oc=5\" target=\"_blank\">Want to explore Quantum Computing?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UPEI</font>",
+      "title": "Want to explore Quantum Computing? - UPEI",
       "type": "other",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zM2U4M2tYZHdkY1J4TC1Pbll1ZmpHT0VvS0FLRHBoSGI4SlkzWFlQT1FvQzM5Ny1TUG9yNTVYZmJQdTBKV1pWOHROTEo0SzRHZVJZcEhoRE9UWEZVOGE2MFdVUklXd1d3YW1qRmRPazJUSlU?oc=5"
     },
@@ -314,7 +299,7 @@
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-09-15T10:57:34Z",
+      "published": "2026-09-14T07:00:00Z",
       "query": "quantum computing workshop students",
       "score": 7,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNOHBVU1hJSjFJNS0zb1lBakRkRmhuSFFoa1h3aXpPOGxhTXFVRXQ3S2FDNmhQazc2SGFEcDVleHJZVDlWeEhueThORjhXbEhhbEpXMHlPeDhxRzZRYzdkc3pXSGd3UG1XR1o4blJPbnR1Smg3Z1JRUTJPSl9IYU9QWWg0bw?oc=5\" target=\"_blank\">Kvantify Workshop Explores Tools For Efficient Quantum Programming</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
@@ -353,21 +338,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeFNHc2stczFiX3FzV2lzcllFRWI1Z2Rzc05DRHo0eEtKOWRWZ0FyOWNFdGdOamR6RkdPVU1sX3EtUHFrODhmMUt5NXVnTndYWElHejFfUUV3ZUk0X05yZjhnWWtzTDJXQzV5cjJubEp5eGdXWmU0?oc=5"
     },
     {
-      "id": "419e645b71af2bb1",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-28T07:00:00Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQl9KMlI1ZUwwUmZTc0djdWRxMU1ZUDlaR1U5UHFhbHowRC04QjJFOHRrTDB2clA3N0NSQWRWZjIwc1hhUF9EU1hOVmhVVDUzOEoxNndsckswQnl1Yk12cQ?oc=5\" target=\"_blank\">IEEE Quantum Week 2026, Essential Toronto Event, Register Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "IEEE Quantum Week 2026, Essential Toronto Event, Register Now - Quantum Zeitgeist",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQl9KMlI1ZUwwUmZTc0djdWRxMU1ZUDlaR1U5UHFhbHowRC04QjJFOHRrTDB2clA3N0NSQWRWZjIwc1hhUF9EU1hOVmhVVDUzOEoxNndsckswQnl1Yk12cQ?oc=5"
-    },
-    {
       "id": "286f2447b744425d",
       "matched_keywords": [
         "hackathon",
@@ -396,6 +366,36 @@
       "title": "In the quantum computing hackathon co-hosted by Mega Zone Cloud and the Korea Institute of Science a.. - 매일경제",
       "type": "hackathons",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JMkpCUEY1NEgtODhxbU5JQ0UwSUNSSmZEWU9LZ0lYS213Sjh4amF4UmE0bUVrY1AtOV9XNFdUVUNVU1dMbUxqY3Njcw?oc=5"
+    },
+    {
+      "id": "393603a752b4174d",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-25T09:28:40Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPc092MmhwWnR0OURyeGJFYVBxb3JySmNrOEZkM0dRb3ZwWUlBeTVSaDlHUzNEbXpvRjlib1pWTXJDX2JFdDZ4V0pVbnZ3ZTBRVWVFRmh1UEZZd0UtNGljbndHMW90WjNVYmVIR004THRjbF9JdnNCMHlMYnpBNVpORzJNU25YOUNGeGE5TXNrVWl5TFVGY25nRDMzdXVUWXpCZk1pc0RMNU5EMzdndGZmRGxSVXZmaVduQjVRcy1R?oc=5\" target=\"_blank\">OpenQSE workshop sets out deliverables for hybrid quantum-HPC software ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scientific Computing World</font>",
+      "title": "OpenQSE workshop sets out deliverables for hybrid quantum-HPC software ecosystem - Scientific Computing World",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc092MmhwWnR0OURyeGJFYVBxb3JySmNrOEZkM0dRb3ZwWUlBeTVSaDlHUzNEbXpvRjlib1pWTXJDX2JFdDZ4V0pVbnZ3ZTBRVWVFRmh1UEZZd0UtNGljbndHMW90WjNVYmVIR004THRjbF9JdnNCMHlMYnpBNVpORzJNU25YOUNGeGE5TXNrVWl5TFVGY25nRDMzdXVUWXpCZk1pc0RMNU5EMzdndGZmRGxSVXZmaVduQjVRcy1R?oc=5"
+    },
+    {
+      "id": "dba0a7cc40f7e715",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-25T07:00:00Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE14eHZUc3FtNi0yWWtqMEZoN0VER0tUcDVkYjlJUWtGRGE3cFVYemREaEFYTVgxLTUyNi1yZjR1MFZnQl81aDVzQ01RSk80UW9MbEFCclBIMmdFdDRKSkJkMjZuaklSbGI5azcyVXdET25vd2VV?oc=5\" target=\"_blank\">OpenQSE Workshop Forms Six Groups To Build Quantum-HPC Software Stack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "OpenQSE Workshop Forms Six Groups To Build Quantum-HPC Software Stack - Quantum Zeitgeist",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14eHZUc3FtNi0yWWtqMEZoN0VER0tUcDVkYjlJUWtGRGE3cFVYemREaEFYTVgxLTUyNi1yZjR1MFZnQl81aDVzQ01RSk80UW9MbEFCclBIMmdFdDRKSkJkMjZuaklSbGI5azcyVXdET25vd2VV?oc=5"
     }
   ]
 }
