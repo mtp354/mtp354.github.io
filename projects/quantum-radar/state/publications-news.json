@@ -1,8 +1,54 @@
 {
-  "generated_at": "2026-09-25T11:24:34Z",
+  "generated_at": "2026-09-27T11:22:36Z",
   "news": [
     {
-      "id": "ac108be65fa7696e",
+      "id": "c99e04da778f460c",
+      "matched_keywords": [
+        "quantum computing",
+        "error correction",
+        "surface code",
+        "logical qubit"
+      ],
+      "published": "2026-09-25T00:43:35Z",
+      "query": "quantum error correction",
+      "score": 12,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWUdCR1RyZEhLUDZidE4zVGpJeHZVdGZXYWtlbWhVS1ViLVYzOFZhZVVYb2oxUTY2UjNQRGRkZno0MFBac1ZKTXJ6UzRMclpsRjc5TmZERk1FRThQS1NpYUR3Qmd3VVByS2VwT0MwZWh3dWZZR19FOVcxODR4NlMtVnlkTnJOQTlETy16QjNVd1N3UUFYV01aQmpQSzV2MW5meWhnczhXMnZsTzVkWTZ6bjRIMmpNM3Y5cWVqaVB2NkxibEpMSkpRc9IBzgFBVV95cUxNejEzX0Y2dVAzTDktQmpRNWlpTENUUmV4X3NWMWZmcDNLVmN5cmVQSW52VEJ0R2ZqWnphQlJWS0hienhyeS1Odm4yZXQxT213V1ZpbGZnMjM2dkZQa1F3djZkeFZ6NV9jMC1CYTRua2tOMUJUdkctakRSOWtKby1ENE84MjVfQVpvUy1CcTl2aEMtaWcwRXhkeDFCbW5MWDd6RXFkYmxGN3RXSF9tQ1V1bDk3YXZ6MFc2clJ5OUpPN0RPN0NqX1ZvT1VEOEpGZw?oc=5\" target=\"_blank\">Patenting Quantum Computing Innovations – Part 3: Implementing a Logical Qubit in a Surface Code</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "Patenting Quantum Computing Innovations – Part 3: Implementing a Logical Qubit in a Surface Code - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWUdCR1RyZEhLUDZidE4zVGpJeHZVdGZXYWtlbWhVS1ViLVYzOFZhZVVYb2oxUTY2UjNQRGRkZno0MFBac1ZKTXJ6UzRMclpsRjc5TmZERk1FRThQS1NpYUR3Qmd3VVByS2VwT0MwZWh3dWZZR19FOVcxODR4NlMtVnlkTnJOQTlETy16QjNVd1N3UUFYV01aQmpQSzV2MW5meWhnczhXMnZsTzVkWTZ6bjRIMmpNM3Y5cWVqaVB2NkxibEpMSkpRc9IBzgFBVV95cUxNejEzX0Y2dVAzTDktQmpRNWlpTENUUmV4X3NWMWZmcDNLVmN5cmVQSW52VEJ0R2ZqWnphQlJWS0hienhyeS1Odm4yZXQxT213V1ZpbGZnMjM2dkZQa1F3djZkeFZ6NV9jMC1CYTRua2tOMUJUdkctakRSOWtKby1ENE84MjVfQVpvUy1CcTl2aEMtaWcwRXhkeDFCbW5MWDd6RXFkYmxGN3RXSF9tQ1V1bDk3YXZ6MFc2clJ5OUpPN0RPN0NqX1ZvT1VEOEpGZw?oc=5"
+    },
+    {
+      "id": "69a617c27cae34ab",
+      "matched_keywords": [
+        "quantum computing",
+        "logical qubit",
+        "neutral atom"
+      ],
+      "published": "2026-09-26T09:08:41Z",
+      "query": "neutral atom quantum computing",
+      "score": 9,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1TamxZNGNFRVowZDhMUUZ5MzdEVzV2XzBJR1d5RU1KdmZGMUhiWDg4eVBWRjFYcE5hWVdMM05XXzdPclJReUUxREtHMVhDVFpUVjVoaFZPTE51OVJfc2tRUk04aVgtRVJwTXN0TVVQQjVZRnNf?oc=5\" target=\"_blank\">Infleqtion Entangles 30 Logical Qubits On Sqale Computer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Infleqtion Entangles 30 Logical Qubits On Sqale Computer - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TamxZNGNFRVowZDhMUUZ5MzdEVzV2XzBJR1d5RU1KdmZGMUhiWDg4eVBWRjFYcE5hWVdMM05XXzdPclJReUUxREtHMVhDVFpUVjVoaFZPTE51OVJfc2tRUk04aVgtRVJwTXN0TVVQQjVZRnNf?oc=5"
+    },
+    {
+      "id": "75601b4be3faeafe",
+      "matched_keywords": [
+        "quantum computing",
+        "logical qubit",
+        "neutral atom"
+      ],
+      "published": "2026-09-25T06:26:33Z",
+      "query": "neutral atom quantum computing",
+      "score": 9,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1pMZlZyUXhDbjBkSDE2RTNCRzdGX1pUVVNCWHZuQTZyV3pVMmNQeUZ0cUhjNER4R0VnTmlkbEVMaHpVdXZwelJXM3FrV0M1MEFGQmpPYlFweWswVlMycm55c3I5ZVdUMnE1OU10OEFLYzhMQm5aQUNnaG01VGItbW9FQl8wcjBPVUJYbm83bVdRemhRTzBMV1JDNFdmc3ZBRnc3dUM0V1VUdTd3MkpabVVyVW95MDgzOWhPdGtjUlXSAcYBQVVfeXFMUEgxdjdNdHhxS3c4SkZXWDB6Q2dhWE10UVhhaV8yNlBRd0dsSDdaOWRBdHFPVkxZbTd1VUlrM1JQVklLSVlMR2NJdzFqSmppaVRMUmtQdmxWSnhTZUNYWlh1UUl1Rk1iVHFkMGlJRi1NTE41VkxwWFhFY3BqQUxmelB1UUVqUXRiV29KMEdKdUU3eU9hUFZmUkxuWU5KamhYTjVVSWlTZlk4WE1GakRwbzBqbGd1ZzVob0F5cjF0ekxFVUVRa0V3?oc=5\" target=\"_blank\">Infleqtion Achieves 30 Entangled Logical Qubits on Sqale Neutral-Atom Quantum Processor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "Infleqtion Achieves 30 Entangled Logical Qubits on Sqale Neutral-Atom Quantum Processor - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1pMZlZyUXhDbjBkSDE2RTNCRzdGX1pUVVNCWHZuQTZyV3pVMmNQeUZ0cUhjNER4R0VnTmlkbEVMaHpVdXZwelJXM3FrV0M1MEFGQmpPYlFweWswVlMycm55c3I5ZVdUMnE1OU10OEFLYzhMQm5aQUNnaG01VGItbW9FQl8wcjBPVUJYbm83bVdRemhRTzBMV1JDNFdmc3ZBRnc3dUM0V1VUdTd3MkpabVVyVW95MDgzOWhPdGtjUlXSAcYBQVVfeXFMUEgxdjdNdHhxS3c4SkZXWDB6Q2dhWE10UVhhaV8yNlBRd0dsSDdaOWRBdHFPVkxZbTd1VUlrM1JQVklLSVlMR2NJdzFqSmppaVRMUmtQdmxWSnhTZUNYWlh1UUl1Rk1iVHFkMGlJRi1NTE41VkxwWFhFY3BqQUxmelB1UUVqUXRiV29KMEdKdUU3eU9hUFZmUkxuWU5KamhYTjVVSWlTZlk4WE1GakRwbzBqbGd1ZzVob0F5cjF0ekxFVUVRa0V3?oc=5"
+    },
+    {
+      "id": "b51749a7b10c108e",
       "matched_keywords": [
         "quantum computing",
         "logical qubit",
@@ -12,8 +58,8 @@
       "query": "neutral atom quantum computing",
       "score": 9,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd285OGxGQXVmRDBHdkhObnhyQ3Y2SmJ5Tm5GMGpiOGpudm1Ia0tpMVpEbVBycHlkaVdtbmozekNMMURxYmdJUFRBTHFfd0pWallObTB2a3U1ZkFMR2NPNEZQZVZFWFRIbnExaFc1RmRVX3RRalBUWVZwSmhLeEhrR1RsNFllU0NPeURqUVpMMy1sSEVMUWhXRm1GSTZWMXNWVlRBSk84cjVDVU50cmxaWHFWLV96OGU4N0dr?oc=5\" target=\"_blank\">Infleqtion Achieves 30 Entangled Logical Qubits on Its Sqale Quantum Computer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thequantuminsider.com</font>",
-      "title": "Infleqtion Achieves 30 Entangled Logical Qubits on Its Sqale Quantum Computer - thequantuminsider.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd285OGxGQXVmRDBHdkhObnhyQ3Y2SmJ5Tm5GMGpiOGpudm1Ia0tpMVpEbVBycHlkaVdtbmozekNMMURxYmdJUFRBTHFfd0pWallObTB2a3U1ZkFMR2NPNEZQZVZFWFRIbnExaFc1RmRVX3RRalBUWVZwSmhLeEhrR1RsNFllU0NPeURqUVpMMy1sSEVMUWhXRm1GSTZWMXNWVlRBSk84cjVDVU50cmxaWHFWLV96OGU4N0dr?oc=5\" target=\"_blank\">Infleqtion Achieves 30 Entangled Logical Qubits on Its Sqale Quantum Computer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "Infleqtion Achieves 30 Entangled Logical Qubits on Its Sqale Quantum Computer - The Quantum Insider",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd285OGxGQXVmRDBHdkhObnhyQ3Y2SmJ5Tm5GMGpiOGpudm1Ia0tpMVpEbVBycHlkaVdtbmozekNMMURxYmdJUFRBTHFfd0pWallObTB2a3U1ZkFMR2NPNEZQZVZFWFRIbnExaFc1RmRVX3RRalBUWVZwSmhLeEhrR1RsNFllU0NPeURqUVpMMy1sSEVMUWhXRm1GSTZWMXNWVlRBSk84cjVDVU50cmxaWHFWLV96OGU4N0dr?oc=5"
     },
     {
@@ -47,7 +93,7 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2LUxsbGVsOGpLUE1Sb2VhOTNKNnQwd2k2TzdzVFBHXzR4ZlpLeUhDNWNMdUl5NnRQUWE0Y2pXRXdabkNJM3I4Q3JySVdWdmRkb0FZanZkX2RaRlYyMHVYVWY0Q3k1ZmtJX3VzN3M4TV9XeUhrZnc?oc=5"
     },
     {
-      "id": "6faec43563fc9eff",
+      "id": "bd2f75be33c54c88",
       "matched_keywords": [
         "quantum computing",
         "error correction",
@@ -57,121 +103,79 @@
       "query": "fault tolerant quantum computing",
       "score": 9,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOC1reW82SzFtb2hVdjhhR3RvdFRtOHd3V0hUZmpKZUoyNHhUc0NZTnFZVllFREt0Nm03eUc0TS1TbUhsc0Jxb3E4LV9ycmJXM09lalB3T2RBMWZYLXloTUJTQ21jcnVQMm9MT21hRnpuSWVmY3JudFdnM0RYWHp4VVdiSngwOUF3RU4wS1RJRFZQem1VMmtEYmVQaTZqTVlRcjhsWG1CNE9IZkdwSFpIVzd5NmFFRHBQVTNOQ0Q5S29wZjFmQUl4MlEteFhfb2ZDeGJWV1BiakJZd0kyQkdqQQ?oc=5\" target=\"_blank\">Improving Quantum Error Correction By Meshing Surface Code With IBM’s Heavy-Hex Architecture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Next Platform</font>",
-      "title": "Improving Quantum Error Correction By Meshing Surface Code With IBM’s Heavy-Hex Architecture - The Next Platform",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOC1reW82SzFtb2hVdjhhR3RvdFRtOHd3V0hUZmpKZUoyNHhUc0NZTnFZVllFREt0Nm03eUc0TS1TbUhsc0Jxb3E4LV9ycmJXM09lalB3T2RBMWZYLXloTUJTQ21jcnVQMm9MT21hRnpuSWVmY3JudFdnM0RYWHp4VVdiSngwOUF3RU4wS1RJRFZQem1VMmtEYmVQaTZqTVlRcjhsWG1CNE9IZkdwSFpIVzd5NmFFRHBQVTNOQ0Q5S29wZjFmQUl4MlEteFhfb2ZDeGJWV1BiakJZd0kyQkdqQQ?oc=5\" target=\"_blank\">Improving Quantum Error Correction By Meshing Surface Code With IBM’s Heavy-Hex Architecture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nextplatform.com</font>",
+      "title": "Improving Quantum Error Correction By Meshing Surface Code With IBM’s Heavy-Hex Architecture - nextplatform.com",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQOC1reW82SzFtb2hVdjhhR3RvdFRtOHd3V0hUZmpKZUoyNHhUc0NZTnFZVllFREt0Nm03eUc0TS1TbUhsc0Jxb3E4LV9ycmJXM09lalB3T2RBMWZYLXloTUJTQ21jcnVQMm9MT21hRnpuSWVmY3JudFdnM0RYWHp4VVdiSngwOUF3RU4wS1RJRFZQem1VMmtEYmVQaTZqTVlRcjhsWG1CNE9IZkdwSFpIVzd5NmFFRHBQVTNOQ0Q5S29wZjFmQUl4MlEteFhfb2ZDeGJWV1BiakJZd0kyQkdqQQ?oc=5"
     },
     {
-      "id": "1e789418500ac710",
+      "id": "6340055ade508e2c",
       "matched_keywords": [
         "quantum computing",
-        "logical qubit"
+        "quantum algorithm"
       ],
-      "published": "2026-09-25T09:08:40Z",
+      "published": "2026-09-27T09:01:57Z",
       "query": "quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBsYjJvUXdRbXl6ZE5wSUtJLXdjYS1Xd2sySU5USmktV2x1bjE2aUZsbmMzWEJqRmJlNDdfaHg0blEwRl9LWXFOWEtra1kzcmZYM0ZtQ2NQZXRrd3Ffd0xnZE9wd18wcmFkTUwxZTVtMFFheEk3X25yYkdTZw?oc=5\" target=\"_blank\">Researchers from Microsoft and Qolab define Scalable Logical Qubits for useful quantum computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Researchers from Microsoft and Qolab define Scalable Logical Qubits for useful quantum computers - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsYjJvUXdRbXl6ZE5wSUtJLXdjYS1Xd2sySU5USmktV2x1bjE2aUZsbmMzWEJqRmJlNDdfaHg0blEwRl9LWXFOWEtra1kzcmZYM0ZtQ2NQZXRrd3Ffd0xnZE9wd18wcmFkTUwxZTVtMFFheEk3X25yYkdTZw?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNMmhBOExoUXJxdE9CU0dxYTdMRWxfaVV1SklmSHpjZjVvZHItZ1FnRnp1ZktKc1VLSWJCeFpYY3p3UnZ6dHA1TXdQbkVLLWFZSGRBMjljQi16UkZ4SnRjWlRRWlg4cFdSa04zZnpGdjZ2V3lyRjBHWUlUYURCMVdEQ2ln?oc=5\" target=\"_blank\">Quantum Algorithms Gain From Filtered-state Preparation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Quantum Algorithms Gain From Filtered-state Preparation - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMmhBOExoUXJxdE9CU0dxYTdMRWxfaVV1SklmSHpjZjVvZHItZ1FnRnp1ZktKc1VLSWJCeFpYY3p3UnZ6dHA1TXdQbkVLLWFZSGRBMjljQi16UkZ4SnRjWlRRWlg4cFdSa04zZnpGdjZ2V3lyRjBHWUlUYURCMVdEQ2ln?oc=5"
     },
     {
-      "id": "66a4f616885961b7",
+      "id": "22e23dafff5feda6",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-09-25T09:08:40Z",
+      "published": "2026-09-26T20:43:36Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNbUxtUGVzYzNOcW5OM0JnenNjR2s5dTNFdnhqS0YwN3RQRWRSMjdYZjJrZkVNVV9TdDFNZTFxa3BrRWQ2VW54NkJCanp1U2RfUUhnRE1SVnJ2c0tuRWszUW90ZnBvVTVGZWlZNTVYYXpJOUhPU1dmMDhRODVZYXBWUg?oc=5\" target=\"_blank\">Nasdaq-listed Pasqal Honored For Scaling European Quantum Tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Nasdaq-listed Pasqal Honored For Scaling European Quantum Tech - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbUxtUGVzYzNOcW5OM0JnenNjR2s5dTNFdnhqS0YwN3RQRWRSMjdYZjJrZkVNVV9TdDFNZTFxa3BrRWQ2VW54NkJCanp1U2RfUUhnRE1SVnJ2c0tuRWszUW90ZnBvVTVGZWlZNTVYYXpJOUhPU1dmMDhRODVZYXBWUg?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY3dyMWZoODJKdzF0MmM2cEZkb01acXRmT3FKYjhTRWdubm8zVE40azVwMEZIcGdvX1VTWDFiWUlUQzIxMWtDeW9zSzJnZm41NXBTOWw5bXV6WmlIaWh0NDdnV05RMDBhWXVzTUtwTkZZdVpFNVNmRXBWbEVHaDMzbkMxSU5mMVJ2X1FFLWd1M3hNWTk4a3RkS1phWUppNmZRNUVkZF9IcDl4M1ZkZ1dRMkdSc0JYcHhMaGgtN1JfbE9NSXEtamh4WXhYWTByWDZwSXdKWW9paWo2elZhVkHSAeMBQVVfeXFMTzdJdmU1YVZwLVpNOVZVQ25jUlJkOVpZWjZULW1EV2l5VmVMcEdmTEwtNE5HR3F6SFpOcThaV3BZX2Mtc2ZoMlBFMmhVM0g0eGNvY3EzYVA1Wk44WXNLMUZhTy10clpJN29wb2haRUNLdnJTRDV1ZHlBSjJKSWRYS3lSbHNMbDlwSkhna2xlZHdqeUdTOWcxTXBKSDc5RUgyNU1HWnpaQnZVSGJib2s2WkdHaHBxWnNDcFVES0g0M2hDZmw5ckR2MU9WTU0xNTV6UU1GRjk2RE9lSHRqbFlmdllWV0k?oc=5\" target=\"_blank\">Pasqal Reports H1 2026 Financial Results: €312.9M Post-SPAC Cash Balance, 14% Revenue Growth, and 1,000-Atom Scale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "Pasqal Reports H1 2026 Financial Results: €312.9M Post-SPAC Cash Balance, 14% Revenue Growth, and 1,000-Atom Scale - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPY3dyMWZoODJKdzF0MmM2cEZkb01acXRmT3FKYjhTRWdubm8zVE40azVwMEZIcGdvX1VTWDFiWUlUQzIxMWtDeW9zSzJnZm41NXBTOWw5bXV6WmlIaWh0NDdnV05RMDBhWXVzTUtwTkZZdVpFNVNmRXBWbEVHaDMzbkMxSU5mMVJ2X1FFLWd1M3hNWTk4a3RkS1phWUppNmZRNUVkZF9IcDl4M1ZkZ1dRMkdSc0JYcHhMaGgtN1JfbE9NSXEtamh4WXhYWTByWDZwSXdKWW9paWo2elZhVkHSAeMBQVVfeXFMTzdJdmU1YVZwLVpNOVZVQ25jUlJkOVpZWjZULW1EV2l5VmVMcEdmTEwtNE5HR3F6SFpOcThaV3BZX2Mtc2ZoMlBFMmhVM0g0eGNvY3EzYVA1Wk44WXNLMUZhTy10clpJN29wb2haRUNLdnJTRDV1ZHlBSjJKSWRYS3lSbHNMbDlwSkhna2xlZHdqeUdTOWcxTXBKSDc5RUgyNU1HWnpaQnZVSGJib2s2WkdHaHBxWnNDcFVES0g0M2hDZmw5ckR2MU9WTU0xNTV6UU1GRjk2RE9lSHRqbFlmdllWV0k?oc=5"
     },
     {
-      "id": "7eee2b0f2f6f0238",
+      "id": "3f2719be42fd1b9e",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-09-25T09:00:00Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4tTGptdUkxSWFvTDJpYTJmUlRkWDNMcXJTRWZKa0ZrZ2FYTEFCc2t6b0ROYUQ3dWIwRUdUR1hjQ1FsMEJxMWZ1VmVrY2pneHRWRktKaG5yaGFBa2RCX1VHSkw3SUZhMVFKd0hsX0c4TFlIbEw3V3BN?oc=5\" target=\"_blank\">Pasqal Revenue Rose 14% As Quantum Services Grew 34%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Pasqal Revenue Rose 14% As Quantum Services Grew 34% - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4tTGptdUkxSWFvTDJpYTJmUlRkWDNMcXJTRWZKa0ZrZ2FYTEFCc2t6b0ROYUQ3dWIwRUdUR1hjQ1FsMEJxMWZ1VmVrY2pneHRWRktKaG5yaGFBa2RCX1VHSkw3SUZhMVFKd0hsX0c4TFlIbEw3V3BN?oc=5"
-    },
-    {
-      "id": "ccc17fe35ddf1052",
-      "matched_keywords": [
-        "quantum computing",
-        "quantum network"
-      ],
-      "published": "2026-09-25T04:25:00Z",
+      "published": "2026-09-26T20:19:57Z",
       "query": "quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlV5bFZteFAxUmJUb1pYR25wNkVpUzRSei04TkJBWmdkaVh5V1ZHY2RRaVRUSnZJNUZYS1hCM3BKdEZsZUJwLWFLQ2x4S3l1MHQzck51MElvV0h4bGhSQ00xS0kycTg3YXZWWm13OWtRazhjY1NVNWtEQ2RLSlVvSnRnV3VCVzFLcGVHZHYzYXI1WHZiV0FLaGZlVkZXNnFkakt4XzhoaTFrem5NRFBiUw?oc=5\" target=\"_blank\">Applied Quantum Software Brings AQS FabriQ to IBM Quantum Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PRWeb</font>",
-      "title": "Applied Quantum Software Brings AQS FabriQ to IBM Quantum Network - PRWeb",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQlV5bFZteFAxUmJUb1pYR25wNkVpUzRSei04TkJBWmdkaVh5V1ZHY2RRaVRUSnZJNUZYS1hCM3BKdEZsZUJwLWFLQ2x4S3l1MHQzck51MElvV0h4bGhSQ00xS0kycTg3YXZWWm13OWtRazhjY1NVNWtEQ2RLSlVvSnRnV3VCVzFLcGVHZHYzYXI1WHZiV0FLaGZlVkZXNnFkakt4XzhoaTFrem5NRFBiUw?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPSktNYWszNWwtSVhFXzlaaE5jTUNSY1VKMWZEeE9WdmtEUTE5TnoyVG5ES2VZQ0UyWGw2bm9id2NaS2lSenVmQ1U3eGFrQ0dtZmNtbmRtNlV3eVRNNHh6aDJIc3pJLWFTcFNKRFhEMlhCd0RqX3pXNEozSUhBRW5LWmI1ZXk5Wml1UWVmQ0phc0xzNmIwcXhHQ01kaHp5cmtsdW1UcGtDekpmLXFIZTBaOTNmVm9rbkg1dWJkM2tTWGloaWMtLXc?oc=5\" target=\"_blank\">Sebastian Hassinger (The New Quantum Era): why neutral atoms lead the qubit race for now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "Sebastian Hassinger (The New Quantum Era): why neutral atoms lead the qubit race for now - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSktNYWszNWwtSVhFXzlaaE5jTUNSY1VKMWZEeE9WdmtEUTE5TnoyVG5ES2VZQ0UyWGw2bm9id2NaS2lSenVmQ1U3eGFrQ0dtZmNtbmRtNlV3eVRNNHh6aDJIc3pJLWFTcFNKRFhEMlhCd0RqX3pXNEozSUhBRW5LWmI1ZXk5Wml1UWVmQ0phc0xzNmIwcXhHQ01kaHp5cmtsdW1UcGtDekpmLXFIZTBaOTNmVm9rbkg1dWJkM2tTWGloaWMtLXc?oc=5"
     },
     {
-      "id": "4d52138fbc78d4c8",
+      "id": "4ff20bb10d6102ba",
       "matched_keywords": [
         "quantum computing",
         "neutral atom"
       ],
-      "published": "2026-09-25T01:35:00Z",
+      "published": "2026-09-26T11:03:48Z",
       "query": "neutral atom quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNczlHM0phQUQ0ZWVYay04dnE2UFNscFFQeU0zT0ptZDAzVXJ3YmZEdkp0eVVFcmRsU2VOMFUtTGVIdi1SWTZBNzhkZzRHRGpWZlJiWWdMZHl0NjhXbkhfTmVib0FCc1Ayb2JybndYdk1OZkZhR1V1dGRjVjdocEd5N2ItR0xMMWtILXRaUmpNVGdieFpQX1l1by1HbGFGUnhkbjFVSmJFRmFSeWFFUW5DOU91bUQxTlZQblR2LTByUmVjdmRtNkpOZU5Fdl9FRldrc29ubXlIaG9YM2FMSjNvTkdhcElSRGhDV2h0SQ?oc=5\" target=\"_blank\">INFQ Stock Surges After Infleqtion Solves Key Technical Hurdle In Large-Scale Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "title": "INFQ Stock Surges After Infleqtion Solves Key Technical Hurdle In Large-Scale Quantum Computing - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNczlHM0phQUQ0ZWVYay04dnE2UFNscFFQeU0zT0ptZDAzVXJ3YmZEdkp0eVVFcmRsU2VOMFUtTGVIdi1SWTZBNzhkZzRHRGpWZlJiWWdMZHl0NjhXbkhfTmVib0FCc1Ayb2JybndYdk1OZkZhR1V1dGRjVjdocEd5N2ItR0xMMWtILXRaUmpNVGdieFpQX1l1by1HbGFGUnhkbjFVSmJFRmFSeWFFUW5DOU91bUQxTlZQblR2LTByUmVjdmRtNkpOZU5Fdl9FRldrc29ubXlIaG9YM2FMSjNvTkdhcElSRGhDV2h0SQ?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE50SGxSTGwwaVlfUFpiSDVZTE12TldRd1c5QWRjaUZDNkd2V2g4SUlZOTBSZFhkMUVvTzlONW9kdlJ6VVF0dnhSVTVYcm55UHRYckFOQU8tdFA2Z1hqNGp5VGdHb0trWVJiVXhMZ1dGemFmRHpiNHlXMlNB?oc=5\" target=\"_blank\">QuEra Computing Says Useful Quantum Computers Arrive In Two Years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "QuEra Computing Says Useful Quantum Computers Arrive In Two Years - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50SGxSTGwwaVlfUFpiSDVZTE12TldRd1c5QWRjaUZDNkd2V2g4SUlZOTBSZFhkMUVvTzlONW9kdlJ6VVF0dnhSVTVYcm55UHRYckFOQU8tdFA2Z1hqNGp5VGdHb0trWVJiVXhMZ1dGemFmRHpiNHlXMlNB?oc=5"
     },
     {
-      "id": "d25218efeb1b8b7f",
+      "id": "5a0140a75ba2df9c",
       "matched_keywords": [
         "quantum computing",
-        "quantum compiler"
+        "photonic quantum"
       ],
-      "published": "2026-09-24T15:13:53Z",
+      "published": "2026-09-26T01:34:30Z",
       "query": "quantum computing",
       "score": 6,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjdBa29HcHhEMm9CcWZYRWRmNVJBTmFmZXVHeW9kTHhaZWEwWUF2R0JUN2Q5aFdBNzBWVGNQSzdTbkYwZmlMdjk3RkR6TTc0LWxkTnozLVRZQ0k4RkhDSEMtVlc4NHdYc25pY3JjNmh4S1dFbV9lTnNYeXE1X0dMMnI3ZnFZMGFNaVVrQ0ZwVVU?oc=5\" target=\"_blank\">memQ Releases Open-Source Distributed Quantum Compiler</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thequantuminsider.com</font>",
-      "title": "memQ Releases Open-Source Distributed Quantum Compiler - thequantuminsider.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMjdBa29HcHhEMm9CcWZYRWRmNVJBTmFmZXVHeW9kTHhaZWEwWUF2R0JUN2Q5aFdBNzBWVGNQSzdTbkYwZmlMdjk3RkR6TTc0LWxkTnozLVRZQ0k4RkhDSEMtVlc4NHdYc25pY3JjNmh4S1dFbV9lTnNYeXE1X0dMMnI3ZnFZMGFNaVVrQ0ZwVVU?oc=5"
-    },
-    {
-      "id": "aee305874e11af67",
-      "matched_keywords": [
-        "quantum computing",
-        "error correction"
-      ],
-      "published": "2026-09-24T13:48:38Z",
-      "query": "quantum error correction",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUtmdjAtazlSdjR4akNYLXpVa0RPZm5waUhPQTFZVXZocW1kMk9iZjlDLTZmVFg0djJvNkVIUkVVS21LdUZpQmlDdk81akdzMG5TaTA2dHBHMl9yZDQwdW1kQll0b3JYVzV2QmxhOWFRN0YwdGlzNUFnLWh4SFlEQ2hvRU9tOW80VzVUVUdxcGdXVlJRc3BXdzFod0h5QTdGeHdJQ1ZHZEphNGwxS1RFTk43UUQ?oc=5\" target=\"_blank\">IonQ Shares Jump as Quantum Computing Firm Claims Real-Time Error-Correction Breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Tekedia</font>",
-      "title": "IonQ Shares Jump as Quantum Computing Firm Claims Real-Time Error-Correction Breakthrough - Tekedia",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUtmdjAtazlSdjR4akNYLXpVa0RPZm5waUhPQTFZVXZocW1kMk9iZjlDLTZmVFg0djJvNkVIUkVVS21LdUZpQmlDdk81akdzMG5TaTA2dHBHMl9yZDQwdW1kQll0b3JYVzV2QmxhOWFRN0YwdGlzNUFnLWh4SFlEQ2hvRU9tOW80VzVUVUdxcGdXVlJRc3BXdzFod0h5QTdGeHdJQ1ZHZEphNGwxS1RFTk43UUQ?oc=5"
-    },
-    {
-      "id": "6476021cd014e04f",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-09-24T12:48:36Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHJnaWxfa0t6d3dZYUxlT1MzRTU5N2lmeEZtazBPekZIRGhvM1VRSlNkVU5ybzgwYUtoTTJJcHgtMzY2dTJhMUY4ZmFmWUUwUjc2cXhwTk54RDY5MElFdW9lMnRLMm1WdzF4VUwwMDB2VnhaRjlqejZjNGUyRGx0SXg2Rm5uZDFyU0E?oc=5\" target=\"_blank\">Pasqal Reports 14% Revenue Growth in First Half of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thequantuminsider.com</font>",
-      "title": "Pasqal Reports 14% Revenue Growth in First Half of 2026 - thequantuminsider.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHJnaWxfa0t6d3dZYUxlT1MzRTU5N2lmeEZtazBPekZIRGhvM1VRSlNkVU5ybzgwYUtoTTJJcHgtMzY2dTJhMUY4ZmFmWUUwUjc2cXhwTk54RDY5MElFdW9lMnRLMm1WdzF4VUwwMDB2VnhaRjlqejZjNGUyRGx0SXg2Rm5uZDFyU0E?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOEEyenc3ZDVpaTNYaE9oZmVfYkVmNkRCWGNsc0VXX1NKQzdmSm05WkVuYnc3ZzVxUkJfd2RtMHk3b0ttc1JmeHZHQUZzVGxQRDdJcVZDbkZpWURUYklBaFN3MTB1NUl3dVdkb3JZVjEyWlY1M1RhNkVqRFE3ZERaOTJ1U0JnLUdSSVFhYnpuMXp4a2U3clNxTmZGMExRR2hFQWFYcnlUZ0c0ZTkwN1Z6aERmZG9ZWWhHQUpsb2Iza2FQT3lmWjNuSnhieVVCSDJo0gHWAUFVX3lxTE94Q2VsRUVhMzhSOW1sRkV2Q1NPNGttdWdGdjd4TWJHMEZUaHlSdXdCcVA2NnRnYjNZYml5VlJLRXdvNFV6blRfSElXbXJyM3liQl9QaTF2em8xTjVqVHZFcUpFYk1lRDU3TzBmNHFEVWN2dlp4RVl5NHFTV19vQ2tEWmVFYU1MRHgyb0JoRFlWN2tLM3djeGdPNTh3UFk2aXUtVjdIT1JET3dIQzB1WE93aUVPUE1PcTI5ek1kaHQ4YUxkWDIyY0FCTWdMelpFQ0lLMklrX1E?oc=5\" target=\"_blank\">Intel CEO Lip-Bu Tan Is Impressed By Photonic Quantum Computing & Says He Now Leans on AI Agents to Do His “Homework”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wccftech</font>",
+      "title": "Intel CEO Lip-Bu Tan Is Impressed By Photonic Quantum Computing & Says He Now Leans on AI Agents to Do His “Homework” - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOEEyenc3ZDVpaTNYaE9oZmVfYkVmNkRCWGNsc0VXX1NKQzdmSm05WkVuYnc3ZzVxUkJfd2RtMHk3b0ttc1JmeHZHQUZzVGxQRDdJcVZDbkZpWURUYklBaFN3MTB1NUl3dVdkb3JZVjEyWlY1M1RhNkVqRFE3ZERaOTJ1U0JnLUdSSVFhYnpuMXp4a2U3clNxTmZGMExRR2hFQWFYcnlUZ0c0ZTkwN1Z6aERmZG9ZWWhHQUpsb2Iza2FQT3lmWjNuSnhieVVCSDJo0gHWAUFVX3lxTE94Q2VsRUVhMzhSOW1sRkV2Q1NPNGttdWdGdjd4TWJHMEZUaHlSdXdCcVA2NnRnYjNZYml5VlJLRXdvNFV6blRfSElXbXJyM3liQl9QaTF2em8xTjVqVHZFcUpFYk1lRDU3TzBmNHFEVWN2dlp4RVl5NHFTV19vQ2tEWmVFYU1MRHgyb0JoRFlWN2tLM3djeGdPNTh3UFk2aXUtVjdIT1JET3dIQzB1WE93aUVPUE1PcTI5ek1kaHQ4YUxkWDIyY0FCTWdMelpFQ0lLMklrX1E?oc=5"
     }
   ],
   "publications": [
