@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-25T13:38:09Z",
+  "generated_at": "2026-09-28T13:42:47Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
-        "Independent school districts",
-        "Small businesses",
         "For profit organizations other than small businesses",
+        "Independent school districts",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Small businesses",
         "Private institutions of higher education",
         "Public and State controlled institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Individuals"
+        "Individuals",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "1a7530639af44b85",
@@ -41,11 +41,11 @@
       "application_source": "Grants.gov",
       "deadline": "2026-12-04",
       "eligibility": [
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Private institutions of higher education",
-        "For profit organizations other than small businesses",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "For profit organizations other than small businesses"
       ],
       "grant_disposition": "actionable",
       "id": "c1c2bc0b077c471d",
@@ -109,22 +109,6 @@
       "title": "RCQI’s QUTE Summer School Welcomes A Record 80 Quantum Learners - Quantum Zeitgeist",
       "type": "summer_programs",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JUWxsU2hBZDZ2SkRqSU5MRmk1elhGTTJwS09jeEl5QmNZd1JJNkpZZXltMk1MQV80Yldqa0l1Zm5TamI0cHpzMDdDWkNNaGdMbVdrRDFBXzdFZWFXbHpIbGwtVWdka1hqZk8xMWdXeFdZQkJ0a29wNA?oc=5"
-    },
-    {
-      "id": "3710a40e8bc1477f",
-      "matched_keywords": [
-        "summer school",
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-11T07:00:00Z",
-      "query": "quantum computing workshop students",
-      "score": 10,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU5wUmhpSm01NFFxNWJzaUItbExqM3dIUWFRVGxEYlRBSG50ZlZxN0M4S0NqWWFvbXVwdHdZdDJpU2NOcjJfM0pSbDNVcU1WeUJ4WjQ2a3Q5WnVCYzhhUG1RV1dIbVVTWkZlZWxPU0NZOVZGV2tUTW1KTi1KTE1DdV9aenE1OGNuQk1lOGZlWmNZTTFqSU5qVTV5QU9JNUZKZko2b1ZvZVUyRTdQ?oc=5\" target=\"_blank\">Quantum Key Distribution Summer School</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Waterloo</font>",
-      "title": "Quantum Key Distribution Summer School - University of Waterloo",
-      "type": "summer_programs",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOU5wUmhpSm01NFFxNWJzaUItbExqM3dIUWFRVGxEYlRBSG50ZlZxN0M4S0NqWWFvbXVwdHdZdDJpU2NOcjJfM0pSbDNVcU1WeUJ4WjQ2a3Q5WnVCYzhhUG1RV1dIbVVTWkZlZWxPU0NZOVZGV2tUTW1KTi1KTE1DdV9aenE1OGNuQk1lOGZlWmNZTTFqSU5qVTV5QU9JNUZKZko2b1ZvZVUyRTdQ?oc=5"
     },
     {
       "id": "0cd109dbd0d8aabc",
@@ -192,7 +176,31 @@
     },
     {
       "application_source": "Grants.gov",
-      "deadline": "2076-08-17",
+      "deadline": "2076-08-20",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "grant_disposition": "actionable",
+      "id": "5c63eba3c58e5813",
+      "matched_keywords": [
+        "proposal",
+        "intern",
+        "quantum",
+        "quantum computing"
+      ],
+      "opportunity_number": "PD-26-366Y",
+      "organization": "U.S. National Science Foundation",
+      "published": "",
+      "query": "quantum computing",
+      "score": 9,
+      "summary": "<p>The Transport Phenomena (TP) program supports fundamental research to understand, model, and control the transport of mass, momentum, energy, and species across multiple scales. Innovative TP research supports advances in artificial intelligence; manufacturing; biotechnology; microelectronics; energy generation, extraction, and utilization; nuclear energy; quantum science and engineering; and other national priorities.</p><p>TP projects involve experiments, theory, and/or computational modeling. They aim to improve understanding and to create novel analytical techniques. While projects focus on fundamental principles, they also have a clear vision of how research outcomes will benefit applications in engineering.</p><p>TP supports research on the dynamics of single- and multiphase systems. Special interests include flow separation, transition to turbulence, drag reduction, cavitation, instabilities, and reactive flows. The program encourages research on the connection between dynamics at the microscale and material and flow properties at the macroscale. Fluids of interest include liquids, gases, suspensions, emulsions, granular materials, active fluids, biological fluids, colloids, aerosols, bubbles and drops, and fluids with surfactants.</p><p>TP supports research on physicochemical phenomena at the interfaces between fluids and between fluids and solids. These phenomena include adsorption and desorption of nanoparticles and surfactants; bulk and interfacial rheology; wetting and capillarity phenomena; electrokinetics; flow in porous media; and directed and self-assembly of particles.</p><p>TP supports research on thermodynamics and thermal transport involving conduction, diffusion, convection, phase transition, and radiation. Research may be across scales, in complex structures and at interfaces, in microelectronic devices, and in biological systems. Projects involving phonon transport and quantum thermal phenomena are welcome.</p><p>TP encourages proposals focused on combustion of gas, liquid and solid fuels. Combustion topics of interest include chemical kinetic modeling, turbulence-chemistry interactions, detonations, plasma assisted reacting flows, sustainable fuels, mechanisms for pollutant control, and in-situ diagnostic methods. The program also supports research on wildland fire behavior that aims to prevent wildfire spread, inhibit its growth, and/or predict and mitigate fires at the wildland-urban interface.</p><p>Partnerships: To speed discovery and innovation, NSF partners with federal agencies, industry, international groups, and others. Current opportunities are at <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/eng/partnerships\">NSF ENG Partnerships. </a></p>",
+      "title": "Transport Phenomena (TP)",
+      "type": "grants",
+      "url": "https://www.grants.gov/search-results-detail/362063"
+    },
+    {
+      "application_source": "Grants.gov",
+      "deadline": "2076-09-25",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -215,28 +223,19 @@
       "url": "https://www.grants.gov/search-results-detail/363621"
     },
     {
-      "application_source": "Grants.gov",
-      "deadline": "2076-08-20",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "grant_disposition": "actionable",
-      "id": "5c63eba3c58e5813",
+      "id": "219732b192165ca5",
       "matched_keywords": [
-        "proposal",
-        "intern",
-        "quantum",
-        "quantum computing"
+        "summer school",
+        "summer camp",
+        "quantum"
       ],
-      "opportunity_number": "PD-26-366Y",
-      "organization": "U.S. National Science Foundation",
-      "published": "",
-      "query": "quantum computing",
-      "score": 9,
-      "summary": "<p>The Transport Phenomena (TP) program supports fundamental research to understand, model, and control the transport of mass, momentum, energy, and species across multiple scales. Innovative TP research supports advances in artificial intelligence; manufacturing; biotechnology; microelectronics; energy generation, extraction, and utilization; nuclear energy; quantum science and engineering; and other national priorities.</p><p>TP projects involve experiments, theory, and/or computational modeling. They aim to improve understanding and to create novel analytical techniques. While projects focus on fundamental principles, they also have a clear vision of how research outcomes will benefit applications in engineering.</p><p>TP supports research on the dynamics of single- and multiphase systems. Special interests include flow separation, transition to turbulence, drag reduction, cavitation, instabilities, and reactive flows. The program encourages research on the connection between dynamics at the microscale and material and flow properties at the macroscale. Fluids of interest include liquids, gases, suspensions, emulsions, granular materials, active fluids, biological fluids, colloids, aerosols, bubbles and drops, and fluids with surfactants.</p><p>TP supports research on physicochemical phenomena at the interfaces between fluids and between fluids and solids. These phenomena include adsorption and desorption of nanoparticles and surfactants; bulk and interfacial rheology; wetting and capillarity phenomena; electrokinetics; flow in porous media; and directed and self-assembly of particles.</p><p>TP supports research on thermodynamics and thermal transport involving conduction, diffusion, convection, phase transition, and radiation. Research may be across scales, in complex structures and at interfaces, in microelectronic devices, and in biological systems. Projects involving phonon transport and quantum thermal phenomena are welcome.</p><p>TP encourages proposals focused on combustion of gas, liquid and solid fuels. Combustion topics of interest include chemical kinetic modeling, turbulence-chemistry interactions, detonations, plasma assisted reacting flows, sustainable fuels, mechanisms for pollutant control, and in-situ diagnostic methods. The program also supports research on wildland fire behavior that aims to prevent wildfire spread, inhibit its growth, and/or predict and mitigate fires at the wildland-urban interface.</p><p>Partnerships: To speed discovery and innovation, NSF partners with federal agencies, industry, international groups, and others. Current opportunities are at <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/eng/partnerships\">NSF ENG Partnerships. </a></p>",
-      "title": "Transport Phenomena (TP)",
-      "type": "grants",
-      "url": "https://www.grants.gov/search-results-detail/362063"
+      "published": "2026-08-14T07:00:00Z",
+      "query": "quantum summer school",
+      "score": 8,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVlsYXhDdUtSSFpJQ0VHVTNsTl9UWjUxZWpzaVV2X3BydWtGVjdWckRzNUdUdE1HTGlwNTVLOVZtNHJta2ZJbVFudEhLU29maHVLR0xhajBmZnczMDRoYWpUNzBKM3MtVFVxY19HYlRjMkxvX0hJZEp1MjZmOGJwUFdmWXEwZFRkRlctS1RqRTJWMkR0OU9lUnZsdmxLWEJYSWo4WmFPOWpZaHUxYmhxX2RPbmNNSl9MeEV3WlM3b0cyby1yQ1VVMw?oc=5\" target=\"_blank\">Summer camp introduces students to quantum science</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rome Sentinel</font>",
+      "title": "Summer camp introduces students to quantum science - Rome Sentinel",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVlsYXhDdUtSSFpJQ0VHVTNsTl9UWjUxZWpzaVV2X3BydWtGVjdWckRzNUdUdE1HTGlwNTVLOVZtNHJta2ZJbVFudEhLU29maHVLR0xhajBmZnczMDRoYWpUNzBKM3MtVFVxY19HYlRjMkxvX0hJZEp1MjZmOGJwUFdmWXEwZFRkRlctS1RqRTJWMkR0OU9lUnZsdmxLWEJYSWo4WmFPOWpZaHUxYmhxX2RPbmNNSl9MeEV3WlM3b0cyby1yQ1VVMw?oc=5"
     },
     {
       "application_source": "Grants.gov",
@@ -263,21 +262,6 @@
       "url": "https://www.grants.gov/search-results-detail/340544"
     },
     {
-      "id": "dc9c66002d796a0f",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-09-16T16:39:01Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8tc3VvQWtKMndhYWFhZlYzWDRrRUY5RVlRUHp4dy1LbmJNeGpxcVUyamdqV0JTUlVJS0I4a3NhRVF3LTRpTGQwMEx1djJxZEtVZ2RGcVdmVHdhX3prNklhWVVkaHBPS2F5VkI5cnFEdFdZWnNwUTRWNkpR?oc=5\" target=\"_blank\">Quantum Systems Aren’t Isolated, Workshop Explores How That Changes Chaos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Quantum Systems Aren’t Isolated, Workshop Explores How That Changes Chaos - Quantum Zeitgeist",
-      "type": "summer_programs",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tc3VvQWtKMndhYWFhZlYzWDRrRUY5RVlRUHp4dy1LbmJNeGpxcVUyamdqV0JTUlVJS0I4a3NhRVF3LTRpTGQwMEx1djJxZEtVZ2RGcVdmVHdhX3prNklhWVVkaHBPS2F5VkI5cnFEdFdZWnNwUTRWNkpR?oc=5"
-    },
-    {
       "id": "c2d0fa5a77492d38",
       "matched_keywords": [
         "hackathon",
@@ -291,6 +275,21 @@
       "title": "Want to explore Quantum Computing? - UPEI",
       "type": "other",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zM2U4M2tYZHdkY1J4TC1Pbll1ZmpHT0VvS0FLRHBoSGI4SlkzWFlQT1FvQzM5Ny1TUG9yNTVYZmJQdTBKV1pWOHROTEo0SzRHZVJZcEhoRE9UWEZVOGE2MFdVUklXd1d3YW1qRmRPazJUSlU?oc=5"
+    },
+    {
+      "id": "dc9c66002d796a0f",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-09-16T07:00:00Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE8tc3VvQWtKMndhYWFhZlYzWDRrRUY5RVlRUHp4dy1LbmJNeGpxcVUyamdqV0JTUlVJS0I4a3NhRVF3LTRpTGQwMEx1djJxZEtVZ2RGcVdmVHdhX3prNklhWVVkaHBPS2F5VkI5cnFEdFdZWnNwUTRWNkpR?oc=5\" target=\"_blank\">Quantum Systems Aren’t Isolated, Workshop Explores How That Changes Chaos</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Quantum Systems Aren’t Isolated, Workshop Explores How That Changes Chaos - Quantum Zeitgeist",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tc3VvQWtKMndhYWFhZlYzWDRrRUY5RVlRUHp4dy1LbmJNeGpxcVUyamdqV0JTUlVJS0I4a3NhRVF3LTRpTGQwMEx1djJxZEtVZ2RGcVdmVHdhX3prNklhWVVkaHBPS2F5VkI5cnFEdFdZWnNwUTRWNkpR?oc=5"
     },
     {
       "id": "937df72d2277986f",
@@ -321,36 +320,6 @@
       "title": "MIT Quantum Initiative Launches Gordon and Betty Moore Foundation-Backed Postdoctoral Fellowship - Quantum Computing Report",
       "type": "fellowships",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTExXU0RMVXQwYW12eTF4UjhYNGdOZ25tenhlTWF6c0NhWE5wZDRyS1JVMnB2ckNUdlZ2bEUwSzJyUml6b19aTVNEWXhFa0RMX3Y1Y05HSUR6S2w2Rm12RkNkd1JaNHE4WnFhclAxa045aUxqdXU0a0FMc1p6U1dRR0JXMlVKdG50c3I3RWFzeWdrMDloTHVFME1jMjJKMmNSV2k1ZTBlWmhfR0xtUXY1eTJjbUFUN19SMFUyMlc5cDlJUEplVDlrUzhlSErSAdIBQVVfeXFMTV9ueG5xME96aURyUW5zeTUyb0N1cmQzOEtVdl90MjRDeDJSbVlONkNVX2Z1TFhrN3hGVFM4ampVRHMwMzR6TDdGb25FbmN3aWU4cXBsNUZySnQtNVpQWV9SamhFX2J6R0E3WDlPY1hFWjBIbkxBdXhNRDNDcFFmM3V6Y1BKNHExTktEX0ZDWGl2NHViT1lVcXdIa2treG9xY0hOU2VFZE5lY1A4RkV4UVN1SEJqUlFfN05YZ2FfMVhiUFFnN1F1LUJnd29UcHE0a2Z3?oc=5"
-    },
-    {
-      "id": "c49d3ba2de4f20a3",
-      "matched_keywords": [
-        "hackathon",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-30T07:00:00Z",
-      "query": "quantum hackathon",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeFNHc2stczFiX3FzV2lzcllFRWI1Z2Rzc05DRHo0eEtKOWRWZ0FyOWNFdGdOamR6RkdPVU1sX3EtUHFrODhmMUt5NXVnTndYWElHejFfUUV3ZUk0X05yZjhnWWtzTDJXQzV5cjJubEp5eGdXWmU0?oc=5\" target=\"_blank\">National Taiwan U & IBM Hosted A Quantum Computing Hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "National Taiwan U & IBM Hosted A Quantum Computing Hackathon - Quantum Zeitgeist",
-      "type": "hackathons",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeFNHc2stczFiX3FzV2lzcllFRWI1Z2Rzc05DRHo0eEtKOWRWZ0FyOWNFdGdOamR6RkdPVU1sX3EtUHFrODhmMUt5NXVnTndYWElHejFfUUV3ZUk0X05yZjhnWWtzTDJXQzV5cjJubEp5eGdXWmU0?oc=5"
-    },
-    {
-      "id": "286f2447b744425d",
-      "matched_keywords": [
-        "hackathon",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-27T07:00:00Z",
-      "query": "quantum hackathon",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ScTg5MFJDVjF0UWFYQVlMdE1tWnRveUhoaVJ2UHhudW0zTnJhSm9iTUoyV1JEX0E0UlBiVGNrOWZFcU9VQTU5bnRnUTVvUmJYZEVlaFBzWXFUV2F5ZThZY1lIaXI1MWhRXzJfSFJUMllnaUVJcmc?oc=5\" target=\"_blank\">MegazoneCloud and KISTI Wrap Up Quantum Computing Hackathon; CO₂-to-Ethylene Catalyst Project Takes Top Prize</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
-      "title": "MegazoneCloud and KISTI Wrap Up Quantum Computing Hackathon; CO₂-to-Ethylene Catalyst Project Takes Top Prize - finance.biggo.com",
-      "type": "hackathons",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ScTg5MFJDVjF0UWFYQVlMdE1tWnRveUhoaVJ2UHhudW0zTnJhSm9iTUoyV1JEX0E0UlBiVGNrOWZFcU9VQTU5bnRnUTVvUmJYZEVlaFBzWXFUV2F5ZThZY1lIaXI1MWhRXzJfSFJUMllnaUVJcmc?oc=5"
     },
     {
       "id": "6de96bcfcd461eba",
@@ -396,6 +365,36 @@
       "title": "OpenQSE Workshop Forms Six Groups To Build Quantum-HPC Software Stack - Quantum Zeitgeist",
       "type": "summer_programs",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14eHZUc3FtNi0yWWtqMEZoN0VER0tUcDVkYjlJUWtGRGE3cFVYemREaEFYTVgxLTUyNi1yZjR1MFZnQl81aDVzQ01RSk80UW9MbEFCclBIMmdFdDRKSkJkMjZuaklSbGI5azcyVXdET25vd2VV?oc=5"
+    },
+    {
+      "id": "d8ebee922e1da6e5",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-20T07:00:00Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb1plYmNNVThrX1VYU2NTNDB3QkY4dW1STEtCQ05wZ29WbzJUM19Vd3NpdWV2dVZiUVByMzNfd3F0S3ExbGdkbkgxd2t6Sm5JNi1nNzRsYTA5VWJieGc4dnJvSDZFbzRXczhIT3laTGNBalB0OVp2TEpHX0UwSXVZVlFIUTR1d0lmMmZ2YTc4bDJOVE5xbGh4a0o3OUxrN2psX2lSM09yMGR5bmVxbFN6RlhKQkFfcmRMXzhGN18wZ251SkttZzFiRw?oc=5\" target=\"_blank\">IIT Alumni Centre Bengaluru to host quantum tech workshop tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>",
+      "title": "IIT Alumni Centre Bengaluru to host quantum tech workshop tomorrow - Deccan Herald",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb1plYmNNVThrX1VYU2NTNDB3QkY4dW1STEtCQ05wZ29WbzJUM19Vd3NpdWV2dVZiUVByMzNfd3F0S3ExbGdkbkgxd2t6Sm5JNi1nNzRsYTA5VWJieGc4dnJvSDZFbzRXczhIT3laTGNBalB0OVp2TEpHX0UwSXVZVlFIUTR1d0lmMmZ2YTc4bDJOVE5xbGh4a0o3OUxrN2psX2lSM09yMGR5bmVxbFN6RlhKQkFfcmRMXzhGN18wZ251SkttZzFiRw?oc=5"
+    },
+    {
+      "id": "dced22fcb4919a5a",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-18T07:00:00Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzA1eVJxWThpajVaMWdyNC1XenRUS0lJbHlfOEdmNE1Pak1va1VITkJuVVJXQ005RHI5OWVuN19Pa0FkQ1NvUGxYc0VTM0tHYXhwZncycTNsaVFhczYyc29qbTE4S1ByN0FDLUF1NTZac3hIWURmNUtySTVMcldJM0pkSVowY1RVNDRYVTNXbE5WU2NvaC1IYUgtb3EwMzhVemlDSmpRWHFKU2xDeDBWZWdvNA?oc=5\" target=\"_blank\">IIT Alumni Centre Bengaluru to host workshop on quantum tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>",
+      "title": "IIT Alumni Centre Bengaluru to host workshop on quantum tech - Deccan Herald",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzA1eVJxWThpajVaMWdyNC1XenRUS0lJbHlfOEdmNE1Pak1va1VITkJuVVJXQ005RHI5OWVuN19Pa0FkQ1NvUGxYc0VTM0tHYXhwZncycTNsaVFhczYyc29qbTE4S1ByN0FDLUF1NTZac3hIWURmNUtySTVMcldJM0pkSVowY1RVNDRYVTNXbE5WU2NvaC1IYUgtb3EwMzhVemlDSmpRWHFKU2xDeDBWZWdvNA?oc=5"
     }
   ]
 }
