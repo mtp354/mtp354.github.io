@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-28T13:42:47Z",
+  "generated_at": "2026-10-01T13:41:44Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
-        "For profit organizations other than small businesses",
-        "Independent school districts",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Small businesses",
-        "Private institutions of higher education",
         "Public and State controlled institutions of higher education",
-        "Individuals",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "For profit organizations other than small businesses",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Small businesses",
+        "Independent school districts",
+        "Private institutions of higher education",
+        "Individuals"
       ],
       "grant_disposition": "actionable",
       "id": "1a7530639af44b85",
@@ -41,10 +41,10 @@
       "application_source": "Grants.gov",
       "deadline": "2026-12-04",
       "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Public and State controlled institutions of higher education",
+        "Private institutions of higher education",
         "For profit organizations other than small businesses"
       ],
       "grant_disposition": "actionable",
@@ -71,7 +71,7 @@
     },
     {
       "application_source": "Grants.gov",
-      "deadline": "2026-09-30",
+      "deadline": "2026-12-30",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -89,7 +89,7 @@
       "published": "",
       "query": "quantum computing",
       "score": 11,
-      "summary": "<p>Amendment 0007</p><p><br></p><p>The purpose of this amendment is to add Summary Topic 61-24-06 - AFFF ALTERNATIVE PROGRAM COMPATIBILITY OF FLUORINE-FREE FOAM (F3) WITH NON-ASPIRATING SPRINKLER NOZZLES to Appendix 1 in it’s entirety. All other terms and conditions remain unchanged.</p><p><br></p><p>--------------------------------------------------------------</p><p>Amendment 0006</p><p><br></p><p>The purpose of this amendment is to extend the due date for acceptance of White Papers. All other terms and conditions remain unchanged.</p><p>--------------------------------------------------------------</p><p><br></p><p>Amendment 0005</p><p><br></p><p>The purpose of this amendment is to provide a searchable list of Summary Topics contained in Appendix 1. Expanded descriptions of each topic can be found in the full announcement pdf.</p><p><br></p><p>APPENDIX 1 – RESEARCH DESCRIPTION - SUMMARY TOPICS</p><p><strong>&nbsp;</strong></p><p><strong>II. Detailed information about the funding opportunity</strong></p><p><strong>&nbsp;</strong></p><p>The Naval Research Laboratory (NRL) is the Navy's corporate laboratory. NRL conducts basic and applied research for the Navy in a variety of scientific and technical disciplines. The basic research program is driven by perceptions about future requirements of the Navy.</p><p><br></p><p>The Navy's operational effectiveness depends on its ability to keep pace with rapidly developing technologies. NRL contributes to this requirement by conducting research in the following areas, organized into NRL'S three research directorates and Naval Center for Space Technology:</p><p><br></p><p>Systems Directorate Code 5000</p><p>Materials Science and Component Technology Directorate Code 6000 Ocean and Atmospheric Science and Technology Directorate Code 7000 Naval Center for Space Technology Code 8000</p><p><br></p><p>A.&nbsp;&nbsp;&nbsp;SYSTEMS DIRECTORATE - CODE 5000</p><p><u>53-24-01</u> - HIGH FREQUENCY RADAR</p><p><u>53-24-01C</u> - HIGH FREQUENCY RADAR (CLASSIFIED)</p><p><u>53-24-02</u> - LOW-COST WIDEBAND ANTENNA ARRAY TECHNOLOGIES</p><p><u>53-24-03</u> - ADVANCED COMPUTATIONAL ELECTROMAGNETICS</p><p><u>55-24-01</u> - INFORMATION AND DECISION SCIENCES</p><p><u>55-24-02</u> - MATHEMATICAL FOUNDATIONS OF HIGH ASSURANCE COMPUTING</p><p><u>55-24-03</u> - HIGH ASSURANCE ENGINEERING AND COMPUTING</p><p><u>55-24-04</u> - ADVANCED NAVAL NETWORK SOLUTIONS</p><p><u>55-24-05</u> - FEDERATED, DISTRIBUTED COMPUTING/NETWORK INFRASTRUCTURE</p><p><u>56-24-01</u> - OPTICAL SCIENCES R&amp;D</p><p><u>57-24-01</u>&nbsp;- ELECTROMAGNETIC TECHNIQUES AND TECHNOLOGY RESEARCH AND DEVELOPMENT</p><p><u>57-24-02&nbsp;&nbsp;​</u>- SHIPBOARD ELECTRONIC WARFARE</p><p><strong>&nbsp;</strong></p><p><strong>B.&nbsp;MATERIALS SCIENCE AND COMPONENT TECHNOLOGY DIRECTORATE CODE 6000</strong></p><p><u>60-24-01</u> - HIGH PERFORMANCE COMPUTING ON MASSIVELY PARALLEL ARCHITECTURES</p><p><u>61-24-01</u> - ELECTROCHEMICAL ENERGY STORAGE, CONVERSION AND COMMAND/CONTROL</p><p><u>61-24-02 </u>- CORROSION PROCESSES, CONTROL, MITIGATION, AND TECHNOLOGY</p><p><u>61-24-03</u> - APPLICATIONS OF MOLECULAR BIOLOGY, BIOCHEMISTRY, ANALYTICAL CHEMISTRY AND ADVANCED LASER TECHNIQUES</p><p><u>61-24-04</u> - MULTIECHELON DIAGNOSTICS (MEDx) TECHNOLOGY DEVELOPMENT AND TIERED EVALUATION</p><p><u>63-24-01</u> - MATERIALS PERFORMANCE, PROCESSING, AND MODELING</p><p><u>67-24-01</u> - BASIC AND APPLIED RESEARCH IN PLASMA SCIENCE</p><p><u>68-24-01</u> - RADIATION EFFECTS RESEARCH</p><p><u>68-24-02</u> - PHOTOVOLTAICS FOR PORTABLE POWER</p><p><strong>&nbsp;</strong></p><p><strong>C.&nbsp;&nbsp;&nbsp;OCEAN AND ATMOSPHERIC SCIENCE AND TECHNOLOGY DIRECTORATE CODE 7000</strong></p><p><u>71-24-01</u> - ACOUSTIC SIMULATION AND TACTICS</p><p><u>72-24-01</u> - LOW FREQUENCY RADIO INTERFEROMETRY</p><p><u>72-24-02</u> - OPTICAL REMOTE SENSING OF THE COASTAL REGIME</p><p><u>72-24-03</u> - REMOTE SENSORS AND IMAGING SYSTEMS</p><p><u>72-24-04</u> - AIRBORNE, SHIPBOARD, AND OVERHEAD DATA ACQUISITION AND ANALYSIS</p><p><u>73-24-01</u> - OCEAN DYNAMICS AND PREDICTION OCEANOGRAPHY</p><p><u>73-24-02</u> - SEAFLOOR SCIENCES</p><p><u>73-24-03</u> - GEOSPATIAL SCIENCES AND TECHNOLOGY</p><p><u>75-24-01</u> - ATMOSPHERIC EFFECTS, ANALYSIS, AND PREDICTION</p><p><u>76-24-01</u> - RESEARCH INTO SPACE, BACKGROUNDS, IMAGING AND MODELING</p><p><strong>&nbsp;</strong></p><p><strong>D.&nbsp;&nbsp;&nbsp;NAVAL CENTER FOR SPACE TECHNOLOGY CODE 8000</strong></p><p><u>82-24-01</u> - SPACECRAFT &amp; SPACE SYSTEMS TECHNOLOGY</p><p><br></p><p>--------------------------------------------------------------</p><p>Amendment 0004</p><p><br></p><p>The purpose of this amendment is to extend the due date for acceptance of White Papers and revise Appendix 1 Summary Topics and email addresses in it’s entirety.</p><p>--------------------------------------------------------------</p><p>Amendment 0003</p><p><br></p><p>The purpose of this amendment is to extend the due date for acceptance of White Papers.&nbsp;All other terms and conditions remain unchanged.</p><p><br></p><p>-------------------------------------------------------------</p><p>Amendment 0002</p><p><br></p><p>The purpose of this amendment is to extend the due date for acceptance of White Papers.&nbsp;All other terms and conditions remain unchanged.</p><p><br></p><p>-------------------------------------------------------------</p><p>Amendment 0001</p><p><br></p><p>The purpose of this amendment is to extend the due date for acceptance of White Papers.&nbsp;All other terms and conditions remain unchanged.</p><p><br></p><p>--------------------------------------------------------------</p><p>The Naval Research Laboratory is interested in receiving innovative proposals that offer potential for advancement and improvement in the technical topic areas listed. This notice constitutes a Broad Agency Announcement (BAA) as contemplated in FAR 6.302(d) that provides for the competitive selection of research proposals. The Government reserves the right to select for award all, some, or none of the proposals received. Awards under this BAA are expected to take the form of Contracts, Grants, Cooperative Agreements and Other Transactions may also be awarded if appropriate. NRL encourages Educational Institutions, Small Businesses (SBs), Small Disadvantaged Business Concerns (SDBs) and Historically Black Colleges and Universities (HBCUs) and Minority Institutions (MIs) to submit proposals under this BAA.</p><p>In order to conserve valuable offeror and Government resources, prospective offerors shall first submit a White Paper (WP) to the email address identified in the individual Summary Topics contained in Appendix 1, to include a rough cost estimate. If there is interest in the proposed research the offeror will be invited to submit a Formal Proposal.&nbsp;The selection of proposals for award will be based on a scientific review of proposals submitted in response to each BAA Summary Topic. The major purpose of the evaluation will be to determine the relative merit of the technical approach of each proposal. Business and contractual aspects, including proposed&nbsp;cost and cost realism, will also be considered as part of the evaluation. Selection of proposals for award will be based on the potential benefits to the Government weighed against the cost of the proposals, in view of the availability of funds. The complete BAA including proposal preparation instructions, award considerations, and evaluation criteria is also available at https://www.nrl.navy.mil/Doing-Business/Contracts/Broad-Agency-Announcements/ .</p><p><br></p>",
+      "summary": "<p>Amendment 0008</p>\n<p><br></p>\n<p><span style=\"color: rgb(33, 33, 33);\">The purpose of this amendment is to extend the due date for acceptance of White Papers.&nbsp;All other terms and conditions remain unchanged.</span></p>\n<p><br></p>\n<p><span style=\"color: rgb(33, 33, 33);\">--------------------------------------------------------------</span></p>\n<p>Amendment 0007</p>\n<p><br></p>\n<p>The purpose of this amendment is to add Summary Topic 61-24-06 - AFFF ALTERNATIVE PROGRAM COMPATIBILITY OF FLUORINE-FREE FOAM (F3) WITH NON-ASPIRATING SPRINKLER NOZZLES to Appendix 1 in it’s entirety. All other terms and conditions remain unchanged.</p>\n<p><br></p>\n<p>--------------------------------------------------------------</p>\n<p>Amendment 0006</p>\n<p><br></p>\n<p>The purpose of this amendment is to extend the due date for acceptance of White Papers. All other terms and conditions remain unchanged.</p>\n<p>--------------------------------------------------------------</p>\n<p><br></p>\n<p>Amendment 0005</p>\n<p><br></p>\n<p>The purpose of this amendment is to provide a searchable list of Summary Topics contained in Appendix 1. Expanded descriptions of each topic can be found in the full announcement pdf.</p>\n<p><br></p>\n<p>APPENDIX 1 – RESEARCH DESCRIPTION - SUMMARY TOPICS</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>II. Detailed information about the funding opportunity</strong></p>\n<p><strong>&nbsp;</strong></p>\n<p>The Naval Research Laboratory (NRL) is the Navy's corporate laboratory. NRL conducts basic and applied research for the Navy in a variety of scientific and technical disciplines. The basic research program is driven by perceptions about future requirements of the Navy.</p>\n<p><br></p>\n<p>The Navy's operational effectiveness depends on its ability to keep pace with rapidly developing technologies. NRL contributes to this requirement by conducting research in the following areas, organized into NRL'S three research directorates and Naval Center for Space Technology:</p>\n<p><br></p>\n<p>Systems Directorate Code 5000</p>\n<p>Materials Science and Component Technology Directorate Code 6000 Ocean and Atmospheric Science and Technology Directorate Code 7000 Naval Center for Space Technology Code 8000</p>\n<p><br></p>\n<p>A.&nbsp;&nbsp;&nbsp;SYSTEMS DIRECTORATE - CODE 5000</p>\n<p><u>53-24-01</u> - HIGH FREQUENCY RADAR</p>\n<p><u>53-24-01C</u> - HIGH FREQUENCY RADAR (CLASSIFIED)</p>\n<p><u>53-24-02</u> - LOW-COST WIDEBAND ANTENNA ARRAY TECHNOLOGIES</p>\n<p><u>53-24-03</u> - ADVANCED COMPUTATIONAL ELECTROMAGNETICS</p>\n<p><u>55-24-01</u> - INFORMATION AND DECISION SCIENCES</p>\n<p><u>55-24-02</u> - MATHEMATICAL FOUNDATIONS OF HIGH ASSURANCE COMPUTING</p>\n<p><u>55-24-03</u> - HIGH ASSURANCE ENGINEERING AND COMPUTING</p>\n<p><u>55-24-04</u> - ADVANCED NAVAL NETWORK SOLUTIONS</p>\n<p><u>55-24-05</u> - FEDERATED, DISTRIBUTED COMPUTING/NETWORK INFRASTRUCTURE</p>\n<p><u>56-24-01</u> - OPTICAL SCIENCES R&amp;D</p>\n<p><u>57-24-01</u>&nbsp;- ELECTROMAGNETIC TECHNIQUES AND TECHNOLOGY RESEARCH AND DEVELOPMENT</p>\n<p><u>57-24-02&nbsp;&nbsp;​</u>- SHIPBOARD ELECTRONIC WARFARE</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>B.&nbsp;MATERIALS SCIENCE AND COMPONENT TECHNOLOGY DIRECTORATE CODE 6000</strong></p>\n<p><u>60-24-01</u> - HIGH PERFORMANCE COMPUTING ON MASSIVELY PARALLEL ARCHITECTURES</p>\n<p><u>61-24-01</u> - ELECTROCHEMICAL ENERGY STORAGE, CONVERSION AND COMMAND/CONTROL</p>\n<p><u>61-24-02 </u>- CORROSION PROCESSES, CONTROL, MITIGATION, AND TECHNOLOGY</p>\n<p><u>61-24-03</u> - APPLICATIONS OF MOLECULAR BIOLOGY, BIOCHEMISTRY, ANALYTICAL CHEMISTRY AND ADVANCED LASER TECHNIQUES</p>\n<p><u>61-24-04</u> - MULTIECHELON DIAGNOSTICS (MEDx) TECHNOLOGY DEVELOPMENT AND TIERED EVALUATION</p>\n<p><u>63-24-01</u> - MATERIALS PERFORMANCE, PROCESSING, AND MODELING</p>\n<p><u>67-24-01</u> - BASIC AND APPLIED RESEARCH IN PLASMA SCIENCE</p>\n<p><u>68-24-01</u> - RADIATION EFFECTS RESEARCH</p>\n<p><u>68-24-02</u> - PHOTOVOLTAICS FOR PORTABLE POWER</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>C.&nbsp;&nbsp;&nbsp;OCEAN AND ATMOSPHERIC SCIENCE AND TECHNOLOGY DIRECTORATE CODE 7000</strong></p>\n<p><u>71-24-01</u> - ACOUSTIC SIMULATION AND TACTICS</p>\n<p><u>72-24-01</u> - LOW FREQUENCY RADIO INTERFEROMETRY</p>\n<p><u>72-24-02</u> - OPTICAL REMOTE SENSING OF THE COASTAL REGIME</p>\n<p><u>72-24-03</u> - REMOTE SENSORS AND IMAGING SYSTEMS</p>\n<p><u>72-24-04</u> - AIRBORNE, SHIPBOARD, AND OVERHEAD DATA ACQUISITION AND ANALYSIS</p>\n<p><u>73-24-01</u> - OCEAN DYNAMICS AND PREDICTION OCEANOGRAPHY</p>\n<p><u>73-24-02</u> - SEAFLOOR SCIENCES</p>\n<p><u>73-24-03</u> - GEOSPATIAL SCIENCES AND TECHNOLOGY</p>\n<p><u>75-24-01</u> - ATMOSPHERIC EFFECTS, ANALYSIS, AND PREDICTION</p>\n<p><u>76-24-01</u> - RESEARCH INTO SPACE, BACKGROUNDS, IMAGING AND MODELING</p>\n<p><strong>&nbsp;</strong></p>\n<p><strong>D.&nbsp;&nbsp;&nbsp;NAVAL CENTER FOR SPACE TECHNOLOGY CODE 8000</strong></p>\n<p><u>82-24-01</u> - SPACECRAFT &amp; SPACE SYSTEMS TECHNOLOGY</p>\n<p><br></p>\n<p>--------------------------------------------------------------</p>\n<p>Amendment 0004</p>\n<p><br></p>\n<p>The purpose of this amendment is to extend the due date for acceptance of White Papers and revise Appendix 1 Summary Topics and email addresses in it’s entirety.</p>\n<p>--------------------------------------------------------------</p>\n<p>Amendment 0003</p>\n<p><br></p>\n<p>The purpose of this amendment is to extend the due date for acceptance of White Papers.&nbsp;All other terms and conditions remain unchanged.</p>\n<p><br></p>\n<p>-------------------------------------------------------------</p>\n<p>Amendment 0002</p>\n<p><br></p>\n<p>The purpose of this amendment is to extend the due date for acceptance of White Papers.&nbsp;All other terms and conditions remain unchanged.</p>\n<p><br></p>\n<p>-------------------------------------------------------------</p>\n<p>Amendment 0001</p>\n<p><br></p>\n<p>The purpose of this amendment is to extend the due date for acceptance of White Papers.&nbsp;All other terms and conditions remain unchanged.</p>\n<p><br></p>\n<p>--------------------------------------------------------------</p>\n<p>The Naval Research Laboratory is interested in receiving innovative proposals that offer potential for advancement and improvement in the technical topic areas listed. This notice constitutes a Broad Agency Announcement (BAA) as contemplated in FAR 6.302(d) that provides for the competitive selection of research proposals. The Government reserves the right to select for award all, some, or none of the proposals received. Awards under this BAA are expected to take the form of Contracts, Grants, Cooperative Agreements and Other Transactions may also be awarded if appropriate. NRL encourages Educational Institutions, Small Businesses (SBs), Small Disadvantaged Business Concerns (SDBs) and Historically Black Colleges and Universities (HBCUs) and Minority Institutions (MIs) to submit proposals under this BAA.</p>\n<p>In order to conserve valuable offeror and Government resources, prospective offerors shall first submit a White Paper (WP) to the email address identified in the individual Summary Topics contained in Appendix 1, to include a rough cost estimate. If there is interest in the proposed research the offeror will be invited to submit a Formal Proposal.&nbsp;The selection of proposals for award will be based on a scientific review of proposals submitted in response to each BAA Summary Topic. The major purpose of the evaluation will be to determine the relative merit of the technical approach of each proposal. Business and contractual aspects, including proposed&nbsp;cost and cost realism, will also be considered as part of the evaluation. Selection of proposals for award will be based on the potential benefits to the Government weighed against the cost of the proposals, in view of the availability of funds. The complete BAA including proposal preparation instructions, award considerations, and evaluation criteria is also available at https://www.nrl.navy.mil/Doing-Business/Contracts/Broad-Agency-Announcements/ .</p>\n<p><br></p>",
       "title": "NRL Long Range Broad Agency Announcement (BAA) for Basic and Applied Research",
       "type": "grants",
       "url": "https://www.grants.gov/search-results-detail/352741"
@@ -109,22 +109,6 @@
       "title": "RCQI’s QUTE Summer School Welcomes A Record 80 Quantum Learners - Quantum Zeitgeist",
       "type": "summer_programs",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JUWxsU2hBZDZ2SkRqSU5MRmk1elhGTTJwS09jeEl5QmNZd1JJNkpZZXltMk1MQV80Yldqa0l1Zm5TamI0cHpzMDdDWkNNaGdMbVdrRDFBXzdFZWFXbHpIbGwtVWdka1hqZk8xMWdXeFdZQkJ0a29wNA?oc=5"
-    },
-    {
-      "id": "0cd109dbd0d8aabc",
-      "matched_keywords": [
-        "hackathon",
-        "challenge",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-27T07:00:00Z",
-      "query": "quantum hackathon",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDZ6WVlqa2lHbXU2UkJmWGk0dHdNWWIyOXUtQ0lIZnplbUtySTVrTkxyUUlPS01BM085S25SRGhWOEMtWnFqS28yenNMRmtwVG9TaHhwQWV2MzdKQWxpRHdNSE9GdU5kODFpVHM4b1BKLUpOWmxkRDJzNVZUVnRKQmNWT0NNb1haNklMclh0cHN1VHhhQ2l1Q0dweks2cGJfTHFtZEUwQWlNd0h6d2JHX3pEMlJ5QXlKYllPcnRYX01HbTVfdlhNbGxpeWdhX3Z4ZTVlWEtIZ3I?oc=5\" target=\"_blank\">MegazoneCloud, KISTI co-host quantum computing hackathon to seek solutions to industry challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
-      "title": "MegazoneCloud, KISTI co-host quantum computing hackathon to seek solutions to industry challenges - 디지털투데이",
-      "type": "hackathons",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZDZ6WVlqa2lHbXU2UkJmWGk0dHdNWWIyOXUtQ0lIZnplbUtySTVrTkxyUUlPS01BM085S25SRGhWOEMtWnFqS28yenNMRmtwVG9TaHhwQWV2MzdKQWxpRHdNSE9GdU5kODFpVHM4b1BKLUpOWmxkRDJzNVZUVnRKQmNWT0NNb1haNklMclh0cHN1VHhhQ2l1Q0dweks2cGJfTHFtZEUwQWlNd0h6d2JHX3pEMlJ5QXlKYllPcnRYX01HbTVfdlhNbGxpeWdhX3Z4ZTVlWEtIZ3I?oc=5"
     },
     {
       "application_source": "Grants.gov",
@@ -176,30 +160,6 @@
     },
     {
       "application_source": "Grants.gov",
-      "deadline": "2076-08-20",
-      "eligibility": [
-        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
-      ],
-      "grant_disposition": "actionable",
-      "id": "5c63eba3c58e5813",
-      "matched_keywords": [
-        "proposal",
-        "intern",
-        "quantum",
-        "quantum computing"
-      ],
-      "opportunity_number": "PD-26-366Y",
-      "organization": "U.S. National Science Foundation",
-      "published": "",
-      "query": "quantum computing",
-      "score": 9,
-      "summary": "<p>The Transport Phenomena (TP) program supports fundamental research to understand, model, and control the transport of mass, momentum, energy, and species across multiple scales. Innovative TP research supports advances in artificial intelligence; manufacturing; biotechnology; microelectronics; energy generation, extraction, and utilization; nuclear energy; quantum science and engineering; and other national priorities.</p><p>TP projects involve experiments, theory, and/or computational modeling. They aim to improve understanding and to create novel analytical techniques. While projects focus on fundamental principles, they also have a clear vision of how research outcomes will benefit applications in engineering.</p><p>TP supports research on the dynamics of single- and multiphase systems. Special interests include flow separation, transition to turbulence, drag reduction, cavitation, instabilities, and reactive flows. The program encourages research on the connection between dynamics at the microscale and material and flow properties at the macroscale. Fluids of interest include liquids, gases, suspensions, emulsions, granular materials, active fluids, biological fluids, colloids, aerosols, bubbles and drops, and fluids with surfactants.</p><p>TP supports research on physicochemical phenomena at the interfaces between fluids and between fluids and solids. These phenomena include adsorption and desorption of nanoparticles and surfactants; bulk and interfacial rheology; wetting and capillarity phenomena; electrokinetics; flow in porous media; and directed and self-assembly of particles.</p><p>TP supports research on thermodynamics and thermal transport involving conduction, diffusion, convection, phase transition, and radiation. Research may be across scales, in complex structures and at interfaces, in microelectronic devices, and in biological systems. Projects involving phonon transport and quantum thermal phenomena are welcome.</p><p>TP encourages proposals focused on combustion of gas, liquid and solid fuels. Combustion topics of interest include chemical kinetic modeling, turbulence-chemistry interactions, detonations, plasma assisted reacting flows, sustainable fuels, mechanisms for pollutant control, and in-situ diagnostic methods. The program also supports research on wildland fire behavior that aims to prevent wildfire spread, inhibit its growth, and/or predict and mitigate fires at the wildland-urban interface.</p><p>Partnerships: To speed discovery and innovation, NSF partners with federal agencies, industry, international groups, and others. Current opportunities are at <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/eng/partnerships\">NSF ENG Partnerships. </a></p>",
-      "title": "Transport Phenomena (TP)",
-      "type": "grants",
-      "url": "https://www.grants.gov/search-results-detail/362063"
-    },
-    {
-      "application_source": "Grants.gov",
       "deadline": "2076-09-25",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
@@ -223,19 +183,28 @@
       "url": "https://www.grants.gov/search-results-detail/363621"
     },
     {
-      "id": "219732b192165ca5",
-      "matched_keywords": [
-        "summer school",
-        "summer camp",
-        "quantum"
+      "application_source": "Grants.gov",
+      "deadline": "2076-08-20",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
-      "published": "2026-08-14T07:00:00Z",
-      "query": "quantum summer school",
-      "score": 8,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVlsYXhDdUtSSFpJQ0VHVTNsTl9UWjUxZWpzaVV2X3BydWtGVjdWckRzNUdUdE1HTGlwNTVLOVZtNHJta2ZJbVFudEhLU29maHVLR0xhajBmZnczMDRoYWpUNzBKM3MtVFVxY19HYlRjMkxvX0hJZEp1MjZmOGJwUFdmWXEwZFRkRlctS1RqRTJWMkR0OU9lUnZsdmxLWEJYSWo4WmFPOWpZaHUxYmhxX2RPbmNNSl9MeEV3WlM3b0cyby1yQ1VVMw?oc=5\" target=\"_blank\">Summer camp introduces students to quantum science</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Rome Sentinel</font>",
-      "title": "Summer camp introduces students to quantum science - Rome Sentinel",
-      "type": "summer_programs",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMVlsYXhDdUtSSFpJQ0VHVTNsTl9UWjUxZWpzaVV2X3BydWtGVjdWckRzNUdUdE1HTGlwNTVLOVZtNHJta2ZJbVFudEhLU29maHVLR0xhajBmZnczMDRoYWpUNzBKM3MtVFVxY19HYlRjMkxvX0hJZEp1MjZmOGJwUFdmWXEwZFRkRlctS1RqRTJWMkR0OU9lUnZsdmxLWEJYSWo4WmFPOWpZaHUxYmhxX2RPbmNNSl9MeEV3WlM3b0cyby1yQ1VVMw?oc=5"
+      "grant_disposition": "actionable",
+      "id": "5c63eba3c58e5813",
+      "matched_keywords": [
+        "proposal",
+        "intern",
+        "quantum",
+        "quantum computing"
+      ],
+      "opportunity_number": "PD-26-366Y",
+      "organization": "U.S. National Science Foundation",
+      "published": "",
+      "query": "quantum computing",
+      "score": 9,
+      "summary": "<p>The Transport Phenomena (TP) program supports fundamental research to understand, model, and control the transport of mass, momentum, energy, and species across multiple scales. Innovative TP research supports advances in artificial intelligence; manufacturing; biotechnology; microelectronics; energy generation, extraction, and utilization; nuclear energy; quantum science and engineering; and other national priorities.</p><p>TP projects involve experiments, theory, and/or computational modeling. They aim to improve understanding and to create novel analytical techniques. While projects focus on fundamental principles, they also have a clear vision of how research outcomes will benefit applications in engineering.</p><p>TP supports research on the dynamics of single- and multiphase systems. Special interests include flow separation, transition to turbulence, drag reduction, cavitation, instabilities, and reactive flows. The program encourages research on the connection between dynamics at the microscale and material and flow properties at the macroscale. Fluids of interest include liquids, gases, suspensions, emulsions, granular materials, active fluids, biological fluids, colloids, aerosols, bubbles and drops, and fluids with surfactants.</p><p>TP supports research on physicochemical phenomena at the interfaces between fluids and between fluids and solids. These phenomena include adsorption and desorption of nanoparticles and surfactants; bulk and interfacial rheology; wetting and capillarity phenomena; electrokinetics; flow in porous media; and directed and self-assembly of particles.</p><p>TP supports research on thermodynamics and thermal transport involving conduction, diffusion, convection, phase transition, and radiation. Research may be across scales, in complex structures and at interfaces, in microelectronic devices, and in biological systems. Projects involving phonon transport and quantum thermal phenomena are welcome.</p><p>TP encourages proposals focused on combustion of gas, liquid and solid fuels. Combustion topics of interest include chemical kinetic modeling, turbulence-chemistry interactions, detonations, plasma assisted reacting flows, sustainable fuels, mechanisms for pollutant control, and in-situ diagnostic methods. The program also supports research on wildland fire behavior that aims to prevent wildfire spread, inhibit its growth, and/or predict and mitigate fires at the wildland-urban interface.</p><p>Partnerships: To speed discovery and innovation, NSF partners with federal agencies, industry, international groups, and others. Current opportunities are at <a target=\"_blank\" rel=\"noopener noreferrer\" href=\"https://www.nsf.gov/eng/partnerships\">NSF ENG Partnerships. </a></p>",
+      "title": "Transport Phenomena (TP)",
+      "type": "grants",
+      "url": "https://www.grants.gov/search-results-detail/362063"
     },
     {
       "application_source": "Grants.gov",
@@ -262,19 +231,64 @@
       "url": "https://www.grants.gov/search-results-detail/340544"
     },
     {
-      "id": "c2d0fa5a77492d38",
+      "id": "4a27098741dad879",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-09-30T15:04:07Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE96ZnNSMi1sUk1PLTZ6djhnWC1DcjhQVkJ1LTV6R1U2MHEtTkQ1Xzk2elJzSnF0bFczUXZmY0Y5eUdNMWdQVjRKa0c5eERLMzhYS3JxaUlWanlTX2tQQ0JiaWZ2Zi01VzdBSzM0dmpsUkM?oc=5\" target=\"_blank\">Penn State Hosts Workshop On Quantum Universe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Penn State Hosts Workshop On Quantum Universe - Quantum Zeitgeist",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96ZnNSMi1sUk1PLTZ6djhnWC1DcjhQVkJ1LTV6R1U2MHEtTkQ1Xzk2elJzSnF0bFczUXZmY0Y5eUdNMWdQVjRKa0c5eERLMzhYS3JxaUlWanlTX2tQQ0JiaWZ2Zi01VzdBSzM0dmpsUkM?oc=5"
+    },
+    {
+      "id": "f566197664793749",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-09-29T12:24:37Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0YwU1NEUURiSXl3RFJSUUxqc0xKM21xXzhwczg3UVFydTg0OE1TQ2t1SmVVU09mazBaQTJvc0ZfLV9QSVg4YkkxQzFuQUU2LUJXcnpUTXVuV2JOZWtFQmJHRmxMQkhxYkdRLVZtR09FejlaRHJRSmZUSzljLWhqZU9fYUFEbThyczFQbzhqYnA?oc=5\" target=\"_blank\">NeSQom 2026 Workshop Examines Hybrid Quantum-Classical Networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "NeSQom 2026 Workshop Examines Hybrid Quantum-Classical Networks - The Quantum Insider",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0YwU1NEUURiSXl3RFJSUUxqc0xKM21xXzhwczg3UVFydTg0OE1TQ2t1SmVVU09mazBaQTJvc0ZfLV9QSVg4YkkxQzFuQUU2LUJXcnpUTXVuV2JOZWtFQmJHRmxMQkhxYkdRLVZtR09FejlaRHJRSmZUSzljLWhqZU9fYUFEbThyczFQbzhqYnA?oc=5"
+    },
+    {
+      "id": "87bfb2f5185610b1",
       "matched_keywords": [
         "hackathon",
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-09-16T12:00:00Z",
+      "published": "2026-09-29T12:00:00Z",
       "query": "quantum hackathon",
       "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5zM2U4M2tYZHdkY1J4TC1Pbll1ZmpHT0VvS0FLRHBoSGI4SlkzWFlQT1FvQzM5Ny1TUG9yNTVYZmJQdTBKV1pWOHROTEo0SzRHZVJZcEhoRE9UWEZVOGE2MFdVUklXd1d3YW1qRmRPazJUSlU?oc=5\" target=\"_blank\">Want to explore Quantum Computing?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UPEI</font>",
-      "title": "Want to explore Quantum Computing? - UPEI",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zM2U4M2tYZHdkY1J4TC1Pbll1ZmpHT0VvS0FLRHBoSGI4SlkzWFlQT1FvQzM5Ny1TUG9yNTVYZmJQdTBKV1pWOHROTEo0SzRHZVJZcEhoRE9UWEZVOGE2MFdVUklXd1d3YW1qRmRPazJUSlU?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDRoYlhCeVljS29PQk9USGJHc0Y1RUhxcjJvUUlhOGpsdjJOMEprUlI4eWk1dEFqSGlSMi1KcktObmJ1RTRtdHpocnJzeDNvNnk2RURYRHkxS0FFdi1yQWFkWDVhMjFOb0Qwa0NhR2h0RUt3TzlNY29mNEU4SDVIdVpyZ0JYYVE?oc=5\" target=\"_blank\">Quantum Computing Hackathon - Registration Open!</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UPEI</font>",
+      "title": "Quantum Computing Hackathon - Registration Open! - UPEI",
+      "type": "hackathons",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDRoYlhCeVljS29PQk9USGJHc0Y1RUhxcjJvUUlhOGpsdjJOMEprUlI4eWk1dEFqSGlSMi1KcktObmJ1RTRtdHpocnJzeDNvNnk2RURYRHkxS0FFdi1yQWFkWDVhMjFOb0Qwa0NhR2h0RUt3TzlNY29mNEU4SDVIdVpyZ0JYYVE?oc=5"
+    },
+    {
+      "id": "f4211486697503a0",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-09-28T20:35:58Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPWHh2SGNUWk5SN2x3VUR3V09qYWk5X0NXUHVBLTVkM0trOWRxcVNDRGtrbDliR1BDMld3VjFTWS13aThMMmRtY21rb1MxNFZEUXBMLVMzYmRyVzZYaDVBN0hIU3dSQmNOWU01b0FDYXlxaGRURWlMQ1p6NWtEZWRvRHdDWQ?oc=5\" target=\"_blank\">UMass Workshop—funded By NSF—charts Course For Future Quantum Networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "UMass Workshop—funded By NSF—charts Course For Future Quantum Networks - Quantum Zeitgeist",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWHh2SGNUWk5SN2x3VUR3V09qYWk5X0NXUHVBLTVkM0trOWRxcVNDRGtrbDliR1BDMld3VjFTWS13aThMMmRtY21rb1MxNFZEUXBMLVMzYmRyVzZYaDVBN0hIU3dSQmNOWU01b0FDYXlxaGRURWlMQ1p6NWtEZWRvRHdDWQ?oc=5"
     },
     {
       "id": "dc9c66002d796a0f",
@@ -322,6 +336,51 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTExXU0RMVXQwYW12eTF4UjhYNGdOZ25tenhlTWF6c0NhWE5wZDRyS1JVMnB2ckNUdlZ2bEUwSzJyUml6b19aTVNEWXhFa0RMX3Y1Y05HSUR6S2w2Rm12RkNkd1JaNHE4WnFhclAxa045aUxqdXU0a0FMc1p6U1dRR0JXMlVKdG50c3I3RWFzeWdrMDloTHVFME1jMjJKMmNSV2k1ZTBlWmhfR0xtUXY1eTJjbUFUN19SMFUyMlc5cDlJUEplVDlrUzhlSErSAdIBQVVfeXFMTV9ueG5xME96aURyUW5zeTUyb0N1cmQzOEtVdl90MjRDeDJSbVlONkNVX2Z1TFhrN3hGVFM4ampVRHMwMzR6TDdGb25FbmN3aWU4cXBsNUZySnQtNVpQWV9SamhFX2J6R0E3WDlPY1hFWjBIbkxBdXhNRDNDcFFmM3V6Y1BKNHExTktEX0ZDWGl2NHViT1lVcXdIa2treG9xY0hOU2VFZE5lY1A4RkV4UVN1SEJqUlFfN05YZ2FfMVhiUFFnN1F1LUJnd29UcHE0a2Z3?oc=5"
     },
     {
+      "id": "c49d3ba2de4f20a3",
+      "matched_keywords": [
+        "hackathon",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-30T07:00:00Z",
+      "query": "quantum hackathon",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeFNHc2stczFiX3FzV2lzcllFRWI1Z2Rzc05DRHo0eEtKOWRWZ0FyOWNFdGdOamR6RkdPVU1sX3EtUHFrODhmMUt5NXVnTndYWElHejFfUUV3ZUk0X05yZjhnWWtzTDJXQzV5cjJubEp5eGdXWmU0?oc=5\" target=\"_blank\">National Taiwan U & IBM Hosted A Quantum Computing Hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "National Taiwan U & IBM Hosted A Quantum Computing Hackathon - Quantum Zeitgeist",
+      "type": "hackathons",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeFNHc2stczFiX3FzV2lzcllFRWI1Z2Rzc05DRHo0eEtKOWRWZ0FyOWNFdGdOamR6RkdPVU1sX3EtUHFrODhmMUt5NXVnTndYWElHejFfUUV3ZUk0X05yZjhnWWtzTDJXQzV5cjJubEp5eGdXWmU0?oc=5"
+    },
+    {
+      "id": "419e645b71af2bb1",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-28T07:00:00Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQl9KMlI1ZUwwUmZTc0djdWRxMU1ZUDlaR1U5UHFhbHowRC04QjJFOHRrTDB2clA3N0NSQWRWZjIwc1hhUF9EU1hOVmhVVDUzOEoxNndsckswQnl1Yk12cQ?oc=5\" target=\"_blank\">IEEE Quantum Week 2026, Essential Toronto Event, Register Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "IEEE Quantum Week 2026, Essential Toronto Event, Register Now - Quantum Zeitgeist",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQl9KMlI1ZUwwUmZTc0djdWRxMU1ZUDlaR1U5UHFhbHowRC04QjJFOHRrTDB2clA3N0NSQWRWZjIwc1hhUF9EU1hOVmhVVDUzOEoxNndsckswQnl1Yk12cQ?oc=5"
+    },
+    {
+      "id": "286f2447b744425d",
+      "matched_keywords": [
+        "hackathon",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-27T07:00:00Z",
+      "query": "quantum hackathon",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9ScTg5MFJDVjF0UWFYQVlMdE1tWnRveUhoaVJ2UHhudW0zTnJhSm9iTUoyV1JEX0E0UlBiVGNrOWZFcU9VQTU5bnRnUTVvUmJYZEVlaFBzWXFUV2F5ZThZY1lIaXI1MWhRXzJfSFJUMllnaUVJcmc?oc=5\" target=\"_blank\">MegazoneCloud and KISTI Wrap Up Quantum Computing Hackathon; CO₂-to-Ethylene Catalyst Project Takes Top Prize</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">finance.biggo.com</font>",
+      "title": "MegazoneCloud and KISTI Wrap Up Quantum Computing Hackathon; CO₂-to-Ethylene Catalyst Project Takes Top Prize - finance.biggo.com",
+      "type": "hackathons",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ScTg5MFJDVjF0UWFYQVlMdE1tWnRveUhoaVJ2UHhudW0zTnJhSm9iTUoyV1JEX0E0UlBiVGNrOWZFcU9VQTU5bnRnUTVvUmJYZEVlaFBzWXFUV2F5ZThZY1lIaXI1MWhRXzJfSFJUMllnaUVJcmc?oc=5"
+    },
+    {
       "id": "6de96bcfcd461eba",
       "matched_keywords": [
         "hackathon",
@@ -335,66 +394,6 @@
       "title": "In the quantum computing hackathon co-hosted by Mega Zone Cloud and the Korea Institute of Science a.. - 매일경제",
       "type": "hackathons",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JMkpCUEY1NEgtODhxbU5JQ0UwSUNSSmZEWU9LZ0lYS213Sjh4amF4UmE0bUVrY1AtOV9XNFdUVUNVU1dMbUxqY3Njcw?oc=5"
-    },
-    {
-      "id": "393603a752b4174d",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-25T09:28:40Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPc092MmhwWnR0OURyeGJFYVBxb3JySmNrOEZkM0dRb3ZwWUlBeTVSaDlHUzNEbXpvRjlib1pWTXJDX2JFdDZ4V0pVbnZ3ZTBRVWVFRmh1UEZZd0UtNGljbndHMW90WjNVYmVIR004THRjbF9JdnNCMHlMYnpBNVpORzJNU25YOUNGeGE5TXNrVWl5TFVGY25nRDMzdXVUWXpCZk1pc0RMNU5EMzdndGZmRGxSVXZmaVduQjVRcy1R?oc=5\" target=\"_blank\">OpenQSE workshop sets out deliverables for hybrid quantum-HPC software ecosystem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scientific Computing World</font>",
-      "title": "OpenQSE workshop sets out deliverables for hybrid quantum-HPC software ecosystem - Scientific Computing World",
-      "type": "summer_programs",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc092MmhwWnR0OURyeGJFYVBxb3JySmNrOEZkM0dRb3ZwWUlBeTVSaDlHUzNEbXpvRjlib1pWTXJDX2JFdDZ4V0pVbnZ3ZTBRVWVFRmh1UEZZd0UtNGljbndHMW90WjNVYmVIR004THRjbF9JdnNCMHlMYnpBNVpORzJNU25YOUNGeGE5TXNrVWl5TFVGY25nRDMzdXVUWXpCZk1pc0RMNU5EMzdndGZmRGxSVXZmaVduQjVRcy1R?oc=5"
-    },
-    {
-      "id": "dba0a7cc40f7e715",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-25T07:00:00Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE14eHZUc3FtNi0yWWtqMEZoN0VER0tUcDVkYjlJUWtGRGE3cFVYemREaEFYTVgxLTUyNi1yZjR1MFZnQl81aDVzQ01RSk80UW9MbEFCclBIMmdFdDRKSkJkMjZuaklSbGI5azcyVXdET25vd2VV?oc=5\" target=\"_blank\">OpenQSE Workshop Forms Six Groups To Build Quantum-HPC Software Stack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "OpenQSE Workshop Forms Six Groups To Build Quantum-HPC Software Stack - Quantum Zeitgeist",
-      "type": "summer_programs",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14eHZUc3FtNi0yWWtqMEZoN0VER0tUcDVkYjlJUWtGRGE3cFVYemREaEFYTVgxLTUyNi1yZjR1MFZnQl81aDVzQ01RSk80UW9MbEFCclBIMmdFdDRKSkJkMjZuaklSbGI5azcyVXdET25vd2VV?oc=5"
-    },
-    {
-      "id": "d8ebee922e1da6e5",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-20T07:00:00Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb1plYmNNVThrX1VYU2NTNDB3QkY4dW1STEtCQ05wZ29WbzJUM19Vd3NpdWV2dVZiUVByMzNfd3F0S3ExbGdkbkgxd2t6Sm5JNi1nNzRsYTA5VWJieGc4dnJvSDZFbzRXczhIT3laTGNBalB0OVp2TEpHX0UwSXVZVlFIUTR1d0lmMmZ2YTc4bDJOVE5xbGh4a0o3OUxrN2psX2lSM09yMGR5bmVxbFN6RlhKQkFfcmRMXzhGN18wZ251SkttZzFiRw?oc=5\" target=\"_blank\">IIT Alumni Centre Bengaluru to host quantum tech workshop tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>",
-      "title": "IIT Alumni Centre Bengaluru to host quantum tech workshop tomorrow - Deccan Herald",
-      "type": "summer_programs",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb1plYmNNVThrX1VYU2NTNDB3QkY4dW1STEtCQ05wZ29WbzJUM19Vd3NpdWV2dVZiUVByMzNfd3F0S3ExbGdkbkgxd2t6Sm5JNi1nNzRsYTA5VWJieGc4dnJvSDZFbzRXczhIT3laTGNBalB0OVp2TEpHX0UwSXVZVlFIUTR1d0lmMmZ2YTc4bDJOVE5xbGh4a0o3OUxrN2psX2lSM09yMGR5bmVxbFN6RlhKQkFfcmRMXzhGN18wZ251SkttZzFiRw?oc=5"
-    },
-    {
-      "id": "dced22fcb4919a5a",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-18T07:00:00Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzA1eVJxWThpajVaMWdyNC1XenRUS0lJbHlfOEdmNE1Pak1va1VITkJuVVJXQ005RHI5OWVuN19Pa0FkQ1NvUGxYc0VTM0tHYXhwZncycTNsaVFhczYyc29qbTE4S1ByN0FDLUF1NTZac3hIWURmNUtySTVMcldJM0pkSVowY1RVNDRYVTNXbE5WU2NvaC1IYUgtb3EwMzhVemlDSmpRWHFKU2xDeDBWZWdvNA?oc=5\" target=\"_blank\">IIT Alumni Centre Bengaluru to host workshop on quantum tech</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deccan Herald</font>",
-      "title": "IIT Alumni Centre Bengaluru to host workshop on quantum tech - Deccan Herald",
-      "type": "summer_programs",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzA1eVJxWThpajVaMWdyNC1XenRUS0lJbHlfOEdmNE1Pak1va1VITkJuVVJXQ005RHI5OWVuN19Pa0FkQ1NvUGxYc0VTM0tHYXhwZncycTNsaVFhczYyc29qbTE4S1ByN0FDLUF1NTZac3hIWURmNUtySTVMcldJM0pkSVowY1RVNDRYVTNXbE5WU2NvaC1IYUgtb3EwMzhVemlDSmpRWHFKU2xDeDBWZWdvNA?oc=5"
     }
   ]
 }
