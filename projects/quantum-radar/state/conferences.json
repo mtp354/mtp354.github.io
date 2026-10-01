@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T13:01:53Z",
+  "generated_at": "2026-10-01T13:02:15Z",
   "items": [
     {
       "category": "academic",
@@ -135,6 +135,19 @@
     {
       "category": "industry",
       "end_date": "",
+      "id": "5cc3490525f39f3a",
+      "location": "",
+      "name": "QuantumGenie Joins NIST And Industry Leaders At PQC Summit - Quantum Zeitgeist",
+      "notes": "Newly announced or indexed; verify dates on the linked page.",
+      "organizer": "",
+      "published": "2026-09-30T09:43:55Z",
+      "source": "discovery",
+      "start_date": "",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vTHU1cTUzaG9LMzU4YkVZcXFaNzJVTzVpN1BXcXRzM0tCSUtXMUY5MEdzam5DN3h1dm5mMkJSb25iNVYzQy16bUZBM1k1RUJjTm1UbHRlQXYyYXdXUkdPR28wb0xYejBiY1c0cnVEaUVTQTJKVnluQ1pB?oc=5"
+    },
+    {
+      "category": "industry",
+      "end_date": "",
       "id": "b78f01b24369f86f",
       "location": "",
       "name": "Not just physics: Quantum to make business case at Chattanooga conference - Chattanooga Times Free Press",
@@ -153,7 +166,7 @@
       "name": "Quantum Innovation Summit 2026 Brings \"Quantum and Emerging Frontiers\" to Dubai - openPR.com",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
-      "published": "2026-09-22T09:43:20Z",
+      "published": "2026-09-22T07:00:00Z",
       "source": "discovery",
       "start_date": "",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFY2aGg0bmk0RUZmOTFaeWZGVEdFZG9aNXBMdjB5NHFkdGEtaXZLbzhTRDNrZ2FOa0xZeE1CN0VwT09FdWVzUFJUOW56ZnN1RGh4QTV6Q1lmWHBTOXlqMzloakIxd2ZaZHFqT1h4c3dMSFZqb0JVdmZ0OGN0Wk55R0NSTUZvZF9nczVHZ3ppbTJ4MVMtOUw1NG13?oc=5"
@@ -200,19 +213,6 @@
     {
       "category": "academic",
       "end_date": "",
-      "id": "232048eaf0052c6f",
-      "location": "",
-      "name": "D-Wave to Host Qubits Asia 2026 Quantum Computing User Conference in Seoul - FinancialContent",
-      "notes": "Newly announced or indexed; verify dates on the linked page.",
-      "organizer": "",
-      "published": "2026-09-17T00:00:00Z",
-      "source": "discovery",
-      "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTlRMZE9sMDc2eUhhVUZONmZRWEI1UGh0d0pSQjYycXpWSlhHeE5tV3JWLUZPTXlEaG1PMlp3dUZJTHJ6WDNmLXNXU21heHd6OGZTWTlKZF9ERnZ1eHpIX3M1Y21zN21nYUNEWTlzdDVlWU95aVIwMUhKUk1EYUt1OVpzbHJyYWZra3lhS3NuZl9iUkltNkFXRVBXbFQ1X0ZCYTJfclZlTkZ4WVRSQ1ltelh0dmlwNEN6cFdGMlQ3Q2FENE5XcnhfbXB2MXMwZw?oc=5"
-    },
-    {
-      "category": "academic",
-      "end_date": "",
       "id": "3a4337a8dc807317",
       "location": "",
       "name": "Four IonQ papers earn Best Paper Awards at a quantum conference - Stock Titan",
@@ -226,19 +226,6 @@
     {
       "category": "industry",
       "end_date": "",
-      "id": "859da65d7abc6f5b",
-      "location": "",
-      "name": "From pipelines to railways and AI: Ottawa pitches 167 projects ahead of Carney's investment summit - CBC",
-      "notes": "Newly announced or indexed; verify dates on the linked page.",
-      "organizer": "",
-      "published": "2026-09-10T07:00:00Z",
-      "source": "discovery",
-      "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRjJxZjZjZGlUNHp0cWVOdGxQeUt3MnQ4TWVNR0xOakdjdjd0aDAxb3FEOHplZjFfaDJqS21xVTl4N0FFeEpHdk94MVFVSkw3bXh5V09jajFkZ0dJbU9rcGpNYld0Y05RTDk5X2VJNVZxRGg0bk9PeDVOb1kxaWU4SzhZcThodw?oc=5"
-    },
-    {
-      "category": "industry",
-      "end_date": "",
       "id": "6ca7114f1a9fd40c",
       "location": "",
       "name": "2025 Industry Future Conference: Key On-Site Details You Must Know Before the Kickoff - eu.36kr.com",
@@ -248,6 +235,19 @@
       "source": "discovery",
       "start_date": "",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MTFRFSlM4WlRtXzFpZnNCNW5VMTVhTVVXMnRfdkIxV3RDZ3F4bWVNLWRucXRLd1hxSUVwOEJjTkkzMHF2WF9nVnRnNEtLSkd6U0ZB?oc=5"
+    },
+    {
+      "category": "industry",
+      "end_date": "",
+      "id": "d53e3c63fc39d4b5",
+      "location": "",
+      "name": "Mountain West AI & HPC Summit - University of Wyoming",
+      "notes": "Newly announced or indexed; verify dates on the linked page.",
+      "organizer": "",
+      "published": "2026-09-02T07:00:00Z",
+      "source": "discovery",
+      "start_date": "",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWC1xRE0yeGJqa3dXUEd0N2NaWG9oWENfUm1IVTlfWVp0REtZV1ZiRFBVUXotaGdhRHNOYmF0TkpHS3VqX0pMUURld1dNZGhFOFBqdnppajNfRjRYSUhSNlNhT1A3dXNXMnhvWlllT3o0T0tVSmp2elV0U01KWWpSVl9B?oc=5"
     },
     {
       "category": "industry",
@@ -278,9 +278,9 @@
     {
       "category": "academic",
       "end_date": "",
-      "id": "aadd7f307fece536",
+      "id": "0457d205e1ca7e0c",
       "location": "",
-      "name": "AmpliTech Group To Report Second Quarter 2026 Results and Schedules Conference Call - manilatimes.net",
+      "name": "AmpliTech Group To Report Second Quarter 2026 Results and Schedules Conference Call - The Manila Times",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
       "published": "2026-08-10T07:00:00Z",
@@ -330,9 +330,9 @@
     {
       "category": "academic",
       "end_date": "",
-      "id": "283734f2986cf115",
+      "id": "056c98a255291f4f",
       "location": "",
-      "name": "Rigetti Computing to Report Second Quarter 2026 Financial Results and Host Conference Call on August 6, 2026 - manilatimes.net",
+      "name": "Rigetti Computing to Report Second Quarter 2026 Financial Results and Host Conference Call on August 6, 2026 - The Manila Times",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
       "published": "2026-07-24T07:00:00Z",
@@ -343,9 +343,9 @@
     {
       "category": "academic",
       "end_date": "",
-      "id": "2e5a0b715ebf6daf",
+      "id": "d246dbeb272e0fe1",
       "location": "",
-      "name": "IQM to Report 2nd Quarter and First Half of 2026 Financial Results and Host Conference Call on August 4th, 2026 - manilatimes.net",
+      "name": "IQM to Report 2nd Quarter and First Half of 2026 Financial Results and Host Conference Call on August 4th, 2026 - The Manila Times",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
       "published": "2026-07-22T07:00:00Z",
