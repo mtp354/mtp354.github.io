@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-01T13:41:44Z",
+  "generated_at": "2026-10-04T15:10:40Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
-        "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Small businesses",
-        "Independent school districts",
         "Private institutions of higher education",
-        "Individuals"
+        "Public and State controlled institutions of higher education",
+        "For profit organizations other than small businesses",
+        "Small businesses",
+        "Individuals",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Independent school districts"
       ],
       "grant_disposition": "actionable",
       "id": "1a7530639af44b85",
@@ -41,11 +41,11 @@
       "application_source": "Grants.gov",
       "deadline": "2026-12-04",
       "eligibility": [
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "For profit organizations other than small businesses",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
-        "Private institutions of higher education",
-        "For profit organizations other than small businesses"
+        "Private institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "c1c2bc0b077c471d",
@@ -112,7 +112,7 @@
     },
     {
       "application_source": "Grants.gov",
-      "deadline": "2076-08-19",
+      "deadline": "2076-10-02",
       "eligibility": [
         "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
       ],
@@ -231,22 +231,7 @@
       "url": "https://www.grants.gov/search-results-detail/340544"
     },
     {
-      "id": "4a27098741dad879",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-09-30T15:04:07Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE96ZnNSMi1sUk1PLTZ6djhnWC1DcjhQVkJ1LTV6R1U2MHEtTkQ1Xzk2elJzSnF0bFczUXZmY0Y5eUdNMWdQVjRKa0c5eERLMzhYS3JxaUlWanlTX2tQQ0JiaWZ2Zi01VzdBSzM0dmpsUkM?oc=5\" target=\"_blank\">Penn State Hosts Workshop On Quantum Universe</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Penn State Hosts Workshop On Quantum Universe - Quantum Zeitgeist",
-      "type": "summer_programs",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96ZnNSMi1sUk1PLTZ6djhnWC1DcjhQVkJ1LTV6R1U2MHEtTkQ1Xzk2elJzSnF0bFczUXZmY0Y5eUdNMWdQVjRKa0c5eERLMzhYS3JxaUlWanlTX2tQQ0JiaWZ2Zi01VzdBSzM0dmpsUkM?oc=5"
-    },
-    {
-      "id": "f566197664793749",
+      "id": "cdcdd330f4409295",
       "matched_keywords": [
         "workshop",
         "quantum",
@@ -255,8 +240,8 @@
       "published": "2026-09-29T12:24:37Z",
       "query": "quantum computing workshop students",
       "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0YwU1NEUURiSXl3RFJSUUxqc0xKM21xXzhwczg3UVFydTg0OE1TQ2t1SmVVU09mazBaQTJvc0ZfLV9QSVg4YkkxQzFuQUU2LUJXcnpUTXVuV2JOZWtFQmJHRmxMQkhxYkdRLVZtR09FejlaRHJRSmZUSzljLWhqZU9fYUFEbThyczFQbzhqYnA?oc=5\" target=\"_blank\">NeSQom 2026 Workshop Examines Hybrid Quantum-Classical Networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "NeSQom 2026 Workshop Examines Hybrid Quantum-Classical Networks - The Quantum Insider",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0YwU1NEUURiSXl3RFJSUUxqc0xKM21xXzhwczg3UVFydTg0OE1TQ2t1SmVVU09mazBaQTJvc0ZfLV9QSVg4YkkxQzFuQUU2LUJXcnpUTXVuV2JOZWtFQmJHRmxMQkhxYkdRLVZtR09FejlaRHJRSmZUSzljLWhqZU9fYUFEbThyczFQbzhqYnA?oc=5\" target=\"_blank\">NeSQom 2026 Workshop Examines Hybrid Quantum-Classical Networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">thequantuminsider.com</font>",
+      "title": "NeSQom 2026 Workshop Examines Hybrid Quantum-Classical Networks - thequantuminsider.com",
       "type": "summer_programs",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY0YwU1NEUURiSXl3RFJSUUxqc0xKM21xXzhwczg3UVFydTg0OE1TQ2t1SmVVU09mazBaQTJvc0ZfLV9QSVg4YkkxQzFuQUU2LUJXcnpUTXVuV2JOZWtFQmJHRmxMQkhxYkdRLVZtR09FejlaRHJRSmZUSzljLWhqZU9fYUFEbThyczFQbzhqYnA?oc=5"
     },
@@ -274,21 +259,6 @@
       "title": "Quantum Computing Hackathon - Registration Open! - UPEI",
       "type": "hackathons",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDRoYlhCeVljS29PQk9USGJHc0Y1RUhxcjJvUUlhOGpsdjJOMEprUlI4eWk1dEFqSGlSMi1KcktObmJ1RTRtdHpocnJzeDNvNnk2RURYRHkxS0FFdi1yQWFkWDVhMjFOb0Qwa0NhR2h0RUt3TzlNY29mNEU4SDVIdVpyZ0JYYVE?oc=5"
-    },
-    {
-      "id": "f4211486697503a0",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-09-28T20:35:58Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPWHh2SGNUWk5SN2x3VUR3V09qYWk5X0NXUHVBLTVkM0trOWRxcVNDRGtrbDliR1BDMld3VjFTWS13aThMMmRtY21rb1MxNFZEUXBMLVMzYmRyVzZYaDVBN0hIU3dSQmNOWU01b0FDYXlxaGRURWlMQ1p6NWtEZWRvRHdDWQ?oc=5\" target=\"_blank\">UMass Workshop—funded By NSF—charts Course For Future Quantum Networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "UMass Workshop—funded By NSF—charts Course For Future Quantum Networks - Quantum Zeitgeist",
-      "type": "summer_programs",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWHh2SGNUWk5SN2x3VUR3V09qYWk5X0NXUHVBLTVkM0trOWRxcVNDRGtrbDliR1BDMld3VjFTWS13aThMMmRtY21rb1MxNFZEUXBMLVMzYmRyVzZYaDVBN0hIU3dSQmNOWU01b0FDYXlxaGRURWlMQ1p6NWtEZWRvRHdDWQ?oc=5"
     },
     {
       "id": "dc9c66002d796a0f",
@@ -321,21 +291,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOHBVU1hJSjFJNS0zb1lBakRkRmhuSFFoa1h3aXpPOGxhTXFVRXQ3S2FDNmhQazc2SGFEcDVleHJZVDlWeEhueThORjhXbEhhbEpXMHlPeDhxRzZRYzdkc3pXSGd3UG1XR1o4blJPbnR1Smg3Z1JRUTJPSl9IYU9QWWg0bw?oc=5"
     },
     {
-      "id": "b6656687604f89b5",
-      "matched_keywords": [
-        "fellowship",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-09-01T07:00:00Z",
-      "query": "quantum fellowship",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQTExXU0RMVXQwYW12eTF4UjhYNGdOZ25tenhlTWF6c0NhWE5wZDRyS1JVMnB2ckNUdlZ2bEUwSzJyUml6b19aTVNEWXhFa0RMX3Y1Y05HSUR6S2w2Rm12RkNkd1JaNHE4WnFhclAxa045aUxqdXU0a0FMc1p6U1dRR0JXMlVKdG50c3I3RWFzeWdrMDloTHVFME1jMjJKMmNSV2k1ZTBlWmhfR0xtUXY1eTJjbUFUN19SMFUyMlc5cDlJUEplVDlrUzhlSErSAdIBQVVfeXFMTV9ueG5xME96aURyUW5zeTUyb0N1cmQzOEtVdl90MjRDeDJSbVlONkNVX2Z1TFhrN3hGVFM4ampVRHMwMzR6TDdGb25FbmN3aWU4cXBsNUZySnQtNVpQWV9SamhFX2J6R0E3WDlPY1hFWjBIbkxBdXhNRDNDcFFmM3V6Y1BKNHExTktEX0ZDWGl2NHViT1lVcXdIa2treG9xY0hOU2VFZE5lY1A4RkV4UVN1SEJqUlFfN05YZ2FfMVhiUFFnN1F1LUJnd29UcHE0a2Z3?oc=5\" target=\"_blank\">MIT Quantum Initiative Launches Gordon and Betty Moore Foundation-Backed Postdoctoral Fellowship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
-      "title": "MIT Quantum Initiative Launches Gordon and Betty Moore Foundation-Backed Postdoctoral Fellowship - Quantum Computing Report",
-      "type": "fellowships",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTExXU0RMVXQwYW12eTF4UjhYNGdOZ25tenhlTWF6c0NhWE5wZDRyS1JVMnB2ckNUdlZ2bEUwSzJyUml6b19aTVNEWXhFa0RMX3Y1Y05HSUR6S2w2Rm12RkNkd1JaNHE4WnFhclAxa045aUxqdXU0a0FMc1p6U1dRR0JXMlVKdG50c3I3RWFzeWdrMDloTHVFME1jMjJKMmNSV2k1ZTBlWmhfR0xtUXY1eTJjbUFUN19SMFUyMlc5cDlJUEplVDlrUzhlSErSAdIBQVVfeXFMTV9ueG5xME96aURyUW5zeTUyb0N1cmQzOEtVdl90MjRDeDJSbVlONkNVX2Z1TFhrN3hGVFM4ampVRHMwMzR6TDdGb25FbmN3aWU4cXBsNUZySnQtNVpQWV9SamhFX2J6R0E3WDlPY1hFWjBIbkxBdXhNRDNDcFFmM3V6Y1BKNHExTktEX0ZDWGl2NHViT1lVcXdIa2treG9xY0hOU2VFZE5lY1A4RkV4UVN1SEJqUlFfN05YZ2FfMVhiUFFnN1F1LUJnd29UcHE0a2Z3?oc=5"
-    },
-    {
       "id": "c49d3ba2de4f20a3",
       "matched_keywords": [
         "hackathon",
@@ -349,21 +304,6 @@
       "title": "National Taiwan U & IBM Hosted A Quantum Computing Hackathon - Quantum Zeitgeist",
       "type": "hackathons",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FeFNHc2stczFiX3FzV2lzcllFRWI1Z2Rzc05DRHo0eEtKOWRWZ0FyOWNFdGdOamR6RkdPVU1sX3EtUHFrODhmMUt5NXVnTndYWElHejFfUUV3ZUk0X05yZjhnWWtzTDJXQzV5cjJubEp5eGdXWmU0?oc=5"
-    },
-    {
-      "id": "419e645b71af2bb1",
-      "matched_keywords": [
-        "workshop",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-08-28T07:00:00Z",
-      "query": "quantum computing workshop students",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQl9KMlI1ZUwwUmZTc0djdWRxMU1ZUDlaR1U5UHFhbHowRC04QjJFOHRrTDB2clA3N0NSQWRWZjIwc1hhUF9EU1hOVmhVVDUzOEoxNndsckswQnl1Yk12cQ?oc=5\" target=\"_blank\">IEEE Quantum Week 2026, Essential Toronto Event, Register Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "IEEE Quantum Week 2026, Essential Toronto Event, Register Now - Quantum Zeitgeist",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uQl9KMlI1ZUwwUmZTc0djdWRxMU1ZUDlaR1U5UHFhbHowRC04QjJFOHRrTDB2clA3N0NSQWRWZjIwc1hhUF9EU1hOVmhVVDUzOEoxNndsckswQnl1Yk12cQ?oc=5"
     },
     {
       "id": "286f2447b744425d",
@@ -394,6 +334,66 @@
       "title": "In the quantum computing hackathon co-hosted by Mega Zone Cloud and the Korea Institute of Science a.. - 매일경제",
       "type": "hackathons",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JMkpCUEY1NEgtODhxbU5JQ0UwSUNSSmZEWU9LZ0lYS213Sjh4amF4UmE0bUVrY1AtOV9XNFdUVUNVU1dMbUxqY3Njcw?oc=5"
+    },
+    {
+      "id": "dba0a7cc40f7e715",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-08-25T07:00:00Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE14eHZUc3FtNi0yWWtqMEZoN0VER0tUcDVkYjlJUWtGRGE3cFVYemREaEFYTVgxLTUyNi1yZjR1MFZnQl81aDVzQ01RSk80UW9MbEFCclBIMmdFdDRKSkJkMjZuaklSbGI5azcyVXdET25vd2VV?oc=5\" target=\"_blank\">OpenQSE Workshop Forms Six Groups To Build Quantum-HPC Software Stack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "OpenQSE Workshop Forms Six Groups To Build Quantum-HPC Software Stack - Quantum Zeitgeist",
+      "type": "summer_programs",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14eHZUc3FtNi0yWWtqMEZoN0VER0tUcDVkYjlJUWtGRGE3cFVYemREaEFYTVgxLTUyNi1yZjR1MFZnQl81aDVzQ01RSk80UW9MbEFCclBIMmdFdDRKSkJkMjZuaklSbGI5azcyVXdET25vd2VV?oc=5"
+    },
+    {
+      "id": "36d2a2ffde0ac42b",
+      "matched_keywords": [
+        "hackathon",
+        "competition",
+        "quantum"
+      ],
+      "published": "2026-10-01T03:00:00Z",
+      "query": "quantum hackathon",
+      "score": 6,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzVPUzNMd3lNRjlvVnQwOWR4Uk1xakdvZWhuMGFYS1NvMUZoNmFMSTRPNGVQX0drWkZJRFh5ZllvXy1yTnBidkVMQjlLa1Y0RUpEWmJYalROWmZMMUZRaVZyXy1GQWZFcXhSSjZ5ajloLXJFQmJXTGd0dURSbEpnRU9yczVzb1lQTC16UERVV0xWdnc0VzA1dDlSUGdqTEUyeGV3RDR3NUd1eGZpd3otYXpLa3RCdWkyUVZaMmszblhPZ2xC?oc=5\" target=\"_blank\">MSIT to hold quantum-resistant cryptography transition competition and hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+      "title": "MSIT to hold quantum-resistant cryptography transition competition and hackathon - 디지털투데이",
+      "type": "hackathons",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzVPUzNMd3lNRjlvVnQwOWR4Uk1xakdvZWhuMGFYS1NvMUZoNmFMSTRPNGVQX0drWkZJRFh5ZllvXy1yTnBidkVMQjlLa1Y0RUpEWmJYalROWmZMMUZRaVZyXy1GQWZFcXhSSjZ5ajloLXJFQmJXTGd0dURSbEpnRU9yczVzb1lQTC16UERVV0xWdnc0VzA1dDlSUGdqTEUyeGV3RDR3NUd1eGZpd3otYXpLa3RCdWkyUVZaMmszblhPZ2xC?oc=5"
+    },
+    {
+      "id": "4f4f9546042b8d74",
+      "matched_keywords": [
+        "internship",
+        "intern",
+        "quantum"
+      ],
+      "published": "2026-09-17T07:00:00Z",
+      "query": "quantum internship",
+      "score": 6,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9XektBVVcwTzg1Zk1QdFZEOUttRXVqUHRObEd1VzNPWGt3WWRLYXhOdEZjN1ZscmwzazNpUzZLQ2IxZkZpUWI2ai1UbU1Qc1JxdHJuYUZ3WDVickFReTBRMy1TU0ZwRlR5cnhydlBZWm9zaUE?oc=5\" target=\"_blank\">UD’s 3+2 Program Speeds Path To Quantum Science Masters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "UD’s 3+2 Program Speeds Path To Quantum Science Masters - Quantum Zeitgeist",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XektBVVcwTzg1Zk1QdFZEOUttRXVqUHRObEd1VzNPWGt3WWRLYXhOdEZjN1ZscmwzazNpUzZLQ2IxZkZpUWI2ai1UbU1Qc1JxdHJuYUZ3WDVickFReTBRMy1TU0ZwRlR5cnhydlBZWm9zaUE?oc=5"
+    },
+    {
+      "id": "1f971e64214f2295",
+      "matched_keywords": [
+        "fellowship",
+        "fellowships",
+        "quantum"
+      ],
+      "published": "2026-09-12T07:00:00Z",
+      "query": "quantum fellowship",
+      "score": 6,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1Tdk9nXzdlVkpJbEM5S0NsY1lxU29ROU9xYnMxX2VQUVVQZTNYUXdST0lKUDV3a1hUUGlDMXpsNXR4LWNOZ1JEMnYzZGZQQU9EaVVXbmlKRmphdkdIV2VIVU5TY1NBU0VvOW5jVkhERk1BSmFuMDNWMg?oc=5\" target=\"_blank\">QMIT Launches Quantum Fellowships To Train Next-gen Leaders</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "QMIT Launches Quantum Fellowships To Train Next-gen Leaders - Quantum Zeitgeist",
+      "type": "fellowships",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Tdk9nXzdlVkpJbEM5S0NsY1lxU29ROU9xYnMxX2VQUVVQZTNYUXdST0lKUDV3a1hUUGlDMXpsNXR4LWNOZ1JEMnYzZGZQQU9EaVVXbmlKRmphdkdIV2VIVU5TY1NBU0VvOW5jVkhERk1BSmFuMDNWMg?oc=5"
     }
   ]
 }
