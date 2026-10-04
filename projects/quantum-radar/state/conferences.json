@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T13:02:15Z",
+  "generated_at": "2026-10-04T14:36:57Z",
   "items": [
     {
       "category": "academic",
@@ -135,6 +135,19 @@
     {
       "category": "industry",
       "end_date": "",
+      "id": "e951f63a3d8aabb6",
+      "location": "",
+      "name": "Quantum Industry Group’s OrangeQS To Showcase Quantum Chip Testing At EU Summit - Quantum Zeitgeist",
+      "notes": "Newly announced or indexed; verify dates on the linked page.",
+      "organizer": "",
+      "published": "2026-10-01T10:09:02Z",
+      "source": "discovery",
+      "start_date": "",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcDhRdnVqTl81RlhFNkdjeE1lNnpGWUU4X3MtRC16Qi1OczR4Z084M1d4OUFPaklwaFBFMFZCOFVHVnp1WHE5RDhZREdJTTFSc2VadWpEYW5OT3NfSmZsUVJGazJkS1dfNEQtRkp5WHJWUEZ4QjZTdDJtMWZaSlJWMg?oc=5"
+    },
+    {
+      "category": "industry",
+      "end_date": "",
       "id": "5cc3490525f39f3a",
       "location": "",
       "name": "QuantumGenie Joins NIST And Industry Leaders At PQC Summit - Quantum Zeitgeist",
@@ -153,23 +166,10 @@
       "name": "Not just physics: Quantum to make business case at Chattanooga conference - Chattanooga Times Free Press",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
-      "published": "2026-09-24T22:56:00Z",
+      "published": "2026-09-24T07:00:00Z",
       "source": "discovery",
       "start_date": "",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWVraUtTU3dOdU5oQXlJQXQ1cGFOVlZaandHOG9FNGI1WVVlbENvZTB3TGxObkl2aG5Yd0tRMmJmdWVGbXBEczA5VUlRQWNUaHZ2alJ5WHdXOVpFOGYxTTIwd3pKMVU1Rl96SngxWWdMaWtIRDlFUndxQWRacFBoZHoxcW83ZGQyaEtqSExnbHo3OS1IWFlVSVJtTENNbnc?oc=5"
-    },
-    {
-      "category": "industry",
-      "end_date": "",
-      "id": "100604e86df5a49c",
-      "location": "",
-      "name": "Quantum Innovation Summit 2026 Brings \"Quantum and Emerging Frontiers\" to Dubai - openPR.com",
-      "notes": "Newly announced or indexed; verify dates on the linked page.",
-      "organizer": "",
-      "published": "2026-09-22T07:00:00Z",
-      "source": "discovery",
-      "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZFY2aGg0bmk0RUZmOTFaeWZGVEdFZG9aNXBMdjB5NHFkdGEtaXZLbzhTRDNrZ2FOa0xZeE1CN0VwT09FdWVzUFJUOW56ZnN1RGh4QTV6Q1lmWHBTOXlqMzloakIxd2ZaZHFqT1h4c3dMSFZqb0JVdmZ0OGN0Wk55R0NSTUZvZF9nczVHZ3ppbTJ4MVMtOUw1NG13?oc=5"
     },
     {
       "category": "academic",
@@ -187,38 +187,12 @@
     {
       "category": "academic",
       "end_date": "",
-      "id": "c167628c6b39fc49",
-      "location": "",
-      "name": "D-Wave Brings Quantum User Conference, Qubits Asia, To Seoul - Quantum Zeitgeist",
-      "notes": "Newly announced or indexed; verify dates on the linked page.",
-      "organizer": "",
-      "published": "2026-09-17T07:00:00Z",
-      "source": "discovery",
-      "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UZzJPSFFzV0ZzQmdFc1dwOWt6TExWMExpWnpzbEdNRHZaT2c5VkZnRHd0RThCV2F4Y1RJMVl4WWRNWU1uT2x6UVl5VG42dXZRT1M5c2t3M1BfWjF2NFhpQ1JPRmlGeEw5Yk9aelRR?oc=5"
-    },
-    {
-      "category": "academic",
-      "end_date": "",
-      "id": "73970799860fed02",
-      "location": "",
-      "name": "D-Wave to Host Qubits Asia 2026 Quantum Computing User Conference in Seoul - 01net",
-      "notes": "Newly announced or indexed; verify dates on the linked page.",
-      "organizer": "",
-      "published": "2026-09-17T03:00:00Z",
-      "source": "discovery",
-      "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmJ0eVowMFZoOW5GRF8wQVZ2eFc1Mmhpd3VVakNQZEM2ckpVT0hvYWh6MEtZSV8zV0NqcWNfblZCNDVTQmQyT1FvUXc3Rjd2SmNfSUtDYzZwVGVmMHF4UmpoVnFZMHdLSmRDcmY2X1ZFTmZ1eFhkN0phR2M2U1NCZFd4ZVVzU2J2RVlFbzZwYk5PdFZpdks4WnlyaFE?oc=5"
-    },
-    {
-      "category": "academic",
-      "end_date": "",
       "id": "3a4337a8dc807317",
       "location": "",
       "name": "Four IonQ papers earn Best Paper Awards at a quantum conference - Stock Titan",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
-      "published": "2026-09-14T13:30:00Z",
+      "published": "2026-09-14T07:00:00Z",
       "source": "discovery",
       "start_date": "",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTjhsQnBJdy1oMEFHUXAxN19uQ1kzcVdzT2s1NFp5bDJqUkI0WDhWNHl6b1JPT0JVejBwNjROZ3pfeGV2RHU2UGc2U2F2VGdDQU94ZE9qc01rekN0aDh5ZmhXUU9HTVJ2TFhkQ3AyNFVkVjRPMVRQR2NrOVVaY2ZkeFZISDFyYm5NWnYtZS01M1BKOXg1UmN4VG8xZ2c2VlBWb1VCZXFSdmtaNTBCaUowYnF5X1JMc0tDV1JkZg?oc=5"
@@ -226,9 +200,9 @@
     {
       "category": "industry",
       "end_date": "",
-      "id": "6ca7114f1a9fd40c",
+      "id": "af2a97801f7057e7",
       "location": "",
-      "name": "2025 Industry Future Conference: Key On-Site Details You Must Know Before the Kickoff - eu.36kr.com",
+      "name": "2025 Industry Future Conference: Key On-Site Details You Must Know Before the Kickoff - 36 Kr",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
       "published": "2026-09-09T03:43:55Z",
@@ -248,6 +222,19 @@
       "source": "discovery",
       "start_date": "",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWC1xRE0yeGJqa3dXUEd0N2NaWG9oWENfUm1IVTlfWVp0REtZV1ZiRFBVUXotaGdhRHNOYmF0TkpHS3VqX0pMUURld1dNZGhFOFBqdnppajNfRjRYSUhSNlNhT1A3dXNXMnhvWlllT3o0T0tVSmp2elV0U01KWWpSVl9B?oc=5"
+    },
+    {
+      "category": "academic",
+      "end_date": "",
+      "id": "634553183df76651",
+      "location": "",
+      "name": "ECTC call for papers - Electronics Weekly",
+      "notes": "Newly announced or indexed; verify dates on the linked page.",
+      "organizer": "",
+      "published": "2026-08-19T07:00:00Z",
+      "source": "discovery",
+      "start_date": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdGZhd0c4MG9Wb284eExZRy1zdGhDN3NTSmlQQVVfYWUzUHlaQWxhanZ2dGxNSG9vcDVkMFNKNDlNOHhUeF8xNVJQTDJoOHhETUdpSHhPTXNfNzVtbnd2WjdETGFBTkZPT184M01PUDFuU0FQNFcweWd0ZW5YRzBWbUE3dzVSZw?oc=5"
     },
     {
       "category": "industry",
@@ -343,19 +330,6 @@
     {
       "category": "academic",
       "end_date": "",
-      "id": "d246dbeb272e0fe1",
-      "location": "",
-      "name": "IQM to Report 2nd Quarter and First Half of 2026 Financial Results and Host Conference Call on August 4th, 2026 - The Manila Times",
-      "notes": "Newly announced or indexed; verify dates on the linked page.",
-      "organizer": "",
-      "published": "2026-07-22T07:00:00Z",
-      "source": "discovery",
-      "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOb05ZdFdFN3ZNYV9zTk5USEdZQTdwVUFRRTY5R2tUN0F1Mmp4ZkU0RThLNDBwbGZTTHNndndKdmhpZkxxakVmXzZ6VHhRMlIwU19obEhlMG1wMV9UM2x6clpQWnNjeUZPVXRXaS1zeEp2cFotOW91cUN5Vk1fNHNrNndCWXRCNzlpam9jSlM1NkpXbWdFaG42STU4M191ZWpVOFIyTVlVRERTLWZBV2ItY3RlVDR5ODlCODRMTWdyV2xwb01QNjRvMHhxeXFlRVZfTXZWakVuNXpTRWZEN1BIeXlkWHZRTjRlbXQ2WDBxcTFyVmZGbkxhRVAtMHVHcmF2a1hMc2FvcXZONWFvQlprTFdB0gGXAkFVX3lxTFBsMzVTREdKUGFXY0ctR2tzT05RRUpTVy13dVQ2Z2U5Mkg3RjJCdmtnY2JtVmZEZjNVVTl2Q2ZjNU5oNmI2cXFndGRELVJPVlRITGJxbFNOeXpiNGpfTnUyZWo5RWg1TFNGR3pneGlHTnJ3ZUt5QWdYZ0ZhSHZvaUlVN3kzY1VpYUJhS0RoeER3Mk05dFgxYkdsNlhaa2hoVlNPaGtKNTVOR1RqbnpSa2FOS0xLdXVsck9Vckg0c0hsVklxa1NaZ2R0ZEQycDVGT3FTclRpQ3U3N2Q2cXZPU04zaVJSc3dERTFWZEpSTWdjTGU1NkgtQld4WWtzMFpaRi14dUk4SG5LYmtrbnVqcXlEcmdwemhGNA?oc=5"
-    },
-    {
-      "category": "academic",
-      "end_date": "",
       "id": "edd80b7b1ab02a12",
       "location": "",
       "name": "Sparking curiosity at Youth Quantum Symposium - University of Waterloo",
@@ -382,6 +356,19 @@
     {
       "category": "industry",
       "end_date": "",
+      "id": "fd6339da80649d76",
+      "location": "",
+      "name": "Singularity South Africa Summit 2026 – AI, Quantum and Leadership in Johannesburg | Events - Capmad",
+      "notes": "Newly announced or indexed; verify dates on the linked page.",
+      "organizer": "",
+      "published": "2026-07-15T04:43:56Z",
+      "source": "discovery",
+      "start_date": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVHNtLV9QU1ZHZ1c0TmpFMmx2a2s4WE5QOC1uRVM0X0V1SEhPdFcwRDdFQzJYQ3NLWXZrSWdfLWRTaXVyYnFFc01qTHlNTXJ1LVNYV2dMMGR2WlZWRHJEOF8tZEJRdE1PTzVHZGhScm84TVpJRnpQUFNpTHc0UEFfNkpVa0pSb1BYbVNsYUJkXzRhVXRNdW9veVJjbHItakN2MWhodHFEMnFDVUNh?oc=5"
+    },
+    {
+      "category": "industry",
+      "end_date": "",
       "id": "bf4f06e898f8ebd6",
       "location": "",
       "name": "Quantum Is the Future for Washington. Inside a White House Summit. - Barron's",
@@ -391,6 +378,19 @@
       "source": "discovery",
       "start_date": "",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUUhwNzdfVXdNcEliVUFuVXhOekdUSjJXVG9FS3c0dnRXaGVBYUtJRjlqQXRjaWtBdFM1Rkx4MXNsc0gyX3FmazBSd0lmWm1sUDMwLXVDMU9qbVNXWnphemtaVGxfTHh0Vy1mRUY2dUZhYzFmeFo5ZUYzM0ZHMUtmSnRoV2Y?oc=5"
+    },
+    {
+      "category": "industry",
+      "end_date": "",
+      "id": "946641d6d61e0c10",
+      "location": "",
+      "name": "White House Quantum Summit Aligns Industry on Transition, Innovation - BankInfoSecurity",
+      "notes": "Newly announced or indexed; verify dates on the linked page.",
+      "organizer": "",
+      "published": "2026-07-08T21:34:32Z",
+      "source": "discovery",
+      "start_date": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYkZIUk13U0pfY2tIY2o2bnIwdUw4LWFOVGtlMDB5WFgtX0FZSVhrb2xPdmhJWnN4U2NIbHBiS0VDVWFvUEJnT1VLRlRUMDJzMml1UmxvTEh6TlM2Q3NfWV9hSUlzd0FUVmh2UWJMM2dsNURhTGJheWNjWTRMQ3JVd1F1Q3B2elNUQ0pla0tuZDNXNnVUZFRXSmdpR3RuTG1GTnhNbk41TU9iUEp0?oc=5"
     }
   ]
 }
