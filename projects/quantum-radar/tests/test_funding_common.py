@@ -8,6 +8,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
 
 from funding_common import extract_money, funding_event_from_item, grant_disposition
 from fetch_opportunities import _grants_gov_date
+from opportunities_common import find_deadline_in_text
 from fetch_stock_prices import _awarded_grant_lines
 
 
@@ -33,6 +34,10 @@ class GrantDispositionTests(unittest.TestCase):
 
     def test_grants_gov_deadline_normalization(self) -> None:
         self.assertEqual(_grants_gov_date("10/15/2026"), "2026-10-15")
+        self.assertIsNone(_grants_gov_date("10/06/2076"))
+
+    def test_implausible_deadline_year_is_rejected(self) -> None:
+        self.assertIsNone(find_deadline_in_text("Application deadline: October 6, 2076"))
 
 
 class MoneyExtractionTests(unittest.TestCase):
