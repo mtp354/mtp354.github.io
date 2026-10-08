@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import calendar
 import json
+import re
 from datetime import datetime, timezone
 from typing import Any
 from urllib.parse import quote_plus
@@ -20,6 +21,14 @@ from common import (
     write_json,
 )
 from funding_common import funding_event_from_item, grant_disposition
+from opportunities_common import is_plausible_deadline
+
+OPEN_PROGRAM_WORDS = re.compile(
+    r"\b(?:apply|application deadline|applications? (?:are )?(?:open|invited|accepted|now open)|"
+    r"call for (?:applications|participants)|registration (?:is )?(?:open|now open)|"
+    r"register(?: now)?|enroll(?:ment)? (?:now )?open|accepting applications)\b",
+    re.IGNORECASE,
+)
 
 
 def classify(text: str, buckets: dict[str, list[str]]) -> str:
@@ -28,6 +37,10 @@ def classify(text: str, buckets: dict[str, list[str]]) -> str:
         if any(kw.lower() in lowered for kw in kws):
             return bucket
     return "other"
+
+
+def _is_open_program_item(item: dict[str, Any]) -> bool:
+    return bool(OPEN_PROGRAM_WORDS.search(f"{item.get('title', '')}\n{item.get('summary', '')}"))
 
 
 def fetch_items(rss_queries: list[str]) -> list[dict[str, Any]]:
@@ -212,7 +225,8 @@ def _grants_gov_date(value: str) -> str | None:
         return None
     for fmt in ("%m/%d/%Y", "%Y-%m-%d"):
         try:
-            return datetime.strptime(value, fmt).date().isoformat()
+            parsed = datetime.strptime(value, fmt).date()
+            return parsed.isoformat() if is_plausible_deadline(parsed) else None
         except ValueError:
             continue
     return None
@@ -394,6 +408,8 @@ def main(argv: list[str] | None = None) -> int:
         item["type"] = item.get("type") or classify(
             f"{item['title']}\n{item['summary']}", buckets
         )
+        if item["type"] == "summer_programs" and not _is_open_program_item(item):
+            continue
         item["score"] = score
         item["matched_keywords"] = matched
         item["id"] = item.get("id") or stable_id(item["url"], item["title"])
