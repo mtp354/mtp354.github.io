@@ -1,35 +1,20 @@
 {
-  "generated_at": "2026-10-09T11:25:57Z",
+  "generated_at": "2026-10-11T11:24:23Z",
   "news": [
     {
-      "id": "b126e2fdbdecd598",
+      "id": "e3d666405a4203f0",
       "matched_keywords": [
         "quantum computing",
         "error correction",
-        "neutral atom"
+        "surface code"
       ],
-      "published": "2026-09-29T13:32:06Z",
-      "query": "neutral atom quantum computing",
+      "published": "2026-10-10T19:19:14Z",
+      "query": "quantum error correction",
       "score": 9,
       "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPMzNkRUZjUjhKalJmTVpBcDZIM0JqN2VHdWs5ZmgtWEhzX1hXVF9oY3NSWm9Wb0VqcW90SFRBeExGc0liZUZIVWVtbzQxVTYzM21lS2t2YVpEUnZySXJzeGNaT2JjWHhCczhyMi0zWVV6MmptNzdmNjU3RFFKZTItSg?oc=5\" target=\"_blank\">Infleqtion And Riverlane Team Up On Error Correction For UK Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Infleqtion And Riverlane Team Up On Error Correction For UK Quantum Computers - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMzNkRUZjUjhKalJmTVpBcDZIM0JqN2VHdWs5ZmgtWEhzX1hXVF9oY3NSWm9Wb0VqcW90SFRBeExGc0liZUZIVWVtbzQxVTYzM21lS2t2YVpEUnZySXJzeGNaT2JjWHhCczhyMi0zWVV6MmptNzdmNjU3RFFKZTItSg?oc=5"
-    },
-    {
-      "id": "74b0202fac6dcdaa",
-      "matched_keywords": [
-        "quantum computing",
-        "error correction",
-        "neutral atom"
-      ],
-      "published": "2026-09-29T12:24:37Z",
-      "query": "neutral atom quantum computing",
-      "score": 9,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxORjlJV3VMRnJGc19qRjQzVWxRZVRaVlRQakpISk1iTV9ORVJlV19pam40U2JtVFpkWHp6ZXROYzZveEpVdnNmcjAtTFREZ2xkUmMtYVNoR3Q1czhnaUhQZ2JDbzItN29rVnNmQ0JyUE9uS2VtOVBRRDdaNlhmbnpBZzFKdVRUcEFkMlI4Zmh6cGg?oc=5\" target=\"_blank\">Infleqtion and Riverlane Partner on Quantum Error Correction</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
-      "title": "Infleqtion and Riverlane Partner on Quantum Error Correction - The Quantum Insider",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORjlJV3VMRnJGc19qRjQzVWxRZVRaVlRQakpISk1iTV9ORVJlV19pam40U2JtVFpkWHp6ZXROYzZveEpVdnNmcjAtTFREZ2xkUmMtYVNoR3Q1czhnaUhQZ2JDbzItN29rVnNmQ0JyUE9uS2VtOVBRRDdaNlhmbnpBZzFKdVRUcEFkMlI4Zmh6cGg?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxORlhWeERIQXVRMjJ4UnNtaC05RkdjSU1XaHJNQThoc2U3Y01KZ3Q1U083X1BBQnB0b0hOZlZfZWZtZTdRNHJwb2lDWlM4UUl3Z1JNWTkwQTZHazB3UmFJV0lIaEpGa2JjYVZiYUpndF9TMlF0V3gyMXl0bGVPN240eV83eEM0RkpJMzdReWM2ZE1rSHdZWEZvNWIyd1AtTS1FMngtTGJlWEg0ai1CZjN4SUo4VE85bmlKVG5qYmxQTklpc2RzZ0dEVGV6UkRCTkU4SFdYTDgwbUJ3MXlFT21KTnBrWVFWV0k2LTl2OUpMb21nZlZyQVh4U9IB_gFBVV95cUxNclRqbERPOHBacTRwN0VGSTBwTG5SWEhYZl8tMW5MZzM4TVJiaUFoNDJsMWFjaGZ2a0VfV2gxSVVPNDRFcUczSUJ1a0EtLWRrNFFZcXE4WDJLXzN6bjB3V1pSQkZCdHJidUZpTDFENXBRbWdUWnp5Y2YzM0hDSXEyVWxfd0kxY25qcVYtTWJuLVJKNWxELS1zWGRVUXQ1VktZdk9RWG93eDc5MFFIT3hvUEVwUDZsU1kyc1FwbGlmdUpPMFVtcXJfN0VVSkdmc1ZzM2NFM3p0VXE1R2lIMmhDd0pZdks5TlMtM2ZWcWFzZUhPX0tXdmhzMVVqdFo0dw?oc=5\" target=\"_blank\">University of Saskatchewan Researchers Achieve Record Hyperbolic Surface Code Efficiency for Modular Fault-Tolerant Architectures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "University of Saskatchewan Researchers Achieve Record Hyperbolic Surface Code Efficiency for Modular Fault-Tolerant Architectures - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORlhWeERIQXVRMjJ4UnNtaC05RkdjSU1XaHJNQThoc2U3Y01KZ3Q1U083X1BBQnB0b0hOZlZfZWZtZTdRNHJwb2lDWlM4UUl3Z1JNWTkwQTZHazB3UmFJV0lIaEpGa2JjYVZiYUpndF9TMlF0V3gyMXl0bGVPN240eV83eEM0RkpJMzdReWM2ZE1rSHdZWEZvNWIyd1AtTS1FMngtTGJlWEg0ai1CZjN4SUo4VE85bmlKVG5qYmxQTklpc2RzZ0dEVGV6UkRCTkU4SFdYTDgwbUJ3MXlFT21KTnBrWVFWV0k2LTl2OUpMb21nZlZyQVh4U9IB_gFBVV95cUxNclRqbERPOHBacTRwN0VGSTBwTG5SWEhYZl8tMW5MZzM4TVJiaUFoNDJsMWFjaGZ2a0VfV2gxSVVPNDRFcUczSUJ1a0EtLWRrNFFZcXE4WDJLXzN6bjB3V1pSQkZCdHJidUZpTDFENXBRbWdUWnp5Y2YzM0hDSXEyVWxfd0kxY25qcVYtTWJuLVJKNWxELS1zWGRVUXQ1VktZdk9RWG93eDc5MFFIT3hvUEVwUDZsU1kyc1FwbGlmdUpPMFVtcXJfN0VVSkdmc1ZzM2NFM3p0VXE1R2lIMmhDd0pZdks5TlMtM2ZWcWFzZUhPX0tXdmhzMVVqdFo0dw?oc=5"
     },
     {
       "id": "7096f43d322ba20a",
@@ -45,6 +30,76 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRU9wMkNKd3YtR2NSaUhCaHNYZzJWN2JGRldJdEszT1g2UkIyOXlsWnlVVnUtYk96M2xLTi11eThXRTFyV2JwZmZHcHFMZWJBR1dRMnBOUDkxQWFBLVZMenFCZmJWcFNhZEZ4dmp6eFg0UGd3b0hHZURfeUpITWlqdkVUWWNjRmJYbGw1R1hiTDlyeWN5cmd6UHV1bXkyb0p0YkVodWF0bGNGeGwtNnJ2c0JRTzI3VFRRTlNXcmdreUlJMTBvRndBV1FJYzJGLWRSUEZvRW04VXJSLTlWMl81YkdTdlBjSUnSAewBQVVfeXFMUDR2NjBYRTBNZ3pTaU9UTTVzbGMweUNXd253UHBocTUzYlpfbUs4WE1WcjAyR0lrdGVFVUNjaU5CM1RkT2ZNUnJXTUM5eHN3UGdzMDBXNU82N3l2MG5ZNU5JaUE1YXVraWVqS2p4THVPcVhSb1VXX3oxM3hNTTJCQlhTVEZ6SXlqVnhDbERXNWNTa2FGZ0F5LWZ2RF9yeTUzWnJESE9PT1lrb0c4cXJuMjN5WktnY2pYbjlSc1c5WTlzd0RNMUNxVGFwTmZlbGw5MnRXd0F0NWFaUUg1akJHSW94QUNDUGwtSkZXWkk?oc=5\" target=\"_blank\">DARPA Selects Atom Computing, Diraq, IBM, and IonQ for Final Stage C Verification under Quantum Benchmarking Initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
       "title": "DARPA Selects Atom Computing, Diraq, IBM, and IonQ for Final Stage C Verification under Quantum Benchmarking Initiative - Quantum Computing Report",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRU9wMkNKd3YtR2NSaUhCaHNYZzJWN2JGRldJdEszT1g2UkIyOXlsWnlVVnUtYk96M2xLTi11eThXRTFyV2JwZmZHcHFMZWJBR1dRMnBOUDkxQWFBLVZMenFCZmJWcFNhZEZ4dmp6eFg0UGd3b0hHZURfeUpITWlqdkVUWWNjRmJYbGw1R1hiTDlyeWN5cmd6UHV1bXkyb0p0YkVodWF0bGNGeGwtNnJ2c0JRTzI3VFRRTlNXcmdreUlJMTBvRndBV1FJYzJGLWRSUEZvRW04VXJSLTlWMl81YkdTdlBjSUnSAewBQVVfeXFMUDR2NjBYRTBNZ3pTaU9UTTVzbGMweUNXd253UHBocTUzYlpfbUs4WE1WcjAyR0lrdGVFVUNjaU5CM1RkT2ZNUnJXTUM5eHN3UGdzMDBXNU82N3l2MG5ZNU5JaUE1YXVraWVqS2p4THVPcVhSb1VXX3oxM3hNTTJCQlhTVEZ6SXlqVnhDbERXNWNTa2FGZ0F5LWZ2RF9yeTUzWnJESE9PT1lrb0c4cXJuMjN5WktnY2pYbjlSc1c5WTlzd0RNMUNxVGFwTmZlbGw5MnRXd0F0NWFaUUg1akJHSW94QUNDUGwtSkZXWkk?oc=5"
+    },
+    {
+      "id": "3fda4fd29cf58593",
+      "matched_keywords": [
+        "quantum computing",
+        "error correction"
+      ],
+      "published": "2026-10-10T23:48:15Z",
+      "query": "quantum error correction",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSXR6R290YVJ1M0lRY1JlYkVfTFMzMXBERjhySko3UXQzel8tbVZEZ1ZNZ2s1eDJEb2ExNlhXVVRVVDBjaFJjbU8wZjNXNnJTb2s5eGp6NzNjMTlUZEtiSklodWplcEdUVm9iUmVndURUdVJsT1NaMmk0Y18zeTYwNUpNQmpjM2NOcUZaUmc4bFFZLWhSQ1RRQ05yMlM0OXRTMXl4MjJIcmlkNzFLWFNnVnQ1Sy04aE0zU3VSUEFaSWpfUGRNaG9sbTd4VkpxZk9zdHJtOWVFaXNNTi0xaTIzei1pUzJJUWgzVDdR0gHwAUFVX3lxTE1iUF8tRURyTlVVWWVuT2VVWUFoX0ZNYnBJR3pLdXZUdHhmWVR1ZmktTnA1b09hcXlBTjdaU04zWU1sdFZOdFF3Wk1iTk0xV3I3WlJkZ2NXR3FKRmFLdjdGNy13QWd2aW81MEZpR1ExaDBjMkJQQ0hHdGtnY3JmN1NycXJJVEQ5aksyRWJaZFc0ZldiU2FzS2dsMFJuUzVIUkJxdnhmNG9IN25qemlJZUZlbEVYU0hrSVJNTF9ZWnBnVnNxQW9WU3VGM3M5U0JsRGhtdGstcl9WWElUZ0RjWWNSZ1RLRFZsbUt2aTR1cmZ0ZQ?oc=5\" target=\"_blank\">IBM Launches Directed Execution Model and Executor Primitive to Give Researchers Client-Side Control Over QEC Workflows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "IBM Launches Directed Execution Model and Executor Primitive to Give Researchers Client-Side Control Over QEC Workflows - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSXR6R290YVJ1M0lRY1JlYkVfTFMzMXBERjhySko3UXQzel8tbVZEZ1ZNZ2s1eDJEb2ExNlhXVVRVVDBjaFJjbU8wZjNXNnJTb2s5eGp6NzNjMTlUZEtiSklodWplcEdUVm9iUmVndURUdVJsT1NaMmk0Y18zeTYwNUpNQmpjM2NOcUZaUmc4bFFZLWhSQ1RRQ05yMlM0OXRTMXl4MjJIcmlkNzFLWFNnVnQ1Sy04aE0zU3VSUEFaSWpfUGRNaG9sbTd4VkpxZk9zdHJtOWVFaXNNTi0xaTIzei1pUzJJUWgzVDdR0gHwAUFVX3lxTE1iUF8tRURyTlVVWWVuT2VVWUFoX0ZNYnBJR3pLdXZUdHhmWVR1ZmktTnA1b09hcXlBTjdaU04zWU1sdFZOdFF3Wk1iTk0xV3I3WlJkZ2NXR3FKRmFLdjdGNy13QWd2aW81MEZpR1ExaDBjMkJQQ0hHdGtnY3JmN1NycXJJVEQ5aksyRWJaZFc0ZldiU2FzS2dsMFJuUzVIUkJxdnhmNG9IN25qemlJZUZlbEVYU0hrSVJNTF9ZWnBnVnNxQW9WU3VGM3M5U0JsRGhtdGstcl9WWElUZ0RjWWNSZ1RLRFZsbUt2aTR1cmZ0ZQ?oc=5"
+    },
+    {
+      "id": "d4c9b8f956740651",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-10-10T04:25:03Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlLUtxTlFpSHl4SFhQWlNZaGdLR0FMeW9Oa1VZSzNjbjYyMDdRbXdxd1lkTU5YQUkzMW1MN3dDSUt3NmxQaVFIY2NCSnhMd04wTlg4?oc=5\" target=\"_blank\">Fudan University Post-90s Entrepreneurs Secure 1 Billion Yuan Funding to Compete Head-to-Head With Leading Global Quantum Technology Giants</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">eu.36kr.com</font>",
+      "title": "Fudan University Post-90s Entrepreneurs Secure 1 Billion Yuan Funding to Compete Head-to-Head With Leading Global Quantum Technology Giants - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlLUtxTlFpSHl4SFhQWlNZaGdLR0FMeW9Oa1VZSzNjbjYyMDdRbXdxd1lkTU5YQUkzMW1MN3dDSUt3NmxQaVFIY2NCSnhMd04wTlg4?oc=5"
+    },
+    {
+      "id": "fe38926093374cce",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-10-10T02:17:38Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUWdlNklQdVcxYTBiRzRPNUF1ODNrT1lDVTF4dlhIajA1RUxHTFZQamlHUm4xaUVmMzZqUG1yNWtsZTc3Tm45R0ZZemprY1Q4dEJONmJsQVQ0NkNRZDZ1XzFNc0syWHdfMGNVLV96eVFucS16cnFJcW5DY2M3VzhMbDZnTmRCc0NtMHBVdG1SQTEwdXRfLWQ2ZkVSVlZEcUNFMi1BcXJqYXBsaTZidXl6RXVhSlhqa0kzN1BBOEUyY2F4YnBHb0xrSUd2SUpqdUp6OFRtYzlqcVc1aVVSbDEzNGlFUjROcWQy0gHuAUFVX3lxTE92dzVRTzZBd0VMZDJPSnpqVXFOb29UNGZGTk0wNkU5RDNMS0FrdmVTNE4tbnZZSHk3WjB0TkE1RVA0Q001T095Z2c1WTF5QjhVVEhqbHAtdkxkcncxTUZCLXA5Z2NPNXhZQlVSYTEyRXhrRG1nOTJkMGFtSFpTcllUT0JIbm02Uld3dURJWWlXcmtoNURSYUxTNTE5MF9yNUtnX1JDXzdTUkc4UEhOVmlQLTB2aHRWV2xfdWFieVJfa3dkV2JOTGtEVGpncUVXNVd5eGNQaUZiN1lUVlRHOG1XakZaNTVHNUd0cVdhb3c?oc=5\" target=\"_blank\">Quantum X Labs Expands Intellectual Property and R&amp;D Across Neutral-Atom Hardware, Rydberg Sensing, and Circuit Security</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "Quantum X Labs Expands Intellectual Property and R&D Across Neutral-Atom Hardware, Rydberg Sensing, and Circuit Security - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUWdlNklQdVcxYTBiRzRPNUF1ODNrT1lDVTF4dlhIajA1RUxHTFZQamlHUm4xaUVmMzZqUG1yNWtsZTc3Tm45R0ZZemprY1Q4dEJONmJsQVQ0NkNRZDZ1XzFNc0syWHdfMGNVLV96eVFucS16cnFJcW5DY2M3VzhMbDZnTmRCc0NtMHBVdG1SQTEwdXRfLWQ2ZkVSVlZEcUNFMi1BcXJqYXBsaTZidXl6RXVhSlhqa0kzN1BBOEUyY2F4YnBHb0xrSUd2SUpqdUp6OFRtYzlqcVc1aVVSbDEzNGlFUjROcWQy0gHuAUFVX3lxTE92dzVRTzZBd0VMZDJPSnpqVXFOb29UNGZGTk0wNkU5RDNMS0FrdmVTNE4tbnZZSHk3WjB0TkE1RVA0Q001T095Z2c1WTF5QjhVVEhqbHAtdkxkcncxTUZCLXA5Z2NPNXhZQlVSYTEyRXhrRG1nOTJkMGFtSFpTcllUT0JIbm02Uld3dURJWWlXcmtoNURSYUxTNTE5MF9yNUtnX1JDXzdTUkc4UEhOVmlQLTB2aHRWV2xfdWFieVJfa3dkV2JOTGtEVGpncUVXNVd5eGNQaUZiN1lUVlRHOG1XakZaNTVHNUd0cVdhb3c?oc=5"
+    },
+    {
+      "id": "8a7ed69f5b88141c",
+      "matched_keywords": [
+        "quantum computing",
+        "neutral atom"
+      ],
+      "published": "2026-10-10T02:09:34Z",
+      "query": "neutral atom quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZRkd4bVZFUU12V0k1TUM3b0liYU56aklmSlpZSTJOb2Fhb196SHZiRi01WnhnMW81b3pHeWJPR1BIUnBjZTBGMFByUl9RQ0tCYkZZ?oc=5\" target=\"_blank\">Neutral-Atom Quantum Computer Maker Oratomic Raises $475M Series B</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wowtale</font>",
+      "title": "Neutral-Atom Quantum Computer Maker Oratomic Raises $475M Series B - Wowtale",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZRkd4bVZFUU12V0k1TUM3b0liYU56aklmSlpZSTJOb2Fhb196SHZiRi01WnhnMW81b3pHeWJPR1BIUnBjZTBGMFByUl9RQ0tCYkZZ?oc=5"
+    },
+    {
+      "id": "9c4dffe541f6b78d",
+      "matched_keywords": [
+        "quantum computing",
+        "trapped ion"
+      ],
+      "published": "2026-10-09T17:03:45Z",
+      "query": "quantum computing",
+      "score": 6,
+      "source": "News",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYzR6UWxQWnJKc0s2Zm1icmVITmhMTHNqbWRxN25HLWlCVDdGSzFTTUZ5c3Nta3lfQXhBQWttRzhxYnp0SEFsSEI5T1ZMT2EzTkNvekpweEdmLVV2bGJkZXNRYnJ6TWtKQWhHRHF6MXI3ZEp2UXdyNWR4TWUyRUZPZVJxeUgtNm11MjhJTDl1OW1DaUVLYmw3NDBJTVZtVmxwZ0RvMlRxZUQtVTI1SEdsY2g2Y2hpV0tDXzVCOFk5Rkt1RkFMaVNSdUxhMHNaVVJ1Z05ia01KRFkzb1ZCNHdZ0gHkAUFVX3lxTE9kc0N4Q3ozbHlEYmhJbW44NTdFSXdiWjNCaXFqeWg0MHVOVC1NSFE5R1lFYVRNWWJCMEthSmpwQUI5cmtnVWNfaTdBUlFqYXNFbC16Y3FSY1VGaEJzVjRvTXNzUGppYktZajJDbmdYM0pVOVJxX3JsaFF0VnJPX2wtdXZOMTZQY2k0eGZUN0tyakhlVFFaVHdCRWNQYzdWSFR5MFBZVlQ1ckgxd0V1WjJqRC1BTm9BcEMxbXZRV1YyclpUX0JVQkJkV1JJamFSZC00aFE2cjk3X2puRF9QV1lmMlREeg?oc=5\" target=\"_blank\">IonQ Demonstrates 1 kHz Memory-Enhanced Quantum Interconnect Connecting Trapped Ions and Diamond Color Centers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
+      "title": "IonQ Demonstrates 1 kHz Memory-Enhanced Quantum Interconnect Connecting Trapped Ions and Diamond Color Centers - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYzR6UWxQWnJKc0s2Zm1icmVITmhMTHNqbWRxN25HLWlCVDdGSzFTTUZ5c3Nta3lfQXhBQWttRzhxYnp0SEFsSEI5T1ZMT2EzTkNvekpweEdmLVV2bGJkZXNRYnJ6TWtKQWhHRHF6MXI3ZEp2UXdyNWR4TWUyRUZPZVJxeUgtNm11MjhJTDl1OW1DaUVLYmw3NDBJTVZtVmxwZ0RvMlRxZUQtVTI1SEdsY2g2Y2hpV0tDXzVCOFk5Rkt1RkFMaVNSdUxhMHNaVVJ1Z05ia01KRFkzb1ZCNHdZ0gHkAUFVX3lxTE9kc0N4Q3ozbHlEYmhJbW44NTdFSXdiWjNCaXFqeWg0MHVOVC1NSFE5R1lFYVRNWWJCMEthSmpwQUI5cmtnVWNfaTdBUlFqYXNFbC16Y3FSY1VGaEJzVjRvTXNzUGppYktZajJDbmdYM0pVOVJxX3JsaFF0VnJPX2wtdXZOMTZQY2k0eGZUN0tyakhlVFFaVHdCRWNQYzdWSFR5MFBZVlQ1ckgxd0V1WjJqRC1BTm9BcEMxbXZRV1YyclpUX0JVQkJkV1JJamFSZC00aFE2cjk3X2puRF9QV1lmMlREeg?oc=5"
     },
     {
       "id": "53874ca92ad6e531",
@@ -73,20 +128,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNcmx6LU5hV0pmSW9hTWpmUXdEUVhaQmtRZGlRenZkODRSNHRIeWY4TU1lUnNPTmV2VVpMZjcwYjF5NmVhLWxWZE1Fc0tJU2ZMQ1VFNFJXQ1VyanRvZWlKaHRTcHNIdXQxTUY1UXQxdmhWM1lpQ20tXzFnMU1WNEdLemhySnlKM3pQZ0JrVU1uUjMtZWdwUG1lc041NzNOZjVF0gGmAUFVX3lxTFBBZVI4V0hucFk5SDNXOUw5QjVxeFg4dGkyTWZLbzMyN0l5N0ZFRHk3MzVpR2xuNnVUbGRIYXhSM0RyLXBGcXA1MXJ4M2N6RmcxNDFRTjRCaHZzOFZDSmR5ek5peVJ5RFpVenNsbVY1c1hHdGc3OXBuQURUU25nY0tqVmMwSFZRLV83SlFYTnV1bmdMWEEteHhwUDNOempuWW1qMkRpUGc?oc=5\" target=\"_blank\">Atom Computing Advances To Final Stage Of DARPA Quantum Benchmarking Initiative</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Pulse 2.0</font>",
       "title": "Atom Computing Advances To Final Stage Of DARPA Quantum Benchmarking Initiative - Pulse 2.0",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcmx6LU5hV0pmSW9hTWpmUXdEUVhaQmtRZGlRenZkODRSNHRIeWY4TU1lUnNPTmV2VVpMZjcwYjF5NmVhLWxWZE1Fc0tJU2ZMQ1VFNFJXQ1VyanRvZWlKaHRTcHNIdXQxTUY1UXQxdmhWM1lpQ20tXzFnMU1WNEdLemhySnlKM3pQZ0JrVU1uUjMtZWdwUG1lc041NzNOZjVF0gGmAUFVX3lxTFBBZVI4V0hucFk5SDNXOUw5QjVxeFg4dGkyTWZLbzMyN0l5N0ZFRHk3MzVpR2xuNnVUbGRIYXhSM0RyLXBGcXA1MXJ4M2N6RmcxNDFRTjRCaHZzOFZDSmR5ek5peVJ5RFpVenNsbVY1c1hHdGc3OXBuQURUU25nY0tqVmMwSFZRLV83SlFYTnV1bmdMWEEteHhwUDNOempuWW1qMkRpUGc?oc=5"
-    },
-    {
-      "id": "d082e57d5345a199",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-10-08T18:51:02Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcGo0aGY0TDVyUk1VWTZLTmxSQjRfZGhNTmFUMGQxdHFmVEVVdlVscnJNSjFfZVVqVk1mNHBLMm8yaUJ5eDg3d1NpU3RFakVlXzFnTUNud0Y0UG1PZ2otN1VWek5FMUdTSWpiM05xV3IxeTVsOExUQWRLUWtxY1Z0THpNR2YxMDdtcFBVTXBtSG9ybF9rdUEwaUpvald3WVREMXltLXBIdVA5RUd1N3lFX0h1bWJpVFVIeXU0Y2NtSFFGLXpKLUV2dtIBzgFBVV95cUxQY3dsTXdmZFBjY0VNcFZGRFhBSnZHVXJva1l4a3EybXB0ZXNvTi01RHhVdmF2TG91VUhTdkx0dVFPTVVLVHh6MzNJaEJoOTQ0anJzT1gyZnRDaW1STy1rc1NzeW11NEdkZndndEY0Q056b1RwMHVLT2dBbTdCcm03UUNsWWQ1V1puS1BGZVFDZXYtb0JfVkJUWkVqc284RkdQNGRrQ2RGRU55X2dxekdpZzVnZmhLb3JkclFXVGZ1c2szNU9WSnhYeVpmZzk4Zw?oc=5\" target=\"_blank\">3 Quantum Computing Stocks Worth Watching After Universal Quantum’s $100 Million Raise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simply Wall Street</font>",
-      "title": "3 Quantum Computing Stocks Worth Watching After Universal Quantum’s $100 Million Raise - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcGo0aGY0TDVyUk1VWTZLTmxSQjRfZGhNTmFUMGQxdHFmVEVVdlVscnJNSjFfZVVqVk1mNHBLMm8yaUJ5eDg3d1NpU3RFakVlXzFnTUNud0Y0UG1PZ2otN1VWek5FMUdTSWpiM05xV3IxeTVsOExUQWRLUWtxY1Z0THpNR2YxMDdtcFBVTXBtSG9ybF9rdUEwaUpvald3WVREMXltLXBIdVA5RUd1N3lFX0h1bWJpVFVIeXU0Y2NtSFFGLXpKLUV2dtIBzgFBVV95cUxQY3dsTXdmZFBjY0VNcFZGRFhBSnZHVXJva1l4a3EybXB0ZXNvTi01RHhVdmF2TG91VUhTdkx0dVFPTVVLVHh6MzNJaEJoOTQ0anJzT1gyZnRDaW1STy1rc1NzeW11NEdkZndndEY0Q056b1RwMHVLT2dBbTdCcm03UUNsWWQ1V1puS1BGZVFDZXYtb0JfVkJUWkVqc284RkdQNGRrQ2RGRU55X2dxekdpZzVnZmhLb3JkclFXVGZ1c2szNU9WSnhYeVpmZzk4Zw?oc=5"
     },
     {
       "id": "0ecfe851d8a178d4",
@@ -129,48 +170,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaS1hTWZvVy0tdVZHMHN5MjhkdDdEaVRqRm80WFpraVdzQm1DUFp2OFc4cmItam5jZjVnRWY2TEtoUHRmVGhPV3lfS1M4NWswd1BOTTRYV095VmRXWF9fMF9wZ2VfMU1vak9yV3dpelB0Z1VpQUxtN3ZXX05rTzdtZ0RlcXVfT1R3LVBZZVhnNjJFM2VYX2hxV3p6R1NOWm5BZE9sMEI3SmlKWFNWLWcxUFViaw?oc=5\" target=\"_blank\">Oratomic raises $775 million to develop fault-tolerant quantum computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Scientific Computing World</font>",
       "title": "Oratomic raises $775 million to develop fault-tolerant quantum computers - Scientific Computing World",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaS1hTWZvVy0tdVZHMHN5MjhkdDdEaVRqRm80WFpraVdzQm1DUFp2OFc4cmItam5jZjVnRWY2TEtoUHRmVGhPV3lfS1M4NWswd1BOTTRYV095VmRXWF9fMF9wZ2VfMU1vak9yV3dpelB0Z1VpQUxtN3ZXX05rTzdtZ0RlcXVfT1R3LVBZZVhnNjJFM2VYX2hxV3p6R1NOWm5BZE9sMEI3SmlKWFNWLWcxUFViaw?oc=5"
-    },
-    {
-      "id": "b2306cf61875753d",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-10-08T15:58:23Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM0pFS0VLUkFTbnFUZ3FodzJTMDFVTkVaU2c3S1E2ZjBGOWEwbWZkN3ZCM1pWb1dQaFlsc1hxckg1VnhoallzTFhkeTlCRmVVLTNPWDZ1Q0xCWVV4OHo1Q3EzdGQwQUlXbDh0UHgzM21aLWJOa285VWJnS2JtdWRwdmV6MXhGZ21ueXVrT1ZjaUM3UTJSLTlPV3RKMm9aTjFXY2lzb3RjeDEzdWxqdlktTkIzd3hOSDdJMG9HUE9YTVdvaVZ3RFMzNzk1Nm9RTUk2bVE?oc=5\" target=\"_blank\">Pasqal Launches an AI-Assisted Workflow to Accelerate Cloud QPU Experiments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TradingView</font>",
-      "title": "Pasqal Launches an AI-Assisted Workflow to Accelerate Cloud QPU Experiments - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM0pFS0VLUkFTbnFUZ3FodzJTMDFVTkVaU2c3S1E2ZjBGOWEwbWZkN3ZCM1pWb1dQaFlsc1hxckg1VnhoallzTFhkeTlCRmVVLTNPWDZ1Q0xCWVV4OHo1Q3EzdGQwQUlXbDh0UHgzM21aLWJOa285VWJnS2JtdWRwdmV6MXhGZ21ueXVrT1ZjaUM3UTJSLTlPV3RKMm9aTjFXY2lzb3RjeDEzdWxqdlktTkIzd3hOSDdJMG9HUE9YTVdvaVZ3RFMzNzk1Nm9RTUk2bVE?oc=5"
-    },
-    {
-      "id": "bb6e0c9555d4a479",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-10-08T15:35:00Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkRZcjhoSWJEVnZ1S2txSWNYdmU3Z0xGa3hwWVAtTkxiVE0tSDdIeVpsN09hWm4zSUpuN2xqWHdTSWhWcUc0Smp6VTVGN2EtVmFWUEN3TG81eVBZM3JZMDl1YmZHTnNjZ0N5M3c0YldGNkt2TnhGNDl3OUF6TjJMOGJWRmpzNktzMlBzSmo0OTdZVFBWUS1zVTZQU3JROHhSWTM1SmRDMWdsNEU1VFRrM0t2SF9YdnR0Zy1jMw?oc=5\" target=\"_blank\">Oratomic raises $475M for neutral-atom quantum computing, Universal Quantum nets $100M+</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SiliconANGLE</font>",
-      "title": "Oratomic raises $475M for neutral-atom quantum computing, Universal Quantum nets $100M+ - SiliconANGLE",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkRZcjhoSWJEVnZ1S2txSWNYdmU3Z0xGa3hwWVAtTkxiVE0tSDdIeVpsN09hWm4zSUpuN2xqWHdTSWhWcUc0Smp6VTVGN2EtVmFWUEN3TG81eVBZM3JZMDl1YmZHTnNjZ0N5M3c0YldGNkt2TnhGNDl3OUF6TjJMOGJWRmpzNktzMlBzSmo0OTdZVFBWUS1zVTZQU3JROHhSWTM1SmRDMWdsNEU1VFRrM0t2SF9YdnR0Zy1jMw?oc=5"
-    },
-    {
-      "id": "29e258f3e69eb012",
-      "matched_keywords": [
-        "quantum computing",
-        "neutral atom"
-      ],
-      "published": "2026-10-08T13:10:44Z",
-      "query": "neutral atom quantum computing",
-      "score": 6,
-      "source": "News",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNTjNuQzZxcVFKSWlOWEdpcmFscXd2NjFwVVdMOGxrSkczWk05LWlMVjl0TFRTMHZ4aHlDSUJ2Tk9aVGwwcXBmUlJ5cE5GZlZ3Yk5fSDNGRHVFUUx4b0VJS0w0SmR6cjAzRUZpX2V1SzQxZHNDeFlKMDhkM1V3dlZnYkhiOVNxSUZKeFB6WWxfWkdjTjdIeWtxQmVDTTd1ZGhpZUZmZHU2TXVhc1RzWDdkSUFQaWhHNjRMdGRFa3NLZUpoZldJODlPeUhCbm9pOUZQeGk5SHlPTGxrSk1zeW9wb00tVFpMX0ZxZ0FCdkZUMHNJaXBWSWFxbUxwdVBfSnhmeUdiUtIBigJBVV95cUxPMUN4ZDhpNjQyNGtjQTJESlBoY3Q3aXJ4MmgxcGV2cTdiNFRPa0lEemxBcDgtM2NlalBWQWVHSEhKczJXLUZ5bk1oSDBwZzhQSzRhWklYcUxHLUttV1lETUJDMnduNXNONGZRR1lBbWxhMzhtSnNrYlNKZEd3MmJoNDhEZEQ1V0pGaXM5LWp1Zzl1c2xOMndvRVlfV0hnYS1xVFE1bkM4MWVwT09yQndRanpBekpUZ1pXQWpENU9jblRMR2VhN0dwVlliSEtnMy1RNmdud3luR1NPRXgtVVV3Ynh0b1FJY3lsSHNtODBKNzJEdWFPampkOWpjYlk4RzY2S3pyYlNFOGJTUQ?oc=5\" target=\"_blank\">Oratomic Raises $775 Million in Total Funding to Build Utility-Scale Fault-Tolerant Quantum Computers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Manila Times</font>",
-      "title": "Oratomic Raises $775 Million in Total Funding to Build Utility-Scale Fault-Tolerant Quantum Computers - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTjNuQzZxcVFKSWlOWEdpcmFscXd2NjFwVVdMOGxrSkczWk05LWlMVjl0TFRTMHZ4aHlDSUJ2Tk9aVGwwcXBmUlJ5cE5GZlZ3Yk5fSDNGRHVFUUx4b0VJS0w0SmR6cjAzRUZpX2V1SzQxZHNDeFlKMDhkM1V3dlZnYkhiOVNxSUZKeFB6WWxfWkdjTjdIeWtxQmVDTTd1ZGhpZUZmZHU2TXVhc1RzWDdkSUFQaWhHNjRMdGRFa3NLZUpoZldJODlPeUhCbm9pOUZQeGk5SHlPTGxrSk1zeW9wb00tVFpMX0ZxZ0FCdkZUMHNJaXBWSWFxbUxwdVBfSnhmeUdiUtIBigJBVV95cUxPMUN4ZDhpNjQyNGtjQTJESlBoY3Q3aXJ4MmgxcGV2cTdiNFRPa0lEemxBcDgtM2NlalBWQWVHSEhKczJXLUZ5bk1oSDBwZzhQSzRhWklYcUxHLUttV1lETUJDMnduNXNONGZRR1lBbWxhMzhtSnNrYlNKZEd3MmJoNDhEZEQ1V0pGaXM5LWp1Zzl1c2xOMndvRVlfV0hnYS1xVFE1bkM4MWVwT09yQndRanpBekpUZ1pXQWpENU9jblRMR2VhN0dwVlliSEtnMy1RNmdud3luR1NPRXgtVVV3Ynh0b1FJY3lsSHNtODBKNzJEdWFPampkOWpjYlk4RzY2S3pyYlNFOGJTUQ?oc=5"
     }
   ],
   "publications": [
