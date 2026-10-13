@@ -19,10 +19,12 @@ is intentionally never published.
 from __future__ import annotations
 
 import json
+import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+from urllib.parse import urlparse
 
 from opportunities_common import (
     SECTION_KEYS,
@@ -110,7 +112,10 @@ def _rss_to_entry(item: dict[str, Any]) -> dict[str, Any] | None:
 
 
 def _merge(seed: dict[str, list[dict[str, Any]]], rss: list[dict[str, Any]]) -> dict[str, list[dict[str, Any]]]:
-    merged = {key: list(seed.get(key, [])) for key in SECTION_KEYS}
+    merged = {
+        key: [entry for entry in seed.get(key, []) if not _careers_search_placeholder(entry)]
+        for key in SECTION_KEYS
+    }
     # Closed grants are historical records, not something the reader can apply
     # for now. Other opportunity types retain the existing open/closed display.
     merged["grants"] = [entry for entry in merged["grants"] if is_open(entry.get("deadline"))]
@@ -118,7 +123,7 @@ def _merge(seed: dict[str, list[dict[str, Any]]], rss: list[dict[str, Any]]) -> 
     seen.discard("")
     for raw in rss:
         entry = _rss_to_entry(raw)
-        if not entry:
+        if not entry or _careers_search_placeholder(entry):
             continue
         link = entry["link"]
         if link and link in seen:
@@ -127,6 +132,12 @@ def _merge(seed: dict[str, list[dict[str, Any]]], rss: list[dict[str, Any]]) -> 
         if link:
             seen.add(link)
     return merged
+
+
+def _careers_search_placeholder(entry: dict[str, Any]) -> bool:
+    notes = entry.get("notes") or ""
+    path = urlparse(entry.get("link") or "").path.rstrip("/").lower()
+    return bool(re.search(r"\bsearch\b", notes, re.IGNORECASE) and path.endswith("/careers"))
 
 
 def _render_table(entries: list[dict[str, Any]]) -> str:
@@ -180,6 +191,8 @@ def _render_jobs_table(entries: list[dict[str, Any]]) -> str:
 
 def _render_jobs_section(entries: list[dict[str, Any]]) -> str:
     count = len(entries)
+    if not count:
+        return ""
     noun = "listing" if count == 1 else "listings"
     return "\n".join(
         [

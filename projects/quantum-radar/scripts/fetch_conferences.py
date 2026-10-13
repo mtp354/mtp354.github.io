@@ -22,9 +22,18 @@ INDUSTRY_WORDS = re.compile(
     re.IGNORECASE,
 )
 EVENT_WORDS = re.compile(
-    r"\b(?:conference|congress|symposium|summit|workshop|annual meeting|call for papers|cfp)\b",
+    r"\b(?:conference|congress|symposium|summit|workshop|event|meeting)\b",
     re.IGNORECASE,
 )
+NON_EVENT_WORDS = re.compile(
+    r"\b(?:earnings?|results?|quarterly|(?:first|second|third|fourth) quarter)\b",
+    re.IGNORECASE,
+)
+
+
+def _is_conference_candidate(title: str, summary: str) -> bool:
+    text = f"{title} {summary}"
+    return bool(EVENT_WORDS.search(text) and not NON_EVENT_WORDS.search(text))
 
 
 def _as_iso(value: Any) -> str:
@@ -112,7 +121,7 @@ def discover(queries: list[str], max_age_days: int) -> list[dict[str, Any]]:
         for entry in feed.entries:
             title = entry.get("title", "").strip()
             summary = entry.get("summary", "").strip()
-            if not EVENT_WORDS.search(f"{title} {summary}"):
+            if not _is_conference_candidate(title, summary):
                 continue
             published = _published(entry)
             if published:

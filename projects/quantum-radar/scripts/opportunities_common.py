@@ -69,6 +69,11 @@ def _normalize_year(year_str: str | None) -> int | None:
     return y
 
 
+def is_plausible_deadline(value: date) -> bool:
+    """Reject malformed source dates far outside a plausible application window."""
+    return 2000 <= value.year <= datetime.now(timezone.utc).year + 5
+
+
 def _try_parse_match(match: re.Match) -> date | None:
     groups = match.groups()
     today = datetime.now(timezone.utc).date()
@@ -81,13 +86,14 @@ def _try_parse_match(match: re.Match) -> date | None:
             # If user omitted year and the date is already past, assume next year.
             if not year_str and dt < today:
                 dt = dt.replace(year=today.year + 1)
-            return dt
         # Pattern 3: "YYYY-MM-DD"
-        if len(groups[0]) == 4:
-            return date(int(groups[0]), int(groups[1]), int(groups[2]))
+        elif len(groups[0]) == 4:
+            dt = date(int(groups[0]), int(groups[1]), int(groups[2]))
         # Pattern 2: "M/D/Y"
-        m, d, y = int(groups[0]), int(groups[1]), _normalize_year(groups[2])
-        return date(y, m, d)
+        else:
+            m, d, y = int(groups[0]), int(groups[1]), _normalize_year(groups[2])
+            dt = date(y, m, d)
+        return dt if is_plausible_deadline(dt) else None
     except (ValueError, TypeError):
         return None
 
