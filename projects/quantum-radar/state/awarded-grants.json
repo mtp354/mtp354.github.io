@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-10-10T13:38:48Z",
+  "generated_at": "2026-10-13T13:48:22Z",
   "items": [
+    {
+      "amounts": [
+        {
+          "amount": 51000000,
+          "currency": "USD",
+          "display": "US$51m"
+        }
+      ],
+      "id": "bd8bfd49cbaf49a3",
+      "published": "2026-10-13T04:57:20Z",
+      "title": "Australia's Diraq Secures US$51m in DARPA Quantum Funding - Australia Saudi Business Forum",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HaTFmdmF1RFF2R2RxQkI4N0kyN2ZxUnhQZHd2SVI3VGxGdjJudzRXelNVOHlCSEtFYmlEZGxYLV9KczdfSEdRMzBxcTJoN1d0cnRJQ3JPbjVaNXU4T3FfLTR3M2pNZDhtc3FKWmp0MGZodV9oM0ljckhBcm1hRnM?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "80f468513e3a1bad",
+      "published": "2026-10-09T22:21:40Z",
+      "title": "UW Physics Professor Receives Grant to Develop Next-Generation Quantum Materials - University of Wyoming",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQWVVQU4xWmZLZ0ZobkY2dk9uWmRYRGJUclFNci1YRDJFN0o5VXF1RGExa1VnSVNwT19XWXR5aE5tbU1QV0ZpX0dWOGJlS2pSU0U2S3Q3RTN4NEZDckJiZk9ETWJaLTJ4SmNraTBkM0xoUDZ1YW8tSm5SaDFrLUFIZ25lcExxZS1ZRG84RVVFR2VycEhRbndrOUItWG1QdWxxX1hWUEcxS0FyZmFDTjlyWWZnQUVrbHliLWEw?oc=5"
+    },
     {
       "amounts": [
         {
@@ -447,6 +467,13 @@
       "published": "2026-09-03T10:15:25Z",
       "title": "Spintronics plus quantum: PSI researcher receives major grant - admin.ch",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhTWhDLW9jZFFXSGMxSzZ1NGlXcWh4bDBUZ25UdFBrYU4yY0lTZWdvMDNDUjlWSS1SNmNoei1wanU3dFJWTUZ6cFp5QU10bGxreHM0MnJn?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "49c31c40b7e07058",
+      "published": "2026-09-03T07:00:00Z",
+      "title": "Spintronics plus quantum: PSI researcher receives major grant - EurekAlert! Science News Releases",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBwZml3Tk0zYkhYNWxSX2VUMkdsMFZ2OVVrZ3pyT0s1TU5rM2twZTN6d1NvRFRab1E3VkJ1N0kyNzg0dkRvZmFpN0loZkRGd1l6M0VGNXVYMHdPTFp2?oc=5"
     },
     {
       "amounts": [],
@@ -967,10 +994,10 @@
           "display": "$30M"
         }
       ],
-      "id": "f44d771253cf5aff",
+      "id": "765d62609e2872d6",
       "published": "2026-07-21T07:00:00Z",
-      "title": "Illinois Governor announces $30M secured in grant funding for quantum technology - WCIA.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ1hQOXRMa2tTd0FkX1pnOXIzMXJKaW44QThneU5yWVlmeHBZV21LWTU3Mk8ySHFxM0VVX2owMlFnbVZDU2dUN2ZDbXRISmFXU2VOTDVFMlFfUDljNFE5OTg5SGFtbGdBRV9EUFZHMGNkMUJJWjF4cU14T3loNlBSeVVjMXo1LXZVQ1lWa0ZYYlRyUjRwSW1kNUlBaXNSR2djc3Ffd2lVVFBNbUdMVm5hZnpWWUNsMnZnam5EMtIBwgFBVV95cUxOVnBSQlRYZWhfYnlJRDVVUTlyZGI1SmEybS1uYmxnUEhVeHFwS3ZQWFZRcUlvN2ZjaFhtUXFjNDZYTlZYRVExZzd2aTE5a2dwVXZBYWdsSldtY2c5VlFTYy1EczFCLTltRkJRUGFBWElCTnRoWGhYSE03OHl4aWJteng0NTBYNHhwdjR6SjBKMFlrQklwd3JTVHpPcHZNSEdyd21IOFBXeWNpUTFNSEJOVld3MkNvNW41MHptUEdLc0ViQQ?oc=5"
+      "title": "Illinois Governor announces $30M secured in grant funding for quantum technology - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUVySmpDNVk5MWNYbjE3eFBmRGM1TWI2NElJWUt1bjNjMzVxTDBMWHQ0d2s2dG4taVRETl9oUlU3aWc3Ynd1U25BN1NyVkw4VV9KSXZ1UmxITGtZT0szaVdNN0RpZk9sNlNnZmdiNm9jeGNmT3ZqdERRV1NXREs3X0J6a2NSZFl2ZXhjT3J3QU9SOXJWM2p6anFnZG10Ync?oc=5"
     },
     {
       "amounts": [
@@ -980,10 +1007,10 @@
           "display": "$30M"
         }
       ],
-      "id": "765d62609e2872d6",
+      "id": "f44d771253cf5aff",
       "published": "2026-07-21T07:00:00Z",
-      "title": "Illinois Governor announces $30M secured in grant funding for quantum technology - Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUVySmpDNVk5MWNYbjE3eFBmRGM1TWI2NElJWUt1bjNjMzVxTDBMWHQ0d2s2dG4taVRETl9oUlU3aWc3Ynd1U25BN1NyVkw4VV9KSXZ1UmxITGtZT0szaVdNN0RpZk9sNlNnZmdiNm9jeGNmT3ZqdERRV1NXREs3X0J6a2NSZFl2ZXhjT3J3QU9SOXJWM2p6anFnZG10Ync?oc=5"
+      "title": "Illinois Governor announces $30M secured in grant funding for quantum technology - WCIA.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ1hQOXRMa2tTd0FkX1pnOXIzMXJKaW44QThneU5yWVlmeHBZV21LWTU3Mk8ySHFxM0VVX2owMlFnbVZDU2dUN2ZDbXRISmFXU2VOTDVFMlFfUDljNFE5OTg5SGFtbGdBRV9EUFZHMGNkMUJJWjF4cU14T3loNlBSeVVjMXo1LXZVQ1lWa0ZYYlRyUjRwSW1kNUlBaXNSR2djc3Ffd2lVVFBNbUdMVm5hZnpWWUNsMnZnam5EMtIBwgFBVV95cUxOVnBSQlRYZWhfYnlJRDVVUTlyZGI1SmEybS1uYmxnUEhVeHFwS3ZQWFZRcUlvN2ZjaFhtUXFjNDZYTlZYRVExZzd2aTE5a2dwVXZBYWdsSldtY2c5VlFTYy1EczFCLTltRkJRUGFBWElCTnRoWGhYSE03OHl4aWJteng0NTBYNHhwdjR6SjBKMFlrQklwd3JTVHpPcHZNSEdyd21IOFBXeWNpUTFNSEJOVld3MkNvNW41MHptUEdLc0ViQQ?oc=5"
     },
     {
       "amounts": [
@@ -1775,10 +1802,10 @@
     },
     {
       "amounts": [],
-      "id": "3d1eec7c42ede1a9",
+      "id": "4855720879121ea9",
       "published": "2026-06-09T07:00:00Z",
-      "title": "QTREX Awarded Government Grant to Advance the World's First Native RF Dielectric Material for Quantum Computing - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2VSVEpacHlFUGVwaDllN1JkY3g2Nmk2SjNfRld2cGxKbmZzUFZZZ3hQa2oyWUd2aXBPWm9pWUZvZ0JIR2xDTWJZcFVHYVhFTkoxNXJvVEdxNTBLNXI3SGNFdXFCcVljN2x4Y0Zkay1xT1FMeFRQZUVLbkthSUR4VndCelh4andFNms3WUs3N3BkSVhPNklRRDRZT3Bpajk1c3RpNjZ2a2hIdGc?oc=5"
+      "title": "QTREX Awarded Government Grant to Advance the World's First Native RF Dielectric Material for Quantum Computing - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHgySGIybXdKTzJuVFdnU1c5YVFEVUtrUGxLVF9xQldqUTI2NDcwbi1xczFHMm9fRXR6Q3dGSjZfbEZwanRESGZQcVhHZ3VFOGNfVDM0MG1kbWhQdGkzSnhTOVNaRGZLQ0pOTUpCYVNrUmxZN2NGd0xxUm9pU2ExZjV4dzdFZklGSkM0X3FFcGxzS0FJbXJTRm9LRUc3QWhhNElj?oc=5"
     },
     {
       "amounts": [
@@ -1795,10 +1822,10 @@
     },
     {
       "amounts": [],
-      "id": "4855720879121ea9",
+      "id": "3d1eec7c42ede1a9",
       "published": "2026-06-09T07:00:00Z",
-      "title": "QTREX Awarded Government Grant to Advance the World's First Native RF Dielectric Material for Quantum Computing - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRHgySGIybXdKTzJuVFdnU1c5YVFEVUtrUGxLVF9xQldqUTI2NDcwbi1xczFHMm9fRXR6Q3dGSjZfbEZwanRESGZQcVhHZ3VFOGNfVDM0MG1kbWhQdGkzSnhTOVNaRGZLQ0pOTUpCYVNrUmxZN2NGd0xxUm9pU2ExZjV4dzdFZklGSkM0X3FFcGxzS0FJbXJTRm9LRUc3QWhhNElj?oc=5"
+      "title": "QTREX Awarded Government Grant to Advance the World's First Native RF Dielectric Material for Quantum Computing - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT2VSVEpacHlFUGVwaDllN1JkY3g2Nmk2SjNfRld2cGxKbmZzUFZZZ3hQa2oyWUd2aXBPWm9pWUZvZ0JIR2xDTWJZcFVHYVhFTkoxNXJvVEdxNTBLNXI3SGNFdXFCcVljN2x4Y0Zkay1xT1FMeFRQZUVLbkthSUR4VndCelh4andFNms3WUs3N3BkSVhPNklRRDRZT3Bpajk1c3RpNjZ2a2hIdGc?oc=5"
     },
     {
       "amounts": [],
@@ -1909,19 +1936,6 @@
     {
       "amounts": [
         {
-          "amount": 1700000,
-          "currency": "EUR",
-          "display": "€1.7 million"
-        }
-      ],
-      "id": "b8ab7c7d52d92d13",
-      "published": "2026-05-28T07:00:00Z",
-      "title": "Three Groningen researchers awarded €1.7 million for next-generation computing - rug.nl",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HNnF3eUI4aVRJTmpocHlCWlJRamg3VVQ4RjJFSUQyMjZKT1l2Z0s5SnNHc0J0XzA3c1dUMnoyR2pRVDJqRW5ubld4WExvQlIyR283VlJWaV9YMElHM2NwWl9Hc3duVmxuLTdGSTdQSk9YN0F6?oc=5"
-    },
-    {
-      "amounts": [
-        {
           "amount": 2000000000,
           "currency": "USD",
           "display": "$2 Billion"
@@ -1931,6 +1945,19 @@
       "published": "2026-05-28T07:00:00Z",
       "title": "IBM Secures $2 Billion Government Funding to Advance Quantum Computing - Intellectia AI",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFdYeUZ1ZWx0ZW5xQlV5aE1Xa1M0cVdNRGQzRWg0dUNHM0FfM3psbVZKeW9GWV8zZUpjNjF3ejBUcnpHenFkN3BDUUZQWXRwRmFady1KYjg1NWR5M0QyMnZvQ3F6OGVjdGJNSWs1ay1nci1mbGV2em5JaFJTTTBhLVgzRUVBT1hBbk1fY19CUm9lYVFBOXZwOVFqQ1p4OGZGbmJ3SmFR?oc=5"
+    },
+    {
+      "amounts": [
+        {
+          "amount": 1700000,
+          "currency": "EUR",
+          "display": "€1.7 million"
+        }
+      ],
+      "id": "b8ab7c7d52d92d13",
+      "published": "2026-05-28T07:00:00Z",
+      "title": "Three Groningen researchers awarded €1.7 million for next-generation computing - rug.nl",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HNnF3eUI4aVRJTmpocHlCWlJRamg3VVQ4RjJFSUQyMjZKT1l2Z0s5SnNHc0J0XzA3c1dUMnoyR2pRVDJqRW5ubld4WExvQlIyR283VlJWaV9YMElHM2NwWl9Hc3duVmxuLTdGSTdQSk9YN0F6?oc=5"
     },
     {
       "amounts": [],
@@ -1948,13 +1975,6 @@
     },
     {
       "amounts": [],
-      "id": "7e9376539b592e96",
-      "published": "2026-05-26T07:00:00Z",
-      "title": "D-Wave secures second-year funding for superconducting quantum computing project (QBTS) - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUndZcTZNM3h3dE9nSDBwWW4yY0lmcmNxbW5FbXV4UWZ1QzZESHpiVnRNeUppYWJ1M0NaMkpVVzUwZjctVjB5Y1pNTFg1RENUNjZ6RTUxZEhJQUxkZFFtZHhyYnduQXk5eDBmdW1Td3ZRUGtMWnY4emQzYjJGdndSQ0RSSjV0R082X3VuTElYWFQtX0lHbHNtN3ItcGUwVzg?oc=5"
-    },
-    {
-      "amounts": [],
       "id": "9c0bca9e9c2f0cf1",
       "published": "2026-05-26T07:00:00Z",
       "title": "D-Wave Secures Year 2 Microelectronics Commons Funding for Scalable Superconducting Qubit Fabrication - Quantum Computing Report",
@@ -1966,6 +1986,13 @@
       "published": "2026-05-26T07:00:00Z",
       "title": "D-Wave Quantum Secures Federal Microelectronics Funding - D-Wave Quantum (NASDAQ:QBTS) - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWjFpUDZJRkZsMmVvRFdVUHVyRi1uaUtteGxTbXNFeE03blY0cGxxRWlKb29tNXhUOENsVm5aRmhqOFZBTlYwRXVOMVlDblQzZXgxeGh5S2tWbG9DTmtUcjlia3ktR19JT2F3bjVsZTFvV0JhTjhrQjFwTTA2THRsdGNweU5pd3hMLTcxcElHYzZBNFdqVVhLdjRYQmxRbTBPWVFpT25uQVcwMEp4TEtsYl8tTQ?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "7e9376539b592e96",
+      "published": "2026-05-26T07:00:00Z",
+      "title": "D-Wave secures second-year funding for superconducting quantum computing project (QBTS) - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUndZcTZNM3h3dE9nSDBwWW4yY0lmcmNxbW5FbXV4UWZ1QzZESHpiVnRNeUppYWJ1M0NaMkpVVzUwZjctVjB5Y1pNTFg1RENUNjZ6RTUxZEhJQUxkZFFtZHhyYnduQXk5eDBmdW1Td3ZRUGtMWnY4emQzYjJGdndSQ0RSSjV0R082X3VuTElYWFQtX0lHbHNtN3ItcGUwVzg?oc=5"
     },
     {
       "amounts": [],
@@ -2498,19 +2525,6 @@
     {
       "amounts": [
         {
-          "amount": 350000000,
-          "currency": "USD",
-          "display": "$350M"
-        }
-      ],
-      "id": "d6e67486a41f48b7",
-      "published": "2026-04-10T07:00:00Z",
-      "title": "Yaqumo Secures Seed Extension From $350M Quantum VC - Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTYVpmWjFwX2NXRjJuSS05X2VPSDNvRlhCMkR5TDd0Z2RucEFOY0JMTXhWWUNQZmFZek5CREIwa3NPZDczY3FoWGtxdHBxRXlTRi1NZTJFTnpMOHM1THAydTA2MUh5M1U?oc=5"
-    },
-    {
-      "amounts": [
-        {
           "amount": 133000000,
           "currency": "USD",
           "display": "$133M"
@@ -2524,15 +2538,15 @@
     {
       "amounts": [
         {
-          "amount": 750000,
+          "amount": 350000000,
           "currency": "USD",
-          "display": "$750k"
+          "display": "$350M"
         }
       ],
-      "id": "9c28e77dfaa640e0",
-      "published": "2026-04-09T07:00:00Z",
-      "title": "Qoro Secures $750k to Build The Software Stack Uniting Quantum And Classical Compute - The Quantum Insider",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnFZNDVOMDJHSXNQUmlQd2xJSF9hM3B1MEstcTd4cWI5Tno4bWJNYUhkNGUwUUFPc2VHcWpHY3JMeUZqd2VZNGtTVDNBb2N2RTBNV0stVnQtRHZUcnBWbkNUSWZjdjNUYzhGalJwRmplT0o4TWRqci1kZ1A1MHhlMnVZYTF4c2ZDSEhVVXk1WUNEaW8yZVdyTnh2MEp3VlJoUUhnSmNXalItR2dDcUZab2dLTFhnX3VMVlV1VHFUeGZmMUU?oc=5"
+      "id": "d6e67486a41f48b7",
+      "published": "2026-04-10T07:00:00Z",
+      "title": "Yaqumo Secures Seed Extension From $350M Quantum VC - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBTYVpmWjFwX2NXRjJuSS05X2VPSDNvRlhCMkR5TDd0Z2RucEFOY0JMTXhWWUNQZmFZek5CREIwa3NPZDczY3FoWGtxdHBxRXlTRi1NZTJFTnpMOHM1THAydTA2MUh5M1U?oc=5"
     },
     {
       "amounts": [
@@ -2546,6 +2560,19 @@
       "published": "2026-04-09T07:00:00Z",
       "title": "Qoro Quantum Secures $750,000 Pre-Seed to Orchestrate Hybrid Networks - Quantum Computing Report",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzZINGFrd3MyQ19oVUtaRXVQRzNTSVdieUNHMmlLaFBfWWlyV19SS2N5VDcxeldwcW40blowWERVaDk0dHEyRnNWeU1iSmFUbG03U19vdHpEMEhTTkh5V2FOYVBKbjk4Z3pjeHl4WjNxWjV4Q1BJX0R2U3lRX1BWYmlSSklHYUVqT2ZXenZGVV94c3dudi13cVRYdlRzay1CckI3N0x30gGrAUFVX3lxTE9Yb2FnT3VaZzAtUFV2Rm1hcDdpUVVEQXFJc2tnbHhsZEZvd1NGVy1OcUhQWVg2LW8xU0RSSkRBODg0VFVVQXpvZ3NPQUpWR0psSWY2SkMtNV9NUndEQmRqeVFuZGF1RXBlUFRwWWVzTXBkbzJ0OENJZm95STdPMUhVWG1jbVhEa3BDV0xxSlJmeFMtaXdqNzI5MFdIMlp2U2VvMy1vVnV1WUNpVQ?oc=5"
+    },
+    {
+      "amounts": [
+        {
+          "amount": 750000,
+          "currency": "USD",
+          "display": "$750k"
+        }
+      ],
+      "id": "9c28e77dfaa640e0",
+      "published": "2026-04-09T07:00:00Z",
+      "title": "Qoro Secures $750k to Build The Software Stack Uniting Quantum And Classical Compute - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRnFZNDVOMDJHSXNQUmlQd2xJSF9hM3B1MEstcTd4cWI5Tno4bWJNYUhkNGUwUUFPc2VHcWpHY3JMeUZqd2VZNGtTVDNBb2N2RTBNV0stVnQtRHZUcnBWbkNUSWZjdjNUYzhGalJwRmplT0o4TWRqci1kZ1A1MHhlMnVZYTF4c2ZDSEhVVXk1WUNEaW8yZVdyTnh2MEp3VlJoUUhnSmNXalItR2dDcUZab2dLTFhnX3VMVlV1VHFUeGZmMUU?oc=5"
     },
     {
       "amounts": [
@@ -2686,13 +2713,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMm1QbDFoTTJ1NE5sS240Sng4VmtuZTNNVno3d2tGeFF2OHB2MS05eGhIempSOEpzM1NPWWdnWTVkTUhSNldpUkZmS2t5Z0kydkRpcDJzZFI2UXhOWWVqeC04dHBNZlZtbXNHT0lwNndXUldnV2xPQ1pFa1QxamNNS3ZmY21wV3V1NVBGbWlBWS1vLUdLdU5wN3o2RmJzczZod1NvcVRtUkxuOEN4YzVQMkJTUk0xSFUxcFZLOGdTbEl6RWhJRmlfcA?oc=5"
     },
     {
-      "amounts": [],
-      "id": "629457304b596e83",
-      "published": "2026-04-03T07:00:00Z",
-      "title": "SpinQ Technology Secures Nearly 1 Billion Chinese Yuan in Series C Funding to Scale Industrial Superconducting Quantum Computing - The Quantum Insider",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaWRQM1FHVFoxQTZDUDlkajFYYUhfRmh4cGRha3pvOHRCdlM4dW1sZkdPQjdBN01ZUXpDMURrdWNMcEJDTW43dVFmWVdpbFVETVIzMGJOOXI0YmNGVW45UWNNd00teTFYWUZsTGl0VDZtbGhSSVdxRktTWWlyblFJSi1JVGtxOEZzYkRJWGRTOWd3NGtMOURha3BIemcxUEpmcGFrSERWU3J5aEs2OE41TlgzMGI5OTZRUnJLaUE1QnBQZkRpb2tmTHZFNXBWQ3JrZVJPMkZaTW1vTkNESl91T1lZTHhwcUxaZlhCazFwSG4wUGdLLTNPbFdPQUxfZlk?oc=5"
-    },
-    {
       "amounts": [
         {
           "amount": 8800000,
@@ -2704,6 +2724,13 @@
       "published": "2026-04-03T07:00:00Z",
       "title": "CavilinQ Secures $8.8M Seed Round to Architect the Interconnect Layer for Scalable Quantum Systems - The Quantum Insider",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFpGSm1veTVKNW9nYWFQSi1WRlluZktreW9ld25ZRnNTSDVwNU1Xc21kaEZ4UWsxWjJPSzZWUzE1cUtwRVhLdFNzbWRpWGVkTHotV0tPc2xoRnI0NWh5eXpVRk1qN0lqTzVScGlBUS1QblV3RDZMOFJDa1ZQOHZUZXF1QVYyNTIzSUUw?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "629457304b596e83",
+      "published": "2026-04-03T07:00:00Z",
+      "title": "SpinQ Technology Secures Nearly 1 Billion Chinese Yuan in Series C Funding to Scale Industrial Superconducting Quantum Computing - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaWRQM1FHVFoxQTZDUDlkajFYYUhfRmh4cGRha3pvOHRCdlM4dW1sZkdPQjdBN01ZUXpDMURrdWNMcEJDTW43dVFmWVdpbFVETVIzMGJOOXI0YmNGVW45UWNNd00teTFYWUZsTGl0VDZtbGhSSVdxRktTWWlyblFJSi1JVGtxOEZzYkRJWGRTOWd3NGtMOURha3BIemcxUEpmcGFrSERWU3J5aEs2OE41TlgzMGI5OTZRUnJLaUE1QnBQZkRpb2tmTHZFNXBWQ3JrZVJPMkZaTW1vTkNESl91T1lZTHhwcUxaZlhCazFwSG4wUGdLLTNPbFdPQUxfZlk?oc=5"
     },
     {
       "amounts": [],
@@ -2891,13 +2918,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLTZWd01WQjh6blRJMXFUQm1saXo0aWtPTjNKd2lUTTJCcjBwREtmNXV5T1ZpdDRPWVh2OFNPeEFPUk4taEMtcFNCd3dVdlBBVDBnZ1E1YkQwUnQxY0JaMm81d2RwVkJWMy1YNFNqR2V4d2hTX1FaZEpJbFFoM3ZSLU5RcGZqbWZ3RXpMcUFsVENVZVFoZUx2UjRUdjMzR2xRY2hRTXNHNk1JQQ?oc=5"
     },
     {
-      "amounts": [],
-      "id": "0d4cfe3d40a79231",
-      "published": "2026-03-10T07:00:00Z",
-      "title": "Mahdi Hosseini Receives ASEE 2026 Curtis W. McGraw Research Award - Northwestern University",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTkVET3dubDJyT3doemhBbHJLc1UyZjJvN1pBajJ6X2dmZVNCYmRzZWNfNmZEbl9STGtDZGJhZmlNT1UyUUFRcG9reG9XYnhsRV8wM3pKUXpRQ1RTZTJiNHgyTTgzckltcEJPUHFfa3JETWk1UEtuUEFrTXlDczh5eTV1TjNUVVgyamd4Z3VFRGFNMTFoaExhWlRjTGVOMzEwWVlOcjItUTlqeDRBNUdEc3pVN3AzMTJ0ZW12Zm1Za3NJLVdN?oc=5"
-    },
-    {
       "amounts": [
         {
           "amount": 2000000,
@@ -2909,6 +2929,13 @@
       "published": "2026-03-10T07:00:00Z",
       "title": "Xanadu Awarded $2.0M ARPA-E Grant for Quantum Battery Research - Quantum Computing Report",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaVViTWxOVzFfNWR3eFE2NXZrM0ZpQ2tDa1FaQnpQckItYzgyTzB0ZVMtb245WkNTQjkxMTdPTzVTSHdQUTlKSnRTckkzeFJDRWVrYVpGVXpZdXRlQkd5Sm5sUDlJTURhTmgyZzF3Q0phVDNvenl5Nkw3QmtDb0FYdHhJYnJKYXNtR1FvUS0wUjBGcXFMQUwtbTQxck9yd9IBowFBVV95cUxQZEoxYzFaZ3hvMmdrOE93MkVKSURfcWw0TkJBWlREbTVlaEJTbElFR1ZaS0k1MWVCRmtJOFFUbVBhYTR4cnphb0QxYnlWaGk3MjlESDlPVVlBWXNWcWVHSGFrbTVrRXcwTW5FR2Z5TGpUNm45Y0VlZkhQOVJLRUFncVk1dW1EQldZZGhYeXhOT09KLTB4OEFEbVZTb2Fub0JYajVn?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "0d4cfe3d40a79231",
+      "published": "2026-03-10T07:00:00Z",
+      "title": "Mahdi Hosseini Receives ASEE 2026 Curtis W. McGraw Research Award - Northwestern University",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTkVET3dubDJyT3doemhBbHJLc1UyZjJvN1pBajJ6X2dmZVNCYmRzZWNfNmZEbl9STGtDZGJhZmlNT1UyUUFRcG9reG9XYnhsRV8wM3pKUXpRQ1RTZTJiNHgyTTgzckltcEJPUHFfa3JETWk1UEtuUEFrTXlDczh5eTV1TjNUVVgyamd4Z3VFRGFNMTFoaExhWlRjTGVOMzEwWVlOcjItUTlqeDRBNUdEc3pVN3AzMTJ0ZW12Zm1Za3NJLVdN?oc=5"
     },
     {
       "amounts": [],
@@ -3117,6 +3144,19 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40RktTTWQ2RXlnN3ZMUWFFQWc5bzU5VExYN3BXa1lsVElIZ0o2eEJ6NUZyNm5wUUkxSWo4S2dHSzFpWm1nbHo0bEcxaG9NYUdDTmZoc1hvUUNtZGUwZ2dCb0RfU3REQ0hkQU4yMm1vY18tcU1Ta1ZfYW9jYw?oc=5"
     },
     {
+      "amounts": [
+        {
+          "amount": 5000000,
+          "currency": "USD",
+          "display": "$5M"
+        }
+      ],
+      "id": "cd423468f42af514",
+      "published": "2026-02-15T08:00:00Z",
+      "title": "Palm Beach State College Awarded $5M For Quantum, Cloud, Cybersecurity Training - Boca Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGtqMERJRHBGcUE5RS1PcHE5aGkwZURTVzNzWGNjaXlScmI1dlVfeWVYR09GS0dhR1cyek94YV9uRDVVckdFU3M1TlVJaHc3czU4YzJCOURQUTB4QTVhM3FnYlVicmk3TnVNenRjeF9YN2dyYlR1Z3o4SDB1OU9oSUJsbFpZV2VCSjBEdzM4RDBZWUNwZDFmWDdRbndNZjJjb1RSNFdqUU5qTnc2TG9zSlRBMFY?oc=5"
+    },
+    {
       "amounts": [],
       "id": "e7e68c920962f116",
       "published": "2026-02-15T08:00:00Z",
@@ -3129,19 +3169,6 @@
       "published": "2026-02-15T08:00:00Z",
       "title": "Dutch deeptech secures critical funding to bridge innovation gap - ioplus.nl",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRzBmR0RNNHlqT21zbzBoVHoxb0NuR3FHeHdxMmRIT2NBS2dsMDBLV0wxVnBrcGNGeTg4SE5LSDFJenJXREoxczJRRVF5dnhRa2tDMGkyRmM5VzNwdkQzTUl4NGVBQTY0aTd1cGdDMS14TktKRG5VUkl0YlV5cUlKSS1QSzJNMVR3WUVUMjl4VlZwbnY1ekE?oc=5"
-    },
-    {
-      "amounts": [
-        {
-          "amount": 5000000,
-          "currency": "USD",
-          "display": "$5M"
-        }
-      ],
-      "id": "cd423468f42af514",
-      "published": "2026-02-15T08:00:00Z",
-      "title": "Palm Beach State College Awarded $5M For Quantum, Cloud, Cybersecurity Training - Boca Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGtqMERJRHBGcUE5RS1PcHE5aGkwZURTVzNzWGNjaXlScmI1dlVfeWVYR09GS0dhR1cyek94YV9uRDVVckdFU3M1TlVJaHc3czU4YzJCOURQUTB4QTVhM3FnYlVicmk3TnVNenRjeF9YN2dyYlR1Z3o4SDB1OU9oSUJsbFpZV2VCSjBEdzM4RDBZWUNwZDFmWDdRbndNZjJjb1RSNFdqUU5qTnc2TG9zSlRBMFY?oc=5"
     },
     {
       "amounts": [
@@ -3853,17 +3880,17 @@
     },
     {
       "amounts": [],
-      "id": "b0b86792458dbd66",
-      "published": "2025-11-13T08:00:00Z",
-      "title": "Willamette receives grant for new physics course on cutting-edge quantum technologies - news.willamette.edu",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90RUZhZWQ0eHlkYlZ0ZUJYdmd5U1c1cTBGTXRnNURrQWQtMGF1elByODMyNWVkWXhfRkF4RE1EY1hwN2JkeTVvcVluZDRLejUxQUJ4b2lRWEYwbnIwUVRXNWhSVGRhc3FrTnpndjV1UGUzMU9a?oc=5"
-    },
-    {
-      "amounts": [],
       "id": "b5dc5dad4e8558a9",
       "published": "2025-11-13T08:00:00Z",
       "title": "Classiq Secures Funding From AMD, Qualcomm, And IonQ - Quantum Zeitgeist",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSTUNoSXE1alVlYk0tTWRCWVY0T1gtM1F3RFNWOVg3MEhiWXZsX1NENHIxWUNsOHNCcGJBdXpMTGZTRG42bGh6c1ZSc2J4Z3ZudGtsU0s3SHdlNTlHQkRETXlUMFlaSnJucmxwTFdrc1dhZDEzcG5xUWZWZkZUQQ?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "b0b86792458dbd66",
+      "published": "2025-11-13T08:00:00Z",
+      "title": "Willamette receives grant for new physics course on cutting-edge quantum technologies - news.willamette.edu",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90RUZhZWQ0eHlkYlZ0ZUJYdmd5U1c1cTBGTXRnNURrQWQtMGF1elByODMyNWVkWXhfRkF4RE1EY1hwN2JkeTVvcVluZDRLejUxQUJ4b2lRWEYwbnIwUVRXNWhSVGRhc3FrTnpndjV1UGUzMU9a?oc=5"
     },
     {
       "amounts": [],
@@ -3943,6 +3970,19 @@
       "published": "2025-10-28T07:00:00Z",
       "title": "Quantum computing project by UCD spin-out secures €13.7m funding - University College Dublin",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRDFaaW9xUHY4dGZ5NU9HR2huX0R3d1R5bmJ0NVJsdlg2OFlEczI3R1dRdzJWMm4xSGhXNFZlWWtVazZpYzM0V3FJaXRuOGRCZHZ6UDJVWk9ra3lNaG9lQUZxQWdGRVBYYXNNSzAxZjctQks2cVVmdHZNN0VCcGpJWW55VUxudHpTT0RSR1dsM2wtZjJrRzU5c0gxTWc4MXBtNmVFbHowUFN6MHRPbjJF?oc=5"
+    },
+    {
+      "amounts": [
+        {
+          "amount": 140000000,
+          "currency": "EUR",
+          "display": "€140 million"
+        }
+      ],
+      "id": "8cf3d40e192630b6",
+      "published": "2025-10-23T07:00:00Z",
+      "title": "Over €140 million awarded under EIC Pathfinder 2025 to turn visionary science into breakthrough innovation - European Innovation Council",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZjFvTjdTZUZadTdtOE5XeGYwcWJvYVl0Y3pKQlI1TXhsd3JXQ2NPb09LLWpNTWFUT0xZRUVUSVI3eFpnWUl1dkRtQTd0VUF6SmNMTGRaRTJJU2kycS1yX1Bla25teV96Z2I2WUQ1dTlyNnBCUm93M1UtWndDNm5Hdk9YTzRYb0hxYndIbDBoczM3ZlJ2R25yRmh3cFJPZF9NM00xWjZfU2RmNV9nVUhVRnVYdkU2bWI2YVl6YTFtaWVxaWVsZ3BwU3J3amZ3aWNFNWd4S3FaMjktWTJV?oc=5"
     },
     {
       "amounts": [
@@ -4298,6 +4338,13 @@
     },
     {
       "amounts": [],
+      "id": "cac84e74e4fef6ef",
+      "published": "2025-09-04T07:00:00Z",
+      "title": "Penn professor Charles Kane receives 2025 Lorentz Medal for quantum physics research - The Daily Pennsylvanian",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMkZDbksxb0U1d1FlNHg4dkFxdk0ya0xTRHJNT1FaM19URDJ0a3U4TWFibXM1N3RsNDBzaFdkUHRzZS1CTVdiSlZNODV2REI2VHhBVlBXUmdMZEptZjlWNVMyRDJUcHR3b0RBMjdlbmpCOUVaOTk5RGU0aExGcUliRFMteExPcGEzOUM4Y1RDUQ?oc=5"
+    },
+    {
+      "amounts": [],
       "id": "01fcc69daa86ab3e",
       "published": "2025-09-04T07:00:00Z",
       "title": "Torsten Zache receives ERC Starting Grant - Universität Innsbruck",
@@ -4392,16 +4439,16 @@
     },
     {
       "amounts": [],
-      "id": "90542e00a0a6af2d",
+      "id": "413cf391bd684db7",
       "published": "2025-08-18T07:00:00Z",
-      "title": "AB Nexus Announces 2025 Grant Awards with an Emphasis on Quantum-Focused Research Collaborations - CU Anschutz newsroom",
+      "title": "AB Nexus Announces 2025 Grant Awards with an Emphasis on Quantum-Focused Research Collaborations - University of Colorado Anschutz",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMFFMb0k3UmNEWEJsNFR0UTl4SkE3WFFHSkR3LTRRalhKYU5KUFNXczl2QkNDS1I0R1dBTVpfa19pa1ZjOG94OGxKYXhiVTA4WGJzeWpIcjAzcDZ3NXZkVkMwOHBhekRnQ2ZaSEt6SWxYVnk0VkpIdlZ3TEwtMHRmbUxIMS1PRUFSRjl1SjMxQW0wMlNtTU55Y09fZEZSR0ZxSDh5ZkhfZHdRYkF5LUV1MFVGZWN6MjVrMkxpd1FIWEZWcDFOS01leHFqSDAwMEZab0Zn0gHjAUFVX3lxTE5YSC1YWkJ5UGt0dEZwYlNsdVlfWnlZN1piLVFBSGlxTUlIeHA3aDFkU19EMF83SEFaQTZ5ZUF4QU1YckZqZHdtV2RwamdRMXVEUURfYW15bjRCdUNCVzREajJ5LU1QeDkwdkVKb1NwVmpPX2xJV1FONkRRSlRUeTJmUXNpSmU2by1jVGliY0FZRzdVWUt4cmNCWVFubWRMdFE1X0k1enJnWko1azUxanFqd0pwREtHWEhBaEJIZXpjYXJRc3puQUtGTmh4bHd0SGl2aFZmNXloUGxLeHhOdUVYZWU4?oc=5"
     },
     {
       "amounts": [],
-      "id": "413cf391bd684db7",
+      "id": "90542e00a0a6af2d",
       "published": "2025-08-18T07:00:00Z",
-      "title": "AB Nexus Announces 2025 Grant Awards with an Emphasis on Quantum-Focused Research Collaborations - University of Colorado Anschutz",
+      "title": "AB Nexus Announces 2025 Grant Awards with an Emphasis on Quantum-Focused Research Collaborations - CU Anschutz newsroom",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMFFMb0k3UmNEWEJsNFR0UTl4SkE3WFFHSkR3LTRRalhKYU5KUFNXczl2QkNDS1I0R1dBTVpfa19pa1ZjOG94OGxKYXhiVTA4WGJzeWpIcjAzcDZ3NXZkVkMwOHBhekRnQ2ZaSEt6SWxYVnk0VkpIdlZ3TEwtMHRmbUxIMS1PRUFSRjl1SjMxQW0wMlNtTU55Y09fZEZSR0ZxSDh5ZkhfZHdRYkF5LUV1MFVGZWN6MjVrMkxpd1FIWEZWcDFOS01leHFqSDAwMEZab0Zn0gHjAUFVX3lxTE5YSC1YWkJ5UGt0dEZwYlNsdVlfWnlZN1piLVFBSGlxTUlIeHA3aDFkU19EMF83SEFaQTZ5ZUF4QU1YckZqZHdtV2RwamdRMXVEUURfYW15bjRCdUNCVzREajJ5LU1QeDkwdkVKb1NwVmpPX2xJV1FONkRRSlRUeTJmUXNpSmU2by1jVGliY0FZRzdVWUt4cmNCWVFubWRMdFE1X0k1enJnWko1azUxanFqd0pwREtHWEhBaEJIZXpjYXJRc3puQUtGTmh4bHd0SGl2aFZmNXloUGxLeHhOdUVYZWU4?oc=5"
     },
     {
@@ -4642,17 +4689,17 @@
     },
     {
       "amounts": [],
-      "id": "95adafdbc2cde2bf",
-      "published": "2025-04-22T07:00:00Z",
-      "title": "UCCS computer science faculty receives Quantum Research Translational Seed Grant - UCCS Communique",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrMkZpVVdTZzh5OXJvaGNEanZRRFZUenlCYWFJdmFLaWFWT0Z3VHVEMXhDZjRhQ1NoM0FuMEpHZE5oX1JRZ0tIeUItSFhEdw?oc=5"
-    },
-    {
-      "amounts": [],
       "id": "a5980660d210a950",
       "published": "2025-04-22T07:00:00Z",
       "title": "UCCS computer science faculty receives Quantum Research Translational Seed Grant - University of Colorado Colorado Springs",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRnJ0TWNSeDF2U1Vzb0QyWUE5c01vMmFmRVhzU2pIWTk3Rk9JYVZwVFVZNFV5NFlNSHlISEYxQng2dXdnVTBQZmpZU2tXdThTSEdWQmlUMi1EOXI1aHRneGxESm10QmdMSHoxMUlwTGNpbUFmNFJxTkRXRjBiRGR4WWl5amJmOHJLM1AwWm84ZzJuTXJwbU81aXY3NU5KVnRVcXVYS3BxOW8yQ1FJYmFkZVFBVnQ?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "95adafdbc2cde2bf",
+      "published": "2025-04-22T07:00:00Z",
+      "title": "UCCS computer science faculty receives Quantum Research Translational Seed Grant - UCCS Communique",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrMkZpVVdTZzh5OXJvaGNEanZRRFZUenlCYWFJdmFLaWFWT0Z3VHVEMXhDZjRhQ1NoM0FuMEpHZE5oX1JRZ0tIeUItSFhEdw?oc=5"
     },
     {
       "amounts": [],
@@ -4894,6 +4941,13 @@
       "published": "2024-10-24T07:00:00Z",
       "title": "Eight leading researchers receive Vidi-grant - TU Delft",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzdTMFkxbVg2MWVhR2gtcWdzRXl2ZTVhREt1blBkMVdLQ2cxLVJiczRrNE9SRkI2MzJ1TXpMRFRPYlFUNTV1TXVwcmZ2YUJwSncxUC1Zemt4ZDJheGFzN2Y3d3hWVDFMQVo0bzE0Z01ZY1VaeWN3ejZacDJlSC11ZW5QY2J5U0ZyRTRTUQ?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "5b84137434e42ba7",
+      "published": "2024-10-22T07:00:00Z",
+      "title": "Eleven Leiden University researchers receive Vidi grants - Universiteit Leiden",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM2prQjAwNUhZN3dKMnpNWThOYmNOdGl5dThUQkcyMUZndGNSbHoyd2JzcTg3U1pmVHhiNU1yNEVTVjNqYjZOdnVMUVU5MmVyX0tnWWFieDBlS2dBUmtpbks5WHpzdGNiV3QyUHZQMUUtOUpwcXQ0bnR2VkxJR3M1Rnh6dU1TbzBtdGFXeFdud2RGN3JaZzh4ME9PY0FhblA4?oc=5"
     },
     {
       "amounts": [],
@@ -5324,6 +5378,19 @@
           "display": "$100 million"
         }
       ],
+      "id": "d55ab7331b1e315a",
+      "published": "2024-01-09T08:00:00Z",
+      "title": "Purdue University receives $100 million commitment from Lilly Endowment - Purdue University",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaUx0bzRoR1VBUmwwTFJEMnZCWldMMXcxRTlxdDMtam5xRHkwNDZKdFRPREJYbF9KZzVBRml4NkF0SGdDRnhyTkhTYlE2Yzd6cHBoUW5pM1RJNkNDSTlVcmhCTHBUakl6OXl2WGFlZEJGRWZBYTVVVzNNWWhqOEpKVHVud0pCZXJIR2ppT1Qxc1JzTDFBaWMxUEN4aWFSZEJUdlZuNzlQR19DTkN2V0JJ?oc=5"
+    },
+    {
+      "amounts": [
+        {
+          "amount": 100000000,
+          "currency": "USD",
+          "display": "$100 million"
+        }
+      ],
       "id": "33543f1e99827f44",
       "published": "2024-01-09T08:00:00Z",
       "title": "Purdue University receives $100 million commitment from Lilly Endowment - purdue.edu",
@@ -5495,6 +5562,19 @@
       "published": "2023-09-05T07:00:00Z",
       "title": "Chalmers researchers receive prestigious ERC-grants - chalmers.se",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdENnMnlRc0FDUnR1TjJfZW1zU3FBMkt6Q0xQbW1FWXNvRWNFMGlkTEYwUGNtTDJjZzVNWHROeTh2dUp4WVlKRkhiZG85OENkZl9LX1lsdzdTQTZiVlgzdTYxVW40a0tSanNIcUs3QTF3cnJBeW5WZkI3TzdtaVBWVXhJX0FOME83anpFTW1OWTIxRGhlRjFR?oc=5"
+    },
+    {
+      "amounts": [
+        {
+          "amount": 600000,
+          "currency": "GBP",
+          "display": "£600,000"
+        }
+      ],
+      "id": "e5dcd12163b74025",
+      "published": "2023-08-31T07:00:00Z",
+      "title": "University of Glasgow’s Quantum Technologies ARC receives £600,000 SFC funding - Innovation News Network",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRVRFVEdKcWd6QnZEZkg5REdJcVRqTHFZUWtaaGNTNm4xTjN1X1J6SEZCazEwX3RxUEtkb1FNenJMdVFpQ1dmSktGd3BOYUFpbGVieVhPYXlRM1BjRm5uelRnbms1VTFxeWVsTjBHSU52SnlSV3RINGc5QjlPc1BqeWNSR3V2MkpwY1NYS3RpY3dHZm9mUkRWdlEtTTE3b1NMRTRmMFNWWkJ4U0dSZ0pTbnJuM2N3S2wwem5RNw?oc=5"
     },
     {
       "amounts": [],
@@ -6097,6 +6177,13 @@
       "published": "2016-08-08T07:00:00Z",
       "title": "Researchers Receive NSF Grant to Develop New Quantum Technologies for Secure Communication - today.ucsd.edu",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS2FJUlF3Q2tlWVAxMTEwcXBxVXp6WnNOcjFWZnk5YnB1d0Fjc3pXZktHaGk1cGh4UGNqeFZwcG5ic2hnRUhQUE00Y0FHdUx5YUNHSWJsdjRPS3ZET1dwZzZTeVFpaTdGTk1pQVQ5NG0xMmZ6SUowd25RSG1YdkZabmxTbk9kb2c4cG5yTWt6N1pxZlZxTGkyVnRRZjBkektMdnRNbVZUbw?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "9c0486da7d8979e3",
+      "published": "2016-05-05T07:00:00Z",
+      "title": "IQC researcher awarded CSA grant to demonstrate quantum communications technologies aboard student space mission - University of Waterloo",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRlZtbTRJcTJ6MUhVM0pfOUZfV0ZESjI3enlCLV9hQjZscXktZWdtYjEtdjF4OWNrcENWS1NXQXg2Q0pZclBmc1RBNW5mMnNZRWhSc3pKbFNiNC1xR1hWeXBmZVJ2MU9vZk1vUVpybUY2Z2RBMWJISWdyNTNnLVZRZjRjcDlPbU9JYkk2WURTWlF6UkZ5aml3bFdYVFdmbWNhWndHWC1PdkxsVDQ0cWI4?oc=5"
     },
     {
       "amounts": [],
