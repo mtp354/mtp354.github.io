@@ -62,3 +62,7 @@ appreciate the nudge.
 - [Quantum Algorithm Zoo](https://quantumalgorithmzoo.org/) — A broad catalogue of quantum algorithms organized by problem family, with speedup notes, references, and implementation links where available.
 - [Group Tables and Subgroup Diagrams](https://hobbes.la.asu.edu/groups/groups.html) — An interactive finite-group tool for exploring group tables, generated subgroups, centralizers, conjugacy classes, quotient structure, and subgroup diagrams.
 - [Palomar Registry](https://palomar-registry.org/about) — A public searchable registry of Lean formalizations, recording machine-checked proofs, immutable repository versions, exact formal statements, dependencies, and review metadata.
+- [Informaq](https://informaq.spinsphere.xyz/) — Aggregates quantum tech news, research papers, patents, and events from across the web, and categorizes them by topic
+- [CUNY]() — Coming soon, a guide of available grants and fellowships for CUNY students
+- [Neutral Atom](https://introtoquantum.com/embeds/neutral-atom-quantum-computer/index.html) — A helpful neutral atom QC 3D interactive model
+- [oPhysics](https://ophysics.com/k.html)  — A great teaching resource, full of lots of quick in-browser simulations. I use it a lot in class.
