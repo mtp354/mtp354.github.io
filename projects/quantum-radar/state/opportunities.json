@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-16T13:39:58Z",
+  "generated_at": "2026-10-19T13:44:42Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education",
-        "Small businesses",
+        "Private institutions of higher education",
         "Individuals",
-        "Independent school districts",
-        "For profit organizations other than small businesses",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education"
+        "Public and State controlled institutions of higher education",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Small businesses",
+        "For profit organizations other than small businesses",
+        "Independent school districts"
       ],
       "grant_disposition": "actionable",
       "id": "1a7530639af44b85",
@@ -41,11 +41,11 @@
       "application_source": "Grants.gov",
       "deadline": "2026-12-04",
       "eligibility": [
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses",
         "Private institutions of higher education",
+        "For profit organizations other than small businesses",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "c1c2bc0b077c471d",
@@ -275,36 +275,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTZQRndKMVZmd1pLQkJRM1Fjd1ZEU0VMZzk1b25Oc3prRXJqNV9LMkVlWkxjNC1vQkdudmRRREpNSWk3NUtnVENBNzhRQnVOeWZfT3dDYmtUdy1BdlhGaWl5RHF3OFlUZTgyNHRWcFI3TmdXclZ4UGl0RzE2bjlyc0c0aHdub1YtSVZxUFlvbUxnRDlzNS1BZTRXQm9WYWR3aWJ3NHVnVmEzSHljNGfSAbMBQVVfeXFMUENLMnZXbjVJYXhfU0RkdklJYzA5azZnTWFMcDRza1M2bl9GSjFHc09MQTlyOW80SThtWXRteEE4Z3NsV2JTTUR0SzBOckN3elZBeXlSOS1UOFUzekwySDBLUTlqeTU3b2g4aThCMzh1cXRPd2xlb0dkZHh2dHltbzJsbnRVdzhXM0FrMnpaNWVLeVp5bnB5aXZUOW10clZFcXByQmMydTQwVmg2ZjIyeUtrX1E?oc=5"
     },
     {
-      "id": "c2d0fa5a77492d38",
-      "matched_keywords": [
-        "hackathon",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-09-16T12:00:00Z",
-      "query": "quantum hackathon",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5zM2U4M2tYZHdkY1J4TC1Pbll1ZmpHT0VvS0FLRHBoSGI4SlkzWFlQT1FvQzM5Ny1TUG9yNTVYZmJQdTBKV1pWOHROTEo0SzRHZVJZcEhoRE9UWEZVOGE2MFdVUklXd1d3YW1qRmRPazJUSlU?oc=5\" target=\"_blank\">Want to explore Quantum Computing?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UPEI</font>",
-      "title": "Want to explore Quantum Computing? - UPEI",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zM2U4M2tYZHdkY1J4TC1Pbll1ZmpHT0VvS0FLRHBoSGI4SlkzWFlQT1FvQzM5Ny1TUG9yNTVYZmJQdTBKV1pWOHROTEo0SzRHZVJZcEhoRE9UWEZVOGE2MFdVUklXd1d3YW1qRmRPazJUSlU?oc=5"
-    },
-    {
-      "id": "b6656687604f89b5",
-      "matched_keywords": [
-        "fellowship",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-09-01T07:00:00Z",
-      "query": "quantum fellowship",
-      "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQTExXU0RMVXQwYW12eTF4UjhYNGdOZ25tenhlTWF6c0NhWE5wZDRyS1JVMnB2ckNUdlZ2bEUwSzJyUml6b19aTVNEWXhFa0RMX3Y1Y05HSUR6S2w2Rm12RkNkd1JaNHE4WnFhclAxa045aUxqdXU0a0FMc1p6U1dRR0JXMlVKdG50c3I3RWFzeWdrMDloTHVFME1jMjJKMmNSV2k1ZTBlWmhfR0xtUXY1eTJjbUFUN19SMFUyMlc5cDlJUEplVDlrUzhlSErSAdIBQVVfeXFMTV9ueG5xME96aURyUW5zeTUyb0N1cmQzOEtVdl90MjRDeDJSbVlONkNVX2Z1TFhrN3hGVFM4ampVRHMwMzR6TDdGb25FbmN3aWU4cXBsNUZySnQtNVpQWV9SamhFX2J6R0E3WDlPY1hFWjBIbkxBdXhNRDNDcFFmM3V6Y1BKNHExTktEX0ZDWGl2NHViT1lVcXdIa2treG9xY0hOU2VFZE5lY1A4RkV4UVN1SEJqUlFfN05YZ2FfMVhiUFFnN1F1LUJnd29UcHE0a2Z3?oc=5\" target=\"_blank\">MIT Quantum Initiative Launches Gordon and Betty Moore Foundation-Backed Postdoctoral Fellowship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Computing Report</font>",
-      "title": "MIT Quantum Initiative Launches Gordon and Betty Moore Foundation-Backed Postdoctoral Fellowship - Quantum Computing Report",
-      "type": "fellowships",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTExXU0RMVXQwYW12eTF4UjhYNGdOZ25tenhlTWF6c0NhWE5wZDRyS1JVMnB2ckNUdlZ2bEUwSzJyUml6b19aTVNEWXhFa0RMX3Y1Y05HSUR6S2w2Rm12RkNkd1JaNHE4WnFhclAxa045aUxqdXU0a0FMc1p6U1dRR0JXMlVKdG50c3I3RWFzeWdrMDloTHVFME1jMjJKMmNSV2k1ZTBlWmhfR0xtUXY1eTJjbUFUN19SMFUyMlc5cDlJUEplVDlrUzhlSErSAdIBQVVfeXFMTV9ueG5xME96aURyUW5zeTUyb0N1cmQzOEtVdl90MjRDeDJSbVlONkNVX2Z1TFhrN3hGVFM4ampVRHMwMzR6TDdGb25FbmN3aWU4cXBsNUZySnQtNVpQWV9SamhFX2J6R0E3WDlPY1hFWjBIbkxBdXhNRDNDcFFmM3V6Y1BKNHExTktEX0ZDWGl2NHViT1lVcXdIa2treG9xY0hOU2VFZE5lY1A4RkV4UVN1SEJqUlFfN05YZ2FfMVhiUFFnN1F1LUJnd29UcHE0a2Z3?oc=5"
-    },
-    {
       "id": "5fef7966f518e237",
       "matched_keywords": [
         "internship",
@@ -318,6 +288,21 @@
       "title": "Tiny push, big quantum change: scientists tune material one atom at a time - Monash University",
       "type": "other",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWG5LS1lHZWR6VXBENXFMZm43OUlreC1xa2R3NlNzWC1iRTZxeU84eFU0LWJUazdWTEdsVEx3U0NXMF9sMFR1VHdjTjJacW5fM0hheld0NmhnbXIydG12UnNwQ1RlMjRqQmNKY0JFSnV1VWZXbGhrdVhtbHpoMU9tbzVNc19lM0ppbjVWdlRrV202WU83Wk1YNlBITHRUME1xaEpPN2lWM3ZpWmRydXdrZ0RkblBORXpubEd4WXFpLUwxXzZC?oc=5"
+    },
+    {
+      "id": "36d2a2ffde0ac42b",
+      "matched_keywords": [
+        "hackathon",
+        "competition",
+        "quantum"
+      ],
+      "published": "2026-10-01T03:00:00Z",
+      "query": "quantum hackathon",
+      "score": 6,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzVPUzNMd3lNRjlvVnQwOWR4Uk1xakdvZWhuMGFYS1NvMUZoNmFMSTRPNGVQX0drWkZJRFh5ZllvXy1yTnBidkVMQjlLa1Y0RUpEWmJYalROWmZMMUZRaVZyXy1GQWZFcXhSSjZ5ajloLXJFQmJXTGd0dURSbEpnRU9yczVzb1lQTC16UERVV0xWdnc0VzA1dDlSUGdqTEUyeGV3RDR3NUd1eGZpd3otYXpLa3RCdWkyUVZaMmszblhPZ2xC?oc=5\" target=\"_blank\">MSIT to hold quantum-resistant cryptography transition competition and hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">디지털투데이</font>",
+      "title": "MSIT to hold quantum-resistant cryptography transition competition and hackathon - 디지털투데이",
+      "type": "hackathons",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzVPUzNMd3lNRjlvVnQwOWR4Uk1xakdvZWhuMGFYS1NvMUZoNmFMSTRPNGVQX0drWkZJRFh5ZllvXy1yTnBidkVMQjlLa1Y0RUpEWmJYalROWmZMMUZRaVZyXy1GQWZFcXhSSjZ5ajloLXJFQmJXTGd0dURSbEpnRU9yczVzb1lQTC16UERVV0xWdnc0VzA1dDlSUGdqTEUyeGV3RDR3NUd1eGZpd3otYXpLa3RCdWkyUVZaMmszblhPZ2xC?oc=5"
     },
     {
       "id": "4f4f9546042b8d74",
@@ -390,6 +375,20 @@
       "title": "New Wake Forest quantum lab takes research to the next level - Wake Forest University",
       "type": "other",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS1lHSVdwMGRGSUZCcVQ5NDRzSGRLemM4QUxGNG5DZ3ItMWlwM0p5ZTlONGN5X1VoZlUzQVFpV19hU2d1MlNub0E3TXZVaE9xbHNqRzdSSklXVVFWNlVrZkJMVU5NUktxdGJRWXlrVXVoRThadVpSX2JzNnJKZzV1Q0p4YkhLZDU3ckdjZ2d1NFhZcDgtaUluaQ?oc=5"
+    },
+    {
+      "id": "8caa40e1b1cb879b",
+      "matched_keywords": [
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-09-18T07:00:00Z",
+      "query": "quantum computing undergraduate research",
+      "score": 5,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGpUaklYYkNNV3RTbGZENDA3b0g3clVFcXRGVDh2ak52R0Nxd0RpdGpfS2ZDMTV3clVXcXZoMk4yZ1VuZjJUNmQ5ZFhsNkYzci1GWjBVUHdaNWg3T011U2R4VmtVQ2xGb0JJQ0ZXZHlVQkNONmhpbVpwbGgtejdBcmkwbDFpNXJxekhWLUtqNlpaa2liSWRTa2lQaHM4dFdhcXdheDlyMWFfVWpmVnhfZGYwekQ?oc=5\" target=\"_blank\">Scaling Up, Out, Across: USU Physicist Explores Light as Pathway to Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utah State University</font>",
+      "title": "Scaling Up, Out, Across: USU Physicist Explores Light as Pathway to Quantum Computing - Utah State University",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGpUaklYYkNNV3RTbGZENDA3b0g3clVFcXRGVDh2ak52R0Nxd0RpdGpfS2ZDMTV3clVXcXZoMk4yZ1VuZjJUNmQ5ZFhsNkYzci1GWjBVUHdaNWg3T011U2R4VmtVQ2xGb0JJQ0ZXZHlVQkNONmhpbVpwbGgtejdBcmkwbDFpNXJxekhWLUtqNlpaa2liSWRTa2lQaHM4dFdhcXdheDlyMWFfVWpmVnhfZGYwekQ?oc=5"
     }
   ]
 }
