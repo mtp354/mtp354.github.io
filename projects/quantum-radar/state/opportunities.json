@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-19T13:44:42Z",
+  "generated_at": "2026-10-22T13:40:54Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
-        "Private institutions of higher education",
-        "Individuals",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Public and State controlled institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Small businesses",
+        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education",
         "For profit organizations other than small businesses",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Individuals",
         "Independent school districts"
       ],
       "grant_disposition": "actionable",
@@ -41,11 +41,11 @@
       "application_source": "Grants.gov",
       "deadline": "2026-12-04",
       "eligibility": [
-        "Private institutions of higher education",
-        "For profit organizations other than small businesses",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "For profit organizations other than small businesses"
       ],
       "grant_disposition": "actionable",
       "id": "c1c2bc0b077c471d",
@@ -206,6 +206,22 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqSVZrenVBbmVFcm9RQy1EWUZWX2t0ZjFoWmRMWnM4NWhQQ1BSWk1YQ1pCdFFWcjBEUkZObE0yV1dhQWRpR0sxZjhWaXJqbnQ5OVJqMHpZNzhjd243VE5rd1R1VmFkazJqUFNMd1h2bnR5ZG8?oc=5"
     },
     {
+      "id": "da293d21cfc95aed",
+      "matched_keywords": [
+        "internship",
+        "intern",
+        "challenge",
+        "quantum"
+      ],
+      "published": "2026-09-17T07:00:00Z",
+      "query": "quantum internship",
+      "score": 8,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzdqeGJFM1ZjaktRM2hZT28zcG43SmQxOWhkd2NfUkRkSzAyZmQtS21WVTJGd3dfSF9lZC1fdXd4OUdvc2c4T014U1R6YlFtX1JoQXBkNVVNeE5MMjE2U08xX0tLSnJvM0hPaGpTd2trWklJMFlZR0p0dXEtNTN5V3V1VTdNU0xmMDU5bkdmODduN1F0UHQyc2xIMDNZRHJDWVdMZU9DUkw0UERtZWc?oc=5\" target=\"_blank\">Lincoln Laboratory summer research interns take on national security challenges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MIT News</font>",
+      "title": "Lincoln Laboratory summer research interns take on national security challenges - MIT News",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzdqeGJFM1ZjaktRM2hZT28zcG43SmQxOWhkd2NfUkRkSzAyZmQtS21WVTJGd3dfSF9lZC1fdXd4OUdvc2c4T014U1R6YlFtX1JoQXBkNVVNeE5MMjE2U08xX0tLSnJvM0hPaGpTd2trWklJMFlZR0p0dXEtNTN5V3V1VTdNU0xmMDU5bkdmODduN1F0UHQyc2xIMDNZRHJDWVdMZU9DUkw0UERtZWc?oc=5"
+    },
+    {
       "application_source": "Grants.gov",
       "deadline": "2026-11-03",
       "eligibility": [
@@ -228,6 +244,30 @@
       "title": "Topology",
       "type": "grants",
       "url": "https://www.grants.gov/search-results-detail/340544"
+    },
+    {
+      "application_source": "Grants.gov",
+      "deadline": "2026-11-20",
+      "eligibility": [
+        "Unrestricted (i.e., open to any type of entity above), subject to any clarification in text field entitled \"Additional Information on Eligibility\""
+      ],
+      "grant_disposition": "actionable",
+      "id": "c0ec6077747745ff",
+      "matched_keywords": [
+        "grant",
+        "funding",
+        "challenge",
+        "quantum"
+      ],
+      "opportunity_number": "DE-FOA-0003630",
+      "organization": "Advanced Research Projects Agency Energy",
+      "published": "",
+      "query": "quantum sensing",
+      "score": 8,
+      "summary": "NOFO Number: DE-FOA-0003630 - Unlocking New Levels of Output and Capacity for Key Subsurface Resources (UNLOCK)\n\nTo obtain a copy of the Notice of Funding Opportunity (NOFO) please go to DOE eXCHANGE at https://exchange.energy.gov/.  To apply to this NOFO, Applicants must register with and submit application materials through DOE eXCHANGE (https://exchange.energy.gov/Registration.aspx).  For detailed guidance on using DOE eXCHANGE, please refer to the DOE eXCHANGE User Guide (https://exchange.energy.gov/Manuals.aspx).  ARPA-E will not review or consider application materials submitted through other means. For problems with DOE eXCHANGE, email ExchangeHelp@hq.doe.gov (with NOFO name and number in the subject line). Questions about this NOFO? Check the Frequently Asked Questions available at http://arpa-e.energy.gov/faq.  For questions that have not already been answered, email ARPA-E-CO@hq.doe.gov.\n\nAgency Overview: \n\nThe Advanced Research Projects Agency – Energy (ARPA-E), an organization within the Department of Energy (DOE), is chartered by Congress in the America COMPETES Act of 2007 (P.L. 110-69), as amended by the America COMPETES Reauthorization Act of 2010 (P.L. 111-358), as further amended by the Energy Act of 2020 (P.L. 116-260).\nARPA-E issues this Notice of Funding Opportunity (NOFO) under its authorizing statute codified at 42 U.S.C. § 16538. The NOFO and any cooperative agreements or grants made under this NOFO are subject to 2 C.F.R. Part 200 as supplemented by 2 C.F.R. Part 910. \n\nARPA-E funds research on, and the development of, transformative science and technology solutions to address the energy and environmental missions of the Department. The agency focuses on technologies that can be meaningfully advanced with a modest investment over a defined period of time in order to catalyze the translation from scientific discovery to early-stage technology. For the latest news and information about ARPA-E, its programs and the research projects currently supported, see: http://arpa-e.energy.gov/. \n\nARPA-E funds transformational research. Existing energy technologies generally progress on established “learning curves” where refinements to a technology and the economies of scale that accrue as manufacturing and distribution develop drive improvements to the cost/performance metric in a gradual fashion. This continual improvement of a technology is important to its increased commercial deployment and is appropriately the focus of the private sector or the applied technology offices within DOE. In contrast, ARPA-E supports transformative research that has the potential to create fundamentally new learning curves. ARPA-E technology projects typically start with cost/performance estimates well above the level of an incumbent technology. Given the high risk inherent in these projects, many will fail to progress, but some may succeed in generating a new learning curve with a projected cost/performance metric that is significantly better than that of the incumbent technology. ARPA-E will provide support at the highest funding level only for submissions with significant technology risk, aggressive timetables, and careful management and mitigation of the associated risks. \n\nARPA-E funds technology with the potential to be disruptive in the marketplace. The mere creation of a new learning curve does not ensure market penetration. Rather, the ultimate value of a technology is determined by the marketplace, and impactful technologies ultimately become disruptive – that is, they are widely adopted and displace existing technologies from the marketplace or create entirely new markets. ARPA-E understands that definitive proof of market disruption takes time, particularly for energy technologies. Therefore, ARPA-E funds the development of technologies that, if technically successful, have clear disruptive potential, e.g., by demonstrating capability for manufacturing at competitive cost and deployment at scale.  \n\n ARPA-E funds applied research and development (R&D). The Office of Management and Budget defines “applied research” as an “original investigation undertaken in order to acquire new knowledge…directed primarily towards a specific practical aim or objective” and defines “experimental development” as “creative and systematic work, drawing on knowledge gained from research and practical experience, which is directed at producing new products or processes or improving existing products or processes.” \n\nApplicants interested in receiving financial assistance for basic research (defined by the Office of Management and Budget as “experimental or theoretical work undertaken primarily to acquire new knowledge of the underlying foundations of phenomena and observable facts”) should contact the DOE’s Office of Science (http://science.energy.gov/). Office of Science national scientific user facilities (http://science.energy.gov/user-facilities/) are open to all researchers, including ARPA-E Applicants and awardees. These facilities provide advanced tools of modern science including accelerators, colliders, supercomputers, light sources and neutron sources, as well as facilities for studying the nanoworld, the environment, and the atmosphere. Projects focused on early-stage R&D for the improvement of technology along defined roadmaps may be more appropriate for support through the DOE applied energy offices including: the Office of Critical Minerals and Energy Innovation (CMEI) (https://www.energy.gov/cmei/office-critical-minerals-and-energy-innovation), the Hydrogen and Geothermal Energy Office (https://www.energy.gov/hgeo/hydrocarbons-and-geothermal-energy-office), the Office of Nuclear Energy (http://www.energy.gov/ne/office-nuclear-energy), and the Office of Electricity (https://www.energy.gov/oe/office-electricity).\n\nARPA-E encourages submissions stemming from ideas that still require proof-of-concept R&D efforts as well as those for which some proof-of-concept demonstration already exists. Submissions can propose a project with the end deliverable being an extremely creative, but partial solution. \n\nProgram Overview:\n\n1. Background and Motivation\n\nSubsurface resources, including oil, gas, geothermal, and mineral systems, underpin modern energy security, industrial productivity, and economic competitiveness.  However, substantial technical hurdles related to the extraction of these resources limit their full potential, especially within geologically complex formations characterized by low matrix permeability and inefficient resource mobility.   \n\nOil and Gas\n \nThe combination of horizontal drilling and hydraulic fracturing has revolutionized U.S. energy supply and made unconventional oil and gas fundamental to U.S. energy security.  These methods now account for the production of over 64% of domestic oil and 78% of domestic natural gas from shale and tight formations. Despite the substantial production, the recovery efficiency (or recovery factor) remains strikingly low.  Although the United States boasts 1,778 trillion cubic feet of recoverable shale and tight gas and 191 billion barrels (bbl) of recoverable unconventional oil,6 over 80% of the resource remains trapped underground, and well output may decline up to 50% within the first year of operation.\n\nThese limitations force continuous drilling of new wells to maintain production volumes, and this strategy is complicated by operational limitations.  Infill drilling frequently leads to well interference, diminishing output from both new and existing wells due to overlapping stimulated rock volumes and pressure communication between boreholes. The depletion of prime \"Tier 1\" drilling locations exacerbates this problem, forcing operators to target lower-quality reservoirs or employ tighter infill spacing.  Even though technological advancements such as longer laterals, increased proppant usage, and greater water volumes have been implemented to counteract these challenges, the inherently low permeability of unconventional rock, coupled with limited control over subterranean fracture formation and interaction, means that a substantial portion of the oil and gas remains unrecoverable.  Overall, transformative approaches are needed to address low recovery rates, steep production decline, and concerns regarding water sourcing, wastewater management, and related risks.  \n\nOther Subsurface Resources \n\nThe fundamental challenge of extracting valuable resources from low-permeability, hard-to-access rock formations extends beyond oil and gas.  Efficient extraction of other subsurface resources, such as geothermal energy, minerals and metals, and coalbed methane, also depends on creating and maintaining connective, conductive pathways for fluid or heat transport.  Addressing these shared challenges presents a significant opportunity for cross-cutting advancements that will enhance recovery efficiency across diverse subsurface systems. \n\n2. Technical Challenges\nOil and Gas \n\nLow permeability and resource access.  Shale and tight formations exhibit extremely low permeabilities, ranging from nanodarcys to microdarcys (approximately 10¿18 to 10¿21 m2), which prevents economic hydrocarbon flow without significant permeability enhancement or stimulation.  Hydraulic fracturing remains the dominant method for achieving this enhancement and requires the injection of millions of gallons of water along with millions of pounds of proppants per well to create conductive fractures.  Its effectiveness is hindered by non-uniform fractures and poor connectivity with natural fractures, reducing effective stimulated reservoir volume, sweep efficiency, and overall recovery.\n\nFracture conductivity and propagation.  Proppants are crucial for maintaining the conductivity of hydraulically induced fractures, creating pathways for hydrocarbon flow once injection stops.  However, traditional proppants (primarily sand) often fail to reach fracture extremities due to factors such as leak-off and settling, causing early closure and diminished flow contribution.  Proppant effectiveness is further impaired by crushing, embedding, and chemical and thermal degradation, which diminish fracture conductivity and, consequently, hydrocarbon flow.  Although engineered proppants (e.g., resin-coated, ceramic) offer enhanced strength and durability, widespread adoption is limited by their higher cost compared with sand.   \n\nIn addition, fracture orientation is strongly governed by the in-situ stress field, which is poorly characterized and difficult to control, leading to unpredictable fracture propagation and uneven stimulation.  This challenge is further compounded during refracturing operations.      \n\nEnhanced recovery.  Despite success in conventional fields, enhanced oil recovery (EOR) methods have shown marginal success in unconventional formations due to their ultra-low permeability.  Injected fluids (e.g., CO2, surfactants, solvents) are largely confined to the fracture network, with minimal access to the hydrocarbons in the unstimulated matrix.  Non-uniform fracture connectivity further causes fluid channeling and inefficient displacement, while complex fluid-rock-hydrocarbon interactions add uncertainties.  Together, these hurdles constrain the economic viability of EOR in shale and tight formations. \n\nRefracturing.  Refracturing existing wells offers an economic alternative to drilling new wells but faces major challenges.  Success depends on accurately characterizing existing fractures and diverting fluids into unstimulated rock, rather than depleted zones, which requires advanced diversion and flow control technologies.   \n\nInter-well interference, common in both refracturing and infill drilling, can reduce neighboring wells’ productivity.  Without precise candidate selection, accurate reservoir characterization, and improved downhole control, refracturing yields will continue to be economically uncertain. \n\nWater management.  Each shale and tight well requires 1.5 to 16 million gallons of water for hydraulic fracturing and generates 1–12 bbl of produced water (a combination of formation water and fracturing water) per barrel of oil equivalent (BOE) over its lifecycle.  Although some of the produced water is reused for fracturing, the majority is still disposed of via injection wells, posing potential environmental risks.  Additionally, the high salinity and complex chemistry of the produced water make surface treatment costly.    \n\nSensing and far-field characterization.  Current diagnostic tools such as microseismic and distributed fiber optic sensing offer limited resolution of fracture dimensions, connectivity, and conductivity.  This limitation leads to difficulty in mapping fracture networks, characterizing unstimulated zones to estimate undrained volumes, and monitoring fluid migration in the far field.  Furthermore, effectively monitoring proppant distribution and assessing fracture conductivity within the stimulated region remains an unsolved challenge.  The long-term monitoring capabilities are also constrained by the durability of sensors in harsh downhole environments. \n \nOther Subsurface Resources \n\nThe challenge of mobilizing and recovering resources from low-permeability, geologically complex formations extends beyond shale and tight oil and gas reservoirs, constraining other subsurface resources.\n\nEnhanced geothermal systems (EGS), particularly in hot dry rock and low-permeability basement formations, face difficulties in sustaining conductive fractures and in maintaining uniform flow across them.  This difficulty leads to thermal short circuiting and suboptimal thermal recovery.  Sand-based proppants may degrade under high temperatures and stress, causing conductivity loss.  High temperatures limit sensor longevity.  Monitoring fracture propagation, fluid pathways, and¿far-field¿behavior also remains challenging.  Circulation losses (~230 to 4,200 gallons per megawatt-hour) raise water demand and seismic risks, while scaling clogs flow paths. \n\nIn-situ leaching operations for extracting minerals and metals face challenges in low permeability formations due to poor leaching agent (i.e., lixiviant) to rock contact, resulting in low recovery.  Containment of injected fluids during in-situ leaching is critical for groundwater protection, but current wellbore monitoring methods (e.g., logging) are inadequate to track complex subsurface flow, geochemical interactions, and far-field fluid excursions.  Further difficulties arise from post-leaching groundwater restoration and wastewater management.  For example, uranium recovery can generate 50–250 gallons of wastewater per pound of uranium recovered, underscoring the need for effective water management strategies.  \n\nCoalbed methane production requires extensive dewatering that yields significant wastewater, presenting costly treatment and disposal challenges.  The low, anisotropic permeability of coal seams often necessitates stimulation and enhanced recovery to maintain production.  Overcoming hurdles in characterizing permeability, dewatering, and tracking subsurface gas fronts is crucial for optimizing production. \n\nA critical opportunity exists to develop crosscutting, next-generation technologies that enhance stimulation and recovery efficiency, expand flow pathways, and improve water management across diverse subsurface systems.\n\nTo view the NOFO in its entirety, please visit https://exchange.energy.gov/.",
+      "title": "Unlocking New Levels of Output and Capacity for Key Subsurface Resources (UNLOCK)",
+      "type": "grants",
+      "url": "https://www.grants.gov/search-results-detail/364136"
     },
     {
       "id": "2cc8207bca2938e5",
@@ -275,6 +315,21 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTZQRndKMVZmd1pLQkJRM1Fjd1ZEU0VMZzk1b25Oc3prRXJqNV9LMkVlWkxjNC1vQkdudmRRREpNSWk3NUtnVENBNzhRQnVOeWZfT3dDYmtUdy1BdlhGaWl5RHF3OFlUZTgyNHRWcFI3TmdXclZ4UGl0RzE2bjlyc0c0aHdub1YtSVZxUFlvbUxnRDlzNS1BZTRXQm9WYWR3aWJ3NHVnVmEzSHljNGfSAbMBQVVfeXFMUENLMnZXbjVJYXhfU0RkdklJYzA5azZnTWFMcDRza1M2bl9GSjFHc09MQTlyOW80SThtWXRteEE4Z3NsV2JTTUR0SzBOckN3elZBeXlSOS1UOFUzekwySDBLUTlqeTU3b2g4aThCMzh1cXRPd2xlb0dkZHh2dHltbzJsbnRVdzhXM0FrMnpaNWVLeVp5bnB5aXZUOW10clZFcXByQmMydTQwVmg2ZjIyeUtrX1E?oc=5"
     },
     {
+      "id": "c2d0fa5a77492d38",
+      "matched_keywords": [
+        "hackathon",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-09-16T12:00:00Z",
+      "query": "quantum hackathon",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5zM2U4M2tYZHdkY1J4TC1Pbll1ZmpHT0VvS0FLRHBoSGI4SlkzWFlQT1FvQzM5Ny1TUG9yNTVYZmJQdTBKV1pWOHROTEo0SzRHZVJZcEhoRE9UWEZVOGE2MFdVUklXd1d3YW1qRmRPazJUSlU?oc=5\" target=\"_blank\">Want to explore Quantum Computing?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">UPEI</font>",
+      "title": "Want to explore Quantum Computing? - UPEI",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zM2U4M2tYZHdkY1J4TC1Pbll1ZmpHT0VvS0FLRHBoSGI4SlkzWFlQT1FvQzM5Ny1TUG9yNTVYZmJQdTBKV1pWOHROTEo0SzRHZVJZcEhoRE9UWEZVOGE2MFdVUklXd1d3YW1qRmRPazJUSlU?oc=5"
+    },
+    {
       "id": "5fef7966f518e237",
       "matched_keywords": [
         "internship",
@@ -305,6 +360,21 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSzVPUzNMd3lNRjlvVnQwOWR4Uk1xakdvZWhuMGFYS1NvMUZoNmFMSTRPNGVQX0drWkZJRFh5ZllvXy1yTnBidkVMQjlLa1Y0RUpEWmJYalROWmZMMUZRaVZyXy1GQWZFcXhSSjZ5ajloLXJFQmJXTGd0dURSbEpnRU9yczVzb1lQTC16UERVV0xWdnc0VzA1dDlSUGdqTEUyeGV3RDR3NUd1eGZpd3otYXpLa3RCdWkyUVZaMmszblhPZ2xC?oc=5"
     },
     {
+      "id": "9aaf2bd09e049f35",
+      "matched_keywords": [
+        "challenge",
+        "fellowship",
+        "quantum"
+      ],
+      "published": "2026-09-27T07:00:00Z",
+      "query": "quantum fellowship",
+      "score": 6,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE51Z1VDVHlocjc3NTZQT3hZazk2M0RtOG4taU9BUktwRkE1cnNIS3hpVmNHMzlnbzNOSzNzc19ubzhUa0ZFSWNlNnVIaXNpbWRKdUdQX3FaeEV1dU5zQnRQanFpd1VJNHNIbXVLUlB6YWJFT0h0aUhFUHNmYw?oc=5\" target=\"_blank\">Harvard Students Take on Critical Minerals and Energy Challenges in Inaugural Fellowship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Harvard Crimson</font>",
+      "title": "Harvard Students Take on Critical Minerals and Energy Challenges in Inaugural Fellowship - The Harvard Crimson",
+      "type": "hackathons",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51Z1VDVHlocjc3NTZQT3hZazk2M0RtOG4taU9BUktwRkE1cnNIS3hpVmNHMzlnbzNOSzNzc19ubzhUa0ZFSWNlNnVIaXNpbWRKdUdQX3FaeEV1dU5zQnRQanFpd1VJNHNIbXVLUlB6YWJFT0h0aUhFUHNmYw?oc=5"
+    },
+    {
       "id": "4f4f9546042b8d74",
       "matched_keywords": [
         "internship",
@@ -333,62 +403,6 @@
       "title": "QMIT Launches Quantum Fellowships To Train Next-gen Leaders - Quantum Zeitgeist",
       "type": "fellowships",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Tdk9nXzdlVkpJbEM5S0NsY1lxU29ROU9xYnMxX2VQUVVQZTNYUXdST0lKUDV3a1hUUGlDMXpsNXR4LWNOZ1JEMnYzZGZQQU9EaVVXbmlKRmphdkdIV2VIVU5TY1NBU0VvOW5jVkhERk1BSmFuMDNWMg?oc=5"
-    },
-    {
-      "id": "cb6d8fd836cb64a2",
-      "matched_keywords": [
-        "summer school",
-        "quantum"
-      ],
-      "published": "2026-10-13T16:39:09Z",
-      "query": "quantum summer school",
-      "score": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDRLcTdXVWhkUzljWmpwLXU3aWdqU3lZbXhTVEJkQzlONzBCSUUyMWJYRDZKSzlmZ1pLWTJiQzlXTERFRS1zcmlCbjU2QUtXVmFKYlVvSEFDZWs2Q1FWYUxuUklKbGtBLTlORXVNNmRvdHBpUjY0d09scjhUQld6MkdCNkJIRU9kVDlFZ2pWVWJ0VTItZ3c?oc=5\" target=\"_blank\">From quantum computers to earthquake detection: global experts explore future of optical communications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trinity College Dublin</font>",
-      "title": "From quantum computers to earthquake detection: global experts explore future of optical communications - Trinity College Dublin",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDRLcTdXVWhkUzljWmpwLXU3aWdqU3lZbXhTVEJkQzlONzBCSUUyMWJYRDZKSzlmZ1pLWTJiQzlXTERFRS1zcmlCbjU2QUtXVmFKYlVvSEFDZWs2Q1FWYUxuUklKbGtBLTlORXVNNmRvdHBpUjY0d09scjhUQld6MkdCNkJIRU9kVDlFZ2pWVWJ0VTItZ3c?oc=5"
-    },
-    {
-      "id": "dbbea6ca9a23c962",
-      "matched_keywords": [
-        "summer school",
-        "quantum"
-      ],
-      "published": "2026-09-22T07:00:00Z",
-      "query": "quantum summer school",
-      "score": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0hCMmdQZWh6Y3Vlc3V3aWlFa2FOYndnWnJadVFvWXlINFh3SUNZRWFhN3lIeEsyREx1anllS1NZcWswWk5GRFFmOGVBcmxtbi1QMEt1b0hGU1R3WHNsNWZxMDMydnRDU0steXNCN0xycjRPc0U2TTBQTGFEVno0ZQ?oc=5\" target=\"_blank\">IBM-Illinois Partnership Funds Quantum Camp For Future Scientists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "IBM-Illinois Partnership Funds Quantum Camp For Future Scientists - Quantum Zeitgeist",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc0hCMmdQZWh6Y3Vlc3V3aWlFa2FOYndnWnJadVFvWXlINFh3SUNZRWFhN3lIeEsyREx1anllS1NZcWswWk5GRFFmOGVBcmxtbi1QMEt1b0hGU1R3WHNsNWZxMDMydnRDU0steXNCN0xycjRPc0U2TTBQTGFEVno0ZQ?oc=5"
-    },
-    {
-      "id": "6df14d6db180c217",
-      "matched_keywords": [
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-09-22T07:00:00Z",
-      "query": "quantum computing undergraduate research",
-      "score": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOS1lHSVdwMGRGSUZCcVQ5NDRzSGRLemM4QUxGNG5DZ3ItMWlwM0p5ZTlONGN5X1VoZlUzQVFpV19hU2d1MlNub0E3TXZVaE9xbHNqRzdSSklXVVFWNlVrZkJMVU5NUktxdGJRWXlrVXVoRThadVpSX2JzNnJKZzV1Q0p4YkhLZDU3ckdjZ2d1NFhZcDgtaUluaQ?oc=5\" target=\"_blank\">New Wake Forest quantum lab takes research to the next level</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Wake Forest University</font>",
-      "title": "New Wake Forest quantum lab takes research to the next level - Wake Forest University",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS1lHSVdwMGRGSUZCcVQ5NDRzSGRLemM4QUxGNG5DZ3ItMWlwM0p5ZTlONGN5X1VoZlUzQVFpV19hU2d1MlNub0E3TXZVaE9xbHNqRzdSSklXVVFWNlVrZkJMVU5NUktxdGJRWXlrVXVoRThadVpSX2JzNnJKZzV1Q0p4YkhLZDU3ckdjZ2d1NFhZcDgtaUluaQ?oc=5"
-    },
-    {
-      "id": "8caa40e1b1cb879b",
-      "matched_keywords": [
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-09-18T07:00:00Z",
-      "query": "quantum computing undergraduate research",
-      "score": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGpUaklYYkNNV3RTbGZENDA3b0g3clVFcXRGVDh2ak52R0Nxd0RpdGpfS2ZDMTV3clVXcXZoMk4yZ1VuZjJUNmQ5ZFhsNkYzci1GWjBVUHdaNWg3T011U2R4VmtVQ2xGb0JJQ0ZXZHlVQkNONmhpbVpwbGgtejdBcmkwbDFpNXJxekhWLUtqNlpaa2liSWRTa2lQaHM4dFdhcXdheDlyMWFfVWpmVnhfZGYwekQ?oc=5\" target=\"_blank\">Scaling Up, Out, Across: USU Physicist Explores Light as Pathway to Quantum Computing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Utah State University</font>",
-      "title": "Scaling Up, Out, Across: USU Physicist Explores Light as Pathway to Quantum Computing - Utah State University",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOGpUaklYYkNNV3RTbGZENDA3b0g3clVFcXRGVDh2ak52R0Nxd0RpdGpfS2ZDMTV3clVXcXZoMk4yZ1VuZjJUNmQ5ZFhsNkYzci1GWjBVUHdaNWg3T011U2R4VmtVQ2xGb0JJQ0ZXZHlVQkNONmhpbVpwbGgtejdBcmkwbDFpNXJxekhWLUtqNlpaa2liSWRTa2lQaHM4dFdhcXdheDlyMWFfVWpmVnhfZGYwekQ?oc=5"
     }
   ]
 }
