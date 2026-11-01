@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T12:51:25Z",
+  "generated_at": "2026-11-01T12:51:29Z",
   "items": [
     {
       "category": "academic",
@@ -133,19 +133,6 @@
       "url": "https://iqtevent.com/"
     },
     {
-      "category": "industry",
-      "end_date": "",
-      "id": "49c95601a2243495",
-      "location": "",
-      "name": "Speakers Point to Risk Appetite And Capital as UK Deep-Tech Bottlenecks at City Quantum & AI Summit - The Quantum Insider",
-      "notes": "Newly announced or indexed; verify dates on the linked page.",
-      "organizer": "",
-      "published": "2026-10-30T13:12:36Z",
-      "source": "discovery",
-      "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWFB3cEQ4NEx3b2xSUG9OYko3MlpaU3J1Ul9VemNpZmMwd3lYVXg5Sy0tOVJGWDRCM29pYk04ZHpkMXBMWHZCSWlDMnJMMTBxQ0RCNVFZQzNCRTl5bzB0Q2MxeFVVOHNvbldBYWh0X2hDcUVJeXlodzJESjZpVjRTdkhDT2xjenVYU2JIUXM4Z2R0N256WXBLY21fQkJMa2RuNDY0eTNyN1lFVktuUDA2U2h6bjdpd1BLQ3BnYkNycWNNeHNzam1zMkE1ZVhyNS1GUTM2elZ3?oc=5"
-    },
-    {
       "category": "academic",
       "end_date": "",
       "id": "eff27ffecd0c79e7",
@@ -187,15 +174,41 @@
     {
       "category": "academic",
       "end_date": "",
-      "id": "ebb8c547077c89e4",
+      "id": "ed153c004bf590fc",
       "location": "",
-      "name": "Technology, Media and Internet Companies Meet Institutional Investors at the 15th Annual ROTH Technology Conference - FinancialContent",
+      "name": "Pasqal’s CEO To Discuss Quantum At Cantor Fitzgerald Event - Quantum Zeitgeist",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
-      "published": "2026-10-28T22:15:00Z",
+      "published": "2026-10-29T09:27:13Z",
       "source": "discovery",
       "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUHdPUVB0ZkpOSmNFbnJzUjZRdm5WT2VLUXJSS2tMRUV4Sll3SlozeGMySmdZMWJoZVM5c0VoTFpZYWFsNl9Qa2RtenlCV0pydTRhSnBoY3RrTTdiUUwxZ2ZhdW9vRGotalJrdnZ3WHA3RnBuV1FsVk01UGIwZkpMYXpuYlllV0ZIa2MyeWk2VzZFcFNOSjlUN1VXTmJPUFBmZ2VIOGZMcVFNUVotbnZPZW9SZktqOHRHMXRoY0tycnZJTENrbWhfNDR4alVwSllZNXN5UmpjaV94M25YU1lTT0hzQzg3a0V1Wk1VU3VvUjBUSl9NWlk3ejZDbU04MHhJMWJRd3czS0g?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hWDdYSU5JS1d1SUt0cnJ0TGZySWhYdEtHWmt3SnQxUHZuNl9yeWk5amt0NGkzTFZYZmxGUFhod2dUTi1XQzU3eXJkN0NFakJxLWo3aGFuOU5rTGE5S0lZellCeTlHYlJweExtTmVGQTY1UQ?oc=5"
+    },
+    {
+      "category": "academic",
+      "end_date": "",
+      "id": "91d9e556178e738a",
+      "location": "",
+      "name": "Technology, Media and Internet Companies Meet Institutional Investors at the 15th Annual ROTH Technology Conference - TradingView",
+      "notes": "Newly announced or indexed; verify dates on the linked page.",
+      "organizer": "",
+      "published": "2026-10-28T19:29:31Z",
+      "source": "discovery",
+      "start_date": "",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMWp1aUdpbXhraVhCQlBQMTJDT0Nha1pKZUNsbGJFRW0tVklDc1Y5c0tobm5abEI4TjRBZ1BURk5LUEFEd1dEcERQcndQay1oSXBOTTc0Y1VFYXFhdWwyVm5IQnBQY3JCTk1sM3pkNUgxVnMxMGkyTTh4X1QyMFFFV3BwT3VYVlI5ZGpnOVdKZzBiM3BzdDFwSkNPTkRjYkh4V2N6aXlBaVVSdWtidzBVeVd3dk1OV2hSWXJDd2VlNzN4VlJodjJNU0h1dXFWV3JpX1VfbURseVh3bjhjVDRKZjBWYks2R2ViV2I2ek9pdFFiNGZiTzVGWFllbnU?oc=5"
+    },
+    {
+      "category": "industry",
+      "end_date": "",
+      "id": "a56584f4409245fa",
+      "location": "",
+      "name": "PART TWO: This Week's \"Zero Gravity Summit\" Will Bring Thousands of National Security Leaders, Investors, and Executives to Salt Lake City - Utah Money Watch",
+      "notes": "Newly announced or indexed; verify dates on the linked page.",
+      "organizer": "",
+      "published": "2026-10-27T15:55:46Z",
+      "source": "discovery",
+      "start_date": "",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNckprd1BhZjRXNEhoemd0U0dMZUhCN3hwN3FpSDFGenBzYjNucnNuZWdqV2hyLWVpQXVrLU8tck1GNWVFMVQ1a2ZXWDFMWUk4eXd6Z05jZ1UxTUtnVWlLem9HVzVCcGt4TGFjbXB0ZGdYUFEtMEZGNHJ5WlYtVGQ1QjBmR014Z25yWkRYVENBb1IzZnM2MHpqVG1MdGhjRC1TVlJLMzE5U2RuM3VmM0pSa202MVRkNXkxX3Jib1RubGNyZ0UybEdHT29rTnZQd0ViekRIWVJFa2MyZWx3YUZZSHZSa3B6cEpRUlU0c0lfZHBKVnB1MHRN?oc=5"
     },
     {
       "category": "industry",
@@ -378,19 +391,6 @@
       "source": "discovery",
       "start_date": "",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zUjFFTTlnVGZaNGZiUy03TVlfTlF4alRMekZ5RDdRWkxGOF9uSE9KeXNyYnctazJldDM5cDZoSU51WGNuWGMxSlhZZXhnZDlhb1ZTQ1l2elVHUFJRUlR4el9zb0tzSFkzQXI3SHRTc1ZTY0R5Q0dB?oc=5"
-    },
-    {
-      "category": "industry",
-      "end_date": "",
-      "id": "bf4f06e898f8ebd6",
-      "location": "",
-      "name": "Quantum Is the Future for Washington. Inside a White House Summit. - Barron's",
-      "notes": "Newly announced or indexed; verify dates on the linked page.",
-      "organizer": "",
-      "published": "2026-07-10T07:00:00Z",
-      "source": "discovery",
-      "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUUhwNzdfVXdNcEliVUFuVXhOekdUSjJXVG9FS3c0dnRXaGVBYUtJRjlqQXRjaWtBdFM1Rkx4MXNsc0gyX3FmazBSd0lmWm1sUDMwLXVDMU9qbVNXWnphemtaVGxfTHh0Vy1mRUY2dUZhYzFmeFo5ZUYzM0ZHMUtmSnRoV2Y?oc=5"
     }
   ]
 }
