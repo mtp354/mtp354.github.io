@@ -3,7 +3,7 @@ title: "Multi-Client Delegated Verifiable Blind Quantum Computing"
 collection: publications
 category: conferences
 permalink: /publication/2026-11-02-multi_client_vbdqc
-excerpt: "TBD"
+excerpt: "This project was a bigger undertaking than the results might warrant, and I learned a whole lot! After taking my first cryptography course, I was eager to explore the intersection of quantum computing and cryptographic protocols, and I am tremendously grateful for the opportunity to work alongside Rosario Gennaro as we waded into the quantum cryptography landscape. There was a lot of reading and trying to figure out the open problems in the field. Going into a newer field is daunting and there were a lot of two steps forward, one step back moments, but there really are no shortcuts in learning. I was grateful to get to present this work at ACM's PQQS 2026. I feel energized and prepared to take on a new quantum cryptography challenge."
 date: 2026-11-02
 authors: "Matthew Prest and Rosario Gennaro"
 venue: "Post-Quantum and Quantum-based Security (PQQS '26)"
