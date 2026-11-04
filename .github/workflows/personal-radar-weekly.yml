@@ -10,6 +10,10 @@ on:
 permissions:
   contents: read
 
+concurrency:
+  group: personal-radar-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   personal-radar:
     runs-on: ubuntu-latest
@@ -31,6 +35,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Run radar regression tests
+        run: python -m unittest discover -s tests -q
+
       - name: Privacy guardrail for Applicant directory
         run: python scripts/check_applicant_privacy.py
 
@@ -46,6 +53,14 @@ jobs:
         if: steps.select.outputs.run_pipeline == 'true'
         run: python scripts/personal_recommend_docs.py
 
+      - name: Fetch website analytics
+        if: steps.select.outputs.run_pipeline == 'true'
+        env:
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID || vars.GA4_PROPERTY_ID }}
+          GA4_SERVICE_ACCOUNT_JSON: ${{ secrets.GA4_SERVICE_ACCOUNT_JSON }}
+          GA4_ANALYTICS_DAYS: "7"
+        run: python scripts/personal_send_email.py --analytics-only
+
       - name: Email personal digest
         if: steps.select.outputs.run_pipeline == 'true'
         env:
@@ -57,9 +72,6 @@ jobs:
           PERSONAL_REPORT_FROM_EMAIL: ${{ secrets.PERSONAL_REPORT_FROM_EMAIL }}
           PERSONAL_REPORT_REPLY_TO: ${{ secrets.PERSONAL_REPORT_REPLY_TO }}
           PERSONAL_REPORT_SUBJECT_PREFIX: Personal Radar Weekly
-          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
-          GA4_SERVICE_ACCOUNT_JSON: ${{ secrets.GA4_SERVICE_ACCOUNT_JSON }}
-          GA4_ANALYTICS_DAYS: "7"
         run: python scripts/personal_send_email.py
 
       - name: Upload digest artifacts
