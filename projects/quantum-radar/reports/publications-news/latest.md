@@ -1,68 +1,58 @@
 # Quantum publications and news digest
 
-_Generated: 2026-11-05 11:17 UTC_
+_Generated: 2026-11-07 11:17 UTC_
 
 ## Publications
 
-1. [Improved Exact and Approximate Quantum Fourier Transforms from Multiplication](http://arxiv.org/abs/2611.06341v1)
-   - Published: 2026-11-04
-   - Authors: Chandrima Kayal, Rajat Mittal, Manaswi Paraashar, Nitin Saurabh
+1. [QDiff: Differential Testing of Quantum Software Stacks](http://arxiv.org/abs/2611.08220v1)
+   - Published: 2026-11-05
+   - Authors: Jiyuan Wang, Qian Zhang, Guoqing Harry Xu, Miryung Kim
    - Matched: quantum computing, quantum algorithm
 
-2. [Bridging Pulse and Circuit Levels: A Geometric Framework for Deterministic Error Suppression](http://arxiv.org/abs/2611.06291v1)
-   - Published: 2026-11-04
-   - Authors: Junkai Zeng, Hao Liang, Yong-Ju Hai, Xiu-Hao Deng
-   - Matched: fault tolerance, error correction
+2. [Machine learning quantum data to accelerate quantum Monte Carlo](http://arxiv.org/abs/2611.08151v1)
+   - Published: 2026-11-05
+   - Authors: Tong Jiang, Andrew Zhao, Shashwat Kumar, Jigyasa Nigam, et al.
+   - Matched: quantum computing, quantum algorithm
 
-3. [Connection of surface code patches based on entanglement distillation without postselection](http://arxiv.org/abs/2611.06260v1)
+3. [Scalable Transpilation for Overcoming Restricted Connectivity in Distributed Superconducting Quantum Architectures](http://arxiv.org/abs/2611.07175v1)
    - Published: 2026-11-04
-   - Authors: Moeto Mishima, Toshihiko Sasaki, Yasunari Suzuki, Koji Azuma, et al.
-   - Matched: quantum computing, surface code
+   - Authors: Afonso Azenha, Ilia Polian, Sebastian Brandhofer
+   - Matched: quantum computing, quantum architecture
 
-4. [Resetting a Superconducting Qubit with a Compact Colder Resistive Dissipator below the Qubit Frequency](http://arxiv.org/abs/2611.06216v1)
-   - Published: 2026-11-04
-   - Authors: Jiajia Tian, Meiling Li, Weijie Sun, Yanjun Ma, et al.
-   - Matched: error correction, superconducting qubit
-
-5. [Optimal Holding Times for Entanglement Swapping](http://arxiv.org/abs/2611.06823v1)
-   - Published: 2026-11-04
-   - Authors: Van Sy Mai, Richard J. La, Abdella Battou
-   - Matched: quantum network
-
-6. [Quantum Algorithms for Molecular Response Functions: Resolvent Kernels, Time-Domain Sampling, Query Lower Bounds with Matched Single-Point Calibers, and a Six-Route Comparison](http://arxiv.org/abs/2611.06821v1)
-   - Published: 2026-11-04
-   - Authors: Yunlong Liu, Yujin Tang, Miao Xu, Qing-Xing Xie
-   - Matched: quantum algorithm
-
-7. [GFlowQEC: Generative Flow Networks that Learn to Sample Quantum LDPC Codes](http://arxiv.org/abs/2611.06819v1)
-   - Published: 2026-11-04
-   - Authors: Nuno Batista, Gabriel Falcao, Penousal Machado
-   - Matched: logical qubit
-
-8. [Resource-efficient formulations of the Knapsack problem for quantum computing](http://arxiv.org/abs/2611.06797v1)
-   - Published: 2026-11-04
-   - Authors: Pim van den Heuvel, Vrinda Mehta, Dennis Willsch, J. A. Montanez-Barrera, et al.
-   - Matched: quantum computing
-
-9. [A Quantum Lower Bound for Triangle Finding](http://arxiv.org/abs/2611.06751v1)
-   - Published: 2026-11-04
-   - Authors: Arjan Cornelissen, Amin Shiraz Gilani, Xingyu Zhou
-   - Matched: quantum algorithm
-
-10. [Efficient quantum ultraspherical transform and a well-conditioned quantum spectral method](http://arxiv.org/abs/2611.06651v1)
-   - Published: 2026-11-04
-   - Authors: Trong Duong, Norbert Hosters
-   - Matched: quantum computing
-
-11. [Discovering correlated error mechanisms: data-driven augmentation of detector error models improving decoding](http://arxiv.org/abs/2611.06605v1)
-   - Published: 2026-11-04
-   - Authors: Zohar Schwartzman-Nowik, Matthew P. Stafford, Boris M. Varbanov, Joan Camps
+4. [Certifying quantum code and circuit distances at scale](http://arxiv.org/abs/2611.08247v1)
+   - Published: 2026-11-05
+   - Authors: Bin Cheng, Naixu Guo, Feng Pan
    - Matched: error correction
 
-12. [A Variational Quantum Algorithm for Multi-Skill Project Scheduling](http://arxiv.org/abs/2611.06502v1)
+5. [Autler-townes energy-level engineering for high-quality all-microwave qubit gate](http://arxiv.org/abs/2611.07967v1)
+   - Published: 2026-11-05
+   - Authors: Wan-Peng Gao, Xiao-Liang He, Zheng-Qi Niu, Si-Qi Li, et al.
+   - Matched: quantum computing
+
+6. [Detecting Nonbilocal Correlations via Parameterized Elegant Joint Measurement](http://arxiv.org/abs/2611.07769v1)
+   - Published: 2026-11-05
+   - Authors: Ye Tian, Ying-Qiu He, Zan-Jia Li, Yu-Yan Zhang, et al.
+   - Matched: quantum network
+
+7. [Observing mixed-state Uhlmann winding numbers in integrated photonic quantum walks](http://arxiv.org/abs/2611.07600v1)
+   - Published: 2026-11-05
+   - Authors: Baichu Yu, Qin-Qin Wang, Huilong Huang, Bin-Tong Yin, et al.
+   - Matched: photonic quantum
+
+8. [Information flow control in hybrid quantum networks](http://arxiv.org/abs/2611.07440v1)
+   - Published: 2026-11-05
+   - Authors: Michael Siomau
+   - Matched: quantum network
+
+9. [Dithered Belief Propagation for Real-Time Quantum Memory Decoding](http://arxiv.org/abs/2611.07144v1)
    - Published: 2026-11-04
-   - Authors: Raul Martinez, Miguel Sánchez-Beato, Matilde Osa, Jorge Parra, et al.
-   - Matched: quantum algorithm
+   - Authors: Zhengyu Cai, Mohamad Ali Jarkas, Bokun Zhao, Warren J. Gross
+   - Matched: surface code
+
+10. [Quantum Advantage with Sign-Free Proofs: An Oracle Separation between $\mathsf{StoqMA}$ and $\mathsf{MA}$](http://arxiv.org/abs/2611.08180v1)
+   - Published: 2026-11-05
+   - Authors: Yassine Hamoudi, Yvan Le Borgne, Shrinidhi Teganahally Sridhara
+   - Matched: verification
 
 ## News
 
@@ -71,57 +61,57 @@ _Generated: 2026-11-05 11:17 UTC_
    - Query bucket: neutral atom quantum computing
    - Matched: quantum computing, logical qubit, neutral atom
 
-2. [Open Source Quantum Compilers: A Technical Overview Of The Current Landscape - Open Source For You](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcWFnZVBCeGo3QjVJU19WeHRRMy1qU2M0MldQaV9rbnh5SmpDVUtlcXctMnZKY2hvVXVNMFN1RUJnMDZIdm9FeEJEclE3ZHZPY0N4bmpyZGFzbVZWVEFXbzZmTFhXYklUQTJ6MWhjOGtHR09YVjNfekFTWFBwNTBSaWxzVGpKZ0lvOTRLd2hSaXdrM3J1THAzcktXU0NFRGF3VFZOd2ljOTkxOFZTVDRkbFkzQWRNQQ?oc=5)
-   - Published: 2026-11-05
-   - Query bucket: quantum computing
-   - Matched: quantum computing, quantum compiler
-
-3. [Quantum Algorithm Cuts Cloud Droplet Calculation Costs, Study Shows - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMifEFVX3lxTE5wRGhPRkdsWjlfLUEzRGFWOWdkUmR0alRhS3ZWRnV6YnhZSUVfSFVPbUtORWhyekxIX1VJLUQwQ0dtQU9vZlI2SXFFUUVkTkFTTm85Z2N5NVBxbk5RXzJiQTJkMUZxYzRESUVaNE5DWldPV3Z2QW1RQ0VkeFc?oc=5)
-   - Published: 2026-11-04
+2. [How Quantum Algorithms Work in Modern Computing Systems - TechBullion](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWmFDaE5pak5SdF9kdUdtVk9IbzVDTGVuSHFLT1NKNnRVYlBlcjllQlZVWG01YVVnQkdBd2FXSmhBMHp0eE05VTVKVDBmVkFmZkRUV2lWNlVhRjQ2aXFMRG0xNkhRc1ZfSGE1ZnNRZnVTSXVyczF3TWx2Z2RtQ0YtX2stN2xxUjQ?oc=5)
+   - Published: 2026-11-07
    - Query bucket: quantum computing
    - Matched: quantum computing, quantum algorithm
 
-4. [Qarakal Quantum To Detail Modular Quantum Computer In Cannes - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMiggFBVV95cUxNQUpSUmMxQmF2YzBwNGVCNkhDaWhzTFNWV3RNWHFyNE40ZkxZNTFVYmU4V0dIWWlleDVFdE4tT1BZd3BiWFFhUDVwU25uZE0zcGxYbHppQnd5V0dhaFBETThjc0NJcklmU1puNnQ5dEFrUHJDcFNKUWdFajRvTmg2aGNB?oc=5)
-   - Published: 2026-11-04
+3. [IBM, AMD, And Oak Ridge Unveil Quantum Error Correction Platform - The Next Platform](https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3VyeWpSX2YxbTVZSzlMQVMtMDRPdDBGZkRsN2Y4Rzd3QUZaZ3ZMZk9UcmVfM1h3TjdiWVkxS2E0N0s2cTJiUXlMMDYwNEdfLVExTUlORkFMcWJJZkFuTHk4YVVoNFpfSDRSMzlxX0xJWGVfZ0RzZGZtWFktLVhHSGVMYjFuejJ6Q01RdFJXVmltUVdEdUNIOHJRZ1FqM1JZeXhLNmstUzh0LXpOVmZ1X0NYRHNWSVZucHc?oc=5)
+   - Published: 2026-11-06
    - Query bucket: quantum computing
-   - Matched: quantum computing, modular quantum
+   - Matched: quantum computing, error correction
 
-5. [China’s Photonic Quantum Computer Among WIC Award Winners - The Quantum Insider](https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkJ4Q3ZWc21vQWU3LTFwbkdfMlhMOExfYXdSM1FuXy1mR01OXzM0OE9jbll2Q0s3RU0xV1Nxc3o2VlhWLUtPSy1xRVI5bXBrYkFjM1FVb1B4OU9VZkdyWUt5VW5vM2NrSFVyd2psZEVIcXljdFpSQjFINDlGblBkamZhZ29oY0MzMno4NktoemQtbi0tVkZiQkZjdDV3ekU?oc=5)
-   - Published: 2026-11-04
+4. [A Logical Qubit Uses Just Eight Gates For Complex Operations - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMif0FVX3lxTE1hb0dCQzdmTG9pMHVZV0VOLVdwUnU4cXllSlhBVlMySDBOTTlVUDBsNXFIT1h2ZGhwcElVX0doY0ljX3B1U2kwRVh0SXZxRnlKLThpODFPNlhpdVBXdkx0QjcwTGhyYWdyY3djMThLVFZlMVJodkZld2NxbWNQVEU?oc=5)
+   - Published: 2026-11-06
    - Query bucket: quantum computing
-   - Matched: quantum computing, photonic quantum
+   - Matched: quantum computing, logical qubit
 
-6. [Japan Just Powered Up a Quantum Computer Built From Single Atoms—and It May Not Need a Giant Freezer to Run - Popular Mechanics](https://news.google.com/rss/articles/CBMiigFBVV95cUxPWF9VWHBaUmp6YnFQdVlVQUUzdVJEQVg2SzdaczFYdGNfQVYteDEzU21yWHF6Rzg5UHNocmZucHh1TU1Gb1hNT2lQTzFUNGxOdV9FZzExR0h1WElvbWdCY3YxaW5LQXNaV2EzNHlXZmgzZWtvTHctRU9MQUl6eWZTenRLZkxLWHRuUHc?oc=5)
-   - Published: 2026-11-02
+5. [Perimeter Institute Explains How Error Correction Makes Quantum Computing Possible - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEtmRGJhbG5kWFhHLVhjV2ctb3pWLVh6bkhnTDlfMHRoYWJwVXpQUzVMVEstOENIZWlqZFV2MUhQajVkcjl6aWRlQ29QN2xHNnE5UVZCY3BnNnRnVldjXzZxdzF4dWlqQ1gxcHhhZnNIY3lqVzlvY0tEUm8yYV8yY1I3TVcxbVJXYkN3?oc=5)
+   - Published: 2026-11-06
+   - Query bucket: quantum computing
+   - Matched: quantum computing, error correction
+
+6. [Advanced Micro Devices (AMD) Joined A Quantum Error Correction Platform Launch - Yahoo Finance Singapore](https://news.google.com/rss/articles/CBMiigFBVV95cUxQblEwWkc3eUlKZ09DMk92QWx0dWtmeTdzR0tFSFlLSVdpb0UxbTJGQnhTM0RyTmh4VTNRS0QxMHFqOHQxUzdldjREVXFYSGhaZXQtSEI5R3l3OWdHdHVXSmZUN09hc0VrVU0xaHIzWjhfd0UxX21YbkJaZWw5Z0kwaU44bVVPUWw3emc?oc=5)
+   - Published: 2026-11-06
+   - Query bucket: quantum computing
+   - Matched: quantum computing, error correction
+
+7. [Pasqal Reports Third-Quarter Revenue Decline as QPU Services Revenue Grows - The Quantum Insider](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLXIzcGtBajJHTDNZVEpaQ2xnaXJzM0wwVS0tOEdVTV9WSUVwOGQ1ZzlLcU1oM3dMUzByUkJ0dDZlSTZmemZiLXFDSnRPMTRxZ2ZkejFya3VLRFAzYk11cWM4RnhSS3d1UnlVTnktc1N0dWN2c2txZURJYjhfMzQwN2VvM0ZLR0lEd0VN?oc=5)
+   - Published: 2026-11-06
    - Query bucket: neutral atom quantum computing
    - Matched: quantum computing, neutral atom
 
-7. [PsiQuantum Unveils 8×8 Optical Circuit Switch Demonstration Vehicle Derived from Silicon Photonics Quantum Architecture - Quantum Computing Report](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT09YOG5HRDNoRHlSUXFGUTVDbjFZemxHOUlkeVd2RGhIWFZEbnBEVzVqYUVtTFdVYXowS2ZoTTQ2RGhUX0pRWkIyYll1c1FaelJ4MVg0VDhLUHN1NjBDX0s1c1lRMkd6eWZSb09mT2FTUFQxeGZPRlprQmVYLS05VWVlb1FFTnVEU3I1b2VMY1FGTGJzS2kwcDBvY1dpZ19yVEYtSXNCRFJDYVZ0TnRqMmpkaFpYcFZjaE9JbnlSSU9hUzFHdENNQmhvVE03UUhmdkR0R0NHTGRsOGtEWmdpU3BkeFNSZGFYWnhZ0gHwAUFVX3lxTE1GbHJRODc3d0U2dmEzYjVFNy04QUp6R0FlOGFSY1BlUlFjRWVSQWszc3hqWnVxQjJRbWFxdV9DdnlyeGpqbFljeW03Y2ZUdmNocGtuV21qLVpDY0Fya3VJREhwakZKVllaX0ZLUkdzbkRIajRvYzVnUlJ0SUw0OWFVMlFZWmhLV1h6aWRzcF9fc21oQy1BYjB0ZXVPV2VHZlotb2NITkRFYUI3bnhrTE43eGpUakw1ZnA5OVhPc3Yybzc2bmIweVR4OVBseEFXZkk5VUNaV1hUTGxvQWtKWmN4Qy1xYnpydmcyUWhGZXdRag?oc=5)
-   - Published: 2026-10-28
-   - Query bucket: fault tolerant quantum computing
-   - Matched: quantum computing, quantum architecture
-
-8. [Modular quantum computing takes shape with l-couplers - IBM](https://news.google.com/rss/articles/CBMihAFBVV95cUxQNy1wZmxfNDFvaEVvUFpqQy1uMTh4OURMYllJT0luODJKelZvR0Q0YU5aOWhsUFNwNy1MbWFGNFFoXzF6bU5ySmtjbTZwWl9BY1cyRGpPMEV6TV9vM1M3clc2cm8xQmx0ZjcxTDRsVUZoRExfMGhxLTlMZDBUT2xHdHhyQlA?oc=5)
-   - Published: 2026-10-27
+8. [A 97-nanosecond Gate Could Help Scale Up Superconducting Qubits - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdkVFam45QjZWQzRTT2pDc3dHSmhXWVFNQnVfel84Z1VIeE9ZREQ3UVJUMWgzMkZVN1dnNGVXWUVQTFBiTXNDdFgyeS1NSTJTUjdTMTM0Uk45THdOdUdWcVlvSzN0UE1zNTJ0SURGbnlyRUJ6eXg5Wnh5cHh3Um1RZnY4QQ?oc=5)
+   - Published: 2026-11-06
    - Query bucket: quantum computing
-   - Matched: quantum computing, modular quantum
+   - Matched: quantum computing, superconducting qubit
 
-9. [Could quantum computers break internet encryption in just 3 days? - YourStory.com](https://news.google.com/rss/articles/CBMif0FVX3lxTE9XOWhERmQzcTJkQmhXLUpnMXk2VEN1eUJtV1dKbk9WQVg1REtfQmFZaGJhWkszSktqY0ozUl9TbEJheEhCbU5KeE9HTXJUWlhQUlBnRHJQcUx5aFYtdjJpMmgyVDVFbVJhOVlNanhvU2lQamdiUS1tWWlOUUJUWFU?oc=5)
-   - Published: 2026-11-05
-   - Query bucket: quantum computing
-   - Matched: quantum computing
+9. [QPU Services Revenue At Pasqal Jumps 53% Year-on-year - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMid0FVX3lxTE15dEdIUFV1aG45bUdYWVVuUjZQVmtJb0JGTHpRQUZTandsUlBBa2tZMWhlb3F0UFlBaUc1RzlDNFMyX0ljVkxHZEZMbTdFbkVDNnR5aWV2RHprWndTcThDalFaMzl2ZlFDSTBMNDdKeDQxNVhOcGdV?oc=5)
+   - Published: 2026-11-06
+   - Query bucket: neutral atom quantum computing
+   - Matched: quantum computing, neutral atom
 
-10. [FCA to Test Quantum Machine Learning for Fraud and Money Laundering Detection - The Quantum Insider](https://news.google.com/rss/articles/CBMimwFBVV95cUxQUW16WVI2Qi1zMXhSRkxUU0JkLVdaMldLdVgyVUQ4dlI5ZmNwQ0c5cE5RUUVDTmFpV0R6cWlueDdWbTVYSF9vcWhmSTB4ekx4SWszQXNCd0hKWHpkRnY3SEdwd1VjQUJoaDBMaHhpdWRSaVZuWWVPeGdqbGhCdnRnUEwzN3YyZE55OUloS1JqSlczd2V2aTlmeFVtSQ?oc=5)
-   - Published: 2026-11-05
+10. [Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction - The Register](https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUJFS0xkTjBVUzZ1WnNjZEJDdURzQWhJcjB4Z3A3al9oNWZ0emlOTkZidGZxazVxSngzOEhvZ1FySVdoRlBQMjFLLWRiU3pPTkdnVE9xQ3hlYndtLXhwN21yYndOUjlkbnh2TllvM0hyN3R5VExmLXlFYTlOamxlZFlJMlhCWFV1Sm1mNXp2ZEtYM1FaeHhnRldSdm0xT2xTZXplSDJXY2hrckdsNUZidXRMVjI4Y0tDMHFfUUphQW1NcE9qV0E?oc=5)
+   - Published: 2026-11-06
    - Query bucket: quantum computing
-   - Matched: quantum computing
+   - Matched: quantum computing, error correction
 
-11. [Why waiting for quantum computers to arrive could leave your security exposed - IT Security Guru](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZXBTT3R6a0JzU1ZzNmhLcGVsek5sVUl4OGRVNlNWWlFhc0YzT1FVeS1CS1JqTlFYUEJsQTRLaTJpTmRsbXpsN21QNVZxVE40Zm1uYmZyTUNrV2x4S3dtc0hsLW5ic2ZGVzZNblF2c1pQdVpweGxlMW5FYnpyZlJTOFBQYkt4MmU3cGNxYTc2OHhTWFhxclhxbjhiZUx3OVptNVdSTF9jZUU5c1diZFBkdldUNDBmWTBoQTFQSA?oc=5)
-   - Published: 2026-11-05
+11. [IBM Brings Nighthawk Processor to Quantum Error Correction Platform Co-Designed With ORNL, AMD - ExecutiveBiz](https://news.google.com/rss/articles/CBMimgFBVV95cUxOYWs4VlRET3RlSnFxdlRySENKT0VncFdrMEhDazd0N3NDNnEyM0xVbmNvZ3B0bzdJXzlRUHE3ZVdOSU5JUmNvRFhYTk1zV2RFQUlEdmNSZGl0dXp6aF9xMkpETFlzZ2R2Z3FvaHF5VklFUEwzc3cyR2hnQ2djOEJNazdvZjZvYmZfWGM3aTVVS2V2X1FMY3dSdUt3?oc=5)
+   - Published: 2026-11-06
    - Query bucket: quantum computing
-   - Matched: quantum computing
+   - Matched: quantum computing, error correction
 
-12. [Hong Kong Launches Post-quantum Toolkit For Banks - Dataconomy](https://news.google.com/rss/articles/CBMijAFBVV95cUxOb1E5MmNqZWNpWXgwM1IwVlBqQnl4OEZhZmYwOXNXd2h5SDdYMGd6VEVEVDFqWlI5VHdJUXZSUTdwWFE2dTVTdV9adS01S1hWdXJUb0UtNndQQk5NX2NRMGw2V2psZldtNXNWYk1MczFIakRrMDdWUXVHNFFPQWRJdjUzakJzLXQ4QVBfMA?oc=5)
-   - Published: 2026-11-05
+12. [AMD Takes the Classical Side of IBM's Quantum Error Correction Buildout at Oak Ridge - The Futurum Group](https://news.google.com/rss/articles/CBMiugFBVV95cUxPM193U1NqaVhRWWRaVk5IWGxlZ1g0cTl0b2ltTjRQM3BPbTZuY0dHUXNCRUtvWVdlZVh4ZURwRGhYeUJCVmlHZEk0SF8tNzl4SVh3RjViNHhOMjdKTGszZ2wxTVNkR09pUUliRF9yNjVpbzJiNmNkT3BhbG0xaEVhcTltZVlqOWJERmZVOXVobGRiM1lVRlBwNEVvR2tKVkdIUjJRalg0U09qZnVwLVNzaWNqSGZqZnFLVHc?oc=5)
+   - Published: 2026-11-06
    - Query bucket: quantum computing
-   - Matched: quantum computing
+   - Matched: quantum computing, error correction
