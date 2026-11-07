@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-04T13:34:44Z",
+  "generated_at": "2026-11-07T13:33:51Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "For profit organizations other than small businesses",
-        "Independent school districts",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Private institutions of higher education",
         "Individuals",
         "Small businesses",
-        "Private institutions of higher education"
+        "Public and State controlled institutions of higher education",
+        "Independent school districts",
+        "For profit organizations other than small businesses",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "1a7530639af44b85",
@@ -41,8 +41,8 @@
       "application_source": "Grants.gov",
       "deadline": "2027-02-19",
       "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "Private institutions of higher education"
+        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "6e9991a9c7c3a870",
@@ -70,10 +70,10 @@
       "deadline": "2026-12-04",
       "eligibility": [
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "For profit organizations other than small businesses",
-        "Public and State controlled institutions of higher education"
+        "Private institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "c1c2bc0b077c471d",
@@ -120,38 +120,6 @@
       "title": "NRL Long Range Broad Agency Announcement (BAA) for Basic and Applied Research",
       "type": "grants",
       "url": "https://www.grants.gov/search-results-detail/352741"
-    },
-    {
-      "id": "41d12fc55456c9a5",
-      "matched_keywords": [
-        "internship",
-        "intern",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-10-19T07:00:00Z",
-      "query": "quantum computing internship",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTFKQXRmRkZCLURGU1FZYXl5a3U0UDBLcHE1UzVxUDFZTkRmYnZGaFhKdVNOdHR5cnA5amp4cE83YTJCdmktdUcxbFhYQl9wN3owR0RSWUFEbHpoSWoyQzJ6anJOd2VHTGptbDU3Wk8yMXdnaW9MNVFVZmxpSmsxZEwxbkxxSi0xTVM5di1xbVRMX2ZqaVJhRUttS2NsejhLUTN2MU9oaENrZw?oc=5\" target=\"_blank\">Summer Interns Explore Science and Self-Discovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simons Foundation</font>",
-      "title": "Summer Interns Explore Science and Self-Discovery - Simons Foundation",
-      "type": "internships",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTFKQXRmRkZCLURGU1FZYXl5a3U0UDBLcHE1UzVxUDFZTkRmYnZGaFhKdVNOdHR5cnA5amp4cE83YTJCdmktdUcxbFhYQl9wN3owR0RSWUFEbHpoSWoyQzJ6anJOd2VHTGptbDU3Wk8yMXdnaW9MNVFVZmxpSmsxZEwxbkxxSi0xTVM5di1xbVRMX2ZqaVJhRUttS2NsejhLUTN2MU9oaENrZw?oc=5"
-    },
-    {
-      "id": "e36a83b7011baeff",
-      "matched_keywords": [
-        "internship",
-        "intern",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-10-08T07:00:00Z",
-      "query": "quantum internship",
-      "score": 9,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxObmlLNFZlVWxBTlVoSUItT2dISWhCQ0NBWWhMWVdQeUZKemg5TDlNblNBVlpsVXMzLWpqSnBkODR0dUN3eFh5U01PNG1pU0t4bTdmTXFxRnNIMjFrc0lnLXI5VzNjVWM5d3FhcjBadnB0Sjl4ZFh2amlFeDZXQlE0d3drbjdCR0Z4bHhZbzEzalNnTjE0TUdkRzNwSXZqQm1rQnl2Qk1DWWdDTm14?oc=5\" target=\"_blank\">Fujitsu to establish quantum computing research center in NM</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Office of the Governor</font>",
-      "title": "Fujitsu to establish quantum computing research center in NM - Office of the Governor",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObmlLNFZlVWxBTlVoSUItT2dISWhCQ0NBWWhMWVdQeUZKemg5TDlNblNBVlpsVXMzLWpqSnBkODR0dUN3eFh5U01PNG1pU0t4bTdmTXFxRnNIMjFrc0lnLXI5VzNjVWM5d3FhcjBadnB0Sjl4ZFh2amlFeDZXQlE0d3drbjdCR0Z4bHhZbzEzalNnTjE0TUdkRzNwSXZqQm1rQnl2Qk1DWWdDTm14?oc=5"
     },
     {
       "application_source": "Grants.gov",
@@ -250,21 +218,6 @@
       "url": "https://www.grants.gov/search-results-detail/363621"
     },
     {
-      "id": "09e42a36595eeee7",
-      "matched_keywords": [
-        "summer school",
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-10-06T07:00:00Z",
-      "query": "quantum summer school",
-      "score": 8,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBqSVZrenVBbmVFcm9RQy1EWUZWX2t0ZjFoWmRMWnM4NWhQQ1BSWk1YQ1pCdFFWcjBEUkZObE0yV1dhQWRpR0sxZjhWaXJqbnQ5OVJqMHpZNzhjd243VE5rd1R1VmFkazJqUFNMd1h2bnR5ZG8?oc=5\" target=\"_blank\">Quantinuum Trains 30 Chemistry And Quantum Computing Researchers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Quantinuum Trains 30 Chemistry And Quantum Computing Researchers - Quantum Zeitgeist",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqSVZrenVBbmVFcm9RQy1EWUZWX2t0ZjFoWmRMWnM4NWhQQ1BSWk1YQ1pCdFFWcjBEUkZObE0yV1dhQWRpR0sxZjhWaXJqbnQ5OVJqMHpZNzhjd243VE5rd1R1VmFkazJqUFNMd1h2bnR5ZG8?oc=5"
-    },
-    {
       "application_source": "Grants.gov",
       "deadline": "2026-11-20",
       "eligibility": [
@@ -287,6 +240,21 @@
       "title": "Unlocking New Levels of Output and Capacity for Key Subsurface Resources (UNLOCK)",
       "type": "grants",
       "url": "https://www.grants.gov/search-results-detail/364136"
+    },
+    {
+      "id": "ed333427142e24bb",
+      "matched_keywords": [
+        "hackathon",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-11-05T17:09:04Z",
+      "query": "quantum hackathon",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHNHalBWZjFmRDJ4d0xZOURTbGpad0FOZE1ZV1lLcjNoZGNLdnVCei1mQzdxVmJjZHFGN0RZeWhVODhydDczcy1WRlc1VklEM3VURk40Q2NZQWdGSUJFVHNQeFBPcEVzSlNVeHBoTzBBVXJESm1DbkEzaDVkQlpIaERvMDZiSzkyQy1NWkMyaHNyaEd5dHROdGJlRQ?oc=5\" target=\"_blank\">MTSU Hosts Interstate Hackathon to Expand Quantum Computing Education</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "MTSU Hosts Interstate Hackathon to Expand Quantum Computing Education - The Quantum Insider",
+      "type": "hackathons",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHNHalBWZjFmRDJ4d0xZOURTbGpad0FOZE1ZV1lLcjNoZGNLdnVCei1mQzdxVmJjZHFGN0RZeWhVODhydDczcy1WRlc1VklEM3VURk40Q2NZQWdGSUJFVHNQeFBPcEVzSlNVeHBoTzBBVXJESm1DbkEzaDVkQlpIaERvMDZiSzkyQy1NWkMyaHNyaEd5dHROdGJlRQ?oc=5"
     },
     {
       "id": "70aa8005c967d202",
@@ -319,90 +287,32 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDRoYlhCeVljS29PQk9USGJHc0Y1RUhxcjJvUUlhOGpsdjJOMEprUlI4eWk1dEFqSGlSMi1KcktObmJ1RTRtdHpocnJzeDNvNnk2RURYRHkxS0FFdi1yQWFkWDVhMjFOb0Qwa0NhR2h0RUt3TzlNY29mNEU4SDVIdVpyZ0JYYVE?oc=5"
     },
     {
-      "id": "cb824c48034e51c6",
+      "id": "433de3a69a97540c",
       "matched_keywords": [
-        "internship",
-        "intern",
+        "hackathon",
         "quantum"
       ],
-      "published": "2026-10-30T12:30:53Z",
-      "query": "quantum internship",
-      "score": 6,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQY0MwbjNYdWlNOTFRNy1tT1BrYm5VNFpmRXJveWRiS05GNGwzWXBYcC0wUW94c2wtZExHNVlFUHhsUW1wMGpWYWRQb1hNaHFVOW9GNWFrLWZaSW1PS1puUWdJUXNjTnZhYUZPcVI2eFQ4SGNwTFA5VHJ1M1JJbjk0ZDI1U3pRNVJWMUVWYUtUR2xHdHdKT1B3Z2Y5RnhhUWdLQVVwYjZGa19ZOFM5dHIwOFFBMmVHMV9mOTA3YzM0X2M5M25wdlBteWk1aw?oc=5\" target=\"_blank\">Physicists reveal a quantum pathway to entropy-free energy transfer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">City University of Hong Kong</font>",
-      "title": "Physicists reveal a quantum pathway to entropy-free energy transfer - City University of Hong Kong",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY0MwbjNYdWlNOTFRNy1tT1BrYm5VNFpmRXJveWRiS05GNGwzWXBYcC0wUW94c2wtZExHNVlFUHhsUW1wMGpWYWRQb1hNaHFVOW9GNWFrLWZaSW1PS1puUWdJUXNjTnZhYUZPcVI2eFQ4SGNwTFA5VHJ1M1JJbjk0ZDI1U3pRNVJWMUVWYUtUR2xHdHdKT1B3Z2Y5RnhhUWdLQVVwYjZGa19ZOFM5dHIwOFFBMmVHMV9mOTA3YzM0X2M5M25wdlBteWk1aw?oc=5"
+      "published": "2026-10-20T15:22:52Z",
+      "query": "quantum hackathon",
+      "score": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTEQ4TmZzZlQwQlpqcGRieVZjd1RFU1EtSnFjbFl1NGMtQmh3ZHplQjhFdmpfLVE0Y2tpMkZwOGFEQkVTSzVlM2h6Q2Q3LWlLbTl5T0JvazJEZzJjZHk4Wnd3TUVuUUZZZm50cHJSTk11NE1yRW9GeGdFXzgwVDdwVC1EQUdGQTV5S3hwR3pNTjZxclY0SHR0cnpYczE5QQ?oc=5\" target=\"_blank\">From space to folk music: quantum hackathon explores diverse use cases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Physics World</font>",
+      "title": "From space to folk music: quantum hackathon explores diverse use cases - Physics World",
+      "type": "hackathons",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEQ4TmZzZlQwQlpqcGRieVZjd1RFU1EtSnFjbFl1NGMtQmh3ZHplQjhFdmpfLVE0Y2tpMkZwOGFEQkVTSzVlM2h6Q2Q3LWlLbTl5T0JvazJEZzJjZHk4Wnd3TUVuUUZZZm50cHJSTk11NE1yRW9GeGdFXzgwVDdwVC1EQUdGQTV5S3hwR3pNTjZxclY0SHR0cnpYczE5QQ?oc=5"
     },
     {
-      "id": "24f837ab9165cba6",
+      "id": "94f4705c2974cc76",
       "matched_keywords": [
-        "internship",
-        "intern",
+        "hackathon",
         "quantum"
       ],
-      "published": "2026-10-23T09:05:16Z",
-      "query": "quantum internship",
-      "score": 6,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5sRV85dU1GQ2Z6S3dxTTZfRjk5bWRtTWdzb2YwY3BfWTdBaHZyeGxsY3NTdExYa3VhRkRWRURtZzNnX2RaYnhRNkJrWGl0OF9DRlhUZ19CSS1ZS2xjcG02VHlwWTVkWkJCNnFwdldtR0psUQ?oc=5\" target=\"_blank\">CSU Prepares Students For Illinois Quantum Jobs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "CSU Prepares Students For Illinois Quantum Jobs - Quantum Zeitgeist",
+      "published": "2026-10-02T07:00:00Z",
+      "query": "quantum hackathon",
+      "score": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU2xsTWJJb0U3VS1VNGR4T3gySEFRZTFPalo3Skdxdk1Na2pYZ19sRFJHR2dacEY3QUpuS2Q2SnlpdDlfSWNOU2ZjcHg2TTNaN2JuYWxJeXA2d3lxSVVoZHdwOURYSVIxS3hlZXJoWmt4akFCTWtWazZ6N1haNXRhMy1MeVFBNTE1T0NzemJOaFVvZXQwNFk1N1d5Wkl2bjZFSHNBNkp4LUVwdkNWdkh3cHZ2QnJqZ2s5ZE1MSVlPN2NjYnM?oc=5\" target=\"_blank\">QEst Hack Invites Participants to Test Quantum Algorithms on Real Business Problems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Quantum Insider</font>",
+      "title": "QEst Hack Invites Participants to Test Quantum Algorithms on Real Business Problems - The Quantum Insider",
       "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sRV85dU1GQ2Z6S3dxTTZfRjk5bWRtTWdzb2YwY3BfWTdBaHZyeGxsY3NTdExYa3VhRkRWRURtZzNnX2RaYnhRNkJrWGl0OF9DRlhUZ19CSS1ZS2xjcG02VHlwWTVkWkJCNnFwdldtR0psUQ?oc=5"
-    },
-    {
-      "id": "179bd1db03ebe5d2",
-      "matched_keywords": [
-        "summer camp",
-        "quantum"
-      ],
-      "published": "2026-11-02T08:40:12Z",
-      "query": "quantum summer camp",
-      "score": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9QbTQ0MWNtVWVzQjlaTTNvaEdIS1FuY050cUpqeHBlaDM5U0M3MlZicWZFeGdhN21MQlRNV2o4R2U2R3lGY1NrN25uT3I1RW5uOVBQQW9uQTgzNFRYS2oxUW15d0kwUUZMRTBNS1lrVnFHQjZnQkE?oc=5\" target=\"_blank\">Quantum Biology Lab’s Math Camp Sparks STEM Interest In Young Students</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Quantum Biology Lab’s Math Camp Sparks STEM Interest In Young Students - Quantum Zeitgeist",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QbTQ0MWNtVWVzQjlaTTNvaEdIS1FuY050cUpqeHBlaDM5U0M3MlZicWZFeGdhN21MQlRNV2o4R2U2R3lGY1NrN25uT3I1RW5uOVBQQW9uQTgzNFRYS2oxUW15d0kwUUZMRTBNS1lrVnFHQjZnQkE?oc=5"
-    },
-    {
-      "id": "f7df333ca0b5ad14",
-      "matched_keywords": [
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-10-21T07:00:00Z",
-      "query": "quantum computing undergraduate research",
-      "score": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQmJUOGVsenViNk03TzYyZ2M4TkVwSG4wUjJ5VjVqYzFKWE9Pb09uSUk2cElBY3BQWHRLN2JlMDlIYmJQMm16bTc1ZTRST1Y0ZENhRVVFU1AycXBudlJtMmNNbk5hMlFILVJXMWpDX0Y3cVVhU0s1dXZCTnV6WWdma3Vkdzg5M05TYnNZZGdUZ1QyMXo3R1NLR245ck9NYWptMnBpSW84TWJReDhaYVhiRmR4cEc1eGdJM2hqRXlyWDJ6VWRQbG1mZ2lRM2ZyWFBwM2N6Yk9nbUFYamRkQWY4d0luUm9UMm0zeU9F?oc=5\" target=\"_blank\">TMU students present leading-edge SRC projects at 2026 Undergraduate Research Opportunities Showcase</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Toronto Metropolitan University (TMU)</font>",
-      "title": "TMU students present leading-edge SRC projects at 2026 Undergraduate Research Opportunities Showcase - Toronto Metropolitan University (TMU)",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQmJUOGVsenViNk03TzYyZ2M4TkVwSG4wUjJ5VjVqYzFKWE9Pb09uSUk2cElBY3BQWHRLN2JlMDlIYmJQMm16bTc1ZTRST1Y0ZENhRVVFU1AycXBudlJtMmNNbk5hMlFILVJXMWpDX0Y3cVVhU0s1dXZCTnV6WWdma3Vkdzg5M05TYnNZZGdUZ1QyMXo3R1NLR245ck9NYWptMnBpSW84TWJReDhaYVhiRmR4cEc1eGdJM2hqRXlyWDJ6VWRQbG1mZ2lRM2ZyWFBwM2N6Yk9nbUFYamRkQWY4d0luUm9UMm0zeU9F?oc=5"
-    },
-    {
-      "id": "a4d0a99ff97816c1",
-      "matched_keywords": [
-        "summer school",
-        "quantum"
-      ],
-      "published": "2026-10-20T11:13:38Z",
-      "query": "quantum summer school",
-      "score": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTBHOVRvcHJNaWZiTThhX0JVX0llU05UZTFvQ1k0V2NFZ1FNUDdwN2ptVjVmcW5TZk5SWS1qWG0zUEoyUUtib20zWURpTE11dkVLZmZmSXNfenhISTZSSnJTVnV6cW5nMUpSUXYxaGJnc2piYzJhd2llcThLM1pFVWFJOHRrY0k?oc=5\" target=\"_blank\">Quantum Education And Workforce At IEEE Quantum Week 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "Quantum Education And Workforce At IEEE Quantum Week 2026 - Quantum Zeitgeist",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTBHOVRvcHJNaWZiTThhX0JVX0llU05UZTFvQ1k0V2NFZ1FNUDdwN2ptVjVmcW5TZk5SWS1qWG0zUEoyUUtib20zWURpTE11dkVLZmZmSXNfenhISTZSSnJTVnV6cW5nMUpSUXYxaGJnc2piYzJhd2llcThLM1pFVWFJOHRrY0k?oc=5"
-    },
-    {
-      "id": "cb6d8fd836cb64a2",
-      "matched_keywords": [
-        "summer school",
-        "quantum"
-      ],
-      "published": "2026-10-13T07:00:00Z",
-      "query": "quantum summer school",
-      "score": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDRLcTdXVWhkUzljWmpwLXU3aWdqU3lZbXhTVEJkQzlONzBCSUUyMWJYRDZKSzlmZ1pLWTJiQzlXTERFRS1zcmlCbjU2QUtXVmFKYlVvSEFDZWs2Q1FWYUxuUklKbGtBLTlORXVNNmRvdHBpUjY0d09scjhUQld6MkdCNkJIRU9kVDlFZ2pWVWJ0VTItZ3c?oc=5\" target=\"_blank\">From quantum computers to earthquake detection: global experts explore future of optical communications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trinity College Dublin</font>",
-      "title": "From quantum computers to earthquake detection: global experts explore future of optical communications - Trinity College Dublin",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDRLcTdXVWhkUzljWmpwLXU3aWdqU3lZbXhTVEJkQzlONzBCSUUyMWJYRDZKSzlmZ1pLWTJiQzlXTERFRS1zcmlCbjU2QUtXVmFKYlVvSEFDZWs2Q1FWYUxuUklKbGtBLTlORXVNNmRvdHBpUjY0d09scjhUQld6MkdCNkJIRU9kVDlFZ2pWVWJ0VTItZ3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU2xsTWJJb0U3VS1VNGR4T3gySEFRZTFPalo3Skdxdk1Na2pYZ19sRFJHR2dacEY3QUpuS2Q2SnlpdDlfSWNOU2ZjcHg2TTNaN2JuYWxJeXA2d3lxSVVoZHdwOURYSVIxS3hlZXJoWmt4akFCTWtWazZ6N1haNXRhMy1MeVFBNTE1T0NzemJOaFVvZXQwNFk1N1d5Wkl2bjZFSHNBNkp4LUVwdkNWdkh3cHZ2QnJqZ2s5ZE1MSVlPN2NjYnM?oc=5"
     }
   ]
 }
