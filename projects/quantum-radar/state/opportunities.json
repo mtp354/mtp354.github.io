@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T13:33:51Z",
+  "generated_at": "2026-11-10T13:34:30Z",
   "items": [
     {
       "application_source": "Grants.gov",
@@ -7,12 +7,12 @@
       "eligibility": [
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Private institutions of higher education",
-        "Individuals",
         "Small businesses",
-        "Public and State controlled institutions of higher education",
-        "Independent school districts",
+        "Individuals",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "For profit organizations other than small businesses",
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
+        "Independent school districts",
+        "Public and State controlled institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "1a7530639af44b85",
@@ -242,6 +242,21 @@
       "url": "https://www.grants.gov/search-results-detail/364136"
     },
     {
+      "id": "182ee45d4caf21fe",
+      "matched_keywords": [
+        "fellowship",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-11-06T08:00:00Z",
+      "query": "quantum fellowship",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxObW43dHhTczJOeWNxamM2XzI4YUduU253QnFMQVcxQmhvenlGblZvYlVYT05yS25hRmFtenFqUndZa0lHQUU3T0VwX2w4OGhBczl0VnZVZlkwSFotNnpEZWZJRUFfZ2N4MTVJVjkzWDhPRkhBc1p0YWNMTm1aMEtJSjB4RTBKdmlqa2lqWjMzc1RPTWdTelM3NjhzeldJeG1NZkVnMUdveDU4WFM0c1JqOGRHTFZLU2JsMmc?oc=5\" target=\"_blank\">Google PhD Fellowship in Quantum Computing Awarded to Researcher at Freie Universität Berlin for the Third Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Freie Universität Berlin</font>",
+      "title": "Google PhD Fellowship in Quantum Computing Awarded to Researcher at Freie Universität Berlin for the Third Time - Freie Universität Berlin",
+      "type": "fellowships",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObW43dHhTczJOeWNxamM2XzI4YUduU253QnFMQVcxQmhvenlGblZvYlVYT05yS25hRmFtenFqUndZa0lHQUU3T0VwX2w4OGhBczl0VnZVZlkwSFotNnpEZWZJRUFfZ2N4MTVJVjkzWDhPRkhBc1p0YWNMTm1aMEtJSjB4RTBKdmlqa2lqWjMzc1RPTWdTelM3NjhzeldJeG1NZkVnMUdveDU4WFM0c1JqOGRHTFZLU2JsMmc?oc=5"
+    },
+    {
       "id": "ed333427142e24bb",
       "matched_keywords": [
         "hackathon",
@@ -285,6 +300,20 @@
       "title": "Quantum Computing Hackathon - Registration Open! - UPEI",
       "type": "hackathons",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDRoYlhCeVljS29PQk9USGJHc0Y1RUhxcjJvUUlhOGpsdjJOMEprUlI4eWk1dEFqSGlSMi1KcktObmJ1RTRtdHpocnJzeDNvNnk2RURYRHkxS0FFdi1yQWFkWDVhMjFOb0Qwa0NhR2h0RUt3TzlNY29mNEU4SDVIdVpyZ0JYYVE?oc=5"
+    },
+    {
+      "id": "cfe7e82625c90154",
+      "matched_keywords": [
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-11-05T18:05:27Z",
+      "query": "quantum computing undergraduate research",
+      "score": 5,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQdU14MFdwZ1cxRzlHdDFNLUl1SXZkYlZZMlVuTUxHSzRlS3hBcmtyZ2VRWnNwRGVBRVlPYjI5VWx5QTlRVkk3bmpXYmRxVVMtZnhtLUo0RHZ5ZDlyR0NueUthT0ZsWC0wbTM0YVVaRmpvT0d2SF96VEp4NlJkSFRGMVF3NFVKcm1xNVZkMnpR?oc=5\" target=\"_blank\">A Northwestern Concentration Puts Quantum Computing On The Transcript</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "A Northwestern Concentration Puts Quantum Computing On The Transcript - Quantum Zeitgeist",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdU14MFdwZ1cxRzlHdDFNLUl1SXZkYlZZMlVuTUxHSzRlS3hBcmtyZ2VRWnNwRGVBRVlPYjI5VWx5QTlRVkk3bmpXYmRxVVMtZnhtLUo0RHZ5ZDlyR0NueUthT0ZsWC0wbTM0YVVaRmpvT0d2SF96VEp4NlJkSFRGMVF3NFVKcm1xNVZkMnpR?oc=5"
     },
     {
       "id": "433de3a69a97540c",

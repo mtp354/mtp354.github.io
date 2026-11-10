@@ -1,6 +1,26 @@
 {
-  "generated_at": "2026-11-07T13:33:51Z",
+  "generated_at": "2026-11-10T13:34:30Z",
   "items": [
+    {
+      "amounts": [
+        {
+          "amount": 100000000,
+          "currency": "USD",
+          "display": "$100M"
+        }
+      ],
+      "id": "80bbff2ee1c89992",
+      "published": "2026-11-10T13:12:18Z",
+      "title": "D-Wave Secures Up To $100M From US Chips Act For Quantum Build - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zQ0J2bTdMNzg0dEhhT1RHSHBhbGVxMkF5YVR3UmNyU2IzUVNIZFFSRVFUN0xDOTYtVjFJNkZheDNRVjhaUElEUzQzaENheVhyVXVWTmRUbzNiU1JNeHJNeVY0a1JuWXUyZ2RJ?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "dc2629818e8f71ce",
+      "published": "2026-11-09T16:44:29Z",
+      "title": "HAIQ Consortium Awarded 7.5 Million Euro Grant For Quantum Research - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeWZINVRtTXBZZkhJaXN1UDJDa0J1blZhQ2dTeHJoY1RRZXdZNzI1Q0UyT1QzVlZGV3RFQW5fdG04QUxWbk5OOUxMUDdBeFRORXVhY1FfY3B3SnplRHRreThlMmItbVk0WHFvQll3MmpIVmc2bWR4VHBFNEx0Zm51T1JPTE5Gdw?oc=5"
+    },
     {
       "amounts": [
         {
@@ -6680,6 +6700,19 @@
       "published": "2021-09-02T07:00:00Z",
       "title": "MSU awarded $20M grant for quantum technology development - Montana State University",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMW1LcDZPWDJWVlc2MGxGQlA4UW5KUndlbHBVVEkyZHhNa3FqZ1d1R2xjLW5vX1ZTbjNLS0ZzQW5NcFNlRVlwZVMtbmZWMlJNR3NDeU9LZ3V5VFNuRGNvXzRnaWRCUElCN1N6RXcwNzBTZlU4eWZjUFFxYXpaX2k2MWJRY0YwbjlNSmZLRGlUMEFZN3FEZlE?oc=5"
+    },
+    {
+      "amounts": [
+        {
+          "amount": 5400000,
+          "currency": "USD",
+          "display": "$5.4M"
+        }
+      ],
+      "id": "c09946a3122ce8b6",
+      "published": "2021-08-16T07:00:00Z",
+      "title": "Researchers receive $5.4M to advance quantum science - Cornell Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMFZRX2RkZ2Vma0VJXzN6NkwyQmVkVkQ4NTl6cV9QdExkeFRVZkxRVlp6RkxpMlV2OGFvWWRtTkhSc2NnQzhfYVdEakNVUGJVVzZQbXcyd2x6bTd0S0ViZUtOdlVFTUFaeHBXUHpGU3BycElIOVRjUnVQTnNBdnBGMFYxa05MTUV2bkhpQ3BoNVRoZw?oc=5"
     },
     {
       "amounts": [
