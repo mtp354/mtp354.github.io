@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-10T13:34:30Z",
+  "generated_at": "2026-11-13T13:34:48Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education",
-        "Small businesses",
-        "Individuals",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Small businesses",
+        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education",
+        "Individuals",
         "Independent school districts",
-        "Public and State controlled institutions of higher education"
+        "For profit organizations other than small businesses"
       ],
       "grant_disposition": "actionable",
       "id": "1a7530639af44b85",
@@ -41,8 +41,8 @@
       "application_source": "Grants.gov",
       "deadline": "2027-02-19",
       "eligibility": [
-        "Private institutions of higher education",
-        "Public and State controlled institutions of higher education"
+        "Public and State controlled institutions of higher education",
+        "Private institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "6e9991a9c7c3a870",
@@ -67,13 +67,13 @@
     },
     {
       "application_source": "Grants.gov",
-      "deadline": "2026-12-04",
+      "deadline": "2026-12-11",
       "eligibility": [
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Public and State controlled institutions of higher education",
+        "Private institutions of higher education",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses",
-        "Private institutions of higher education"
+        "For profit organizations other than small businesses"
       ],
       "grant_disposition": "actionable",
       "id": "c1c2bc0b077c471d",
@@ -91,7 +91,7 @@
       "published": "",
       "query": "quantum information science",
       "score": 14,
-      "summary": "<p>This is a special Notice of Funding Opportunity Announcement (NOFO) sponsored by the Air Force Office of Scientific Research (AFOSR), which will hereafter generally be referred to as “we”, “us”, “our”, or “AFOSR.” The Fiscal Year 2027 Air Force Young Investigator Research Program (YIP) intends to support individual early career scientists and engineers who have received their Ph.D. or equivalent degrees by 01 April 2019 or later showing exceptional ability and promise for conducting basic research. The program objective is to foster creative basic research in science and engineering; enhance early career development of outstanding young investigators; and increase opportunities for the young investigators to recognize the Air Force and Space Force mission and related challenges in science and engineering.</p>\n<p>Individual awards are made to U.S. institutions of higher education, industrial laboratories, for- profit, or non-profit research organizations where the principal investigator (PI) is employed on a full-time basis and holds a regular, non-contractor position. A YIP PI must be a U.S. citizen, national, or permanent resident. Researchers working at a Federally Funded Research and Development Center (FFRDC), or a Department of War (DoW) Laboratory are not eligible for this competition.</p>\n<p>YIP awards are funded up to $150,000 per year for three years, for a total of $450,000. No single year may exceed $150,000. Please review the remainder of this announcement for additional information.</p>\n<p>Under this competition, an anticipated thirty-seven (37) traditionally funded YIPs and three (3) YIPs funded in partnership with the Laboratory for Physical Sciences (LPS) in the Quantum Information Sciences research discipline may be awarded. There may be potential for an additional 37 YIPs funded from other AFOSR research funding.&nbsp;All actions are based on the availability of funds.</p>\n<p>Proposers are encouraged to confer with the designated AFOSR Program Officer(s) prior to submitting a full proposal. We will evaluate proposals using an internal review panel. AFOSR reserves the right to select and fund all, some, or none of the proposals from any of the topics below. AFOSR provides no funding for direct reimbursement of proposal development costs. Technical and budget proposals (or any other material) submitted in response to this NOFO will not be returned. It is the policy of AFOSR to treat all white papers and proposals submitted under this NOFO as sensitive competitive information and to disclose their contents only for the purposes of evaluation.</p>\n<p><strong>White papers briefly summarizing the proposed institution’s ideas are required</strong>. Submit white papers to our whitepaper portal, which is linked below. The topic points of contact (POCs) will coordinate to provide feedback on the white papers.</p>\n<p>The proposals will need to include a data management plan, outlining how samples and data collected in the program will be stored and managed. This includes but is not restricted to issues such as standards for data and metadata collection, content and format, data archiving, database management, and data sharing within, outside the awardee and beyond the lifetime of the grant. This precondition is modeled on the National Science Foundation Data Management Plan requirement (e.g., https://www.nsf.gov/eng/data-management-plans).</p>\n<p>IMPORTANT NOTE: Applicants should be alert for any amendments that may modify the announcement. Amendments to the original Notice of Funding Opportunity (NOFO) will be posted to the Grants.gov Webpage: https://www.grants.gov/.</p>\n<p>IMPORTANT DATES: Pre-proposal inquiries and questions, regarding white papers and the submission of those white papers, must be received in writing by electronic mail to the address(es) of this NOFO not later than <strong>17 September 2026</strong> at 11:59 PM Eastern Time to be considered. The Government will respond to any pre-proposal inquiries or questions via public posting, or individual responses, no later than COB on <strong>24 September 2026.</strong></p>\n<p>Whitepapers must be received by <strong>09 October 2026</strong> at 11:59 PM Eastern Time via submission to <a href=\"https://afosr.gov1.qualtrics.com/jfe/form/SV_eKuTqm9qezoDYep\" target=\"_blank\">https://afosr.gov1.qualtrics.com/jfe/form/SV_eKuTqm9qezoDYep</a> to be considered. White paper evaluation is meant to initially assess the capability of a proposed effort. White papers must be no more than five (5) pages in length. References and CV/bios will not count against the page limit. Please review this announcement in its entirety prior to submitting a white paper.</p>\n<p>The government will respond to the white paper determination before COB on <strong>06 November 2026</strong>.</p>\n<p>Proposals must be received electronically through Grants.gov by <strong>04 December 2026 </strong>at 11:59 PM Eastern Time to be considered.</p>\n<p>We anticipate that we will notify proposers of selection or non-selection for award no later than <strong>26 April 2027</strong>. We anticipate awards to be made by <strong>01 May 2027</strong>, barring delays.&nbsp;</p>\n<p><br></p>",
+      "summary": "<p>This is a special Notice of Funding Opportunity Announcement (NOFO) sponsored by the Air Force Office of Scientific Research (AFOSR), which will hereafter generally be referred to as “we”, “us”, “our”, or “AFOSR.” The Fiscal Year 2027 Air Force Young Investigator Research Program (YIP) intends to support individual early career scientists and engineers who have received their Ph.D. or equivalent degrees by 01 April 2019 or later showing exceptional ability and promise for conducting basic research. The program objective is to foster creative basic research in science and engineering; enhance early career development of outstanding young investigators; and increase opportunities for the young investigators to recognize the Air Force and Space Force mission and related challenges in science and engineering.</p>\n<p>Individual awards are made to U.S. institutions of higher education, industrial laboratories, for- profit, or non-profit research organizations where the principal investigator (PI) is employed on a full-time basis and holds a regular, non-contractor position. A YIP PI must be a U.S. citizen, national, or permanent resident. Researchers working at a Federally Funded Research and Development Center (FFRDC), or a Department of War (DoW) Laboratory are not eligible for this competition.</p>\n<p>YIP awards are funded up to $150,000 per year for three years, for a total of $450,000. No single year may exceed $150,000. Please review the remainder of this announcement for additional information.</p>\n<p>Under this competition, an anticipated thirty-seven (37) traditionally funded YIPs and three (3) YIPs funded in partnership with the Laboratory for Physical Sciences (LPS) in the Quantum Information Sciences research discipline may be awarded. There may be potential for an additional 37 YIPs funded from other AFOSR research funding.&nbsp;All actions are based on the availability of funds.</p>\n<p>Proposers are encouraged to confer with the designated AFOSR Program Officer(s) prior to submitting a full proposal. We will evaluate proposals using an internal review panel. AFOSR reserves the right to select and fund all, some, or none of the proposals from any of the topics below. AFOSR provides no funding for direct reimbursement of proposal development costs. Technical and budget proposals (or any other material) submitted in response to this NOFO will not be returned. It is the policy of AFOSR to treat all white papers and proposals submitted under this NOFO as sensitive competitive information and to disclose their contents only for the purposes of evaluation.</p>\n<p><strong>White papers briefly summarizing the proposed institution’s ideas are required</strong>. Submit white papers to our whitepaper portal, which is linked below. The topic points of contact (POCs) will coordinate to provide feedback on the white papers.</p>\n<p>The proposals will need to include a data management plan, outlining how samples and data collected in the program will be stored and managed. This includes but is not restricted to issues such as standards for data and metadata collection, content and format, data archiving, database management, and data sharing within, outside the awardee and beyond the lifetime of the grant. This precondition is modeled on the National Science Foundation Data Management Plan requirement (e.g., https://www.nsf.gov/eng/data-management-plans).</p>\n<p>IMPORTANT NOTE: Applicants should be alert for any amendments that may modify the announcement. Amendments to the original Notice of Funding Opportunity (NOFO) will be posted to the Grants.gov Webpage: https://www.grants.gov/.</p>\n<p>IMPORTANT DATES: Pre-proposal inquiries and questions, regarding white papers and the submission of those white papers, must be received in writing by electronic mail to the address(es) of this NOFO not later than <strong>17 September 2026</strong> at 11:59 PM Eastern Time to be considered. The Government will respond to any pre-proposal inquiries or questions via public posting, or individual responses, no later than COB on <strong>24 September 2026.</strong></p>\n<p>Whitepapers must be received by <strong>09 October 2026</strong> at 11:59 PM Eastern Time via submission to <a href=\"https://afosr.gov1.qualtrics.com/jfe/form/SV_eKuTqm9qezoDYep\" target=\"_blank\">https://afosr.gov1.qualtrics.com/jfe/form/SV_eKuTqm9qezoDYep</a> to be considered. White paper evaluation is meant to initially assess the capability of a proposed effort. White papers must be no more than five (5) pages in length. References and CV/bios will not count against the page limit. Please review this announcement in its entirety prior to submitting a white paper.</p>\n<p>The government will respond to the white paper determination before COB on <strong>06 November 2026</strong>.</p>\n<p>Proposals must be received electronically through Grants.gov by <strong>11 December 2026 </strong>at 11:59 PM Eastern Time to be considered.</p>\n<p>We anticipate that we will notify proposers of selection or non-selection for award no later than <strong>26 April 2027</strong>. We anticipate awards to be made by <strong>01 May 2027</strong>, barring delays.&nbsp;</p>\n<p><br></p>",
       "title": "Air Force Fiscal Year 2027 Young Investigator Program (YIP)",
       "type": "grants",
       "url": "https://www.grants.gov/search-results-detail/363829"
@@ -242,19 +242,19 @@
       "url": "https://www.grants.gov/search-results-detail/364136"
     },
     {
-      "id": "182ee45d4caf21fe",
+      "id": "f6697997dedc2b42",
       "matched_keywords": [
-        "fellowship",
+        "hackathon",
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-11-06T08:00:00Z",
-      "query": "quantum fellowship",
+      "published": "2026-11-10T22:19:46Z",
+      "query": "quantum hackathon",
       "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxObW43dHhTczJOeWNxamM2XzI4YUduU253QnFMQVcxQmhvenlGblZvYlVYT05yS25hRmFtenFqUndZa0lHQUU3T0VwX2w4OGhBczl0VnZVZlkwSFotNnpEZWZJRUFfZ2N4MTVJVjkzWDhPRkhBc1p0YWNMTm1aMEtJSjB4RTBKdmlqa2lqWjMzc1RPTWdTelM3NjhzeldJeG1NZkVnMUdveDU4WFM0c1JqOGRHTFZLU2JsMmc?oc=5\" target=\"_blank\">Google PhD Fellowship in Quantum Computing Awarded to Researcher at Freie Universität Berlin for the Third Time</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Freie Universität Berlin</font>",
-      "title": "Google PhD Fellowship in Quantum Computing Awarded to Researcher at Freie Universität Berlin for the Third Time - Freie Universität Berlin",
-      "type": "fellowships",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObW43dHhTczJOeWNxamM2XzI4YUduU253QnFMQVcxQmhvenlGblZvYlVYT05yS25hRmFtenFqUndZa0lHQUU3T0VwX2w4OGhBczl0VnZVZlkwSFotNnpEZWZJRUFfZ2N4MTVJVjkzWDhPRkhBc1p0YWNMTm1aMEtJSjB4RTBKdmlqa2lqWjMzc1RPTWdTelM3NjhzeldJeG1NZkVnMUdveDU4WFM0c1JqOGRHTFZLU2JsMmc?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1JYRVhxNUhrWXJvRWljOFdJMUVCSE9sZjFBZkFWZEUyRW5JQXF4UkhzVEg2MGhldEFOTjRpU2Y1LTVlTEpKbU92ejU2b0dtVGtmYmd3dFVod0U5Z3UtcktPd2lEWFhzTGcyMmRUTDd3eV9ob1pvaGJtbXp5bG1TVGdYVWxEQTE0UkJ0Q2VPajlDUmpyZGVjdkxlWllWWUpH?oc=5\" target=\"_blank\">UCF Doctoral Student Wins 2nd Place in Global Quantum Computing Hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Central Florida</font>",
+      "title": "UCF Doctoral Student Wins 2nd Place in Global Quantum Computing Hackathon - University of Central Florida",
+      "type": "hackathons",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1JYRVhxNUhrWXJvRWljOFdJMUVCSE9sZjFBZkFWZEUyRW5JQXF4UkhzVEg2MGhldEFOTjRpU2Y1LTVlTEpKbU92ejU2b0dtVGtmYmd3dFVod0U5Z3UtcktPd2lEWFhzTGcyMmRUTDd3eV9ob1pvaGJtbXp5bG1TVGdYVWxEQTE0UkJ0Q2VPajlDUmpyZGVjdkxlWllWWUpH?oc=5"
     },
     {
       "id": "ed333427142e24bb",
@@ -278,7 +278,7 @@
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-11-03T10:51:07Z",
+      "published": "2026-11-03T08:00:00Z",
       "query": "quantum fellowship",
       "score": 7,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDRucEZvWjNuYkhRdUswZ0RCazBacnlVTlpNc1o1VElTdmhpeUNtRUpFS2dYV3M3SGJkWXVycVpNTmxISzc5dXdPM3VYMmRhQjQyQVBHaXl6dUd0RkVwWnB3T2ZKcHAyT0dPYl9Sa25MaFFWcFRDU1RHTGJLVEd5cGJNbTFiQQ?oc=5\" target=\"_blank\">Google Awards A Third Quantum Computing PhD Fellowship To Berlin Researcher</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
@@ -302,18 +302,32 @@
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDRoYlhCeVljS29PQk9USGJHc0Y1RUhxcjJvUUlhOGpsdjJOMEprUlI4eWk1dEFqSGlSMi1KcktObmJ1RTRtdHpocnJzeDNvNnk2RURYRHkxS0FFdi1yQWFkWDVhMjFOb0Qwa0NhR2h0RUt3TzlNY29mNEU4SDVIdVpyZ0JYYVE?oc=5"
     },
     {
-      "id": "cfe7e82625c90154",
+      "id": "3f339265d7aada66",
       "matched_keywords": [
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-11-05T18:05:27Z",
+      "published": "2026-11-10T23:03:45Z",
       "query": "quantum computing undergraduate research",
       "score": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQdU14MFdwZ1cxRzlHdDFNLUl1SXZkYlZZMlVuTUxHSzRlS3hBcmtyZ2VRWnNwRGVBRVlPYjI5VWx5QTlRVkk3bmpXYmRxVVMtZnhtLUo0RHZ5ZDlyR0NueUthT0ZsWC0wbTM0YVVaRmpvT0d2SF96VEp4NlJkSFRGMVF3NFVKcm1xNVZkMnpR?oc=5\" target=\"_blank\">A Northwestern Concentration Puts Quantum Computing On The Transcript</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "A Northwestern Concentration Puts Quantum Computing On The Transcript - Quantum Zeitgeist",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlpieS1zSHZaemNLSnhudXNaQWdmMDg4TUtzN0E3LWV4LWpWMU9CcTU2Y1JPblJDWnNSOWVkRUJrZF8wcm5id2ZfekIwXzVINUNWaHRkMk5wdDdJNWNZOGs4T3hKeEVPMXVqb2cybFZiQTFXWmk0TERMcXlHWXI4azBIS2R5Znk4b3c?oc=5\" target=\"_blank\">University Of Waterloo Summer Research Links Quantum Effects To Neurons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "University Of Waterloo Summer Research Links Quantum Effects To Neurons - Quantum Zeitgeist",
       "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdU14MFdwZ1cxRzlHdDFNLUl1SXZkYlZZMlVuTUxHSzRlS3hBcmtyZ2VRWnNwRGVBRVlPYjI5VWx5QTlRVkk3bmpXYmRxVVMtZnhtLUo0RHZ5ZDlyR0NueUthT0ZsWC0wbTM0YVVaRmpvT0d2SF96VEp4NlJkSFRGMVF3NFVKcm1xNVZkMnpR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlpieS1zSHZaemNLSnhudXNaQWdmMDg4TUtzN0E3LWV4LWpWMU9CcTU2Y1JPblJDWnNSOWVkRUJrZF8wcm5id2ZfekIwXzVINUNWaHRkMk5wdDdJNWNZOGs4T3hKeEVPMXVqb2cybFZiQTFXWmk0TERMcXlHWXI4azBIS2R5Znk4b3c?oc=5"
+    },
+    {
+      "id": "51cec2152d6edc26",
+      "matched_keywords": [
+        "hackathon",
+        "quantum"
+      ],
+      "published": "2026-11-11T22:28:09Z",
+      "query": "quantum hackathon",
+      "score": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPYk1sS1huazFzS1pxQ2E2ZE4wajRKUVY0NGxqWlppRUtnVGdiSHR2Ry00TjBCbmhNNi13cmNETU9HRXhTYThESDJxREtyZ3FNRUwtYU5pTEJmOHJzTWtWU3liTkdyeVlmek95di1zS1NMc0k5aEs3djF1ajk5S29QaQ?oc=5\" target=\"_blank\">QML Conference in Iași Tackles ‘Barren Plateaus’ Problem</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "QML Conference in Iași Tackles ‘Barren Plateaus’ Problem - Quantum Zeitgeist",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYk1sS1huazFzS1pxQ2E2ZE4wajRKUVY0NGxqWlppRUtnVGdiSHR2Ry00TjBCbmhNNi13cmNETU9HRXhTYThESDJxREtyZ3FNRUwtYU5pTEJmOHJzTWtWU3liTkdyeVlmek95di1zS1NMc0k5aEs3djF1ajk5S29QaQ?oc=5"
     },
     {
       "id": "433de3a69a97540c",
