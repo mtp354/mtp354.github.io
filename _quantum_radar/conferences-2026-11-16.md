@@ -1,0 +1,36 @@
+---
+title: "Conferences — 2026-11-16"
+date: 2026-11-16
+report_type: conferences
+excerpt: "Upcoming quantum-adjacent academic conferences, industry conferences, and summits."
+tags:
+  - conferences
+  - quantum-radar
+---
+
+_Generated: 2026-11-16 UTC._
+
+## Academic conferences
+
+| Conference | Organizer | Dates | Location | Link | Notes |
+|---|---|---|---|---|---|
+| Quantum Information Processing (QIP) | QIP Steering Committee | 2027-02-20 to 2027-02-26 | Kent Ridge campus, Singapore | [details](https://qipconference.org/) | Flagship theoretical quantum information and computation conference. |
+| APS Global Physics Summit | American Physical Society | 2027-04-11 to 2027-04-16 | Atlanta, GA, USA / online | [details](https://summit.aps.org/) | Broad physics meeting with major AMO and quantum-information programs. |
+| Optica Quantum 2.0 Conference and Exhibition | Optica | 2027-06-06 to 2027-06-10 | Copenhagen, Denmark | [details](https://www.optica.org/events/topical_meetings/quantum/) | Research across quantum computing, communication, sensing, devices, and metrology. |
+| Quantum Computing Inc. To Attend Lake Street Capital Markets 10th Annual Best Ideas Growth (Big10) Conference - PR Newswire | — | TBA | — | [details](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNNklWLWtZSnRvZHlIVVJ5SVFCOC15VXg3NjcwRlF1ZEgyWDU2X2k2V0VwY19wX205UTFfVzhhc29ZckEtUnBoSG80cXhjeWNpZmc2LWdqYmxSanBWenFIOVpEVVRTZnExUWNkd04wUGtxdXJna1N3QWlTYWJ4OTl2S01GcGk1Y21ST0x4YndsQTZpRm8yai1GT0xtNFNvUXVXYWR0cml1dDhyUXotVEI1b0Z4V1dEM3pxbVBvOGJOclJBOG9ERWFUV1llMWVxcHhuODlDS2xRTmxRQlVFbW1ad2NWV3VGdXdSamwwV2tnekM3dzFq?oc=5) | Newly announced or indexed; verify dates on the linked page. |
+| RESCEU Symposium Will Cover Quantum Cosmology And String Theory - Quantum Zeitgeist | — | TBA | — | [details](https://news.google.com/rss/articles/CBMigwFBVV95cUxNOF9hdTVSOFR2LWJfT1U2ZzZHaXA5WDl1SER2VTZzcVR5WlVKWkdVR25JLWZlUzFRX1ZXQ2hrRzd3bDhIUTNBd0JoaUQ3eWxrMkRJdG84U3g1cGFxbXNEV0ZzelpNczNZaTVpc0ZNdVlTeDF6UTNGTGhabmdVSEs5emd1SQ?oc=5) | Newly announced or indexed; verify dates on the linked page. |
+| STIAS And SU Host Symposium On Quantum Computing With Nobel Laureate - Quantum Zeitgeist | — | TBA | — | [details](https://news.google.com/rss/articles/CBMie0FVX3lxTE5IT1plSkJYbHZQOVRYVmJFS2tDeV91MzExUnpZXzhfeXJFNjFwc0hhckwxTFdlSW1nY3VuTVVkUWV4ZFIwY0Y1U1R5eHBxR05KUEstTkFnRGxPQWw1OXU3RW1ZSHMwMmFuc2UtRGhNQkhkOVoxZ1E1d2xhZw?oc=5) | Newly announced or indexed; verify dates on the linked page. |
+
+## Industry conferences and summits
+
+| Conference | Organizer | Dates | Location | Link | Notes |
+|---|---|---|---|---|---|
+| Q2B Chicago | QC Ware | 2026-12-08 to 2026-12-10 | Chicago, IL, USA | [details](https://q2b.qcware.com/) | Commercial quantum computing and applications conference series. |
+| Bengaluru Tech Summit 2026 to open on Nov 17 with a focus on AI, deeptech, and robotics - The News Minute | — | TBA | — | [details](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWXgwTVBfcWpMY0JOMzdSZ0RBTndDNlhROTh1bk5uWk9DWTZ6dkp3TDVqV2pTaTFNSFZnaGgxd01EMWZEczRXNU55NlpWVWlWbjQwaktYMHpoZzRKdkNJUlNESWNqYlRWVjM2MmxoVVVGbHBzdkh6VWtFVHhEYzdGV0c1UmlwMjdSbVlPN05DcTN2VFFyZEZMdHppOVlOaFVKMThnNE1ueVZFZ0JneGZtUFlHMW5RMDhmWkZwTng5anVKZms?oc=5) | Newly announced or indexed; verify dates on the linked page. |
+| Inside Quantum Technology (IQT) | Inside Quantum Technology | TBA | — | [details](https://iqtevent.com/) | Regional quantum business, policy, cybersecurity, and technology events. |
+| Leaders of Quantum Revolution To Converge at Summit - The University of Texas at Dallas | — | TBA | — | [details](https://news.google.com/rss/articles/CBMie0FVX3lxTE9qTmdja3VLY1FOSGdOUHVUaGZKeVItbWR4ZFVmaHp3UnBwd2k1NWFOWG52eWpycXBkUnFPbzFGNEROSTRIdU9KbTlFQWlHT1kzNzZYX1Y4X1hfMzAzVVRCaGNEaG1jZFZwWGtkNWVlS1RLRU9wRU9CM0VnMA?oc=5) | Newly announced or indexed; verify dates on the linked page. |
+| Quantum Summit In Dubai Will Focus On Tech Sovereignty - Quantum Zeitgeist | — | TBA | — | [details](https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ic3BTbTVtTk5LVUoyeUlDV1BwVDlSY1kzQ1c4Z2d1Z3BnbmRfVDNmbUJVejM1SEFyZVE5N3pGYWVKWkdjSXVXYms0NmMxUFVGRWYzR0Z2NmVjaUd6WkVHV3lkdGd6M3dJeERhMjFOdHU0T2lnajh5SEhMVVI?oc=5) | Newly announced or indexed; verify dates on the linked page. |
+| Room-temperature Quantum Tech Firm QCi To Present At Summit - Quantum Zeitgeist | — | TBA | — | [details](https://news.google.com/rss/articles/CBMid0FVX3lxTFAxTzZ1eUYtVXYzZndqUlFKYTRPbFdUNXQ3N3M2czcxSW80T1d4aW1xdERyVlZkYW1paDhkSDVSSE85bWhBQkFZbmdJMmFrY0FvRnV1VGNqOUxrckJYUGNPZUllMkNWV3U0eFlyWkdDX21EdFFGR0ZZ?oc=5) | Newly announced or indexed; verify dates on the linked page. |
+| Texas Quantum Summit to Bring Industry, Government and Academic Leaders Together at UT Dallas - The Quantum Insider | — | TBA | — | [details](https://news.google.com/rss/articles/CBMizwFBVV95cUxNZTY4U3k0UFVrMm9qbHFpbW5UY0prSENHQTlLby1DbGtfYUdsNzhuWFNDbktXNVdFN3ZHV0RPNWF6QjBUbHFWMTVYbWpJeUFLbGc2eDV3ck93MEF2QVVBUC1lRXlaNGhRVTN6Mzk4c2ZNd29BNnJyalVEZno3NS1sLXZwMmhqNzlqd1V4Sy1RN2lxU1UwNHZMYm9ROE9UNzhTajh0N2NqdHRuTlU3N0Q5ZW1nUlltdVlzLWNNVDNQMVphLWNHUnRZSEtpb0ZNOU0?oc=5) | Newly announced or indexed; verify dates on the linked page. |
+| The City Quantum & AI Summit to Examine How Industries Can Work Together as Quantum Computing and AI Advance - The Quantum Insider | — | TBA | — | [details](https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeUZvMHkzOXFIYlQ0N25NNFFfdHBuUnJoOVRtQ3d6ZDJsWXhsVWR4TFFWb2dnR2xNSmtrcEFHOThLZWdVWTNxbzNoWVRKYkVtdFlSR04xUnI2WWxfZDdqTU1NOUxHTnZJYUhyaXpQNzhEWHJ0WFJSZzFkSU9MdWhQS3gtU1hPYnRYaDRsVWhieDljYkVWOVBabWtDUmIyS2R5QVp3S2RWcHVHWU1rSW5lNWJybE1uUXJTOHRjOExTWUlXNHo4RWtrWUlXVlZrV2tZeFVSOURJQlZIakZES2lBMHNR?oc=5) | Newly announced or indexed; verify dates on the linked page. |
+| UT Dallas hosting ‘quantum summit.' Here’s what to know - Dallas News | — | TBA | — | [details](https://news.google.com/rss/articles/CBMigwFBVV95cUxOSHkzbEpYMjVBMlpFR1dFSkdDWktITmlKeUNEUHY2Rkt1MjBMQ1ZZclBuekwyeDVycF9MTU5vNTAtZGxEYUFlYldfeDR3dXdHU1NDSDF6TDBFc0xGSmUtQ0ZSeDNkOUtxMkdOUk9iMTUtMDJrdmxxTENpMDJ4b1BhM2thNA?oc=5) | Newly announced or indexed; verify dates on the linked page. |

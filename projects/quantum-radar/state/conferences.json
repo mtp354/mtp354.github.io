@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-13T12:51:09Z",
+  "generated_at": "2026-11-16T13:03:19Z",
   "items": [
     {
       "category": "academic",
       "end_date": "2027-02-26",
       "id": "5bf3953c935a72f3",
-      "location": "Singapore",
+      "location": "Kent Ridge campus, Singapore",
       "name": "Quantum Information Processing (QIP)",
       "notes": "Flagship theoretical quantum information and computation conference.",
       "organizer": "QIP Steering Committee",
@@ -17,7 +17,7 @@
       "category": "academic",
       "end_date": "2026-09-04",
       "id": "0841701879ec0cc5",
-      "location": "Sherbrooke, QC, Canada",
+      "location": "2685 Rue King Ouest, Sherbrooke, QC J1L 1C1, Canada",
       "name": "Theory of Quantum Computation, Communication and Cryptography (TQC)",
       "notes": "Research conference spanning quantum computation, communication, and cryptography.",
       "organizer": "TQC",
@@ -135,15 +135,15 @@
     {
       "category": "industry",
       "end_date": "",
-      "id": "ea19c8a016a76192",
+      "id": "5f593baa9b830fd9",
       "location": "",
-      "name": "Gulf Business readies for landmark UAE–India summit - Gulf Business",
+      "name": "Bengaluru Tech Summit 2026 to open on Nov 17 with a focus on AI, deeptech, and robotics - The News Minute",
       "notes": "Newly announced or indexed; verify dates on the linked page.",
       "organizer": "",
-      "published": "2026-11-11T13:47:23Z",
+      "published": "2026-11-16T11:01:00Z",
       "source": "discovery",
       "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSm16bEptWDZNOXpvS256b0hRblJyeEJ0LThYWFNjRnpzV1RMQnVFbnhrVnFoYV93d1VTcENTWFFvc2NPMjhNUTZReTBKMmItYkF3VmQ1TmZBRzh4Vndfcjc0Znc2ak5fR2NzcWs3eW00aFVqUjlsMzdqWVVCT2pnc3JYSFpUUnYzNDFUS1Zua0l2V0U?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWXgwTVBfcWpMY0JOMzdSZ0RBTndDNlhROTh1bk5uWk9DWTZ6dkp3TDVqV2pTaTFNSFZnaGgxd01EMWZEczRXNU55NlpWVWlWbjQwaktYMHpoZzRKdkNJUlNESWNqYlRWVjM2MmxoVVVGbHBzdkh6VWtFVHhEYzdGV0c1UmlwMjdSbVlPN05DcTN2VFFyZEZMdHppOVlOaFVKMThnNE1ueVZFZ0JneGZtUFlHMW5RMDhmWkZwTng5anVKZms?oc=5"
     },
     {
       "category": "academic",
@@ -157,19 +157,6 @@
       "source": "discovery",
       "start_date": "",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5IT1plSkJYbHZQOVRYVmJFS2tDeV91MzExUnpZXzhfeXJFNjFwc0hhckwxTFdlSW1nY3VuTVVkUWV4ZFIwY0Y1U1R5eHBxR05KUEstTkFnRGxPQWw1OXU3RW1ZSHMwMmFuc2UtRGhNQkhkOVoxZ1E1d2xhZw?oc=5"
-    },
-    {
-      "category": "industry",
-      "end_date": "",
-      "id": "dbdfe0407aae760a",
-      "location": "",
-      "name": "UAE Cyber Security Council Hosted A Global Quantum Innovation Summit - Quantum Zeitgeist",
-      "notes": "Newly announced or indexed; verify dates on the linked page.",
-      "organizer": "",
-      "published": "2026-10-13T07:00:00Z",
-      "source": "discovery",
-      "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aYnFwbmlKUGRoZ0JFYWVFYnA2X3dXNWVUQUk0aFBLQlhyRXNHeVJwTmpubDEwS2lST01PWVhXM1FtQnZMMFh5T082dFhzWnBuOFQ4alNqeDc2SWtZeFVjVjRTUHR0WU9oOWRvZ3JKcVM?oc=5"
     },
     {
       "category": "industry",
@@ -196,32 +183,6 @@
       "source": "discovery",
       "start_date": "",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOF9hdTVSOFR2LWJfT1U2ZzZHaXA5WDl1SER2VTZzcVR5WlVKWkdVR25JLWZlUzFRX1ZXQ2hrRzd3bDhIUTNBd0JoaUQ3eWxrMkRJdG84U3g1cGFxbXNEV0ZzelpNczNZaTVpc0ZNdVlTeDF6UTNGTGhabmdVSEs5emd1SQ?oc=5"
-    },
-    {
-      "category": "industry",
-      "end_date": "",
-      "id": "bba86ffc62f045ad",
-      "location": "",
-      "name": "Securing tomorrow: Rice hosts key leaders for inaugural summit on quantum and national security - Rice University",
-      "notes": "Newly announced or indexed; verify dates on the linked page.",
-      "organizer": "",
-      "published": "2026-09-16T07:00:00Z",
-      "source": "discovery",
-      "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWTJGVGgzUXEyaG9oWEhjWmRiVUk0dVVkT0RPNTdnYUtxQWdOUlRSc2hPcDB0RGdmM2RnZmpuOEQ1ZlNicUcxRWFFN1I3Q09nMlV3S1NvQ09keU1DYkZxd2kwcUpJSVB5TmJoYzdkbDlVTW1mNUt5ajNpRGVRMnVzWEUzNG14U1pkMnhRR0FyMXgwcDQwZkc2UmdBS3JwLVJva21ONEFod3dFUnhHNkJXRS12ZUJZMmNpaFU4?oc=5"
-    },
-    {
-      "category": "academic",
-      "end_date": "",
-      "id": "0258c1a3bc466afc",
-      "location": "",
-      "name": "D-Wave to Host Qubits Asia 2026 Quantum Computing User Conference in Seoul - Yahoo Finance",
-      "notes": "Newly announced or indexed; verify dates on the linked page.",
-      "organizer": "",
-      "published": "2026-09-16T07:00:00Z",
-      "source": "discovery",
-      "start_date": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORmV6M2p6bFVVMmlGWTZmSl9fQU9ESl9wQVhndUZoVTk0MG9LamVTeUhDSTZPQ1ZoU2JlbU9MOFJ5UXBZR21JTHk4WmJ3RDU4S0xsN3NCSVpiQXMzdXRSQjJSZGJWWVctc0VKNnpTOTJKY2JvNm81WFBrQWZ1ck4yWGJfRkZrQTJDUlBoYW9SUEU?oc=5"
     },
     {
       "category": "academic",
