@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-13T13:34:48Z",
+  "generated_at": "2026-11-16T13:50:07Z",
   "items": [
+    {
+      "amounts": [
+        {
+          "amount": 3000000,
+          "currency": "USD",
+          "display": "$3M"
+        }
+      ],
+      "id": "9ff58f45c940e184",
+      "published": "2026-11-15T15:00:00Z",
+      "title": "FAU receives $3M to build Florida’s quantum-ready workforce - Refresh Miami",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkpma0pocVBYSF9odlRHUGRGUFY5SnpOUFdjYjBJMFltZjFaVEw1b253UFR0RHM0TXRUV2x6eXlZQS1aTXNtamNiYzA5eHgtUkJKbkhwUEZBbElFMlk2b3dnTGF4cVIxdDlYSy1NWmQwVElhX1VPSTdBRTRJT01SRk9aQ3NkWFpwaXYwY3dxcDloUQ?oc=5"
+    },
     {
       "amounts": [
         {
@@ -13,6 +26,24 @@
       "published": "2026-11-13T09:55:51Z",
       "title": "Columbia’s Yuen And Chicago’s Verresen Win $100,000 Microsoft Quantum Grant - Quantum Zeitgeist",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKZEZnVlZSZFp3TEtCdWdLTFNTb2JIVFRjM1R3dzlOOTBHMEVmWFhkVURLbkY5TV8xWG9oT1Z5aWQtLVJsa1dWblZjeVFnbjVrXzNFSy1RN3RNMGx2WjVRYWJ2T2pZWFhFc1F5NzRIOFlxTDJ5TzlfWXMxRQ?oc=5"
+    },
+    {
+      "amounts": [
+        {
+          "amount": 1000000,
+          "currency": "USD",
+          "display": "$1.0m"
+        },
+        {
+          "amount": 8000000,
+          "currency": "USD",
+          "display": "$8.0m"
+        }
+      ],
+      "id": "508b31628384178d",
+      "published": "2026-11-13T09:51:32Z",
+      "title": "Quantum Cyber Posts $1.0m Revenue, Secures $8.0m From CEO - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NSmY2c05Cal9CbVVaWThuWDdISzRQUENtaDE1Y0Z5UE5RV3QtcWlSa0VBdW9LVnVkOW44LWloOEVGaGxnZ2RZSDYxN2o0SU9PZkQ4ZEd4RkFiVHJyc0JxeTNPaXlyVzJlNlk2S25QVQ?oc=5"
     },
     {
       "amounts": [
@@ -5502,19 +5533,6 @@
         {
           "amount": 170000000,
           "currency": "USD",
-          "display": "$170 million"
-        }
-      ],
-      "id": "5b0123a6ad345a9d",
-      "published": "2025-02-25T08:00:00Z",
-      "title": "Quantum computing startup secures $170 million in funding as Big Tech accelerates industry breakthroughs - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFNtREUwVEFHZTl5S21DMzRyQkVCeWR5N3AzRk5FdFhYRHk4SEdKQnkzeDBDbVNONkMyaHF6NjNuWjZneU1rb2hYYzhRSUo4eTV1LXpXTUlMcmNzYUNITjNlU1NwZTFUTjRlY3lwMzhQTzl1LXh4NllfREw1MENkVG02VURpWEVteWhGV2RMZV9JOUlnaGNIRGlyOA?oc=5"
-    },
-    {
-      "amounts": [
-        {
-          "amount": 170000000,
-          "currency": "USD",
           "display": "$170M"
         }
       ],
@@ -5522,6 +5540,19 @@
       "published": "2025-02-25T08:00:00Z",
       "title": "Quantum Machines Secures $170M In Series C Funding - Quantum Zeitgeist",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeWF4c01uWmN5OXBqU2p4TTFRejJmMDFxY0lmOFJKbmlwSXlGa0M1a2VHdk1SbUVaS2M1U3ZCd3VXclVWZTlRT183bGhmQTBZdzJyTmhxczMtWW9obVNSaTJETDJ2dllGZFVyMk9ZTzBrUDRuUVRGSnQzMXlQbjItTFU4RWVDbG40ckZMZlBBQ3Bfc3JVbXdzYjU0OVNtVDd1Y3VDYmxhSFlZTW1mcUx2SUh6SmQtQjBKUXI4Tmtyb1NtX3dObm05Q2JUX05OMkRrOTh3V1FqOG9pUQ?oc=5"
+    },
+    {
+      "amounts": [
+        {
+          "amount": 170000000,
+          "currency": "USD",
+          "display": "$170 million"
+        }
+      ],
+      "id": "5b0123a6ad345a9d",
+      "published": "2025-02-25T08:00:00Z",
+      "title": "Quantum computing startup secures $170 million in funding as Big Tech accelerates industry breakthroughs - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbFNtREUwVEFHZTl5S21DMzRyQkVCeWR5N3AzRk5FdFhYRHk4SEdKQnkzeDBDbVNONkMyaHF6NjNuWjZneU1rb2hYYzhRSUo4eTV1LXpXTUlMcmNzYUNITjNlU1NwZTFUTjRlY3lwMzhQTzl1LXh4NllfREw1MENkVG02VURpWEVteWhGV2RMZV9JOUlnaGNIRGlyOA?oc=5"
     },
     {
       "amounts": [],
@@ -6866,6 +6897,13 @@
       "published": "2021-07-01T07:00:00Z",
       "title": "FSU researchers receive NSF grant to investigate quantum effects in a potential hybrid semiconductor - Mirage News",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwSGIzRVJYZ191N050UFVXU0Fob3JoZnlmcnV0T1JUWG0zQjhqQ0daMFpiSnhzMVlzbUo0Sm9KRWM2d25Mc29BOFJXRXd5Q2VoTFI3OXFBRGJ5YWhFN21DVUk5QzNxeHBLMDVHU2xTdmJTRHVpMU1hbWFHbw?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "a657f18ccadfb432",
+      "published": "2021-06-23T07:00:00Z",
+      "title": "Michael Zuerch receives award for quantum electronic and optics research - University of California, Berkeley",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUWlydTJNMGxaaWVra1o0YVZ0bFR3ZTFmQ1ZhYldjZ0ZVbU93ZmtTZm43WXNUeWVFbWtnX2tHaF9haTZuTmJ3UGJPSmJia1JzSm9ESm51cUktaWdoV09FTjNTX2ZXd3lHQ1liWUdDWXk3Rng5NVVJcDl3UzVIejVJZlNzcllpdnNvMTRTU3kyYnlWOVUtOXdPb3lsc1lzYjdxM2NUSnJUaw?oc=5"
     },
     {
       "amounts": [
