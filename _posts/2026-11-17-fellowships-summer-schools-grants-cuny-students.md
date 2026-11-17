@@ -1,7 +1,7 @@
 ---
 title: 'Fellowships, Summer Schools, Grants and Awards for CUNY Students'
 date: 2026-11-17
-permalink: /posts/2026/07/
+permalink: /posts/2026/08/
 tags:
   - CUNY
   - Fellowships
