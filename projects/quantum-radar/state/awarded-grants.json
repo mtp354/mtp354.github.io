@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-16T13:50:07Z",
+  "generated_at": "2026-11-19T13:34:46Z",
   "items": [
+    {
+      "amounts": [
+        {
+          "amount": 57000,
+          "currency": "USD",
+          "display": "$57k"
+        }
+      ],
+      "id": "51cfc0f8cf16d25c",
+      "published": "2026-11-18T15:50:36Z",
+      "title": "$57k Texas Semiconductor Innovation Fund Grant Awarded to Quantum Global Technologies - Texas Border Business",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSGItZGx6LXVIeHpMZkVuNF9OSFM1bExwdGVHSEFJY05ONGpLTVJiMVhUOWJ6dWwtVU4wWVJoTG5ZZFNtaGRHT3dZUnB1VE5RSEUtTmJDQ1U1S21TOEpkckJCSDlSNDNkdjI2a2pFdDZ3T29HRzZQYVFKX0RwSWhyaDNKT3JiWlQxQVQxQVdJaVhnU1JjNUJMQzRSdlhhY1AtUzkzWndHLWNheUxSZml1Z01LTzg0MHZo?oc=5"
+    },
     {
       "amounts": [
         {
@@ -510,6 +523,13 @@
       "published": "2026-10-06T14:03:40Z",
       "title": "FAU Receives NIST Grant to Build Quantum Cybersecurity Workforce - Florida Atlantic University",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NWXktSzRHSjFEb3RvZjRDdmpkVHdjcEEwVlNZdkQ2NWRrQWZULU9uQ2ZqSmFGeUoyYm9HUGxsbXZqZ3pMX2RHa3Y0R3o3aUlzTmEzZDFtNTVKMFdlQ0VSVWtkTkQxTzlhX0VVelh3N2I4dGNy?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "5c7d1a049c33a27e",
+      "published": "2026-10-06T07:00:00Z",
+      "title": "FAU Receives NIST Grant to Build Quantum Cybersecurity Workforce - Florida Atlantic University",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFcDA5YWhqNW5HcS1OUVZZQ3BDWW1ZTVlqeURJdnUtTldSMTB5MFVLYWk4QktTWWJucGdOMzdZdzlpLUxuWU1reVd6c2FVSzZJOU5BQU1Td3Rxc2xRZzJwMVRaR01walVkbTg1TTUxalFBbElyMGpR?oc=5"
     },
     {
       "amounts": [],
@@ -1692,19 +1712,6 @@
     {
       "amounts": [
         {
-          "amount": 1000000,
-          "currency": "USD",
-          "display": "$1 Million"
-        }
-      ],
-      "id": "e797c4cab3b8883c",
-      "published": "2026-07-14T07:00:00Z",
-      "title": "Nanalysis Provides Business Update Highlighting Quantum Technology Partnerships, $1 Million in Non-Dilutive Non-Repayable Funding Award, Contract Wins and Corporate Activities - AZoM",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnOWdzWE53MjQ1MFZWY2hqb3ZLTkVfRTg1X1NOSFNSOXowSFA3QVE2Q3cxaTJqTzJPb1BLNWlNZnh3NW1ZM0FtN0VGaFE4OU8xMGVuUHJn?oc=5"
-    },
-    {
-      "amounts": [
-        {
           "amount": 15000000,
           "currency": "USD",
           "display": "$15 Million"
@@ -1714,6 +1721,19 @@
       "published": "2026-07-14T07:00:00Z",
       "title": "UConn-Led Program, Connecticut Win $15 Million NSF Award To Launch Quantum Technology Innovation Engine - Patch",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ1FVSWNnSTJ0ZmNKX01QSHZtMWdrMmhrTG41cE1TQUloNG9tSnVXSEZ5SENVcU5pUVc1WVJyMENjMVo0Y2pxWm1XeUVZTkJ5eEhRTWdGSVRXaXZSQ0Zyb2NhNzd0WjdJdlJQbnNMYW1ZLXNFM0Rxbng5MnhxenV0djlNNzA3ZHFkeFRvVTZMdVRheUt2RFpFNHRYUzBIWl9NZTJZRDVpcllFTlhmQ0E?oc=5"
+    },
+    {
+      "amounts": [
+        {
+          "amount": 1000000,
+          "currency": "USD",
+          "display": "$1 Million"
+        }
+      ],
+      "id": "e797c4cab3b8883c",
+      "published": "2026-07-14T07:00:00Z",
+      "title": "Nanalysis Provides Business Update Highlighting Quantum Technology Partnerships, $1 Million in Non-Dilutive Non-Repayable Funding Award, Contract Wins and Corporate Activities - AZoM",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnOWdzWE53MjQ1MFZWY2hqb3ZLTkVfRTg1X1NOSFNSOXowSFA3QVE2Q3cxaTJqTzJPb1BLNWlNZnh3NW1ZM0FtN0VGaFE4OU8xMGVuUHJn?oc=5"
     },
     {
       "amounts": [],
@@ -2490,6 +2510,13 @@
       "published": "2026-05-29T07:00:00Z",
       "title": "UH awarded $600K NSF grant for next gen quantum research - hawaii.edu",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KZkdLMjZKaXRNTlFuaHdfb2hYZTVHX21WWGpXZ1NuWTV3eGlSbEQ4THZCbFBMSXVXekxaNTBBOFFLck1sRVJ4TkhXdjZmVng1MFhqb0lLRjNYTEg2X0ticVg2RWVTQ2hvNnRSd1dGUDU1V2lV?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "34828717dc643af3",
+      "published": "2026-05-28T07:00:00Z",
+      "title": "Five research projects receive funding under the NWO-JST call for unconventional information processing technologies - www.nwo.nl",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVzZ6QUZaUlIxS2NTMTg0NGRpeXBVa3hkTkc0UzJaeE5DLTZQWWNvNHRJS2JqRW1mUncybGRjS0RKYmpwSXVubkNjU19VNVRHZHZlOU02SzFxRWVILTZ4RmV4cERHcVlCX1c3dVJXVDBNclhVaHlITzBLaUp2N0xSZ0dyU2sxTHRQZVR0NkhEQ2gwblhMam0tZFhvQVIxNlh0cnRWeFpha3Atc2owVDl1bWhsMnQtUXlsNVREVkpreXFLYnhKMzExemZlQ25mSE5LNW5UbWYxdmpBbUE?oc=5"
     },
     {
       "amounts": [

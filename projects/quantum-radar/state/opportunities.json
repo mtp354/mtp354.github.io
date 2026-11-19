@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-16T13:50:07Z",
+  "generated_at": "2026-11-19T13:34:46Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
-        "Individuals",
         "Private institutions of higher education",
-        "Small businesses",
-        "Public and State controlled institutions of higher education",
-        "Independent school districts",
+        "For profit organizations other than small businesses",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses"
+        "Public and State controlled institutions of higher education",
+        "Small businesses",
+        "Individuals",
+        "Independent school districts",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "1a7530639af44b85",
@@ -41,8 +41,8 @@
       "application_source": "Grants.gov",
       "deadline": "2027-02-19",
       "eligibility": [
-        "Public and State controlled institutions of higher education",
-        "Private institutions of higher education"
+        "Private institutions of higher education",
+        "Public and State controlled institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "6e9991a9c7c3a870",
@@ -69,11 +69,11 @@
       "application_source": "Grants.gov",
       "deadline": "2026-12-11",
       "eligibility": [
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Public and State controlled institutions of higher education",
+        "For profit organizations other than small businesses",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
         "Private institutions of higher education",
-        "For profit organizations other than small businesses",
-        "Public and State controlled institutions of higher education"
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "c1c2bc0b077c471d",
@@ -218,6 +218,21 @@
       "url": "https://www.grants.gov/search-results-detail/363621"
     },
     {
+      "id": "09e42a36595eeee7",
+      "matched_keywords": [
+        "summer school",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-10-06T07:00:00Z",
+      "query": "quantum summer school",
+      "score": 8,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFBqSVZrenVBbmVFcm9RQy1EWUZWX2t0ZjFoWmRMWnM4NWhQQ1BSWk1YQ1pCdFFWcjBEUkZObE0yV1dhQWRpR0sxZjhWaXJqbnQ5OVJqMHpZNzhjd243VE5rd1R1VmFkazJqUFNMd1h2bnR5ZG8?oc=5\" target=\"_blank\">Quantinuum Trains 30 Chemistry And Quantum Computing Researchers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Quantinuum Trains 30 Chemistry And Quantum Computing Researchers - Quantum Zeitgeist",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqSVZrenVBbmVFcm9RQy1EWUZWX2t0ZjFoWmRMWnM4NWhQQ1BSWk1YQ1pCdFFWcjBEUkZObE0yV1dhQWRpR0sxZjhWaXJqbnQ5OVJqMHpZNzhjd243VE5rd1R1VmFkazJqUFNMd1h2bnR5ZG8?oc=5"
+    },
+    {
       "application_source": "Grants.gov",
       "deadline": "2026-11-20",
       "eligibility": [
@@ -242,6 +257,21 @@
       "url": "https://www.grants.gov/search-results-detail/364136"
     },
     {
+      "id": "cf68a5fa79fae0e8",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-11-18T07:30:00Z",
+      "query": "quantum computing workshop students",
+      "score": 7,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2JmcU9KNUZHb0pCRElpdkFwczBBTmZlMlRYMkxmUWhaRlVEZm9Xc0ZqcEdEQk1PVzE5VkN4S05ER3Z0LURGQ1NubmFuV2kxSVFUQjhFTW5ORXkwUE9TZTQtaHJWZWNmV1lhY3BfcFZxcmZnYWQ0ZXJ2WlNVakhsNlVLM2VvSmdNMDNmUTlEZWNGUnZUcXFkQ2gxTnB5el9TRnRhUDdhTUPSAbYBQVVfeXFMUG1iVVRBcGMwQlRCOEp1ME9obmhaa0tiRHREV1J6eFVaSUNxaEF3Z2ZhdGNhTWt6dk5hNGtXTXZaeS1vZHpZSTVvRlpjcDAzTzB2Qk1HRXp0Vnk3TF9LZWNiOW03ZlJHOVBoT3Y4TkV5MmpYZmthNzBQQ3dhV215T0Y2VERWSUpRM1poaE1UNUhPOEtrbGdMdXoycjFhT21QLVVsR2hhUmpuNzVBUDg4ZS1FM29GN1E?oc=5\" target=\"_blank\">NIELIT Hyderabad trains over 200 students in quantum computing, cryptography</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">EdexLive</font>",
+      "title": "NIELIT Hyderabad trains over 200 students in quantum computing, cryptography - EdexLive",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2JmcU9KNUZHb0pCRElpdkFwczBBTmZlMlRYMkxmUWhaRlVEZm9Xc0ZqcEdEQk1PVzE5VkN4S05ER3Z0LURGQ1NubmFuV2kxSVFUQjhFTW5ORXkwUE9TZTQtaHJWZWNmV1lhY3BfcFZxcmZnYWQ0ZXJ2WlNVakhsNlVLM2VvSmdNMDNmUTlEZWNGUnZUcXFkQ2gxTnB5el9TRnRhUDdhTUPSAbYBQVVfeXFMUG1iVVRBcGMwQlRCOEp1ME9obmhaa0tiRHREV1J6eFVaSUNxaEF3Z2ZhdGNhTWt6dk5hNGtXTXZaeS1vZHpZSTVvRlpjcDAzTzB2Qk1HRXp0Vnk3TF9LZWNiOW03ZlJHOVBoT3Y4TkV5MmpYZmthNzBQQ3dhV215T0Y2VERWSUpRM1poaE1UNUhPOEtrbGdMdXoycjFhT21QLVVsR2hhUmpuNzVBUDg4ZS1FM29GN1E?oc=5"
+    },
+    {
       "id": "acc7cf07b1c42088",
       "matched_keywords": [
         "workshop",
@@ -263,7 +293,7 @@
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-11-10T22:19:46Z",
+      "published": "2026-11-10T08:00:00Z",
       "query": "quantum hackathon",
       "score": 7,
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNc1JYRVhxNUhrWXJvRWljOFdJMUVCSE9sZjFBZkFWZEUyRW5JQXF4UkhzVEg2MGhldEFOTjRpU2Y1LTVlTEpKbU92ejU2b0dtVGtmYmd3dFVod0U5Z3UtcktPd2lEWFhzTGcyMmRUTDd3eV9ob1pvaGJtbXp5bG1TVGdYVWxEQTE0UkJ0Q2VPajlDUmpyZGVjdkxlWllWWUpH?oc=5\" target=\"_blank\">UCF Doctoral Student Wins 2nd Place in Global Quantum Computing Hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Central Florida</font>",
@@ -302,46 +332,75 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDRucEZvWjNuYkhRdUswZ0RCazBacnlVTlpNc1o1VElTdmhpeUNtRUpFS2dYV3M3SGJkWXVycVpNTmxISzc5dXdPM3VYMmRhQjQyQVBHaXl6dUd0RkVwWnB3T2ZKcHAyT0dPYl9Sa25MaFFWcFRDU1RHTGJLVEd5cGJNbTFiQQ?oc=5"
     },
     {
-      "id": "3f339265d7aada66",
+      "id": "48739297d5398e6a",
+      "matched_keywords": [
+        "fellowship",
+        "fellowships",
+        "quantum"
+      ],
+      "published": "2026-11-17T05:06:10Z",
+      "query": "quantum fellowship",
+      "score": 6,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdDJibEU3RFRXbUJIajUtX2ljUDJ0YUhQZ0hIMVhLb2QtLTJrUkpLSWFWZk9hRWk0RkhuNGlfTk5vbEQ3QlRwbmJpX1JlN2FYT0tIbl9MNjRyenpITzFScy1tWGgxLWc5UnF5QmNWbTdpdkNHZXJUaUpUNVlidUU2elpyWDBiS1JocEd6N3ZlbEVmSHVXMDJqOWVIcDNISkd1ZGE2LThod3YxaGZYc1B0ZXJJekYwT0ZTNDY4RFJ2bDNSQQ?oc=5\" target=\"_blank\">ICDS awards seven Faculty Upskilling Fellowships in AI, quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pennsylvania State University</font>",
+      "title": "ICDS awards seven Faculty Upskilling Fellowships in AI, quantum - The Pennsylvania State University",
+      "type": "fellowships",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdDJibEU3RFRXbUJIajUtX2ljUDJ0YUhQZ0hIMVhLb2QtLTJrUkpLSWFWZk9hRWk0RkhuNGlfTk5vbEQ3QlRwbmJpX1JlN2FYT0tIbl9MNjRyenpITzFScy1tWGgxLWc5UnF5QmNWbTdpdkNHZXJUaUpUNVlidUU2elpyWDBiS1JocEd6N3ZlbEVmSHVXMDJqOWVIcDNISkd1ZGE2LThod3YxaGZYc1B0ZXJJekYwT0ZTNDY4RFJ2bDNSQQ?oc=5"
+    },
+    {
+      "id": "b667a1561799bcc7",
       "matched_keywords": [
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-11-11T09:00:10Z",
+      "published": "2026-11-18T18:29:00Z",
       "query": "quantum computing undergraduate research",
       "score": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlpieS1zSHZaemNLSnhudXNaQWdmMDg4TUtzN0E3LWV4LWpWMU9CcTU2Y1JPblJDWnNSOWVkRUJrZF8wcm5id2ZfekIwXzVINUNWaHRkMk5wdDdJNWNZOGs4T3hKeEVPMXVqb2cybFZiQTFXWmk0TERMcXlHWXI4azBIS2R5Znk4b3c?oc=5\" target=\"_blank\">University Of Waterloo Summer Research Links Quantum Effects To Neurons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "University Of Waterloo Summer Research Links Quantum Effects To Neurons - Quantum Zeitgeist",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHNpY0lBSlcwUGtjNnVHTXZlck1oZnZJVHF1cVVpaTRjNjBVZlMwR3ZvcmxzbGtwR0tsMGJRVGJOQmtWYmFmRENFVVZHUVJQMEV4bDBrTWdSVTdCSG95Q1ExTFlJUDFFRjYzSm9qaTY5VlJ6MklPV3RYUWFjWXBuUmlFV0d1OTNiUjRjam1JdVFfZ2YxQXo0X2NmcElyRGMw?oc=5\" target=\"_blank\">News - Naval Research Laboratory Puts Student’s Quantum Knowledge to the Test</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DVIDS</font>",
+      "title": "News - Naval Research Laboratory Puts Student’s Quantum Knowledge to the Test - DVIDS",
       "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlpieS1zSHZaemNLSnhudXNaQWdmMDg4TUtzN0E3LWV4LWpWMU9CcTU2Y1JPblJDWnNSOWVkRUJrZF8wcm5id2ZfekIwXzVINUNWaHRkMk5wdDdJNWNZOGs4T3hKeEVPMXVqb2cybFZiQTFXWmk0TERMcXlHWXI4azBIS2R5Znk4b3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdHNpY0lBSlcwUGtjNnVHTXZlck1oZnZJVHF1cVVpaTRjNjBVZlMwR3ZvcmxzbGtwR0tsMGJRVGJOQmtWYmFmRENFVVZHUVJQMEV4bDBrTWdSVTdCSG95Q1ExTFlJUDFFRjYzSm9qaTY5VlJ6MklPV3RYUWFjWXBuUmlFV0d1OTNiUjRjam1JdVFfZ2YxQXo0X2NmcElyRGMw?oc=5"
     },
     {
-      "id": "3757bd39bb4569cf",
+      "id": "ff538f4997e7f019",
       "matched_keywords": [
-        "hackathon",
+        "summer school",
         "quantum"
       ],
-      "published": "2026-11-15T15:37:00Z",
-      "query": "quantum hackathon",
-      "score": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWUYteG5VMUV4OFM2Zm9rMkU3S0hPQkphT2toOWRzeVV3R0REUFl6Q3JyTV90bHdINkRhaWlMZ0JuVV9YMTNZaUx5T0xjUGhYeEJvLWVuUThOZElIX2ZyN3lhd3BOT1ZIS2dpR0lpQ1AyWjFBdk83Rm9hNGVMYVdkR19vQW0wZkVscllJRUhIMjNIUjZ5NC1ib2FnQVA5dUkxY0JZYWZMQndrS0JxbEVUbkVPREhOVW1DYWJycDdlUG9fVzJEOS1TdWxZNTFCNktWS2JCSm9Ec2gtVGl3MndwREpxcWJhRzR1QWVYa1RpQlVMajJLSTQ0N0Q1b1Y?oc=5\" target=\"_blank\">Students competing for 36 straight hours in Tennessee Quantum Hackathon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Local 3 News</font>",
-      "title": "Students competing for 36 straight hours in Tennessee Quantum Hackathon - Local 3 News",
-      "type": "hackathons",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWUYteG5VMUV4OFM2Zm9rMkU3S0hPQkphT2toOWRzeVV3R0REUFl6Q3JyTV90bHdINkRhaWlMZ0JuVV9YMTNZaUx5T0xjUGhYeEJvLWVuUThOZElIX2ZyN3lhd3BOT1ZIS2dpR0lpQ1AyWjFBdk83Rm9hNGVMYVdkR19vQW0wZkVscllJRUhIMjNIUjZ5NC1ib2FnQVA5dUkxY0JZYWZMQndrS0JxbEVUbkVPREhOVW1DYWJycDdlUG9fVzJEOS1TdWxZNTFCNktWS2JCSm9Ec2gtVGl3MndwREpxcWJhRzR1QWVYa1RpQlVMajJLSTQ0N0Q1b1Y?oc=5"
+      "published": "2026-11-03T08:00:00Z",
+      "query": "quantum summer school",
+      "score": 5,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTdIS0Y4NmxqTkRhOF9HNUd2cHlQQy16aFlxMV90eFpwNkdDNEtmYVlSSC1ScFNYTUxyelZ0VG9wVHd4a2s0NEtKWWNyZkRpcjZQSjUtUkFsbHNKcUd5X2tKTlZxNGxIN2pvZi1KcmRnekt2aUxORDZ6N1NITVJqSHRjQXRZS3djZHRLTzROSjVUcWRTcy1kOTkwQXc1MU9EOV9vU3BGNEp3Y05FaVFSVVFaTQ?oc=5\" target=\"_blank\">Finding the fingerprints of noisy distributions in random quantum systems</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Waterloo</font>",
+      "title": "Finding the fingerprints of noisy distributions in random quantum systems - University of Waterloo",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTdIS0Y4NmxqTkRhOF9HNUd2cHlQQy16aFlxMV90eFpwNkdDNEtmYVlSSC1ScFNYTUxyelZ0VG9wVHd4a2s0NEtKWWNyZkRpcjZQSjUtUkFsbHNKcUd5X2tKTlZxNGxIN2pvZi1KcmRnekt2aUxORDZ6N1NITVJqSHRjQXRZS3djZHRLTzROSjVUcWRTcy1kOTkwQXc1MU9EOV9vU3BGNEp3Y05FaVFSVVFaTQ?oc=5"
     },
     {
-      "id": "433de3a69a97540c",
+      "id": "a4d0a99ff97816c1",
       "matched_keywords": [
-        "hackathon",
+        "summer school",
         "quantum"
       ],
       "published": "2026-10-20T07:00:00Z",
-      "query": "quantum hackathon",
-      "score": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTEQ4TmZzZlQwQlpqcGRieVZjd1RFU1EtSnFjbFl1NGMtQmh3ZHplQjhFdmpfLVE0Y2tpMkZwOGFEQkVTSzVlM2h6Q2Q3LWlLbTl5T0JvazJEZzJjZHk4Wnd3TUVuUUZZZm50cHJSTk11NE1yRW9GeGdFXzgwVDdwVC1EQUdGQTV5S3hwR3pNTjZxclY0SHR0cnpYczE5QQ?oc=5\" target=\"_blank\">From space to folk music: quantum hackathon explores diverse use cases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Physics World</font>",
-      "title": "From space to folk music: quantum hackathon explores diverse use cases - Physics World",
-      "type": "hackathons",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTEQ4TmZzZlQwQlpqcGRieVZjd1RFU1EtSnFjbFl1NGMtQmh3ZHplQjhFdmpfLVE0Y2tpMkZwOGFEQkVTSzVlM2h6Q2Q3LWlLbTl5T0JvazJEZzJjZHk4Wnd3TUVuUUZZZm50cHJSTk11NE1yRW9GeGdFXzgwVDdwVC1EQUdGQTV5S3hwR3pNTjZxclY0SHR0cnpYczE5QQ?oc=5"
+      "query": "quantum summer school",
+      "score": 5,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTBHOVRvcHJNaWZiTThhX0JVX0llU05UZTFvQ1k0V2NFZ1FNUDdwN2ptVjVmcW5TZk5SWS1qWG0zUEoyUUtib20zWURpTE11dkVLZmZmSXNfenhISTZSSnJTVnV6cW5nMUpSUXYxaGJnc2piYzJhd2llcThLM1pFVWFJOHRrY0k?oc=5\" target=\"_blank\">Quantum Education And Workforce At IEEE Quantum Week 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "Quantum Education And Workforce At IEEE Quantum Week 2026 - Quantum Zeitgeist",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRTBHOVRvcHJNaWZiTThhX0JVX0llU05UZTFvQ1k0V2NFZ1FNUDdwN2ptVjVmcW5TZk5SWS1qWG0zUEoyUUtib20zWURpTE11dkVLZmZmSXNfenhISTZSSnJTVnV6cW5nMUpSUXYxaGJnc2piYzJhd2llcThLM1pFVWFJOHRrY0k?oc=5"
+    },
+    {
+      "id": "1d1b6f290f31ee2f",
+      "matched_keywords": [
+        "summer school",
+        "quantum"
+      ],
+      "published": "2026-10-13T07:00:00Z",
+      "query": "quantum summer school",
+      "score": 5,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGVqTkQzTDZWVVVJZnpYZEo5SEVQTFB5aUsxOVhjTmYzc2RLcExrbS1Cd3ROMkNTNlhhYk8xMEZ0Uk8xUHI3NDNJLVBrdFZ3am9xcWxmbDgwU3h6STU2XzhNWktzNjFPNk00cVBFSF9ucGV0R0FEc3VWMGJ5dHBCcWp0SU1jSWN0dW5BQQ?oc=5\" target=\"_blank\">From quantum computers to earthquake detection: global experts explore future of optical communications</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Trinity College Dublin</font>",
+      "title": "From quantum computers to earthquake detection: global experts explore future of optical communications - Trinity College Dublin",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdGVqTkQzTDZWVVVJZnpYZEo5SEVQTFB5aUsxOVhjTmYzc2RLcExrbS1Cd3ROMkNTNlhhYk8xMEZ0Uk8xUHI3NDNJLVBrdFZ3am9xcWxmbDgwU3h6STU2XzhNWktzNjFPNk00cVBFSF9ucGV0R0FEc3VWMGJ5dHBCcWp0SU1jSWN0dW5BQQ?oc=5"
     }
   ]
 }
