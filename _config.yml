@@ -8,7 +8,7 @@ title                    : "Matthew Prest"
 title_separator          : "-"
 name                     : &name "Matthew Prest"
 description              : &description "Personal academic website for Matthew Prest, a physics PhD candidate working on quantum information theory."
-url                      : https://mtp354.github.io
+url                      : https://www.mtprest.com
 baseurl                  : ""
 repository               : "mtp354/mtp354.github.io"
 

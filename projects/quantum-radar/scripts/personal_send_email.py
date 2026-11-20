@@ -1,15 +1,23 @@
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import smtplib
 import ssl
+import time
 from email.message import EmailMessage
 from typing import Any
 
-from common import STATE
+from google.auth.exceptions import GoogleAuthError
+from google.auth.transport.requests import AuthorizedSession
+from google.oauth2 import service_account
+from requests.exceptions import RequestException
+
+from common import REPORTS, STATE, write_text
 
 GA4_ANALYTICS_SCOPE = "https://www.googleapis.com/auth/analytics.readonly"
+ANALYTICS_REPORT = REPORTS / "personal-radar" / "analytics.txt"
 
 
 def _required_env(name: str) -> str:
@@ -72,9 +80,11 @@ def _analytics_days() -> int:
     raw = os.getenv("GA4_ANALYTICS_DAYS", "7").strip()
     try:
         days = int(raw)
-    except ValueError:
-        return 7
-    return min(max(days, 1), 90)
+    except ValueError as exc:
+        raise ValueError("GA4_ANALYTICS_DAYS must be an integer between 1 and 90.") from exc
+    if not 1 <= days <= 90:
+        raise ValueError("GA4_ANALYTICS_DAYS must be an integer between 1 and 90.")
+    return days
 
 
 def _format_count(value: str) -> str:
@@ -114,29 +124,29 @@ def _dimension(row: dict[str, Any], index: int) -> str:
 
 def _ga4_session(credentials_json: str) -> tuple[Any | None, str]:
     try:
-        from google.auth.transport.requests import AuthorizedSession
-        from google.oauth2 import service_account
-    except ImportError:
-        return None, "google-auth is not installed; run `pip install -r requirements.txt`."
-
-    try:
         service_account_info = json.loads(credentials_json)
     except json.JSONDecodeError as exc:
         return None, f"GA4_SERVICE_ACCOUNT_JSON is not valid JSON: {exc}"
+
+    if not isinstance(service_account_info, dict):
+        return None, "GA4_SERVICE_ACCOUNT_JSON must be a service-account JSON object."
 
     try:
         credentials = service_account.Credentials.from_service_account_info(
             service_account_info,
             scopes=[GA4_ANALYTICS_SCOPE],
         )
-    except (KeyError, ValueError) as exc:
-        return None, f"GA4 service-account credentials could not be loaded: {exc}"
+    except (KeyError, ValueError):
+        return None, "GA4 service-account credentials could not be loaded. Check the service-account key."
     return AuthorizedSession(credentials), ""
 
 
 def _ga4_property_id(raw: str) -> str:
     value = raw.strip()
-    return value.removeprefix("properties/")
+    value = value.removeprefix("properties/")
+    if value and not (value.isascii() and value.isdigit()):
+        raise ValueError("GA4_PROPERTY_ID must be numeric, not a G-... measurement ID.")
+    return value
 
 
 def _run_ga4_report(session: Any, property_id: str, body: dict[str, Any]) -> dict[str, Any]:
@@ -146,20 +156,28 @@ def _run_ga4_report(session: Any, property_id: str, body: dict[str, Any]) -> dic
     return response.json()
 
 
+def _analytics_unavailable(reason: str) -> str:
+    warning = reason.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+    print(f"::warning title=Website Analytics::{warning}")
+    return f"Website Analytics\n{reason}"
+
+
 def _build_analytics_section() -> str:
-    property_id = _ga4_property_id(os.getenv("GA4_PROPERTY_ID", ""))
+    try:
+        property_id = _ga4_property_id(os.getenv("GA4_PROPERTY_ID", ""))
+        days = _analytics_days()
+    except ValueError as exc:
+        return _analytics_unavailable(str(exc))
     credentials_json = os.getenv("GA4_SERVICE_ACCOUNT_JSON", "").strip()
     if not property_id or not credentials_json:
-        return (
-            "Website Analytics\n"
+        return _analytics_unavailable(
             "Not configured. Add GA4_PROPERTY_ID and GA4_SERVICE_ACCOUNT_JSON "
             "repository secrets to include Google Analytics metrics."
         )
 
-    days = _analytics_days()
     session, error = _ga4_session(credentials_json)
     if error:
-        return f"Website Analytics\nCould not fetch GA4 metrics: {error}"
+        return _analytics_unavailable(f"Could not fetch GA4 metrics: {error}")
 
     date_range = {"startDate": f"{days}daysAgo", "endDate": "yesterday"}
     try:
@@ -188,8 +206,14 @@ def _build_analytics_section() -> str:
                 "limit": 5,
             },
         )
-    except Exception as exc:  # pragma: no cover - depends on the remote GA4 API.
-        return f"Website Analytics\nCould not fetch GA4 metrics: {exc}"
+    except (RequestException, GoogleAuthError, ValueError) as exc:
+        return _analytics_unavailable(
+            f"Could not fetch GA4 metrics ({type(exc).__name__}). "
+            "Check the numeric property ID, enable the Google Analytics Data API, "
+            "and grant the service account Viewer access to the GA4 property."
+        )
+    finally:
+        session.close()
 
     total_row = (totals.get("rows") or [{}])[0]
     lines = [
@@ -217,14 +241,51 @@ def _append_section(body: str, section: str) -> str:
 
 
 def _smtp_port() -> int:
-    raw = os.getenv("SMTP_PORT", "587").strip()
+    raw = os.getenv("SMTP_PORT", "").strip() or "587"
     try:
-        return int(raw)
+        port = int(raw)
     except ValueError as exc:
         raise SystemExit(f"Invalid SMTP_PORT value: {raw}") from exc
+    if not 1 <= port <= 65535:
+        raise SystemExit(f"Invalid SMTP_PORT value: {raw}")
+    return port
+
+
+def _connect_smtp(host: str, port: int, username: str, password: str) -> smtplib.SMTP:
+    context = ssl.create_default_context()
+    for attempt in range(1, 4):
+        smtp = None
+        try:
+            if port == 465:
+                smtp = smtplib.SMTP_SSL(host, port, timeout=30, context=context)
+            else:
+                smtp = smtplib.SMTP(host, port, timeout=30)
+                smtp.starttls(context=context)
+            smtp.login(username, password)
+            return smtp
+        except (smtplib.SMTPException, OSError) as exc:
+            if smtp is not None:
+                smtp.close()
+            retryable = (
+                isinstance(exc, smtplib.SMTPServerDisconnected)
+                or not isinstance(exc, smtplib.SMTPException)
+            )
+            if not retryable or attempt == 3:
+                raise
+            print(f"::warning::SMTP connection interrupted before sending; retrying ({attempt}/3).")
+            time.sleep(attempt * 2)
+    raise RuntimeError("SMTP connection attempts exhausted.")
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--analytics-only", action="store_true")
+    args = parser.parse_args()
+    if args.analytics_only:
+        write_text(ANALYTICS_REPORT, _build_analytics_section() + "\n")
+        print("Website analytics report saved for the digest.")
+        return 0
+
     smtp_host = _required_env("SMTP_HOST")
     smtp_port = _smtp_port()
     smtp_username = _required_env("SMTP_USERNAME")
@@ -236,7 +297,12 @@ def main() -> int:
 
     digest = _load_digest()
     subject = f"{subject_prefix}: top {digest.get('recommendation_count', 0)} matches"
-    text_body = _append_section(_build_text_body(digest), _build_analytics_section())
+    analytics = (
+        ANALYTICS_REPORT.read_text(encoding="utf-8")
+        if ANALYTICS_REPORT.exists()
+        else _build_analytics_section()
+    )
+    text_body = _append_section(_build_text_body(digest), analytics)
     html_body = _build_html_body(text_body)
 
     message = EmailMessage()
@@ -248,10 +314,7 @@ def main() -> int:
     message.set_content(text_body)
     message.add_alternative(html_body, subtype="html")
 
-    context = ssl.create_default_context()
-    with smtplib.SMTP(smtp_host, smtp_port, timeout=30) as smtp:
-        smtp.starttls(context=context)
-        smtp.login(smtp_username, smtp_password)
+    with _connect_smtp(smtp_host, smtp_port, smtp_username, smtp_password) as smtp:
         smtp.send_message(message)
 
     print("Personal radar email sent successfully via SMTP.")
