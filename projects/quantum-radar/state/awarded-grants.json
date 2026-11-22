@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T13:34:46Z",
+  "generated_at": "2026-11-22T13:33:56Z",
   "items": [
     {
       "amounts": [
@@ -1221,6 +1221,19 @@
       "published": "2026-08-20T07:00:00Z",
       "title": "Climate innovation, wildfire science and quantum technology among SFU projects awarded $1.86 million in JELF funding - SFU News - sfu.ca",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMFpMLVJ3TnNvQU9tUTVJMy00MGw1VFZRSVh2OFZmcUNXR2gzM2Y1Y1hjSHduYnBNY1dyMjZad2M3QVM2cFJFal9kam5TdFFlSXVaZmxEUVRnN0hTb0RKX3dJZ0tyNGlmNUZaVnJwTG5sWklCU2tmRmJ6VXFQd0MyNldvRWU3a3h3RjhERW1hV1Vrb243OGZvdmxrY1lxVGl3ZVZlSElXUnNkWmU4REJiNHVacXItQVZqczhnV2wwNkgxVWRPUDluWXR6RGFTdjdhaXNnZ080aGR1aGZEaDRaRVNJSTV3cS01MExFblQ4TnBYcW50?oc=5"
+    },
+    {
+      "amounts": [
+        {
+          "amount": 1500000,
+          "currency": "USD",
+          "display": "$1.5M"
+        }
+      ],
+      "id": "c3b087172f86ca09",
+      "published": "2026-08-18T07:00:00Z",
+      "title": "Quantinuum Secures $1.5M in City and State LEDA Funding to Expand R&D Center in Albuquerque - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ0ZIV0NNa2d3c1dqcWdzaUNwNm1UR1R5dy13X3E1bWphZGJOYnJIZ19XaE5JNWRUQ0s5MldQekZWQmtqTjdsd0NEZ0VpUzdLOVlRNGRSSlpzZEZHd1h4aG1hRkNXMUZ5RnpxZ2lkR3VqQVJkbm1GYVpabUF1OE56SW12aW56NEpfT3JIMWxqTXh5UUg3WUlScWYzVklyd210dm1yc1MyX195MG96amVqUnpFTFlwSmFPeTlmZ0VvVktIVjA?oc=5"
     },
     {
       "amounts": [
@@ -5417,17 +5430,17 @@
     },
     {
       "amounts": [],
-      "id": "a5980660d210a950",
-      "published": "2025-04-22T07:00:00Z",
-      "title": "UCCS computer science faculty receives Quantum Research Translational Seed Grant - University of Colorado Colorado Springs",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRnJ0TWNSeDF2U1Vzb0QyWUE5c01vMmFmRVhzU2pIWTk3Rk9JYVZwVFVZNFV5NFlNSHlISEYxQng2dXdnVTBQZmpZU2tXdThTSEdWQmlUMi1EOXI1aHRneGxESm10QmdMSHoxMUlwTGNpbUFmNFJxTkRXRjBiRGR4WWl5amJmOHJLM1AwWm84ZzJuTXJwbU81aXY3NU5KVnRVcXVYS3BxOW8yQ1FJYmFkZVFBVnQ?oc=5"
-    },
-    {
-      "amounts": [],
       "id": "95adafdbc2cde2bf",
       "published": "2025-04-22T07:00:00Z",
       "title": "UCCS computer science faculty receives Quantum Research Translational Seed Grant - UCCS Communique",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrMkZpVVdTZzh5OXJvaGNEanZRRFZUenlCYWFJdmFLaWFWT0Z3VHVEMXhDZjRhQ1NoM0FuMEpHZE5oX1JRZ0tIeUItSFhEdw?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "a5980660d210a950",
+      "published": "2025-04-22T07:00:00Z",
+      "title": "UCCS computer science faculty receives Quantum Research Translational Seed Grant - University of Colorado Colorado Springs",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRnJ0TWNSeDF2U1Vzb0QyWUE5c01vMmFmRVhzU2pIWTk3Rk9JYVZwVFVZNFV5NFlNSHlISEYxQng2dXdnVTBQZmpZU2tXdThTSEdWQmlUMi1EOXI1aHRneGxESm10QmdMSHoxMUlwTGNpbUFmNFJxTkRXRjBiRGR4WWl5amJmOHJLM1AwWm84ZzJuTXJwbU81aXY3NU5KVnRVcXVYS3BxOW8yQ1FJYmFkZVFBVnQ?oc=5"
     },
     {
       "amounts": [],
@@ -6602,6 +6615,13 @@
       "published": "2023-05-25T07:00:00Z",
       "title": "Rob Thew & Hugo Zbinden Awarded Quantum Transitional Measures Grant - unige.ch",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWFKYWhxaGIxMnJSdldQWWpHcC1RQlFybzZGWWZOZjFWbmZxTEZQbk84VTY3Z3hSNzVmdGRpc2k3OGFEOTV1dThPS0Y0d3o1bE9fdlA4cE5SbWRnWWhUSEtRQWM4ZlJETDZpV19hNmVaR1d1NU11R2JvRmJnOHJEdklsQjFVUFd0V3NWQVpaNDl1YXJQaGFqOFdjVzdFVkRxLV8wNXpzV3k?oc=5"
+    },
+    {
+      "amounts": [],
+      "id": "862df30e163d09a1",
+      "published": "2023-05-11T07:00:00Z",
+      "title": "Quantum Bridge Secures Funding to Build Quantum Repeaters for Communication Networks - The Quantum Insider",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPalBsVlpqNVprOUttVi14djZoRWJTQnJ5d3NjZXZ1R0l4ZFllRG40ZTNJd1F1bUNLNEhaTy1JUzNqdGtNdGw0M0htY09kR2FYVks1SkpDM1hDSU42Z2JrVV9BY0NfbXQwb1dLclJiUTNUSXF2MlBUeFE3QUlheDJrZi15V0tvWk96R3lDcF9hQ2ZqdklJN1hoRjVGblZPTGF5b3pPUkt2V3VXb05pVFl1WGlScm90SnM0WFVTbXk0azd3V2Zz?oc=5"
     },
     {
       "amounts": [],
