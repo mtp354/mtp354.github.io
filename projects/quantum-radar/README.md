@@ -83,9 +83,30 @@ the result from GitHub Actions secrets.
 
 The Monday email can append Google Analytics 4 website metrics when
 `GA4_PROPERTY_ID` and `GA4_SERVICE_ACCOUNT_JSON` are set as repository secrets.
-Use the numeric GA4 property ID, not the `G-...` measurement ID, and grant the
-service account read access to the analytics property. By default the email
-summarizes the last seven days ending yesterday.
+`GA4_PROPERTY_ID` can alternatively be a repository Actions variable. Use the
+numeric ID from GA4 Admin > Property details, not the `G-...` measurement ID.
+Enable the **Google Analytics Data API** in the service account's Google Cloud
+project, then add its email address as a **Viewer** in GA4 Admin > Property access
+management. Store the complete service-account key JSON only in the
+`GA4_SERVICE_ACCOUNT_JSON` Actions secret; never commit it.
+
+The site measurement ID (`G-979B8LMLWV`) controls browser collection separately
+from the reporting API. In GA4 Admin > Data streams, check that the web stream
+uses the domain in the site's `CNAME` and confirm visits in Realtime. Reporting
+data may take 24–48 hours to appear.
+
+By default the email summarizes the last seven days ending yesterday.
+`python scripts/personal_send_email.py --analytics-only` writes
+`reports/personal-radar/analytics.txt` without SMTP. The workflow collects this
+before emailing and includes it in the private digest artifact. Missing
+configuration or API failures produce an Actions warning and an explicit
+unavailable message in the email, not misleading zero metrics.
+
+SMTP uses STARTTLS on port 587 by default, or implicit TLS on port 465 when
+`SMTP_PORT` is set to `465`. Connection interruptions during setup/login are
+retried up to three times. Authentication failures are not retried; verify the
+provider's SMTP credentials/app password if they occur. Sending is never retried
+automatically, to avoid duplicate messages after an ambiguous delivery failure.
 
 Before the workflow runs, `scripts/check_applicant_privacy.py` confirms that the
 top-level `Applicant/` directory is excluded from Jekyll output and that no

@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: generated-content-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   prices:
     runs-on: ubuntu-latest
@@ -19,6 +23,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref_name }}
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -34,6 +39,8 @@ jobs:
 
       - name: Commit updates
         working-directory: ${{ github.workspace }}
+        env:
+          TARGET_BRANCH: ${{ github.ref_name }}
         run: |
           if [ -z "$(git status --porcelain -- _quantum_radar)" ]; then
             echo "No price changes to commit."
@@ -43,4 +50,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add _quantum_radar
           git commit -m "chore(quantum-radar): refresh quantum industry snapshot"
-          git push origin HEAD:${{ github.ref_name }}
+          bash .github/scripts/push-generated.sh "$TARGET_BRANCH"

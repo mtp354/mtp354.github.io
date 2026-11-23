@@ -1,6 +1,6 @@
 # mtp354.github.io
 
-Personal academic website of **Matthew Prest** (PhD candidate, CUNY) — published at <https://mtp354.github.io> and <https://matthewprestnz.com>.
+Personal academic website of **Matthew Prest** (PhD candidate, CUNY) — published at <https://www.mtprest.com> (the custom domain configured in `CNAME`).
 
 The site is built on the [Academic Pages](https://academicpages.github.io/) Jekyll theme (a fork of [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)) with a number of personal extensions: a Quantum Radar data project, a topical Resources hub, a dark-mode toggle, retro view counter, plain-language summaries on publications, BibTeX cite blocks, auto-generated OG share images, and Atom feeds for both publications and the Quantum Radar reports.
 
@@ -119,6 +119,27 @@ Private personal-radar output is ignored by git.
 | `scrape_talks.yml` | manual / scheduled | Scrape new talks |
 
 GitHub Pages handles the actual site build/deploy.
+The radar and image workflows use Python and Git only; they do not build Jekyll
+or require Ruby, Bundler, or additional Ruby gems.
+
+All generated-content writers share a branch-scoped concurrency group. They
+fetch and rebase before pushing, retrying up to three times if the branch moves.
+Conflicting edits fail explicitly rather than overwriting remote changes.
+GitHub concurrency keeps one pending run per group; newer queued runs may replace
+older pending runs, but do not cancel the active writer.
+
+## Google Analytics
+
+Production Pages builds load GA4 once through `_includes/analytics.html`, using
+measurement ID `G-979B8LMLWV` from `_config.yml`. Local development builds do not
+send events; use `JEKYLL_ENV=production bundle exec jekyll build` to inspect the
+production tag. Keep `url` and `CNAME` aligned with the GA4 web stream's website URL.
+In GA4 Realtime, visit the live site without a tracking blocker to confirm collection.
+
+The weekly email uses the **numeric property ID**, not the measurement ID, to
+query the Google Analytics Data API. See
+`projects/quantum-radar/README.md` for service-account setup. Analytics is fetched
+before SMTP and included in the private digest artifact even if email delivery fails.
 
 ---
 
