@@ -1,117 +1,92 @@
 # Quantum publications and news digest
 
-_Generated: 2026-11-23 11:17 UTC_
+_Generated: 2026-11-25 11:17 UTC_
 
 ## Publications
 
-1. [When the Noise Gets Noisy: Quantum Error Correction with Disordered Noise and Misinformed Decoding](http://arxiv.org/abs/2611.26506v1)
-   - Published: 2026-11-19
-   - Authors: Cory T. Aitchison, Lucas H. English, Benjamin Béri, Dominic J. Williamson, et al.
-   - Matched: error correction, surface code
-
-2. [Optimised 8th-Order Trotter-Suzuki Schemes for Quantum Simulation](http://arxiv.org/abs/2611.27896v1)
-   - Published: 2026-11-20
-   - Authors: Marko Maležič, Johann Ostmeyer
-   - Matched: fault tolerance
-
-3. [Quantum control of an electrically levitated nanoparticle with a trapped ion](http://arxiv.org/abs/2611.27634v1)
-   - Published: 2026-11-20
-   - Authors: Bernard Faulend, Dmitry S. Bykov, Tracy E. Northup, Carlos Gonzalez-Ballestero
-   - Matched: trapped ion
-
-4. [Quantum computing for gearing down complex many-fermion problems](http://arxiv.org/abs/2611.27402v1)
-   - Published: 2026-11-20
-   - Authors: Weijie Du, Filippo Fornetti, James P. Vary
-   - Matched: quantum computing
-
-5. [Frequency-bin-encoded quantum secret sharing with fast basis switching](http://arxiv.org/abs/2611.26816v1)
-   - Published: 2026-11-19
-   - Authors: Chen-You Su, Suparna Seshadri, Hsuan-Hao Lu, Jason D. McKinney, et al.
-   - Matched: quantum network
-
-6. [Efficient Tensor Decomposition of the Coulomb and Coulomb-like Potentials and Its Application to Probing Molecular Geometries Using a Quantum Computer](http://arxiv.org/abs/2611.26740v1)
-   - Published: 2026-11-19
-   - Authors: James Brown, Masashi Takahashi, Robert Wodraszka, James Whitfield
-   - Matched: quantum computing
-
-7. [Fast, in-place, and ancilla-free quantum algorithms for integer multiplication and inversion](http://arxiv.org/abs/2611.26605v1)
-   - Published: 2026-11-19
-   - Authors: David Halpenny, Adithya Sireesh, Petros Wallden
+1. [Prospects and limitations of adaptive variational quantum algorithms for lattice field theories: a case study in 2+1 dimensions](http://arxiv.org/abs/2611.33138v1)
+   - Published: 2026-11-24
+   - Authors: Nico Dichter, Andrea Bulgarelli, Lena Funcke, Stefan Kühn
    - Matched: quantum algorithm
 
-8. [End-to-End Quantum Algorithm for Differential Equations: Application to Simulating a Biomolecular System](http://arxiv.org/abs/2611.26582v1)
-   - Published: 2026-11-19
-   - Authors: Mohsen Bagherimehrab, Daniyaal Farooqi, Gavin K. Brennen, Barry C. Sanders, et al.
+2. [Exploiting SU(2) Symmetry for Efficient Quantum State Preparation of Matrix Product States](http://arxiv.org/abs/2611.32805v1)
+   - Published: 2026-11-24
+   - Authors: Etienne D'Argenlieu, Alessandro Summer, François Jamet, David P. Tew, et al.
+   - Matched: quantum computing
+
+3. [Quantum Community Detection for Data Analysis](http://arxiv.org/abs/2611.32738v1)
+   - Published: 2026-11-24
+   - Authors: Vicente P. Soloviev, Brian Coyle, Stefano Scali, Michal Krompiec
    - Matched: quantum algorithm
 
-9. [Classical Oracle Separation of QMA from the QCMA Hierarchy and Quantum Cryptography Even When P = QCMA](http://arxiv.org/abs/2611.26574v1)
-   - Published: 2026-11-19
-   - Authors: Alper Cakan
-   - Matched: quantum cryptography
+4. [How Small Can a Single Shor Run Be? Limits and Constructions for secp256k1](http://arxiv.org/abs/2611.31585v1)
+   - Published: 2026-11-23
+   - Authors: Yicheng Guang, Yuliang Xiong, Yueqi Chen, Xun Gao
+   - Matched: logical qubit
 
-10. [Authenticating quantum key distribution through random position checks](http://arxiv.org/abs/2611.26542v1)
-   - Published: 2026-11-19
-   - Authors: Florian J. Curchod, Erik Woodhead, Cameron Foreman, Marcel Mordarski, et al.
+5. [Classical sampling of verifiable graph-state quantum advantage experiments](http://arxiv.org/abs/2611.32757v1)
+   - Published: 2026-11-24
+   - Authors: Zhongpu Qiu, Yuqi Qing, Jielan Li, Hongxia Hao
    - Matched: verification
 
 ## News
 
-1. [Three-Photon Laser Scheme Enables Individual Neutral Atom Addressing for Quantum Computing - Bioengineer.org](https://news.google.com/rss/articles/CBMitgFBVV95cUxOWDRWanFESEVzeXVfVTl6a05RSWc1ejdQVHk5dTY5V3gxUWNEOW9hWjFnQXloNFhfbTRJSTVONEZNMGd6bTIyYzNpVGlQNHJkUk1Pb19OT2NheXhyUUd2M19CSG5mbHlLM2NiLWM4ajFpSDVuVFZEMjBObmNpYTlrNkFYc3FGSmdoT3BRQkpnWG9rOHFWR3N5TFBJNklCRTVQSFBDS3JEQ3hYOUppNk54alpfSzZkdw?oc=5)
+1. [QuEra Joins $12 Million DOE Project on AI-Designed Quantum Error Correction - The Quantum Insider](https://news.google.com/rss/articles/CBMilAFBVV95cUxPRW11d0xOVFhHS0JfaXFvTUxaNnh2aGd2TXk5b1V2TDRXRktfVTRwNlZ1bHZwYnZvRUxrY3EtaU1kR1VPdDJQMGNmNGs0cXlNOFd3UENiaDVmSHlOODRXNk5wTVoyZHRBN1BGSG1HMm1UQVBGeWNxNGd6VEJiMzdUbkFFTF9rQmRqM0dqNXM1c0k3SDh4?oc=5)
    - Published: 2026-11-23
+   - Query bucket: neutral atom quantum computing
+   - Matched: quantum computing, error correction, neutral atom
+
+2. [Infleqtion's Sqale Entangles 30 Logical Qubits With 80 Atoms - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVnB5VXl5dUdYMWZ3MHZsdDhYSlFUN3dkVnNDZkswVkVUWE9Zb3licjJqSUdLd2E4cC04RUtmclJFZGU1ZE4yUkI2MHJDejZPcGl2dXZYcDQ4OE5qU1VyRWRQdkU0QVI1M2JiREVFMDA1cGdmSmVMOGNTMTdWRV9MN2pKcw?oc=5)
+   - Published: 2026-11-20
+   - Query bucket: neutral atom quantum computing
+   - Matched: quantum computing, logical qubit, neutral atom
+
+3. [memQ and Infleqtion Sign MoU to Validate Quantum Networking Interoperability for Distributed Neutral-Atom Systems - Quantum Computing Report](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVHhpSGE2WWpMNl9OWTZNYXQtaEJCNWlteXNFNGxKUWhQWTM0eEtoSXVtbmJUYkRfM2JHR2xudl9zbU1CcXdMSndCVENHVDNnVnlVSFNtUi03VnQ2OFZUX3ZFWjJXWmVrZDV3ZE5mUXpkaGpJUnR2T21qZEN1Yi1DWmNzTE9tN1AxSDZUaDlYdmJHWE5yWW01eGw4OUNGR3lNYk9GTElMQWl5NGE5Mk5iMUdNd0cxNEFTeFNiTkZ3LWpLN0hWR282WnV0Ql9qR3Q4d3l6UGpfTHhGUU5NR0lETVBpc9IB6AFBVV95cUxOZFNtQnNoOTBjZG1LZlhpc0Z6QmV2a3Uyd3I4VmxWY2RqVnlXOHZ6WVE5ZnN2SUs2U09WTnE5UjNqcER6TGZCMUI4bk5VeUJfeF82WERtejVmTEpfTW00dnJmSVBfWEtfMVhFcGpHWGZkam8zOEhpZFEtcDhtd0tFRVotX0RSREZQUmJJTWl1LVRCT0gwbWd1TW1CSklsdjNqUmJIVE5xd3psem5YOGNnTVhwMFpkM3k4WFBqaE1zOEs5VWdtRHN3aklzVVlnM3BTeHNvNEJBTjJOZ1dwbl9UUlZLTWZmQXIz?oc=5)
+   - Published: 2026-11-20
+   - Query bucket: neutral atom quantum computing
+   - Matched: quantum computing, neutral atom, quantum network
+
+4. [Finding faster quantum algorithms with agents and formal verification - Google DeepMind](https://news.google.com/rss/articles/CBMioAFBVV95cUxOMHgtLVdkZ2RMbU9jQTdrTS1ZeVpJaTBSTERLM2RObThRYmRtQW9kNW8ycUxLX3ozSXJDcTM5cHdsMjNYME5hWmM4anJUREVMMG9ndzQwdlVWVS1DdVhHcnZqclBQUDNoNmtmeEYwbWxqdlB0ZkpVMWVXUnpEb0oxcHJFUTd2bzcwd1phVWtPRzRiSEFmWFdNNzBsSmNYWVlX?oc=5)
+   - Published: 2026-11-23
+   - Query bucket: quantum computing
+   - Matched: quantum computing, quantum algorithm, verification
+
+5. [Neutral Atoms Simulate Complex Materials With Quantum-classical Hybrid Method - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMif0FVX3lxTE9LeFBhT3hNTndLSzFNTTJFTXBXRFA3WTJKN0d5NUVJSy1ldEtHYnBPRHNNMkFnQTdiMERnR1d5TTlMSkJROUl3cXlTX2F1Y0Yzblo0dGRmVmttQW5iQ2otbncxZjVOVVZsREk3MUVFZ2UzVDhGQnJBdnJCbGlXMUE?oc=5)
+   - Published: 2026-11-25
    - Query bucket: quantum computing
    - Matched: quantum computing, neutral atom
 
-2. [planqc establishes Cambridge base as part of UK expansion - New Electronics](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMmVPM2tLWWl4bHMxR3lWN19UZHpxZ3p4b25iNTI5WTI0ZWxfeTNSUHlPbTFEb2VTT09DeHNPOWNBOXptSWttSmFhWGZqYUtTWFQ5XzdPMGdKS3ktVEp5bTI3ai16M19DS2ZMR0FmSGxkZlViTWFmZHpyM1dPY3hSVVdGS0N1MVhNODFZVURaNkwtSXp0eTVWM3NDMW8wcy1TOFZoazF3?oc=5)
-   - Published: 2026-11-23
-   - Query bucket: neutral atom quantum computing
-   - Matched: quantum computing, neutral atom
-
-3. [Alice & Bob Unveils Accelerated Roadmap on Modular Architecture: 200 Logical Qubits From 3,600 Physical Qubits by 2030 - AZoQuantum](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RUWFSUnZFRFdzN3JIYmdoS2RnZ1pBR05iM280bjZfMFhwem5mbVpJWkFyN1pzWWdzc1ptc0IzZjluVm1yazVlVkY0VDZPUXRJZkkxSDVXVlozSVN0Qmc?oc=5)
-   - Published: 2026-11-23
+6. [A New Method Avoids Errors In Modelling Superconducting Qubit Phases - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMiigFBVV95cUxOaWtHczJISi1pNG03eUpZNFdGTHotSHVEN1pYZHVBeUJkUnBkZlVlOUFFT0kySFB4dXQ0dENfTFZVVG5HTVZOTDRwNFVaNDNLU21oRlc1RjFLZ1dubENzSXB0b0JXRFZncGd5VmM5OHN3UTVMNjlyM0U0S3RLenMtOFJkNnRjQWdoa3c?oc=5)
+   - Published: 2026-11-25
    - Query bucket: quantum computing
-   - Matched: quantum computing, logical qubit
+   - Matched: quantum computing, superconducting qubit
 
-4. [Harvard, Berkeley Lab and QuEra Map Prethermal Phase Transitions on 180 Neutral-Atom Qubits - CASRAI](https://news.google.com/rss/articles/CBMimAFBVV95cUxQSl9kdlY4ZzRSUzU1czUzcm5KZDVTM0tyMU05RGQwNW5abTNwN3VadkFENlpBeXhMazBpTjVzQkw4VkdrOTlmZXdlenJPSHJ5TlJLVzFTdmZsZlBlcDJtRi1hTzdSLUNXcHdKejZ4OGdGT05val82Q2NUNHV2azFPc3hUVy1xUEhtNmhIeUNkS2xaU3Vtc1c0Yw?oc=5)
-   - Published: 2026-11-22
+7. [36Kr Exclusive: Quantum Computing Enterprise Founded by Protégé of "Father of Quantum Internet" Secures Over 100 Million RMB Angel Round Financing Led by Lenovo Star - eu.36kr.com](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlUTVTZkVpTm1kbkp4ejJwV0I2c0pETEpaTXNDd3J3QUZBa2JjYlBXeEpvSEs5YWhITUU5aHhOdVdYQzItZ2gtTzRRMUxKZFhhSlc0?oc=5)
+   - Published: 2026-11-25
    - Query bucket: neutral atom quantum computing
    - Matched: quantum computing, neutral atom
 
-5. [Harvard & Cornell Arts And Sciences Join $75M Energy Department Quantum AI Project - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnRrRFR5YXo4VFBGTmNfZ2Y3N3lEMWdSTGp4VmhCX09ib2NLaXVic1R5YTBnV1Azb0ZJZGhfQTU1SExFVVlMQVlwR3J6ai1WdDdoRTdMdVdYQXNrMEhLdGM3MVhUT0UyNjNQTjZWekJ6Q1A0b0N1NnE3bUpvaEU4dy1R?oc=5)
-   - Published: 2026-11-20
-   - Query bucket: neutral atom quantum computing
-   - Matched: quantum computing, neutral atom
+8. [Quantum Readiness Is a Boardroom Issue: A Post-Quantum Cryptography Migration Roadmap for Industry - The National Law Review](https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmtpQ2Y4aVVySmF4Yi01UlVNSzQzYTRjMERDT1pLbjZPVnJRVEpNTXVKc2djTnZEMVhldFYxcVhXMS1iZ3Axb3VOWmpqNXQ2R0pNWXJMTWFNYXZzRDNHb2pzLXZNOGNZRVA1aGc2dUNiMHdFR2RibjgyUldjREtWSmFBWWFMb0VYVTk0UFdYdjY3TklRcXYtVDFMZlNQTEljVlJmTHpPTlh3VjdYMmdn0gG0AUFVX3lxTFB4Tk56X05Yckw4S0haZmZFektDd0tLY3pUakhmeWNmVUlmWU1XTTRxTEMtVkFCVkdDZ21wOGN5blBTa2N3TjRIaTFmNWFnMUJKbjE4X3pPN3NsQTRsYUdTLXpDU0ItWnFHeGV1TVZNYU5hOE5hcEVTVVRBOFdsX2JMUFllUzZfME9teVExRFdQSWtrLWlPY1dZbllyUkl0S1pLQjljaWJVTkhYM3ZCQUxralN5Vw?oc=5)
+   - Published: 2026-11-24
+   - Query bucket: quantum computing
+   - Matched: quantum computing, quantum cryptography
 
-6. [Harvard Gains $12 Million To Link Quantum Computing With Artificial Intelligence - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMifkFVX3lxTE5MQlJXbW1mYndNQjdQQzlxU1lfcHk0blRiOTczNVFWWi02VGRmQ3JweWpYeE5Mc2ZNcFViRE5LVnBVYkVLa2NZVmNpbHg1bHBXLXVzb3M2ZmlmUFVmTzQwNEN2TmVuVkNtcENYdjk3YXRJUWhFYXVEM0UzbXdIQQ?oc=5)
-   - Published: 2026-11-20
+9. [Topological Qubits May Hold Partial Logical Information, Simulations Suggest - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOXBCZ1E4SWd5aVg0blJaV19BR1NiY2RNQmlVbGZQV0NLd3JmZTRVdHZDTjd3TDF0QndTWUZKby1sQ05uMEN1SnJxN0taTWV3alcxWS1WRDcyb2U1SklXZ3VTWkctbE1vOWlLcEQ2SEdzSWJEd3FzZFdsUTA5cHBXanRMaHFQVGZJ?oc=5)
+   - Published: 2026-11-24
    - Query bucket: quantum error correction
-   - Matched: quantum computing, error correction
+   - Matched: error correction, logical qubit
 
-7. [Cornell to collaborate on Genesis Mission project to advance quantum computing with AI - The National Tribune](https://news.google.com/rss/articles/CBMivwFBVV95cUxNME5LWWM4akViOWVOSTFfWWxZb0tzRzZoMnFGb2kwTHpNS1FFQVVIcnBsdXQzTjFmLTZnQW1CUXVnNHBWV2g0ZWFNRDVwcXIzSlVvd3pGT29tWlg1YVIzQ2REcVNHVElBNjlSbnNZOVpDRmtPSDZEXzZvTVpRZGlWcXgzWHd2aHpVaTRPUEJPOXRNV2c4UzBjREhwSloxdlNIZFg1WUJjNWdiWTdQNUtQUjJfZlVLQ196LWZPazNlRQ?oc=5)
-   - Published: 2026-11-20
+10. [ParityQC, Pasqal And Thales Win European Defence Fund For Quantum - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMid0FVX3lxTFBYTDhHYmNkSGZYRGF6aFBCVG1ZNi14dC1wVm9wZFY4U2lwbXpvVEZpXzVQOU8tRWRLODhfbWdBWlI3MkpTdjJFQklpLUVKcE4zN1VSc3Q1YndwUE5ld1p4TkZUNm9kVmNaeGFJaWc5UVV3WENEX1B3?oc=5)
+   - Published: 2026-11-24
    - Query bucket: neutral atom quantum computing
    - Matched: quantum computing, neutral atom
 
-8. [Harvard details $12 million effort to use AI against quantum computing errors - Superpower Daily](https://news.google.com/rss/articles/CBMirwFBVV95cUxONklYbHZTZzFUR2UyV1Q1UHZBVzVFdkFIVXBVOXRpeVV0aWh3SGdYQnNmMXFQRHFxcUZuVXpKdEd1MXVodWE1ZXF0Y3lkSk1WenVwdDdrNGMxeU9CSlkyR09nM3JuWUhybUtJcFNYVlVZMWl4cXBNeFQxZzFpNGo0VGszY3UzRE9GZFp5UUs1akljb3hrcVZMU0dwTDZwRkRweHJreFUyaTlkOHpzS0lB?oc=5)
-   - Published: 2026-11-20
-   - Query bucket: quantum error correction
-   - Matched: quantum computing, error correction
-
-9. [Harvard-led team receives $12 million in federal funds to advance quantum computing with AI - Harvard Gazette](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ3Z5VVlfcTZiU2JTWjhOUWNMX2RnWEM5Z2Y3QzZkaUdjVmc0UlNoWFA4bG55Tk5aQllkU2MyOHoxWU4xRVFZMzNPT3UzTUxwX3RUd2JSejNrdGdxdnJpWllBQkczTjlrVFZpY0tldUw2NnNPVjFndHFYRkRVXzg3RS1fODE1U1Y3S3ZYRnZQc2RvNzM0cXk0Q2JHaDR4UjdqQ1FhLXJVRXJHS2tzTjc2enowWTdTRWpnYnFBck1Ta3E0NjdmZHZUYU5RQUM3US13cnJJNw?oc=5)
-   - Published: 2026-11-20
-   - Query bucket: neutral atom quantum computing
-   - Matched: quantum computing, neutral atom
-
-10. [The Race to Build a Quantum Computer Has Become a Sprint - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2xfWXgtNGw0dFpfa2FQMjZjdkdCandTUWItUmRtSEE3Y19Ta2x2RktlbWFRRE1fd1NHWGtGZVFjbkJpeVdpQ0FhdHhVRDBEZWN5SVQyMUxuZXV5TnF4NUpNbGwtalZtTnZ4NGQxN2dkcWZvTnlwZGluRFdsNkJVWWt1d0Q?oc=5)
-   - Published: 2026-11-20
-   - Query bucket: neutral atom quantum computing
-   - Matched: quantum computing, neutral atom
-
-11. [Your Best Quantum Error Correction Engineer Might Be a Bot - Quantum Computing Report](https://news.google.com/rss/articles/CBMimgFBVV95cUxNdHp6SUhvNkxJUjVEaTd1NjJydDNwN1F2OVN1UjFscVlmekpWVjM1TnRhb2hDQmdjZE1FNHdFY2VpcnBRRzhLakxsQ3RNRENmZTh0bFFJMjAtS1U4QVh0U3hhRkJRT0hkTDJHRmtVVUVzMFpxcDRmVkZjY3hNTUdzcU1PSkd1LW1qblJpNEZLWUNHbHFoOW9QZXN30gGfAUFVX3lxTE5ieEF2WXlHNTAzUi1sQUJfYnpYNmhqcXBfY1BadzhVMS1qaVgzZGw2cnJneHlUbFhueVdDNVpiUnZZTVlaSFdUMzVIOTdVSHRGcldiOWVIZnpQOXVDQWxzTGVnTkJJZEJEdTVCM1dlSXFMdHV1NkMyZldzdjctT3ZZQzYzc016V0JfUGlQc3BMVjRwUXJpeHIxc1Ewa2RRYw?oc=5)
-   - Published: 2026-11-19
+11. [Harvard, QuEra, NVIDIA, Anthropic, and Three National Labs Secure $12 Million DOE Award for AI-Driven Quantum Error Correction - Quantum Computing Report](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWTdqWno5UFI2N0NHSDlyVWxtTjJ4RUZiSUZycml5dnBtd2hKNl9tQjZrRFZ3eUFDMjNxTVVTZVd6LVFXb0twQWpIR0NsVy02Um9CNzBHblloVmdqNkhMcS1oY181cTdJd05UMGdfZTZDb2hJM3h1d2tmVmlzZzliTDRRZHBGdU5lNjk4U0o5c1BlVUE0LWRXMG93amc5a3JGWGhhcnBDTEN1UjFSREEtbHlpSExHQl9ualNyTUVaa0haYXc0LURxMllERHViN2lpaUl2RzBVMnBSWE5kUlhHcGl5TVIxLWZkRkhyMmtB0gHzAUFVX3lxTE1wVmwyVVU4MFZhZkNUcFR5cW5BdGhBU04wM2x6QWYyM1I5UXdHSkwwb2JsU1l0V0RVUnpXWnY2X1VhYU5Fa3R5N3JRdTd6ZFpJeVRQWDJjTEN3aHJzZl81X1EtM2RYcnUtYW9nUGpVVDVzUXZhUWdUVzFoVFlVb1U0NXlrTllMQ1g4X3FQSE1Rc3EtMkhxTzIxa2NhamtiTHZTd1M5X3dMemZnQzA4a0o5UWdleWloZ2Y3VENiU1VQWWh6MkVSbVJhek9nNXdUaWNCd3NNelNKMUZYdmtSRk1WcHFMdDdzVTlnU3pUcmlpUTItTQ?oc=5)
+   - Published: 2026-11-24
    - Query bucket: quantum computing
    - Matched: quantum computing, error correction
 
-12. [Quantum Computing Roadmap Signals Effort On Error Correction - Quantum Zeitgeist](https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkJ0Y1dyeUtNMXdGTDZMbWc0Uk5WejFiN2czQlNqLTNjSVhfU1ZjWGIyblNhVnM2UGtIYnNIaHBiVDlVNzJxeTA1S1hsOXo3Tmh6TldHQ0dHRU85dzg5cl9SclA1UkRxVmlheFA5VUpISUdMdFBOb29nRE5sLXM5Wg?oc=5)
-   - Published: 2026-11-19
-   - Query bucket: quantum computing
-   - Matched: quantum computing, error correction
+12. [Pasqal leads CoPaNA, a European Defence Fund project on fault-tolerant quantum computing with ParityQC and Thales - MLQ.ai](https://news.google.com/rss/articles/CBMizgFBVV95cUxOSjJjZEkwOEhybjRaS1hVWXZQcmtwMlVrdF9BTVViRDNUY21ucmpjRjhIVGlfQjM0em9Cc3J3YXVBVTlHM1RMcWhUeklQXzBTMEZ6U0JJUWxSX04yLWJDay04MHFKOXg3U1ptdE5IZ0d1WjFPeW1yai1iUmtpLUxNd0xBejluMl9QRFY0bTBHVXNzQjRoeURjSWRWWDNBLUlQT2EzZVVzV0ZxcnpiZG5QT3BjMGNTbnVybEFfd2Z3VEVhclpFR3JOcHVwdmJOdw?oc=5)
+   - Published: 2026-11-24
+   - Query bucket: neutral atom quantum computing
+   - Matched: quantum computing, neutral atom
