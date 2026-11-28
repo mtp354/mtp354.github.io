@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-25T13:34:52Z",
+  "generated_at": "2026-11-28T13:34:08Z",
   "items": [
     {
       "application_source": "Grants.gov",
       "deadline": "2027-04-30",
       "eligibility": [
-        "Private institutions of higher education",
-        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses",
-        "Independent school districts",
-        "Individuals",
         "Public and State controlled institutions of higher education",
         "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "For profit organizations other than small businesses",
+        "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
+        "Independent school districts",
+        "Individuals",
+        "Private institutions of higher education",
         "Small businesses"
       ],
       "grant_disposition": "actionable",
@@ -69,11 +69,11 @@
       "application_source": "Grants.gov",
       "deadline": "2026-12-11",
       "eligibility": [
-        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "Private institutions of higher education",
         "Public and State controlled institutions of higher education",
         "Nonprofits that do not have a 501(c)(3) status with the IRS, other than institutions of higher education",
-        "For profit organizations other than small businesses"
+        "Private institutions of higher education",
+        "For profit organizations other than small businesses",
+        "Nonprofits having a 501(c)(3) status with the IRS, other than institutions of higher education"
       ],
       "grant_disposition": "actionable",
       "id": "c1c2bc0b077c471d",
@@ -122,6 +122,38 @@
       "url": "https://www.grants.gov/search-results-detail/352741"
     },
     {
+      "id": "f17fb68574cf4a41",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing",
+        "quantum technology"
+      ],
+      "published": "2026-11-18T08:00:00Z",
+      "query": "quantum computing workshop students",
+      "score": 10,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOZUhzUFFnZjBBV2R0T3FOLWVkWWxJWF9oNVllbXVVWDRzUDBTZ0N0MHV3b1VNblZaM3QwczZ4QWItZGNPVWtEVkdhMXJ4dXdubEdSTGVTQUhHVVFzbTVobUhzQ2FXM1doQk9WVWVubGZSSkpxUFNkVjd1eUwzTnE5dkxYRnJLcFprT0ZDV19tRW9icWViUTZpNC01OFk3VXhtQVk0R0FBNHBvVzEyS3FrUTZrSW54OVNSNVRvc3kzQmpFYXhpTkhxRXNIRjRxbEXSAdQBQVVfeXFMUHJZSFhHMEowc2NQdE5lSllJUm1jZE53YVgwSVcta3FBX3ZQQ3F0a2FxMW5GcTB4ekVnOHlXZXROOWRSMnVmenlaMHFfdnJld0laTlphSzh5cmlSQjZ2VElTaXZ4REtFa0RJaDE2SnBzd25xQXFhMUlKd1hLNXRNQWxiLVdGVWFQVTFVS2x1eTJOQlVsN2JBeVRma04wRUY4T2FqR1hzU2J1TlR4b2xuRWZCOFdzdlBfOTZKa3NtSEVtUHg0a0JjX0dtOHlRQ2NyZlFvclk?oc=5\" target=\"_blank\">NIELIT Hyderabad trains over 200 students in quantum technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ET Education</font>",
+      "title": "NIELIT Hyderabad trains over 200 students in quantum technology - ET Education",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZUhzUFFnZjBBV2R0T3FOLWVkWWxJWF9oNVllbXVVWDRzUDBTZ0N0MHV3b1VNblZaM3QwczZ4QWItZGNPVWtEVkdhMXJ4dXdubEdSTGVTQUhHVVFzbTVobUhzQ2FXM1doQk9WVWVubGZSSkpxUFNkVjd1eUwzTnE5dkxYRnJLcFprT0ZDV19tRW9icWViUTZpNC01OFk3VXhtQVk0R0FBNHBvVzEyS3FrUTZrSW54OVNSNVRvc3kzQmpFYXhpTkhxRXNIRjRxbEXSAdQBQVVfeXFMUHJZSFhHMEowc2NQdE5lSllJUm1jZE53YVgwSVcta3FBX3ZQQ3F0a2FxMW5GcTB4ekVnOHlXZXROOWRSMnVmenlaMHFfdnJld0laTlphSzh5cmlSQjZ2VElTaXZ4REtFa0RJaDE2SnBzd25xQXFhMUlKd1hLNXRNQWxiLVdGVWFQVTFVS2x1eTJOQlVsN2JBeVRma04wRUY4T2FqR1hzU2J1TlR4b2xuRWZCOFdzdlBfOTZKa3NtSEVtUHg0a0JjX0dtOHlRQ2NyZlFvclk?oc=5"
+    },
+    {
+      "id": "9ed213e2bca1189e",
+      "matched_keywords": [
+        "workshop",
+        "quantum",
+        "quantum computing",
+        "quantum technology"
+      ],
+      "published": "2026-11-17T08:00:00Z",
+      "query": "quantum computing workshop students",
+      "score": 10,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDg4V1lSdkd5VVFjNndpN21rYkZVUlJqSHFhVDh3alZGVjNCYVRoV3A3UFRBeFU0ZjFXZEdqX0NIdXJxSWg5Ul9FSEpvNUR6djdEZjFaX2lRVkFmRldyQWlPVHdNN1pTTkUyZDBmcEtNc1h6eFRHNDVWUVNBQmpiOHFSZTRWTTJBXzRxekM2dXJ3VkxKZXFJZ0M2NGJLUjVIX2N1cmcyTWxEMFgz?oc=5\" target=\"_blank\">NIELIT Hyderabad, QClairvoyance Train Over 200 Students in Quantum Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">India Education Diary</font>",
+      "title": "NIELIT Hyderabad, QClairvoyance Train Over 200 Students in Quantum Technology - India Education Diary",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcDg4V1lSdkd5VVFjNndpN21rYkZVUlJqSHFhVDh3alZGVjNCYVRoV3A3UFRBeFU0ZjFXZEdqX0NIdXJxSWg5Ul9FSEpvNUR6djdEZjFaX2lRVkFmRldyQWlPVHdNN1pTTkUyZDBmcEtNc1h6eFRHNDVWUVNBQmpiOHFSZTRWTTJBXzRxekM2dXJ3VkxKZXFJZ0M2NGJLUjVIX2N1cmcyTWxEMFgz?oc=5"
+    },
+    {
       "id": "63e01bd3270bd404",
       "matched_keywords": [
         "fellowship",
@@ -152,6 +184,38 @@
       "title": "Students Use Quantum Computing to Address Electric Grid Challenges at Tennessee Hackathon - The Quantum Insider",
       "type": "hackathons",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHNGaDJTQWU0MVZaTk5hTlJxUmF3UkdqaGdoZnlnSHJTd2dXMGdtWmZOelZBcnhkMUlCUHhzWng3NUttNFE2MTB0NW9ldjRfY2psanhkMGZ2SnNJTjFwTnRnVUNEeGlrcW0zblJxeXlMNlJOTWQzQ2RaaVRYR2pQWWpJaHFybGpYSVdNWlh2M2g4NGVOdGE5MkZ4QTZuWXI5RzdYU053N3p3TzJLYURpWl9R?oc=5"
+    },
+    {
+      "id": "f06ff5e0b8873bc5",
+      "matched_keywords": [
+        "internship",
+        "intern",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-10-28T17:58:11Z",
+      "query": "quantum computing internship",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWHlQekVaWjlZemlNVERfTlBYWFdvT3VJanJCOXRYa1FYR1NENXRkdENDOTdOaUlnS3RpcldpZFkwelhzRW5BMVVRTUEzMGJwTk05U3VDRFlLX0Z1a0J2eEN1S2MyS2xTVTdrRURod1llX09mQ1N0VVM5OXROZC13MWNPMGg5MkpEMExhZGxySHYwY3BvY1l1WERNYkplQ3FtU2pmeHZqQ2JlalJzT0dnelkydmloekRoOEpQVHBjNS1tbTE2MXllYjhmOWZINWx1eU1uS3FLekJzcmlGSk9JcVVTUG9SLVRB?oc=5\" target=\"_blank\">A research intern’s journey from computer vision to physical intelligence at Microsoft Research Asia – Tokyo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Microsoft</font>",
+      "title": "A research intern’s journey from computer vision to physical intelligence at Microsoft Research Asia – Tokyo - Microsoft",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWHlQekVaWjlZemlNVERfTlBYWFdvT3VJanJCOXRYa1FYR1NENXRkdENDOTdOaUlnS3RpcldpZFkwelhzRW5BMVVRTUEzMGJwTk05U3VDRFlLX0Z1a0J2eEN1S2MyS2xTVTdrRURod1llX09mQ1N0VVM5OXROZC13MWNPMGg5MkpEMExhZGxySHYwY3BvY1l1WERNYkplQ3FtU2pmeHZqQ2JlalJzT0dnelkydmloekRoOEpQVHBjNS1tbTE2MXllYjhmOWZINWx1eU1uS3FLekJzcmlGSk9JcVVTUG9SLVRB?oc=5"
+    },
+    {
+      "id": "41d12fc55456c9a5",
+      "matched_keywords": [
+        "internship",
+        "intern",
+        "quantum",
+        "quantum computing"
+      ],
+      "published": "2026-10-19T07:00:00Z",
+      "query": "quantum computing internship",
+      "score": 9,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTFKQXRmRkZCLURGU1FZYXl5a3U0UDBLcHE1UzVxUDFZTkRmYnZGaFhKdVNOdHR5cnA5amp4cE83YTJCdmktdUcxbFhYQl9wN3owR0RSWUFEbHpoSWoyQzJ6anJOd2VHTGptbDU3Wk8yMXdnaW9MNVFVZmxpSmsxZEwxbkxxSi0xTVM5di1xbVRMX2ZqaVJhRUttS2NsejhLUTN2MU9oaENrZw?oc=5\" target=\"_blank\">Summer Interns Explore Science and Self-Discovery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Simons Foundation</font>",
+      "title": "Summer Interns Explore Science and Self-Discovery - Simons Foundation",
+      "type": "internships",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcTFKQXRmRkZCLURGU1FZYXl5a3U0UDBLcHE1UzVxUDFZTkRmYnZGaFhKdVNOdHR5cnA5amp4cE83YTJCdmktdUcxbFhYQl9wN3owR0RSWUFEbHpoSWoyQzJ6anJOd2VHTGptbDU3Wk8yMXdnaW9MNVFVZmxpSmsxZEwxbkxxSi0xTVM5di1xbVRMX2ZqaVJhRUttS2NsejhLUTN2MU9oaENrZw?oc=5"
     },
     {
       "application_source": "Grants.gov",
@@ -265,19 +329,19 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2JmcU9KNUZHb0pCRElpdkFwczBBTmZlMlRYMkxmUWhaRlVEZm9Xc0ZqcEdEQk1PVzE5VkN4S05ER3Z0LURGQ1NubmFuV2kxSVFUQjhFTW5ORXkwUE9TZTQtaHJWZWNmV1lhY3BfcFZxcmZnYWQ0ZXJ2WlNVakhsNlVLM2VvSmdNMDNmUTlEZWNGUnZUcXFkQ2gxTnB5el9TRnRhUDdhTUPSAbYBQVVfeXFMUG1iVVRBcGMwQlRCOEp1ME9obmhaa0tiRHREV1J6eFVaSUNxaEF3Z2ZhdGNhTWt6dk5hNGtXTXZaeS1vZHpZSTVvRlpjcDAzTzB2Qk1HRXp0Vnk3TF9LZWNiOW03ZlJHOVBoT3Y4TkV5MmpYZmthNzBQQ3dhV215T0Y2VERWSUpRM1poaE1UNUhPOEtrbGdMdXoycjFhT21QLVVsR2hhUmpuNzVBUDg4ZS1FM29GN1E?oc=5"
     },
     {
-      "id": "c8e6cd3a6821ae4a",
+      "id": "acc7cf07b1c42088",
       "matched_keywords": [
-        "hackathon",
+        "workshop",
         "quantum",
         "quantum computing"
       ],
-      "published": "2026-11-17T14:10:27Z",
-      "query": "quantum hackathon",
+      "published": "2026-11-16T09:55:29Z",
+      "query": "quantum computing workshop students",
       "score": 7,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wJBVV95cUxQeEdhenR2WnBla2hpa29RejhXSU9QdmdkNF9XVVNYRFZyRGI1TnR6dUNEb2ZGMTZiTk5RTE9jekh4NE0xeTZUc29vWm9ZRDkxMkJ4ZW1oVlRSZ0ctdTJwN2dFZlNXRTY5dk5ma3ozekdVdW05N21Pc3c5NGx1NWN4dndieG14aEotNHlQc0w5emtRNkFvdm5pYnFoZGZoRlhaVmhRRTltSEdBMDBaSXpuS2YtMEF5VE5ueGNnODdQb09yb2V0MEdEQlgyV1hvZWotWGtFSkE0UkNCWnY5TEJ5ME9BNFNpUUhseFRpYjBDX3JYN3FVTmNiODNzaGhYb3Y4ek9QSEdyWU9xbEZUWHc2RUFCYVR1dkxEQ1FoUWJ1dnhKN3M4VXVpVTdJUjhfMnVlWHBQUEtMeHlPbl93WFd4bzdPM3FKVXplMS12UHB5LVVmUEx0R1ZR?oc=5\" target=\"_blank\">Estonian logistics company Omniva has won QEst Hack 2026, a quantum computing hackathon held in Tallinn, Estonia. Its team explored whether quantum computing could help improve parcel delivery route planning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Baltic Times</font>",
-      "title": "Estonian logistics company Omniva has won QEst Hack 2026, a quantum computing hackathon held in Tallinn, Estonia. Its team explored whether quantum computing could help improve parcel delivery route planning - The Baltic Times",
-      "type": "hackathons",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQeEdhenR2WnBla2hpa29RejhXSU9QdmdkNF9XVVNYRFZyRGI1TnR6dUNEb2ZGMTZiTk5RTE9jekh4NE0xeTZUc29vWm9ZRDkxMkJ4ZW1oVlRSZ0ctdTJwN2dFZlNXRTY5dk5ma3ozekdVdW05N21Pc3c5NGx1NWN4dndieG14aEotNHlQc0w5emtRNkFvdm5pYnFoZGZoRlhaVmhRRTltSEdBMDBaSXpuS2YtMEF5VE5ueGNnODdQb09yb2V0MEdEQlgyV1hvZWotWGtFSkE0UkNCWnY5TEJ5ME9BNFNpUUhseFRpYjBDX3JYN3FVTmNiODNzaGhYb3Y4ek9QSEdyWU9xbEZUWHc2RUFCYVR1dkxEQ1FoUWJ1dnhKN3M4VXVpVTdJUjhfMnVlWHBQUEtMeHlPbl93WFd4bzdPM3FKVXplMS12UHB5LVVmUEx0R1ZR?oc=5"
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE8zV1R3ckYxdEczWThTbkxIeWVrVHA4VjJleklMbF9EdlJBWVkyaVFVc1A0eHd5Y3d6c2Ywa0YwMDBWSFhRRFg5d293dGRWRVNEaTFQeW14bzY2TEVtc3FDMkZhZFFCUDItamVxMzJteDNRWldaSzhz?oc=5\" target=\"_blank\">St. John’s Students Study Quantum Physics Alongside The Great Books</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
+      "title": "St. John’s Students Study Quantum Physics Alongside The Great Books - Quantum Zeitgeist",
+      "type": "other",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zV1R3ckYxdEczWThTbkxIeWVrVHA4VjJleklMbF9EdlJBWVkyaVFVc1A0eHd5Y3d6c2Ywa0YwMDBWSFhRRFg5d293dGRWRVNEaTFQeW14bzY2TEVtc3FDMkZhZFFCUDItamVxMzJteDNRWldaSzhz?oc=5"
     },
     {
       "id": "9b7c0499df8fd93e",
@@ -338,64 +402,6 @@
       "title": "Google Awards A Third Quantum Computing PhD Fellowship To Berlin Researcher - Quantum Zeitgeist",
       "type": "fellowships",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRDRucEZvWjNuYkhRdUswZ0RCazBacnlVTlpNc1o1VElTdmhpeUNtRUpFS2dYV3M3SGJkWXVycVpNTmxISzc5dXdPM3VYMmRhQjQyQVBHaXl6dUd0RkVwWnB3T2ZKcHAyT0dPYl9Sa25MaFFWcFRDU1RHTGJLVEd5cGJNbTFiQQ?oc=5"
-    },
-    {
-      "id": "48739297d5398e6a",
-      "matched_keywords": [
-        "fellowship",
-        "fellowships",
-        "quantum"
-      ],
-      "published": "2026-11-17T05:06:10Z",
-      "query": "quantum fellowship",
-      "score": 6,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdDJibEU3RFRXbUJIajUtX2ljUDJ0YUhQZ0hIMVhLb2QtLTJrUkpLSWFWZk9hRWk0RkhuNGlfTk5vbEQ3QlRwbmJpX1JlN2FYT0tIbl9MNjRyenpITzFScy1tWGgxLWc5UnF5QmNWbTdpdkNHZXJUaUpUNVlidUU2elpyWDBiS1JocEd6N3ZlbEVmSHVXMDJqOWVIcDNISkd1ZGE2LThod3YxaGZYc1B0ZXJJekYwT0ZTNDY4RFJ2bDNSQQ?oc=5\" target=\"_blank\">ICDS awards seven Faculty Upskilling Fellowships in AI, quantum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Pennsylvania State University</font>",
-      "title": "ICDS awards seven Faculty Upskilling Fellowships in AI, quantum - The Pennsylvania State University",
-      "type": "fellowships",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdDJibEU3RFRXbUJIajUtX2ljUDJ0YUhQZ0hIMVhLb2QtLTJrUkpLSWFWZk9hRWk0RkhuNGlfTk5vbEQ3QlRwbmJpX1JlN2FYT0tIbl9MNjRyenpITzFScy1tWGgxLWc5UnF5QmNWbTdpdkNHZXJUaUpUNVlidUU2elpyWDBiS1JocEd6N3ZlbEVmSHVXMDJqOWVIcDNISkd1ZGE2LThod3YxaGZYc1B0ZXJJekYwT0ZTNDY4RFJ2bDNSQQ?oc=5"
-    },
-    {
-      "id": "d461de2935baa399",
-      "matched_keywords": [
-        "internship",
-        "intern",
-        "quantum"
-      ],
-      "published": "2026-10-20T07:00:00Z",
-      "query": "quantum internship",
-      "score": 6,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWdFFURHVCeDRWZDdHc1BYU1JiY3FxX1VXa0kyNUJhQzl1RHJBY09ldkIwS0luOVB2Q29SVHlvdW9rM3ZOS1FweHp3NjI1eUFHQzQzZTB3?oc=5\" target=\"_blank\">Physics and Quantum Career & Internship Fair</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Colorado Boulder</font>",
-      "title": "Physics and Quantum Career & Internship Fair - University of Colorado Boulder",
-      "type": "internships",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWdFFURHVCeDRWZDdHc1BYU1JiY3FxX1VXa0kyNUJhQzl1RHJBY09ldkIwS0luOVB2Q29SVHlvdW9rM3ZOS1FweHp3NjI1eUFHQzQzZTB3?oc=5"
-    },
-    {
-      "id": "3f339265d7aada66",
-      "matched_keywords": [
-        "quantum",
-        "quantum computing"
-      ],
-      "published": "2026-11-11T09:00:10Z",
-      "query": "quantum computing undergraduate research",
-      "score": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlpieS1zSHZaemNLSnhudXNaQWdmMDg4TUtzN0E3LWV4LWpWMU9CcTU2Y1JPblJDWnNSOWVkRUJrZF8wcm5id2ZfekIwXzVINUNWaHRkMk5wdDdJNWNZOGs4T3hKeEVPMXVqb2cybFZiQTFXWmk0TERMcXlHWXI4azBIS2R5Znk4b3c?oc=5\" target=\"_blank\">University Of Waterloo Summer Research Links Quantum Effects To Neurons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Quantum Zeitgeist</font>",
-      "title": "University Of Waterloo Summer Research Links Quantum Effects To Neurons - Quantum Zeitgeist",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlpieS1zSHZaemNLSnhudXNaQWdmMDg4TUtzN0E3LWV4LWpWMU9CcTU2Y1JPblJDWnNSOWVkRUJrZF8wcm5id2ZfekIwXzVINUNWaHRkMk5wdDdJNWNZOGs4T3hKeEVPMXVqb2cybFZiQTFXWmk0TERMcXlHWXI4azBIS2R5Znk4b3c?oc=5"
-    },
-    {
-      "id": "d695812effc9feb6",
-      "matched_keywords": [
-        "summer camp",
-        "quantum"
-      ],
-      "published": "2026-11-10T08:00:00Z",
-      "query": "quantum summer camp",
-      "score": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1EanNYTi1SRkx4cUVTRnZicFlseFprSU9lWUlYQ3Z5NWxILXluclFEMndNdzNTb21IenF0MHBKWEdLVzJ6YnphWHM1Tzd0WTJPSlVIRzhKbVZOaE83cUItNFcwMG41dzREMXN6T0FLWGs4dUk?oc=5\" target=\"_blank\">Exploring quantum effects in the brain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">University of Waterloo</font>",
-      "title": "Exploring quantum effects in the brain - University of Waterloo",
-      "type": "other",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EanNYTi1SRkx4cUVTRnZicFlseFprSU9lWUlYQ3Z5NWxILXluclFEMndNdzNTb21IenF0MHBKWEdLVzJ6YnphWHM1Tzd0WTJPSlVIRzhKbVZOaE83cUItNFcwMG41dzREMXN6T0FLWGs4dUk?oc=5"
     }
   ]
 }
